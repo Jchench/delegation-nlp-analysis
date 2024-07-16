@@ -1,0 +1,4 @@
+type,length,date,docket-No,fr-doc-no,obligation,constraint,permission,entitlement,agency_obligation,agency_constraint,agency_permission,agency_entitlement,entity_obligation,entity_constraint,entity_permission,entity_entitlement
+N/A,2931,N/A,N/A,N/A,7,14,13,16,2,4,1,2,5,37,9,24
+N/A,2436,N/A,N/A,N/A,8,2,10,14,3,0,2,3,8,1,8,21
+N/A,2421,N/A,N/A,N/A,3,6,4,14,0,2,0,2,6,16,2,31
