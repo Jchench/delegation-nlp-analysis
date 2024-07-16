@@ -12,7 +12,7 @@ parser.add_argument('-ending', '-e', type=str, help='End of filepath for CSV')
 args = parser.parse_args()
 
 # Default path and ending
-path = args.filepath if args.filepath else 'data/test/'
+path = args.filepath if args.filepath else 'data'
 end1 = args.ending if args.ending else '-FR'
 
 print("Path:", path)
@@ -161,8 +161,8 @@ for rl in rules:
                     if entitle == 1:
                         entity_entitlement_lst.append(1)
 
-    type_match = re.search(r'ProposedRule|Rule|Notice', rl)
-    doc_type = type_match.group() if type_match else "N/A"
+    law_name_match = re.search(r'public law \d+-\d+', rl)
+    law_name = law_name_match.group() if law_name_match else "N/A"
 
     date_match = re.search(r'\d+-\d+-\d+', rl)
     date = date_match.group() if date_match else "N/A"
