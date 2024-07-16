@@ -83,7 +83,7 @@ def entitlement(dep_dict, lemma_dict, tokentg_dict, strict_modals, entitlement_v
     return 1 if way1 or way2 or way3 else 0
 
 # Columns for DataFrame
-cols = ['law_name', 'length', 'date', 'obligation', 'constraint', 'permission', 'entitlement', 'agency_obligation', 'agency_constraint', 'agency_permission', 'agency_entitlement', 'entity_obligation', 'entity_constraint', 'entity_permission', 'entity_entitlement']
+cols = ['law_name', 'length', 'obligation', 'constraint', 'permission', 'entitlement', 'agency_obligation', 'agency_constraint', 'agency_permission', 'agency_entitlement', 'entity_obligation', 'entity_constraint', 'entity_permission', 'entity_entitlement']
 provisions_lst = []
 
 # Get list of files
@@ -164,11 +164,8 @@ for rl in rules:
     law_name_match = re.search(r'public law \d+-\d+', preamble, re.IGNORECASE)
     law_name = law_name_match.group() if law_name_match else "N/A"
 
-    date_match = re.search(r'[A-Z]{3}\.\s\d{1,2},\s\d{4}', preamble)
-    date = date_match.group() if date_match else "N/A"
-
     provisions_lst.append([
-        law_name, doc_length, date, 
+        law_name, doc_length, 
         sum(obligation_lst), sum(constraint_lst), sum(permission_lst), sum(entitlement_lst), 
         sum(agency_obligation_lst), sum(agency_constraint_lst), sum(agency_permission_lst), sum(agency_entitlement_lst), 
         sum(entity_obligation_lst), sum(entity_constraint_lst), sum(entity_permission_lst), sum(entity_entitlement_lst)
