@@ -12,12 +12,11 @@ parser.add_argument('-ending', '-e', type=str, help='End of filepath for CSV')
 args = parser.parse_args()
 
 # Default path and ending
-path = args.filepath if args.filepath else 'data'
-end1 = args.ending if args.ending else '-FR'
+path = args.filepath if args.filepath else 'data/test/'
 
 print("Path:", path)
-print("Ending:", end1)
 
+# Function to separate preamble
 def separate_preamble(doc):
     doc = doc.lower()
     
@@ -44,7 +43,7 @@ def find_all(text, substring):
     return [i for i in range(len(text)) if text.startswith(substring, i)]
 
 # Load spaCy model
-nlp = spacy.load('en_core_web_sm')  # Ensure this model is installed
+nlp = spacy.load('myenv/lib/python3.12/site-packages/en_core_web_sm/en_core_web_sm-3.7.1')
 
 # Define modal and verb lists
 strict_modals = ['shall', 'must', 'will']
@@ -84,7 +83,7 @@ def entitlement(dep_dict, lemma_dict, tokentg_dict, strict_modals, entitlement_v
     return 1 if way1 or way2 or way3 else 0
 
 # Columns for DataFrame
-cols = ['type', 'length', 'date', 'docket-No', 'fr-doc-no', 'obligation', 'constraint', 'permission', 'entitlement', 'agency_obligation', 'agency_constraint', 'agency_permission', 'agency_entitlement', 'entity_obligation', 'entity_constraint', 'entity_permission', 'entity_entitlement']
+cols = ['law_name', 'length', 'date', 'obligation', 'constraint', 'permission', 'entitlement', 'agency_obligation', 'agency_constraint', 'agency_permission', 'agency_entitlement', 'entity_obligation', 'entity_constraint', 'entity_permission', 'entity_entitlement']
 provisions_lst = []
 
 # Get list of files
@@ -106,7 +105,7 @@ for rl in rules:
         print("Document too long and coder too lazy to loop over portions of document")
         continue
 
-    doc = nlp(preamble)
+    doc_spacy = nlp(preamble)  # Ensure preamble is processed by spaCy
     obligation_lst = []
     constraint_lst = []
     permission_lst = []
@@ -120,7 +119,7 @@ for rl in rules:
     entity_permission_lst = []
     entity_entitlement_lst = []
 
-    for sent in doc.sents:
+    for sent in doc_spacy.sents:
         dep_dict = {token.dep_: token.i for token in sent}
         tokentg_dict = {token.tag_: token.i for token in sent}
         lemma_dict = {token.lemma_: token.i for token in sent}
@@ -161,20 +160,15 @@ for rl in rules:
                     if entitle == 1:
                         entity_entitlement_lst.append(1)
 
-    law_name_match = re.search(r'public law \d+-\d+', rl)
+    # Extract the law name using a regular expression
+    law_name_match = re.search(r'public law \d+-\d+', preamble, re.IGNORECASE)
     law_name = law_name_match.group() if law_name_match else "N/A"
 
-    date_match = re.search(r'\d+-\d+-\d+', rl)
+    date_match = re.search(r'[A-Z]{3}\.\s\d{1,2},\s\d{4}', preamble)
     date = date_match.group() if date_match else "N/A"
 
-    agency_no_match = re.search(r'R-\d+|OP-\d+|S\d+-\d+-\d+', rl)
-    agency_no = agency_no_match.group() if agency_no_match else "N/A"
-
-    agency_no2_match = re.search(r'\d{4}-\d+', rl)
-    agency_no2 = agency_no2_match.group() if agency_no2_match else "N/A"
-
     provisions_lst.append([
-        doc_type, doc_length, date, agency_no, agency_no2, 
+        law_name, doc_length, date, 
         sum(obligation_lst), sum(constraint_lst), sum(permission_lst), sum(entitlement_lst), 
         sum(agency_obligation_lst), sum(agency_constraint_lst), sum(agency_permission_lst), sum(agency_entitlement_lst), 
         sum(entity_obligation_lst), sum(entity_constraint_lst), sum(entity_permission_lst), sum(entity_entitlement_lst)
@@ -182,7 +176,7 @@ for rl in rules:
 
 # Convert the list of provisions to a DataFrame and save as CSV
 df1 = pd.DataFrame(provisions_lst, columns=cols)
-nms = "DF-Rules" + end1 + ".csv"
+nms = "Public_laws" + ".csv"
 df1.to_csv(nms, index=False)
 
 print("DataFrame saved to:", nms)
