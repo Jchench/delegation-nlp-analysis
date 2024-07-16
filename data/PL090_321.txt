@@ -1,0 +1,799 @@
+146  PUBLIC LAW 90-321—MAY 29, 1968                                      [82 STAT.
+Effective date.
+                                    SEC. 9. (a) Except as provided in subsection (b) of the first section of this Act and in subsection (b) of this section, the effective date of this Act and the amendments made by this Act shall be the first day of the first pay period beginning on or after October 1, 1967.
+                                    (b) The effective date of the amendment made by section 6 of this Act shall be the date of the enactment of this Act.
+Short title.
+                                    SEC. 10. This Act may be cited as the “District of Columbia Police and Firemen’s Salary Act Amendments of 1968”. 
+                                    Approved May 27, 1968.
+
+Public Law 90-321
+May 29, 1968
+[S.5]
+                                    AN ACT
+                                    To safeguard the consumer in connection with the utilization of credit by requiring full disclosure of the terms and conditions of finance charges in credit transactions or in offers to extend credit; by restricting the garnishment of wages; and by creating the National Commission on Consumer Finance to study and make recommendations on the need for further regulation of the consumer finance industry; and for other purposes.
+
+Consumer Credit Protection Act.
+                                    Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,
+
+§ 1. Short title of entire Act
+                                    This Act may be cited as the Consumer Credit Protection Act.
+
+TITLE I—CONSUMER CREDIT COST DISCLOSURE
+Chapter
+1. GENERAL PROVISIONS
+2. CREDIT TRANSACTIONS
+3. CREDIT ADVERTISING
+
+Section
+101
+121
+141
+
+CHAPTER 1—GENERAL PROVISIONS
+Sec. 
+101. Short title.
+102. Findings and declaration of purpose.
+103. Definitions and rules of construction.
+104. Exempted transactions.
+105. Regulations.
+106. Determination of finance charge.
+107. Determination of annual percentage rate.
+108. Administrative enforcement.
+109. Views of other agencies.
+110. Adivsory committee.
+111. Effect on other laws.
+112. Criminal liability for willful and knowing violation.
+113. Penalties inapplicable to governmental agencies.
+114. Reports by Board and Attorney General.
+
+Citation of
+title.
+
+§ 101. Short title
+                                    This title may be cited as the Truth in Lending Act.
+
+§ 102. Findings and declaration of purpose
+                                    The Congress finds that economic stabilization would be enhanced and the competition among the various financial institutions and other firms engaged in the extension of consumer credit would be strengthened by the informed use of credit. The informed use of credit results from an awareness of the cost thereof by consumers. It is the purpose of this title to assure a meaningful disclosure of credit terms so that the consumer will be able to compare more readily the various credit terms available to him and avoid the uninformed use of credit.
+82 STAT. ]    PUBLIC LAW 90-321-MAY 29, 1968                       147
+
+§ 103. Definitions and rules of construction
+    (a) The definitions and rules of construction set forth in this section are applicable for the purposes of this title.
+    (b) The term “Board” refers to the Board of Governors of the Federal Reserve System.
+    (c) The term “organization” means a corporation, government or governmental subdivision or agency, trust, estate, partnership, coopera¬tive, or association.
+    (d) The term "person” means a natural person or an organization.
+    (e) The term “credit” means the right granted by a creditor to a debtor to defer payment of debt or to incur debt and defer its payment.
+    (f) The term “creditor” refers only to creditors who regularly ex¬tend, or arrange for the extension of, credit for which the payment of a finance charge is required, whether in connection with loans, sales of property or services, or otherwise. The provisions of this title apply to any such creditor, irrespective of his or its status as a natural person or any type of organization.
+    (g) The term "credit sale” refers to any sale with respect to which credit is extended or arranged by the seller. The term includes any contract in the form of a bailment or lease if the bailee or lessee con¬tracts to pay as compensation for use a sum substantially equivalent to or in excess of the aggregate value of the property and services in¬volved and it is agreed that the bailee or lessee will become, or for no other or a nominal consideration has the option to become, the owner of the property upon full compliance with his obligations under the contract.
+    (h) The adjective “consumer”, used with reference to a credit trans¬action, characterizes the transaction as one in which the party to whom credit is offered or extended is a natural person, and the money, prop¬erty, or services which are the subject of the transaction are primarily for personal, family, household, or agricultural purposes.
+    (i) The term “open end credit plan” refers to a plan prescribing the terms of credit transactions which may be made thereunder from time to time and under the terms of which a finance charge may be computed on the outstanding unpaid balance from time to time thereunder.
+    (j) The term “State” refers to any State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States.
+    (k) Any reference to any requirement imposed under this title or any provision thereof includes reference to the regulations of the Board under this title or the provision thereof in question.
+    (1) The disclosure of an amount or percentage which is greater than the amount or percentage required to be disclosed under this title does not in itself constitute a violation of this title.
+
+§ 104. Exempted transactions
+This title does not apply to the following:
+    (1) Credit transactions involving extensions of credit for busi¬ness or commercial purposes, or to government or governmental agencies or instrumentalities, or to organizations.
+    (2) Transactions in securities or commodities accounts by a broker-dealer registered with the Securities and Exchange Com¬mission.
+    (3) Credit transactions, other than real property transactions, in which the total amount to be financed exceeds $25,000.
+    (4) Transactions under public utility tariffs, if the Board de¬termines that a State regulatory body regulates the charges for the public utility services involved, the charges for delayed payment, and any discount allowed for early payment.
+§ 105. Regulations
+The Board shall prescribe regulations to carry out the purposes of this title. These regulations may contain such classifications, differen-tiations, or other provisions, and may provide for such adjustments and exceptions for any class of transactions, as in the judgment of the Board are necessary or proper to effectuate the purposes of this title, to prevent circumvention or evasion thereof, or to facilitate compli-ance therewith.
+§ 106. Determination of finance charge
+(a) Except as otherwise provided in this section, the amount of the finance charge in connection with any consumer credit transaction shall be determined as the sum of all charges, payable directly or indirectly by the person to whom the credit is extended, and imposed directly or indirectly by the creditor as an incident to the extension of credit, in-cluding any of the following types of charges which are applicable:
+(1) Interest, time price differential, and any amount payable under a point, discount, or other system of additional charges.
+(2) Service or carrying charge.
+(3) Loan fee, finder’s fee, or similar charge.
+(4) Fee for an investigation or credit report.
+(5) Premium or other charge for any guarantee or insurance protecting the creditor against the obligor’s default or other credit loss.
+(b) Charges or premiums for credit life, accident, or health insur-ance written in connection with any consumer credit transaction shall be included in the finance charge unless
+(1) the coverage of the debtor by the insurance is not a factor in the approval by the creditor of the extension of credit, and this fact is clearly disclosed in writing to the person applying for or obtaining the extension of credit; and
+(2) in order to obtain the insurance in connection with the ex-tension of credit, the person to whom the credit is extended must give specific affirmative written indication of his desire to do so after written disclosure to him of the cost thereof.
+(c) Charges or premiums for insurance, written in connection with any consumer credit transaction, against loss of or damage to property or against liability arising out of the ownership or use of property, shall be included in the finance charge unless a clear and specific state-ment in writing is furnished by the creditor to the person to whom the credit is extended, setting forth the cost of the insurance if obtained from or through the creditor, and stating that the person to whom the credit is extended may choose the person through which the insurance is to be obtained.
+(d) If any of the following items is itemized and disclosed in accord-ance with the regulations of the Board in connection with any trans-action, then the creditor need not include that item in the computation of the finance charge with respect to that transaction:
+(1) Fees and charges prescribed by law which actually are or will be paid to public officials for determining the existence of or for perfecting or releasing or satisfying any security related to the credit transaction.
+(2) The premium payable for any insurance in lieu of perfecting any security interest otherwise required by the creditor in con-nection with the transaction, if the premium does not exceed the fees and charges described in paragraph (1) which would other-wise be payable.
+(3) Taxes.
+(4) Any other type of charge which is not for credit and the exclusion of which from the finance charge is approved by the Board by regulation.
+82 STAT. ]
+PUBLIC LAW 90-321--MAY 29, 1968	149
+
+(e) The following items, when charged in connection with any extension of credit secured by an interest in real property, shall not be included in the computation of the finance charge with respect to that transaction:
+(1) Fees or premiums for title examination, title insurance, or similar purposes.
+(2) Fees for preparation of a deed, settlement statement, or other documents.
+(3) Escrows for future payments of taxes and insurance.
+(4) Fees for notarizing deeds and other documents.
+(5) Appraisal fees.
+(6) Credit reports.
+
+§ 107. Determination of annual percentage rate
+(a) The annual percentage rate applicable to any extension of consumer credit shall be determined, in accordance with the regulations of the Board,
+(1) in the case of any extension of credit other than under an open end credit plan, as
+(A) that nominal annual percentage rate which will yield a sum equal to the amount of the finance charge when it is applied to the unpaid balances of the amount financed, calculated according to the actuarial method of allocating payments made on a debt between the amount financed and the amount of the finance charge, pursuant to which a payment is applied first to the accumulated finance charge and the balance is applied to the unpaid amount financed; or
+(B) the rate determined by any method prescribed by the Board as a method which materially simplifies computation while retaining reasonable accuracy as compared with the rate determined under subparagraph (A).
+(2) in the case of any extension of credit under an open end credit plan, as the quotient (expressed as a percentage) of the total finance charge for the period to which it relates divided by the amount upon which the finance charge for that period is based, multiplied by the number of such periods in a year.
+
+(b) Where a creditor imposes the same finance charge for balances within a specified range, the annual percentage rate shall be computed on the median balance within the range, except that if the Board determines that a rate so computed would not be meaningful, or would be materially misleading, the annual percentage rate shall be computed on such other basis as the Board may by regulation require.
+
+(c) The annual percentage rate may be rounded to the nearest quarter of 1 per centum for credit transactions payable in substantially equal installments when a creditor determines the total finance charge on the basis of a single add-on, discount, periodic, or other rate, and the rate is converted into an annual percentage rate under procedures prescribed by the Board.
+
+(d) The Board may authorize the use of rate tables or charts which may provide for the disclosure of annual percentage rates which vary from the rate determined in accordance with subsection (a) (1) (A) by not more than such tolerances as the Board may allow. The Board may not allow a tolerance greater than 8 per centum of that rate except to simplify compliance where irregular payments are involved.
+
+(e) In the case of creditors determining the annual percentage rate in a manner other than as described in subsection (c) or (d), the Board may authorize other reasonable tolerances.
+
+(f) Prior to January 1, 1971, any rate required under this title to be disclosed as a percentage rate may, at the option of the creditor, be expressed in the form of the corresponding ratio of dollars per hundred dollars.
+PUBLIC LAW 90-321—MAY 29, 1968 
+
+§ 108.  Administrative enforcement 
+
+(a) Compliance with the requirements imposed under this title shall be enforced under 
+   (1) section 8 of the Federal Deposit Insurance Act, in the case of 
+      (A) national banks, by the Comptroller of the Currency.
+      (B) member banks of the Federal Reserve System (other than national banks), by the Board. 
+      (C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation. 
+   (2) section 5(d) of the Home Owners' Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions.
+   (3) the Federal Credit Union Act, by the Director of the Bureau of Federal Credit Unions with respect to any Federal credit union. 
+   (4) the Acts to regulate commerce, by the Interstate Commerce Commission with respect to any common carrier subject to those Acts. 
+   (5) the Federal Aviation Act of 1958, by the Civil Aeronautics Board with respect to any air carrier or foreign air carrier subject to that Act.
+   (6) the Packers and Stockyards Act, 1921 (except as provided in section 406 of that Act), by the Secretary of Agriculture with respect to any activities subject to that Act. 
+   
+(b) For the purpose of the exercise by any agency referred to in subsection (a) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this title shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a), each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this title, any other authority conferred on it by law. 
+
+(c) Except to the extent that enforcement of the requirements imposed under this title is specifically committed to some other Government agency under subsection (a), the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement imposed under this title shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with the requirements imposed under this title, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act. 
+
+(d) The authority of the Board to issue regulations under this title does not impair the authority of any other agency designated in this section to make rules respecting its own procedures in enforcing compliance with requirements imposed under this title. 
+
+§ 109. Views of other agencies 
+
+In the exercise of its functions under this title, the Board may obtain upon request the views of any other Federal agency which, in the judgment of the Board, exercises regulatory or supervisory functions with respect to any class of creditors subject to this title.
+82 STAT. ]
+
+PUBLIC LAW 90-321-MAY 29, 1968
+
+151
+
+§ 110. Advisory committee
+
+The Board shall establish an advisory committee to advise and consult with it in the exercise of its functions under this title. In appointing the members of the committee, the Board shall seek to achieve a fair representation of the interests of sellers of merchandise on credit, lenders, and the public. The committee shall meet from time to time at the call of the Board, and members thereof shall be paid transportation expenses and not to exceed $100 per diem.
+
+§ 111. Effect on other laws
+
+(a) This title does not annul, alter, or affect, or exempt any creditor from complying with, the laws of any State relating to the disclosure of information in connection with credit transactions, except to the extent that those laws are inconsistent with the provisions of this title or regulations thereunder, and then only to the extent of the inconsistency.
+(b) This title does not otherwise annul, alter or affect in any manner the meaning, scope or applicability of the laws of any State, including, but not limited to, laws relating to the types, amounts or rates of charges, or any element or elements of charges, permissible under such laws in connection with the extension or use of credit, nor does this title extend the applicability of those laws to any class of persons or transactions to which they would not otherwise apply.
+(c) In any action or proceeding in any court involving a consumer credit sale, the disclosure of the annual percentage rate as required under this title in connection with that sale may not be received as evidence that the sale was a loan or any type of transaction other than a credit sale.
+(d) Except as specified in sections 125 and 130, this title and the regulations issued thereunder do not affect the validity or enforceability of any contract or obligation under State or Federal law.
+
+§ 112. Criminal liability for willful and knowing violation
+
+Whoever willfully and knowingly
+(1) gives false or inaccurate information or fails to provide information which he is required to disclose under the provisions of this title or any regulation issued thereunder,
+(2) uses any chart or table authorized by the Board under section 107 in such a manner as to consistently understate the annual percentage rate determined under section 107(a)(1)(A), or
+(3) otherwise fails to comply with any requirement imposed under this title,
+shall be fined not more than $5,000 or imprisoned not more than one year, or both.
+
+§ 113. Penalties inapplicable to governmental agencies
+
+No civil or criminal penalty provided under this title for any violation thereof may be imposed upon the United States or any agency thereof, or upon any State or political subdivision thereof, or any agency of any State or political subdivision.
+
+§ 114. Reports by Board and Attorney General
+
+Not later than January 3 of each year after 1969, the Board and the Attorney General shall, respectively, make reports to the Congress concerning the administration of their functions under this title, including such recommendations as the Board and the Attorney General, respectively, deem necessary or appropriate. In addition, each report of the Board shall include its assessment of the extent to which compliance with the requirements imposed under this title is being achieved.
+
+96-600 O - 69 - 13
+PUBLIC LAW 90-321-MAY 29, 1968  [82 Stat.
+
+CHAPTER 2-CREDIT TRANSACTIONS 
+Sec.
+121. General requirement of disclosure. 
+122. Form of disclosure; additional information. 
+123. Exemption for State-regulated transactions.
+124. Effect of subsequent occurrence. 
+125. Right of rescission as to certain transactions.
+126. Content of periodic statements. 
+127. Open end consumer credit plans. 
+128. Sales not under open end credit plans. 
+129. Consumer loans not under open end credit plans.
+130. Civil liability. 
+131. Written acknowledgment as proof of receipt.
+
+§ 121. General requirement of disclosure
+(a) Each creditor shall disclose clearly and conspicuously, in accordance with the regulations of the Board, to each person to whom consumer credit is extended and upon whom a finance charge is or may be imposed, the information required under this chapter.
+(b) If there is more than one obligor, a creditor need not furnish a statement of information required under this chapter to more than one of them.
+
+§ 122. Form of disclosure; additional information 
+(a) Regulations of the Board need not require that disclosures pursuant to this chapter be made in the order set forth in this chapter, and may permit the use of terminology different from that employed in this chapter if it conveys substantially the same meaning. 
+(b) Any creditor may supply additional information or explanations with any disclosures required under this chapter.
+
+§ 123. Exemption for State-regulated transactions
+The Board shall by regulation exempt from the requirements of this chapter any class of credit transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this chapter, and that there is adequate provision for enforcement.
+
+§ 124. Effect of subsequent occurrence
+If information disclosed in accordance with this chapter is subsequently rendered inaccurate as the result of any act, occurrence, or agreement subsequent to the delivery of the required disclosures, the inaccuracy resulting therefrom does not constitute a violation of this chapter.
+
+§ 125. Right of rescission as to certain transactions 
+(a) Except as otherwise provided in this section, in the case of any consumer credit transaction in which a security interest is retained or acquired in any real property which is used or is expected to be used as the residence of the person to whom credit is extended, the obligor shall have the right to rescind the transaction until midnight of the third business day following the consummation of the transaction or the delivery of the disclosures required under this section and all other material disclosures required under this chapter, whichever is later, by notifying the creditor, in accordance with regulations of the Board, of his intention to do so. The creditor shall clearly and conspicuously disclose, in accordance with regulations of the Board, to any obligor in a transaction subject to this section the rights of the obligor under this section. The creditor shall also provide, in accordance with regulations of the Board, an adequate opportunity to the obligor to exercise his right to rescind any transaction subject to this section.
+(b) When an obligor exercises his right to rescind under subsection (a), he is not liable for any finance or other charge, and any security interest given by the obligor becomes void upon such a rescission. Within ten days after receipt of a notice of rescission, the creditor shall return to the obligor any money or property given as earnest money, downpayment, or otherwise, and shall take any action necessary or appropriate to reflect the termination of any security interest created under the transaction. If the creditor has delivered any property to the obligor, the obligor may retain possession of it. Upon the performance of the creditor's obligations under this section, the obligor shall tender the property to the creditor, except that if return of the property in kind would be impracticable or inequitable, the obligor shall tender its reasonable value. Tender shall be made at the location of the property or at the residence of the obligor, at the option of the obligor. If the creditor does not take possession of the property within ten days after tender by the obligor, ownership of the property vests in the obligor without obligation on his part to pay for it.
+(c) Notwithstanding any rule of evidence, written acknowledgment of receipt of any disclosures required under this title by a person to whom a statement is required to be given pursuant to this section does no more than create a rebuttable presumption of delivery thereof.
+(d) The Board may, if it finds that such action is necessary in order to permit homeowners to meet bona fide personal financial emergencies, prescribe regulations authorizing the modification or waiver of any rights created under this section to the extent and under the circumstances set forth in those regulations.
+(e) This section does not apply to the creation or retention of a first lien against a dwelling to finance the acquisition of that dwelling.
+§ 126. Content of periodic statements
+If a creditor transmits periodic statements in connection with any extension of consumer credit other than under an open end consumer credit plan, then each of those statements shall set forth each of the following items:
+(1) The annual percentage rate of the total finance charge.
+(2) The date by which, or the period (if any) within which, payment must be made in order to avoid additional finance charges or other charges.
+(3) Such of the items set forth in section 127(b) as the Board may by regulation require as appropriate to the terms and conditions under which the extension of credit in question is made.
+§ 127. Open end consumer credit plans
+(a) Before opening any account under an open end consumer credit plan, the creditor shall disclose to the person to whom credit is to be extended each of the following items, to the extent applicable:
+(1) The conditions under which a finance charge may be imposed, including the time period, if any, within which any credit extended may be repaid without incurring a finance charge.
+(2) The method of determining the balance upon which a finance charge will be imposed.
+(3) The method of determining the amount of the finance charge, including any minimum or fixed amount imposed as a finance charge.
+(4) Where one or more periodic rates may be used to compute the finance charge, each such rate, the range of balances to which it is applicable, and the corresponding nominal annual percentage
+PUBLIC LAW 90-321-MAY 29, 1968	[82 STAT.
+
+rate determined by multiplying the periodic rate by the number of periods in a year.
+
+	(5) If the creditor so elects, 
+(A) the average effective annual percentage rate of return received from accounts under the plan for a representative period of time; or 
+(B) whenever circumstances are such that the computation of a rate under subparagraph (A) would not be feasible or practical, or would be misleading or meaningless, a projected rate of return to be received from accounts under the plan. The Board shall prescribe regulations, consistent with commonly accepted standards for accounting or statistical procedures, to carry out the purposes of this paragraph.
+
+	(6) The conditions under which any other charges may be imposed, and the method by which they will be determined.
+
+	(7) The conditions under which the creditor may retain or acquire any security interest in any property to secure the payment of any credit extended under the plan, and a description of the interest or interests which may be so retained or acquired.
+(b) The creditor of any account under an open end consumer credit plan shall transmit to the obligor, for each billing cycle at the end of which there is an outstanding balance in that account or with respect to which a finance charge is imposed, a statement setting forth each of the following items to the extent applicable:
+
+	(1) The outstanding balance in the account at the beginning of the statement period.
+
+	(2) The amount and date of each extension of credit during the period, and, if a purchase was involved, a brief identification (unless previously furnished) of the goods or services purchased.
+
+	(3) The total amount credited to the account during the period. 
+
+	(4) The amount of any finance charge added to the account during the period, itemized to show the amounts, if any, due to the application of percentage rates and the amount, if any, imposed as a minimum or fixed charge.
+
+	(5) Where one or more periodic rates may be used to compute the finance charge, each such rate, the range of balances to which it is applicable, and, unless the annual percentage rate (determined under section 107(a)(2)) is required to be disclosed pursuant to paragraph (6), the corresponding nominal annual percentage rate determined by multiplying the periodic rate by the number of periods in a year.
+
+	(6) Where the total finance charge exceeds 50 cents for a monthly or longer billing cycle, or the pro rata part of 50 cents for a billing cycle shorter than monthly, the total finance charge expressed as an annual percentage rate (determined under section 107(a)(2)), except that if the finance charge is the sum of two or more products of a rate times a portion of the balance, the creditor may, in lieu of disclosing a single rate for the total charge, disclose each such rate expressed as an annual percentage rate, and the part of the balance to which it is applicable.
+
+	(7) At the election of the creditor, the average effective annual percentage rate of return (or the projected rate) under the plan as prescribed in subsection (a)(5).
+
+	(8) The balance on which the finance charge was computed and a statement of how the balance was determined. If the balance is determined without first deducting all credits during the period, that fact and the amount of such payments shall also be disclosed.
+82 STAT. ]
+
+PUBLIC LAW 90-321-MAY  29, 1968
+
+155
+
+(9) The outstanding balance in the account at the end of the period.
+(10) The date by which, or the period (if any) within which, payment must be made to avoid additional finance charges.
+(c) In the case of any open end consumer credit plan in existence on the effective date of this subsection, the items described in subsection (a), to the extent applicable, shall be disclosed in a notice mailed or delivered to the obligor not later than thirty days after that date.
+§ 128. Sales not under open end credit plans
+(a) In connection with each consumer credit sale not under an open end credit plan, the creditor shall disclose each of the following items which is applicable:
+(1) The cash price of the property or service purchased.
+(2) The sum of any amounts credited as downpayment (including any trade-in).
+(3) The difference between the amount referred to in paragraph (1) and the amount referred to in paragraph (2).
+(4) All other charges, individually itemized, which are included in the amount of the credit extended but which are not part of the finance charge.
+(5) The total amount to be financed (the sum of the amount described in paragraph (3) plus the amount described in paragraph (4)).
+(6) Except in the case of a sale of a dwelling, the amount of the finance charge, which may in whole or in part be designated as a time-price differential or any similar term to the extent applicable.
+(7) The finance charge expressed as an annual percentage rate except in the case of a finance charge
+(A) which does not exceed 5$ and is applicable to an amount financed not exceeding $75, or
+(B) which does not exceed $7.50 and is applicable to an amount financed exceeding $75.
+A creditor may not divide a consumer credit sale into two or more sales to avoid the disclosure of an annual percentage rate pursuant to this paragraph.
+(8) The number, amount, and due dates or periods of payments scheduled to repay the indebtedness.
+(9) The default, delinquency, or similar charges payable in the event of late payments.
+(10) A description of any security interest held or to be retained or acquired by the creditor in connection with the extension of credit, and a clear identification of the property to which the security interest relates.
+(b) Except as otherwise provided in this chapter, the disclosures required under subsection (a) shall be made before the credit is extended, and may be made by disclosing the information in the contract or other evidence of indebtedness to be signed by the purchaser.
+(c) If a creditor receives a purchase order by mail or telephone without personal solicitation, and the cash price and the deferred payment price and the terms of financing, including the annual percentage rate, are set forth in the creditor's catalog or other printed material distributed to the public, then the disclosures required under subsection (a) may be made at any time not later than the date the first payment is due.
+(d) If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing out-
+156     PUBLIC LAW 90-321-MAY 29, 1968 [82 STAT.
+
+standing balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest priced shall be deemed first paid for.
+
+§ 129. Consumer loans not under open end credit plans
+
+(a) Any creditor making a consumer loan or otherwise extending consumer credit in a transaction which is neither a consumer credit sale nor under an open end consumer credit plan shall disclose each of the following items, to the extent applicable:
+(1) The amount of credit of which the obligor will have the actual use, or which is or will be paid to him or for his account or to another person on his behalf.
+(2) All charges, individually itemized, which are included in the amount of credit extended but which are not part of the finance charge.
+(3) The total amount to be financed (the sum of the amounts referred to in paragraph (1) plus the amounts referred to in paragraph (2)).
+(4) Except in the case of a loan secured by a first lien on a dwelling and made to finance the purchase of that dwelling, the amount of the finance charge.
+(5) The finance charge expressed as an annual percentage rate except in the case of a finance charge 
+  (A) which does not exceed $5 and is applicable to an extension of consumer credit not exceeding $75, or
+  (B) which does not exceed $7.50 and is applicable to an extension of consumer credit exceeding $75.
+
+A creditor may not divide an extension of credit into two or more transactions to avoid the disclosure of an annual percentage rate pursuant to this paragraph.
+(6) The number, amount, and the due dates or periods of payments scheduled to repay the indebtedness.
+(7) The default, delinquency, or similar charges payable in the event of late payments.
+(8) A description of any security interest held or to be retained or acquired by the creditor in connection with the extension of credit, and a clear identification of the property to which the security interest relates.
+
+(b) Except as otherwise provided in this chapter, the disclosures required by subsection (a) shall be made before the credit is extended, and may be made by disclosing the information in the note or other evidence of indebtedness to be signed by the obligor.
+
+(c) If a creditor receives a request for an extension of credit by mail or telephone without personal solicitation and the terms of financing, including the annual percentage rate for representative amounts of credit, are set forth in the creditor’s printed material distributed to the public or in the contract of loan or other printed material delivered to the obligor, then the disclosures required under subsection (a) may be made at any time not later than the date the first payment is due.
+82 STAT. ]
+
+PUBLIC LAW 90-321 - MAY 29, 1968
+
+157
+
+§ 130. Civil liability
+(a) Except as otherwise provided in this section, any creditor who
+fails in connection with any consumer credit transaction to disclose to
+any person any information required under this chapter to be disclosed
+to that person is liable to that person in an amount equal to the sum of—
+(1) twice the amount of the finance charge in connection with
+the transaction, except that the liability under this paragraph shall
+not be less than $100 nor greater than $1,000; and
+
+(2) in the case of any successful action to enforce the foregoing
+liaibility, the costs of the action together with a reasonable attor-   
+ney's fee as determined by the court.
+
+(b) A creditor has no liabillty under this section if within fifteen
+days after discovering an error, and prior to the Institution of an ac-
+tion under this section or the receipt of written notice of the error, the 
+creditor notifies the person concerned of the error and makes whatever
+adjustments in the appropriate account are necessary to insure that the
+person will not be required to pay a finance charge In excess of the
+amount or percentage rate actually disclosed.
+
+(c) A creditor may not be held liable in any action brought under
+this section for a violation of this chapter if the creditor shows by a
+preponderance of evidence that the violation was not intentional and 
+resulted from a bona fide error notwithstanding the maintenance of 
+procedures reasonably adapted to avoid any such error.
+
+(d) Any action which may be brought under this section against 
+the original creditor in any credit transaction involving a security 
+interest in real property may be maintained against any subsequent 
+assignee of the original creditor where the assignee, its subsidiaries, or 
+affiliates were in a continuing business relationship with the original 
+creditor either at the time the credit was extend or at the time of the 
+assignment, unless the assignment was involuntary, or the assignee 
+shows by a preponderance of evidence that it did not have reasonable 
+grounds to believe that the original creditor was engaged in violations 
+of this chapter, and that it maintained procedures reasonably adapted 
+to apprise it of the existence of any such violations. 
+
+(e) Any action under this section may be brought in any United 
+States district court, or in any other court of competent jurisdiction,
+within one year from the date of the occurrence of the violation.
+
+§ 131. Written acknowledgment as proof of receipt
+
+Except as provided in section 125(c) and except in the case of 
+actions brought under section 130(d), in any action or proceeding by 
+or against any subsequent assignee of the original creditor without 
+knowledge to the contrary by the assignee when he acquires the obli- 
+gation, written acknowledgment of receipt by a person to whom a 
+statement is required to be given pursuant to this title shall be conclu- 
+sive proof of the delivery thereof and, unless the violation is apparent 
+on the face of the statement, of compliance with this chapter. This
+section does not affect the rights of the obligor in any action against
+the original creditor.
+
+CHAPTER 3—CREDIT ADVERTISING
+
+Sec.
+141. Catalogs and multiple-page advertisements.
+142. Advertising of downpayments and installments.
+143. Advertising of open end credit plans.
+144. Advertising of credit other than open end plans.
+145. Nonliability of media.
+§ 141. Catalogs and multiple-page advertisements
+
+For the purposes of this chapter, a catalog or other multiple-page advertisement shall be considered a single advertisement if it clearly and conspicuously displays a credit terms table on which the information required to be stated under this chapter is clearly set forth.
+
+§142. Advertising of downpayments and installments
+
+No advertisement to aid, promote, or assist directly or indirectly any extension of consumer credit may state
+
+(1) that a specific periodic consumer credit amount or installment amount can be arranged, unless the creditor usually and customarily arranges credit payments or installments for that period and in that amount.
+
+(2) that a specified downpayment is required in connection with any extension of consumer credit, unless the creditor usually and customarily arranges downpayments in that amount.
+
+§ 143. Advertising of open end credit plans
+
+No advertisement to aid, promote, or assist directly or indirectly the extension of consumer credit under an open end credit plan may set forth any of the specific terms of that plan or the appropriate rate determined under section 127(a)(5) unless it also clearly and conspicuously sets forth all of the following items:
+
+(1) The time period, if any, within which any credit extended may be repaid without incurring a finance charge.
+(2) The method of determining the balance upon which a finance charge will be imposed.
+(3) The method of determining the amount of the finance charge, including any minimum or fixed amount imposed as a finance charge.
+(4) Where periodic rates may be used to compute the finance charge, the periodic rates expressed as annual percentage rates.
+(5) Such other or additional information for the advertising of open end credit plans as the Board may by regulation require to provide for adequate comparison of credit costs as between different types of open end credit plans.
+
+§ 144. Advertising of credit other than open end plans
+
+(a) Except as provided in subsection (b), this section applies to any advertisement to aid, promote, or assist directly or indirectly any consumer credit sale, loan, or other extension of credit subject to the provisions of this title, other than an open end credit plan.
+(b) The provisions of this section do not apply to advertisements of residential real estate except to the extent that the Board may by regulation require.
+(c) If any advertisement to which this section applies states the rate of a finance charge, the advertisement shall state the rate of that charge expressed as an annual percentage rate.
+(d) If any advertisement to which this section applies states the amount of the downpayment, if any, the amount of any installment payment, the dollar amount of any finance charge, or the number of installments or the period of repayment, then the advertisement shall state all of the following items:
+
+(1) The cash price or the amount of the loan as applicable.
+(2) The downpayment, if any.
+(3) The number, amount, and due dates or periods of payments scheduled to repay the indebtedness if the credit is extended.
+82 STAT. ]
+PUBLIC LAW 90-321-MAY 29, 1968
+159
+
+(4) The rate of the finance charge expressed as an annual
+percentage rate.
+
+§ 145. Nonliability of media
+There is no liability under this chapter on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.
+
+TITLE II-EXTORTIONATE CREDIT TRANS-
+ACTIONS
+
+Sec.
+201. Findings and purpose.
+202. Amendments to title 18, United States Code.
+203. Reports by Attorney General.
+
+§ 201. Findings and purpose
+(a) The Congress makes the following findings:
+(1) Organized crime is interstate and international in character. Its activities involve many billions of dollars each year. It is directly responsible for murders, willful injuries to person and property, corruption of officials, and terrorization of countless citizens. A substantial part of the income of organized crime is generated by extortionate credit transactions.
+(2) Extortionate credit transactions are characterized by the use, or the express or implicit threat of the use, of violence or other criminal means to cause harm to person, reputation, or property as a means of enforcing repayment. Among the factors which have rendered past efforts at prosecution almost wholly ineffective has been the existence of exclusionary rules of evidence stricter than necessary for the protection of constitutional rights.
+(3) Extortionate credit transactions are carried on to a substantial extent in interstate and foreign commerce and through the means and instrumentalities of such commerce. Even where extortionate credit transactions are purely intrastate in character, they nevertheless directly affect interstate and foreign commerce.
+(4) Extortionate credit transactions directly impair the effectiveness and frustrate the purposes of the laws enacted by the Congress on the subject of bankruptcies.
+(b) On the basis of the findings stated in subsection (a) of this section, the Congress determines that the provisions of chapter 42 of title 18 of the United States Code are necessary and proper for the purpose of carrying into execution the powers of Congress to regulate commerce and to establish uniform and effective laws on the subject of bankruptcy.
+
+§ 202. Amendments to title 18, United States Code
+(a) Title 18 of the United States Code is amended by inserting the following new chapter immediately after chapter 41 thereof:
+
+"CHAPTER 42-EXTORTIONATE CREDIT TRANSACTIONS
+"Sec.
+"891. Definitions and rules of construction.
+"892. Making extortionate extensions of credit.
+"893. Financing extortionate extensions of credit.
+"894. Collection of extensions of credit by extortionate means.
+"895. Immunity of witnesses.
+"896. Effect on State laws.
+
+§ 891. Definitions and rules of construction 
+
+"For the purposes of this chapter: 
+
+(1) To extend credit means to make or renew any loan, or to enter into any agreement, tacit or express, whereby the repayment or satisfaction of any debt or claim, whether acknowledged or disputed, valid or invalid, and however arising, may or will be deferred.
+
+(2) The term 'creditor,' with reference to any given extension of credit, refers to any person making that extension of credit, or to any person claiming by, under, or through any person making that extension of credit.
+
+(3) The term 'debtor,' with reference to any given extension of credit, refers to any person to whom that extension of credit is made, or to any person who guarantees the repayment of that extension of credit, or in any manner undertakes to indemnify the creditor against loss resulting from the failure of any person to whom that extension of credit is made to repay the same.
+
+(4) The repayment of any extension of credit includes the repayment, satisfaction, or discharge in whole or in part of any debt or claim, acknowledged or disputed, valid or invalid, resulting from or in connection with that extension of credit.
+
+(5) To collect an extension of credit means to induce in any way any person to make repayment thereof.
+ 
+(6) An extortionate extension of credit is any extension of credit with respect to which it is the understanding of the creditor and the debtor at the time it is made that delay in making repayment or failure to make repayment could result in the use of violence or other criminal means to cause harm to the person, reputation, or property of any person.
+
+(7) An extortionate means is any means which involves the use, or an express or implicit threat of use, of violence or other criminal means to cause harm to the person, reputation, or property of any person.
+
+(8) The term 'State' includes the District of Columbia, the Commonwealth of Puerto Rico, and territories and possessions of the United States.
+
+(9) State law, including conflict of laws rules, governing the enforceability through civil judicial processes of repayment of any extension of credit or the performance of any promise given in consideration thereof shall be judicially noticed. This paragraph does not impair any authority which any court would otherwise have to take judicial notice of any matter of State law.
+
+§ 892. Making extortionate extensions of credit
+
+(a) Whoever makes any extortionate extension of credit, or conspires to de so, shall be fined not more than $10,000 or imprisoned not more than 20 years, or both.
+
+(b) In any prosecution under this section, if it is shown that all of the following factors were present in connection with the extension of credit in question, there is prima facie evidence that the extension of credit was extortionate, but this subsection is nonexclusive and in no way limits the effect or applicability of subsection (a):
+
+(1) The repayment of the extension of credit, or the performance of any promise given in consideration thereof, would be unenforceable, through civil judicial processes against the debtor
+
+(A) in the jurisdiction within which the debtor, if a natural person, resided or
+
+(B) in every jurisdiction within which the debtor, if other than a natural person, was incorporated or qualified to do business
+
+at the time the extension of credit was made.
+82 Stat. ] PUBLIC LAW 90-321—MAY 29, 1968  161  
+
+"(2) The extension of credit was made at a rate of interest in excess of an annual rate of 45 per centum calculated according to the actuarial method of allocating payments made on a debt between principal and interest, pursuant to which a payment is applied first to the accumulated interest and the balance is applied to the unpaid principal. 
+"(3) At the time the extension of credit was made, the debtor reasonably believed that either  
+"(A) one or more extensions of credit by the creditor had been collected or attempted to be collected by extortionate means, or the nonrepayment thereof had been punished by extortionate means; or 
+"(B) the creditor had a reputation for the use of extortionate means to collect extensions of credit or to punish the nonrepayment thereof. 
+"(4) Upon the making of the extension of credit, the total of the extensions of credit by the creditor to the debtor then outstanding, including any unpaid interest or similar charges, exceeded $100.  
+" (c) In any prosecution under this section, if evidence has been introduced tending to show the existence of any of the circumstances described in subsection (b)(1) or (b)(2), and direct evidence of the actual belief of the debtor as to the creditor’s collection practices is not available, then for the purpose of showing the understanding of the debtor and the creditor at the time the extension of credit was made, the court may in its discretion allow evidence to be introduced tending to show the reputation as to collection practices of the creditor in any community of which the debtor was a member at the time of the extension. 
+"§ 893. Financing extortionate extensions of credit 
+"Whoever willfully advances money or property, whether as a gift, as a loan, as an investment, pursuant to a partnership or profit-sharing agreement, or otherwise, to any person, with reasonable grounds to believe that it is the intention of that person to use the money or property so advanced directly or indirectly for the purpose of making extortionate extensions of credit, shall be fined not more than $10,000 or an amount not exceeding twice the value of the money or property so advanced, whichever is greater, or shall be imprisoned not more than 20 years, or both. 
+"§ 894. Collection of extensions of credit by extortionate means 
+"(a) Whoever knowingly participates in any way, or conspires to do so, in the use of any extortionate means 
+"(1) to collect or attempt to collect any extension of credit, or 
+"(2) to punish any person for the nonrepayment thereof, shall be fined not more than $10,000 or imprisoned not more than 20 years, or both.
+
+"(b) In any prosecution under this section, for the purpose of showing an implicit threat as a means of collection, evidence may be introduced tending to show that one or more extensions of credit by the creditor were, to the knowledge of the person against whom the implicit threat was alleged to have been made, collected or attempted to be collected by extortionate means or that the nonrepayment thereof was punished by extortionate means. 
+"(c) In any prosecution under this section, if evidence has been introduced tending to show the existence, at the time the extension of credit in question was made, of the circumstances described in section 892(b)(1) or the circumstances described in section 892(b)(2), and direct evidence of the actual belief of the debtor as to the creditor’s
+collection practices is not available, then for the purpose of showing that words or other means of communication, shown to have been employed as a means of collection, in fact carried an express or implicit threat, the court may in its discretion allow evidence to be introduced tending to show the reputation of the defendant in any community of which the person against whom the alleged threat was made was a member at the time of the collection or attempt at collection.
+"§ 895. Immunity of witnesses
+
+"Whenever in the judgment of a United States attorney the testi­mony of any witness, or the production of books, papers, or other evi­dence by any witness in any case or proceeding before any grand jury or court of the United States involving any violation of this chapter is necessary to the public interest, he, upon the approval of the Attorney General or his designated representative, may make application to the court that the witness be instructed to testify or produce evidence subject to the provisions of this section. Upon order of the court the witness shall not be excused from testifying or from producing books, papers, or other evidence on the ground that the testimony or evidence required of him may tend to incriminate him or subject him to a penalty or forfeiture. But no such witness may be prosecuted or sub­jected to any penalty or forfeiture for or on account of any trans­action, matter, or thing concerning which he is compelled, after having claimed his privilege against self-incrimination, to testify or produce evidence, nor may testimony so compelled be used as evidence in any criminal proceeding against him in any court, except a prosecution for perjury or contempt committed while giving testimony or producing evidence under compulsion as provided in this section.
+§ 896. Effect on State laws
+
+"This chapter does not preempt any field of law with respect to which State legislation would be permissible in the absence of this chapter. No law of any State which would be valid in the absence of this chapter may be held invalid or, inapplicable by virtue of the existence of this chapter, and no officer, agency, or instrumentality of any State may be deprived by virtue of this chapter of any jurisdic­tion over any offense over which it would have jurisdiction in the absence of this chapter.”
+
+(b) The table of chapters captioned "Part I—Crimes" at the begin­ning of part I of title 18 of the United States Code is amended by inserting 
+
+"42. Extortionate credit transactions-------------------------------------------------- 891" immediately above 
+
+"43. False personation----------------------------------------------------------- 911".
+
+§ 203. Reports by Attorney General
+
+The Attorney General shall make an annual report to Congress of the activities of the Department of Justice in the enforcement of chapter 42 of title 18 of the United States Code.
+
+
+TITLE III—RESTRICTION ON GARNISHMENT
+
+Sec.
+301. Findings and purpose. 302. Definitions. 303. Restriction on garnishment. 304. Restriction on discharge from employment by reason of garnishment. 305. Exemption for State-regulated garnishments. 306. Enforcement by Secretary of Labor. 307. Effect on State laws.
+82 Stat. ]
+
+PUBLIC LAW 90-321-MAY 29, 1968
+
+163
+
+§ 301. Findings and purpose
+
+(a) The Congress finds:
+
+(1) The unrestricted garnishment of compensation due for per-
+sonal services encourages the making of predatory extensions of
+credit. Such extensions of credit divert money into excessive credit
+payments and thereby hinder the production and flow of goods in
+interstate commerce.
+
+(2) The application of garnishment as a creditors’ remedy fre-
+quently results in loss of employment by the debtor, and the result-
+ing disruption of employment, production, and consumption
+constitutes a substantial burden on interstate commerce.
+
+(3) The great disparities among the laws of the several States
+relating to garnishment have, in effect, destroyed the uniformity of
+the bankruptcy laws and frustrated the purposes thereof in many
+areas of the country.
+
+(b) On the basis of the findings stated in subsection (a) of this sec-
+tion, the Congress determines that the provisions of this title are neces-
+sary and proper for the purpose of carrying into execution the powers
+of the Congress to regulate commerce and to establish uniform bank-
+ruptcy laws.
+
+§ 302. Definitions
+
+For the purposes of this title:
+
+(a) The term “earnings” means compensation paid or payable for
+personal services, whether denominated as wages, salary, commission,
+bonus, or otherwise, and includes periodic payments pursuant to a
+pension or retirement program.
+
+(b) The term “disposable earnings” means that part of the earnings
+of any individual remaining after the deduction from those earnings of
+any amounts required by law to be withheld.
+
+(c) The term “garnishment” means any legal or equitable procedure
+through which the earnings of any individual are required to be with-
+held for payment of any debt.
+
+§ 303. Restriction on garnishment
+
+(a) Except as provided in subsection (b) and in section 305, the
+Maximum part of the aggregate disposable earnings of an individual
+for any workweek which is subjected to garnishment may not exceed
+
+(1) 25 per centum of his disposable earnings for that week, or
+
+(2) the amount by which his disposable earnings for that week
+exceed thirty times the Federal minimum hourly wage prescribed
+by section 6(a)(1) of the Fair Labor Standards Act of 1938 in
+       effect at the time the earnings are payable,
+whichever is less. In the case of earnings for any pay period other than
+a week, the Secretary of Labor shall by regulation prescribe a multiple
+Of the Federal minimum hourly wage equivalent in effect to that set
+forth in paragraph (2).
+
+(b) The restrictions of subsection (a) do not apply in the case of
+
+(1) any order of any court for the support of any person.
+
+(2) any order of any court of bankruptcy under chapter XIII
+       of the Bankruptcy Act.
+
+(3) any debt due for any State or Federal tax.
+
+(c) No court of the United States or any State may make, execute,
+or enforce any order or process in violation of this section.
+
+§ 304. Restriction on discharge from employment by reason of
+garnishment
+
+(a) No employer may discharge any employee by reason of the
+fact that his earnings have been subjected to garnishment for any one
+indebtedness.
+
+80 Stat. 838.
+29 USC 206.
+
+52 Stat. 930.
+11 USC 1001-1086.
+164             PUBLIC LAW 90-321-MAY 29, 1968              [82 STAT.
+
+Penalties.
+
+(b) Whoever willfully violates subsection (a) of this section shall be
+fined not more than $1,000, or imprisoned not more than one year, or
+both.
+
+§ 305. Exemption for State-regulated garnishments
+
+The Secretary of Labor may by regulation exempt from the pro-
+visions of section 303(a) garnishments issued under the laws of any
+State if he determines that the laws of that State provide restrictions
+on garnishment which are substantially similar to those provided in
+section 303(a).
+
+§ 306. Enforcement by Secretary of Labor
+
+The Secretary of Labor, acting through the Wage and Hour Division
+of the Department of Labor, shall enforce the provisions of this title.
+
+§ 307. Effect on State laws
+
+This title does not annul, alter, or affect, or exempt any person from
+complying with, the laws of any State
+
+(1) prohibiting garnishments or providing for more limited
+garnishments than are allowed under this title, or
+
+(2) prohibiting the discharge of any employee by reason of the
+fact that his earnings have been subject to garnishment for
+more than one indebtedness.
+
+                    TITLE IV-NATIONAL COMMISSION ON
+                           CONSUMER FINANCE
+Sec.
+401. Establishment.
+402. Membership of the Commission.
+403. Compensation of members.
+404. Duties of the Commission.
+405. Powers of the Commission.
+406. Administrative arrangements.
+407. Authorization of appropriations.
+
+§ 401. Establishment
+
+There is established a bipartisan National Commission on Consumer
+Finance, referred to in this title as the "Commission".
+
+§ 402. Membership of the Commission
+
+(a) The Commission shall be composed of nine members, of whom
+(1) three are Members of the Senate appointed by the President
+     of the Senate;
+(2) three are Members of the House of Representatives
+     appointed by the Speaker of the House of Representatives; and
+(3) three are persons not employed in a full-time capacity by
+     the United States appointed by the President, one of whom he
+      shall designate as Chairman.
+(b)   A vacancy in the Commission does not affect its powers and
+may be filled in the same manner as the original appointment.
+(c) Five members of the Commission constitute a quorum.
+
+§ 403. Compensation of members
+
+(a) Members of Congress who are members of the Commission shall
+serve without compensation in addition to that received for their serv-
+ices as Members of Congress; but they shall be reimbursed for travel,
+subsistence, and other necessary expenses incurred by them in the per-
+formance of the duties vested in the Commission.
+(b) Each member of the Commission who is appointed by the Presi-
+dent may receive compensation at a rate of $100 for each day he is
+engaged upon work of the Commission, and shall be reimbursed for
+travel expenses, including per diem in lieu of subsistence as authorized
+82 STAT. ]
+
+PUBLIC LAW 90-321-MAY 29, 1968
+
+by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. 
+
+§404. Duties of the Commission 
+
+(a) The Commission shall study and appraise the functioning and structure of the consumer finance industry, as well as consumer credit transactions generally. The Commission, in its report and recommendations to the Congress, shall include treatment of the following topics:
+
+(1) The adequacy of existing arrangements to provide consumer credit at reasonable rates. 
+
+(2) The adequacy of existing supervisory and regulatory mechanisms to protect the public from unfair practices, and insure the informed use of consumer credit. 
+
+(3) The desirability of Federal chartering of consumer finance companies, or other Federal regulatory measures. 
+
+(b) The Commission may make interim reports and shall make a final report of its findings, recommendations, and conclusions to the President and to the Congress by January 1, 1971. 
+
+§ 405. Powers of the Commission 
+
+(a) The Commission, or any three members thereof as authorized by the Commission, may conduct hearings anywhere in the United States or otherwise secure data and expressions of opinion pertinent to the study. In connection therewith the Commissions is authorized by majority vote 
+
+(1) to require, by special or general orders, corporations, business firms, and individuals to submit in writing such reports and answers to questions as the Commission may prescribe; such submission shall be made within such reasonable period and under oath or otherwise as the Commission may determine. 
+
+(2) to administer oaths. 
+
+(3) to require by subpoena the attendance and testimony of witnesses and the production of all documentary evidence relating to the execution of its duties. 
+
+(4) in the case of disobedience to a subpoena or order issued under paragraph (a) of this section to invoke the aid of any district court of the United States in requiring compliance with such subpoena or order. 
+
+(5) in any proceeding or investigation to order testimony to be taken by deposition before any person who is designated by the Commission and has the power to administer oaths, and in such instances to compel testimony and the production of evidence in the same manner as authorized under subparagraphs (3) and (4) above. 
+
+(6) to pay witnesses the same fees and mileage as are paid in like circumstances in the courts of the United States. 
+
+(b) Any district court of the United States within the jurisdiction of which an inquiry is carried on may, in case of refusal to obey a subpoena or order of the Commission issued under paragraph (a) of this section, issue an order requiring compliance therewith; and any failure to obey the order of the court may be punished by the court as a contempt thereof. 
+
+(c) The Commission may require directly from the head of any Federal executive department or independent agency available information which the Commission deems useful in the discharge of its duties. All departments and independent agencies of the Government shall cooperate with the Commission and furnish all information requested by the Commission to the extent permitted by law. 
+
+(d) The Commission may enter into contracts with Federal or State agencies, private firms, institutions, and individuals for the conduct of
+166
+
+PUBLIC LAW 90-321-MAY 29, 1968
+
+[82 STAT.
+
+research or surveys, the preparation of reports, and other activities necessary to the discharge of its duties.
+(e) When the Commission finds that publication of any information obtained by it is in the public interest and would not give an unfair competitive advantage to any person, it may publish the information in the form and manner deemed best adapted for public use, except that data and information which would separately disclose the business transactions of any person, trade secrets, or names of customers shall be held confidential and shall not be disclosed by the Commission or its staff. The Commission shall permit business firms or individuals reasonable access to documents furnished by them for the purpose of obtaining or copying those documents as need may arise.
+(f) The Commission may delegate any of its functions to individual members of the Commission or to designated individuals on its staff and to make such rules and regulations as are necessary for the conduct of its business, except as otherwise provided in this title.
+
+§ 406. Administrative arrangements
+
+(a) The Commission may, without regard to the provisions of title 5,
+United States Code, relating to appointments in the competitive service or to classification and General Schedule pay rates, appoint and fix the compensation of an executive director. The executive director, with the approval of the Commission, shall employ and fix the compensation of such additional personnel as may be necessary to carry out the functions of the Commission, but no individual so appointed 5 USC 5332 may receive compensation in excess of the rate authorized for GS-18 note. under the General Schedule.
+(b) The executive director, with the approval of the Commission, may obtain services in accordance with section 3109 of title 5 of the 80 Stat. 416 United States Code, but at rates for individuals not to exceed $100 Personnel per diem. detail.
+(c) The head of any executive department or independent agency of the Federal Government may detail, on a reimbursable basis, any of its personnel to assist the Commission in carrying out its work.
+(d) Financial and administrative services (including those related to budgeting and accounting, financial reporting, personnel, and procurement) shall be provided the Commission by the General Services Administration, for which payment shall be made in advance, or by reimbursement, from funds of the Commission in such amounts as may be agreed upon by the Chairman of the Commission and the Administrator of General Services. The regulations of the General Services Administration for the collection of indebtedness of personnel resulting from erroneous payments apply to the collection of erroneous payments made to or on behalf of a Commission employee, and regulations of that Administration for the administrative control of funds apply to appropriations of the Commission.
+
+(e) Ninety days after submission of its final report, as provided in section 404 (b), the Commission shall cease to exist.
+
+§ 407. Authorization of appropriations
+
+There are authorized to be appropriated such sums not in excess of $1,500,000 as may be necessary to carry out the provisions of this title. Any money so appropriated shall remain available to the Commission until the date of its expiration, as fixed by section 406(e).
+
+TITLE V-GENERAL PROVISIONS
+
+Sec.
+501. Severability.
+502. Captions and catchlines for reference only.
+503. Grammatical usages.
+504. Effective dates.
+82 STAT. ]
+PUBLIC LAW 90-323—MAY 30, 1968
+                                                                                         167
+
+§ 501. Severability
+
+         If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a pro­vision enacted by this Act is held invalid in one or more of its applica­tions, the provision remains in effect in all valid applications that are severable from the invalid application or applications.
+
+§ 502. Captions and catchlines for reference only
+         Captions and catchlines are intended solely as aids to convenient reference, and no inference as to the legislative intent with respect to any provision enacted by this A ct may be drawn from them.
+
+§ 503. Grammatical usages
+         In this Act :
+                  (1) The word "may" is used to indicate that an action either is
+         authorized or is permitted.
+                  (2) The word "shall" is used to indicate that an action is both
+         authorized and required.
+                  (3) The phrase "may not" is used to indicate that an action is
+         both unauthorized and forbidden.
+                  (4) Rules of law are stated in the indicative mood.
+
+§ 504. Effective dates
+         (a) Except as otherwise specified, the provisions of this Act take effect upon enactment.
+         (b) Chapters 2 and 3 of title I take effect on July 1, 1969.
+         (c) Title III takes effect on July 1, 1970.
+         Approved May 29,1968.
+
+                  Public Law 90-322                                                                  May 30, 1968
+                                                                                                  [8. J . Res. 142]
+
+                                                JOINT RESOLUTION
+To provide for the reappointment of Doctor Crawford H. Greenewalt as Citizen Regent of the Board of Regents of the Smithsonian Institution.
+
+                    Resolved by the Senate and House of Representatives of the United States of America in Congress assembled, That the vacancy in the Smithsonian In- Board of Regents of the Smithsonian Institution, of the class other than Members of Congress, which will occur by the expiration of the term of Doctor Crawford H. Greenewalt, of Wilmington, Delaware, on April 6, 1968, be filled by the reappointment of the present incumbent for the statutory term of six years. 
+        Approved May 30, 1968.
+
+                  Public Law 90-323                                                                  May 30, 1968
+                                                                                                  [S. J . Res. 143]
+                  
+                  JOINT RESOLUTION
+To provide for the reappointment of Doctor Caryl P. Haskins as Citizen Regent of the Board of Regents of the Smithsonian Institution.
+
+                  Resolved by the Senate and House of Representatives of the United States of America in Congress assembled, That the vacancy in the Smithsonian In- Board of Regents of the Smithsonian Institution, of the class other than Members of Congress, which will occur by the expiration of the term of Doctor Caryl P. Haskins, of Washington, District of Colum­bia, on April 6, 1968, be filled by the reappointment of the present incumbent for the statutory term of six years.
+         Approved May 30, 1968.
