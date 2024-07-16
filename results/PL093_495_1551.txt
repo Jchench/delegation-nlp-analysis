@@ -1,0 +1,302 @@
+88 STAT. ]
+PUBLIC LAW 93-495—OCT. 28, 1974
+1511
+
+AUTHORIZATION OF APPROPRIATIONS
+
+SEC. 208. There are authorized to be appropriated without fiscal 
+year limitations such sums, not to exceed $2,000,000, as may be neces-
+sary to carry out the provisions of this title.
+
+TITLE III—FAIR CREDIT BILLING 
+
+§ 301. Short title
+    This title may be cited as the "Fair Credit Billing Act".
+§ 302. Declaration of purpose
+    The last sentence of section 102 of the Truth in Lending Act (15
+U.S.C. 1601) is amended by striking out the period and inserting in 
+lieu thereof a comma and the following: "and to protect the consumer 
+against inaccurate and unfair credit billing and credit card practices."
+§ 303. Definitions of creditor and open end credit plan
+    The first sentence of section 103(f) of the Truth in Lending Act 
+(15 U.S.C. 1602(f)) is amended to read as follows: "The term 'credi-
+tor' refers only to creditors who regularly extend, or arrange for the 
+extension of, credit which is payable by agreement in more than four 
+installments or for which the payment of a finance charge is or may 
+be required, whether in connection with loans, sales of property or 
+services, or otherwise. For the purposes of the requirements Imposed 
+under Chapter 4 and sections 127(a)(6), 127(a)(7), 127(a)(8), 127 
+(b)(1), 127(b)(2), 127(b)(3), 127(b)(9), and 127(b)(11) of Chapter 
+2 of this Title, the term 'creditor' shall also include card issuers whether 
+or not the amount due is payable by agreement in more than four installments or the payment of a finance charge is or may be required, 
+and the Board shall, by regulation, apply these requirements to such 
+card issuers, to the extent appropriate, even though the requirements 
+are by their terms applicable only to creditors offering open end 
+credit plans.
+§ 304. Disclosure of fair credit billing rights
+    (a) Section 127(a) of the Truth in Lending Act (15 U.S.C. 1637
+(a)) is amended by adding at the end thereof a new paragraph as 
+follows:
+        "(8) A statement, in a form prescribed by regulations of the 
+        Board of the protection provided by sections 161 and 170 to an 
+        obligor and the creditor's responsibilities under sections 162 and 
+        170. With respect to each of two billing cycles per year, at semi-
+        annual intervals, the creditor shall transmit such statement to each 
+        obligor to whom the creditor is required to transmit a statement 
+        pursuant to section 127(b) for such billing cycle."
+   (b) Section 127(c) of such Act (15 U.S.C. 1637(c)) is amended to 
+read:
+        "(c) In the case of any existing account under an open end con-
+        sumer credit plan having an outstanding balance of more than $1 at 
+        or after the close of the creditor's first full billing cycle under the plan 
+        after the effective date of subsection (a) or any amendments thereto, 
+        the items described in subsection (a), to the extent applicable and not 
+        previously disclosed, shall be disclosed in a notice mailed or delivered 
+        to the obligor not later than the time of mailing the next statement 
+        required by subsection (b)."
+§ 305. Disclosure of billing contact
+    Section 127(b) of the Truth in Lending Act (15 U.S.C. 1637(b)) is 
+amended by adding at the end thereof a new paragraph as follows:
+1512
+
+PUBLIC LAW 93-495-OCT. 28, 1974	[88 STAT.
+
+
+“(11) The address to be used by the creditor for the purpose 
+of receiving billing inquires from the obligor.”
+
+
+§ 306. Billing practices
+
+The Truth in Lending Act (15 U.S.C. 1601-1665) is amended by 
+adding at the end thereof a new chapter as follows:
+
+
+“Chapter 4-CREDIT BILLING
+
+  “Sec.
+  "161. Correction of billing errors.
+   162. Regulation of credit reports.
+   163. Length of billing period.
+   164. Prompt crediting of payments.
+   165. Crediting excess payments.
+   166. Prompt notification of returns.
+   167. Use of cash discounts.
+   168. Prohibition of tie-in services.
+   169. Prohibition of offsets.
+   170. Rights of credit card customers.
+   171. Relation to State laws.
+
+
+§ 161. Correction of billing errors.
+
+  “(a) If a creditor, within sixty days after having transmitted to an 
+obligor a statement of the obligor’s account in connection with an 
+extension of consumer credit, receives at the address disclosed under 
+section 127(b)(11) a written notice (other than notice on a pnyment 
+stub or other payment medium supplied by the creditor if the creditor 
+so stipulates with the disclosure required under section 127(a) (8) ) 
+from the obligor in which the obligor-
+
+
+“(1) sets forth or otherwise enables the creditor to identify the 
+name and account number (if any) of the obligor,
+
+“(2) indicates the obligor’s belief that the statement contains 
+a billing error and the amount of such billing error, and
+
+
+‘(3) sets forth the reasons for the obligor’s belief (to the 
+extent applicable) that the statement contains a billing error, 
+the creditor shall, unless the obligor has, after giving such written 
+notice and before the expiration of the time limits herein specified, 
+agreed that the statement was correct-
+
+
+“(A) not later than thirty days after receipt of the notice, 
+send a written acknowledgement thereof to the obligor, unless the 
+action required in subparagraph (B) is taken within such thirty- 
+day period, and
+
+‘(B) not later than two complete billing cycles of the creditor 
+(in no event later than ninety days) after the receipt of the notice 
+and prior to taking any action to collect the amount, or any part 
+thereof, indicated by the obligor under paragraph (2) either-
+
+
+“(i) make appropriate corrections in the account of the 
+obligor, including the crediting of any finance charges on amounts erroneously billed, and transmit to the obligor a 
+notification of such corrections and the creditor’s explanation 
+of any change the amount indicated by the obligor under 
+paragraph (2) and, if any such change is made and the 
+obligor so requests, copies of documentary evidence of the 
+obligor’s indebetness; or
+
+
+"(ii) send a written explanation or clarification to the 
+obligor, after having conducted an investigation, setting 
+forth to the extent applicable the reasons why the creditor 
+believes the account of the obligor was correctly shown in 
+the statement and, upon request of the obligor, provide copies 
+of documentary evidence of the obligor’s indebtedness. In 
+the case of a billing error where the obligor alleges that the 
+creditor’s billing statement reflects goods not delivered to
+88 STAT. ]  PUBLIC LAW 93-495-OCT. 28, 1974 
+
+the obligor or his designee in accordance with the agreement made at the time of the transaction, a creditor may not construe such amount to be correctly shown unless he determines that such goods were actually delivered, mailed, or otherwise sent to the obligor and provides the obligor with a statement of such determination.
+After complying with the provisions of this subsection with respect to an alleged billing error, a creditor has no further responsibility under this section if the obligor continues to make substantially the same allegation with respect to such error.
+"(b) For the purpose of this section, a 'billing error' consists of any of the following;
+"(1) A reflection on a statement of an extension of credit which was not made to the obligor or, if made, was not in the amount reflected on such statement.
+"(2) A reflection on a statement of an extension of credit for which the obligor requests additional clarification including documentary evidence thereof.
+"(3) A reflection on a statement of goods or services not accepted by the obligor or his designee or not delivered to the obligor or his designee in accordance with the agreement made at the time of a transaction.
+"(4) The creditor's failure to reflect properly on a statement a payment made by the obligor or a credit issued to the obligor.
+"(5) A computation error or similar error of an accounting nature of the creditor on a statement.
+"(6) Any other error described in regulations of the Board.
+"(c) For the purposes of this section, 'action to collect the amount,' or any part thereof, indicated by an obligor under paragraph (2) does not include the sending of statements of account to the obligor following written notice from the obligor as specified under subsection (a), if—
+"(1) the obligor's account is not restricted or closed because of the failure of the obligor to pay the amount indicated undei paragraph (2) of subsection (a), and 
+"(2) the creditor indicates the payment of such amount is not required pending the creditor's compliance with this section.
+Nothing in this section shall be construed to prohibit any action by a creditor to collect any amount which has not been indicated by the obligor to contain a billing error.
+"(d) Pursuant to regulations of the Board, a creditor operating an open end consumer credit plan may not, prior to the sending of the written explanation or clarification required under paragraph (B)(ii), restrict or close an account with respect to which the obligor has indicated pursuant to section (a) that he believes such account to contain a billing error solely because of the obligor's failure to pay the amount indicated to be in error. Nothing in this subsection shall be deemed to prohibit a creditor from applying against the credit limit on the obligor's account the amount indicated to be in error.
+"(e) Any creditor who fails to comply with the requirements of this section or section 162 forfeits any right to collect from the obligor the amount indicated by the obligor under paragraph (2) of subsection (a) of this section, and any finance charges thereon, except that the amount required to be forfeited under this subsection may not exceed $50.
+ 
+§ 162. Regulation of credit reports.
+"(a) After receiving a notice from an obligor as provided in section 161 (a), a creditor or his agent may not directly or indirectly threaten
+1514               PUBLIC LAW 93-495-OCT. 28, 1974                          [88 STAT.
+
+to report to any person adversely on the obligor's credit rating or
+credit standing because of the obligor's failure to pay the amount
+indicated by the obligor under section 161(a) (2), and such amount
+may not be reported as delinquent to any third party until the creditor
+has met the requirements of section 161 and has allowed the obligor
+the same number of days (not less than ten) thereafter to make
+payment as is provided under the credit agreement with the obligor
+for the payment of undisputed amounts.
+    "(b) Han creditor receives a further written notice from an obligor
+that an amount is still in dispute within the time allowed for payment
+under subsection (a) of this section, a creditor may not report to any
+third party that the amount of the obligor is delinquent because the
+obligor has failed to pay an amount which he has indicated under
+section 161(a) (2), unless the creditor also reports that the amount
+is in dispute and, at the same time, notifies the obligor of the name
+and address of each party to whom the creditor is reporting informa­
+tion concerning the delinquency.
+    "(c) A creditor shall report any subsequent resolution of any delin­
+quencies reported pursuant to subsection (b) to the parties to whom
+such delinquencies were initially reported.
+              "§ 163. Length of billing period
+   " (a) If an open end consumer credit plan provides a time period
+within which an obligor may repay any portion of the credit extended
+without incurring an additional finance charge, such additional
+finance charge may not be imposed with respect to such portion of the
+credit extended for the billing cycle of which such period is a part
+unless a statement which includes the amount upon which the finance
+charge for that period is based was mailed at least fourteen days
+prior to the date specified in the statement by which payment must
+be made in order to avoid imposition of that finance charge.
+   "(b) Subsection (a) does not apply in any case where a creditor
+has been prevented, delayed, or hindered in making timely mailing or
+delivery of such periodic statement within the time period specified
+in such subsection because of an act of God, war, natural disaster,
+strike, or other excusable or justifiable cause, as determined under reg­
+ulations of the Board.
+              "§ 164. Prompt crediting of payments
+   "Payments received from an obligor under an open end consumer
+credit plan by the creditor shall be posted promptly to the obligor's
+account as specified in regulations of the Board. Such regulations shall
+prevent a finance charge from being imposed on any obligor if the
+creditor has received the obligor's payment in readily identifiable form
+in the amount, manner, location, and time indicated by the creditor
+to avoid the imposition thereof.
+              "§ 165. Crediting excess payments
+   "Whenever an obligor transmits funds to a creditor in excess of the
+total balance due on an open end consumer credit account, the creditor
+shall promptly (1) upon request of the obligor refund the amount of
+the overpayment, or (2) credit such amount to the obligor's account.
+              "§ 166. Prompt notification of returns
+
+   "With respect to any sales transaction where a credit card has been
+used to obtain credit, where the seller is a person other than the card
+issuer, and where the seller accepts or allows a return of the goods
+or forgiveness of a debit for services which were the subject of such
+sale, the seller shall promptly transmit to the credit card issuer, a
+credit statement with respect thereto and the credit card issuer shall
+credit the account of the obligor for the amount of the transaction.
+88 STAT. ]
+
+PUBLIC LAW 93-495- OCT. 28, 1974 
+
+"§167. Use of cash discounts
+  "(a) With respect to credit card which may be used for exr-en ions of credit in sales transactions in which the seller is a person other than 
+the card issuer, the card issuer may not, by contract or otherwise, prohibit any such seller from offering a discount to a cardholder to induce the cardholder to pay by cash, check, or similar means rather than use a credit card.
+  "(b) With respect to any sales transaction, any discount not in excess of 5 per centum offered by the seller for the purpose of inducing payment by cash, check, or other means not involving the use of a credit card shall not constitute a finance charge as determined under section 106, if such discount is offered to all prospective buyers and its availability is disclosed to all prospective buyers clearly and conspicuously in accordance with regulations of the Board.
+15 USC 1666f.
+"§ 168. Prohibition of tie-in services
+"Notwithstanding any agreement to the contrary, a card issuer may not require a seller, as a condition to participating in a credit card plan, to open an account with or procure any other service from the card issuer or its subsidiary or agent.
+15 USC 1666g.
+"§ 169. Prohibition of offsets
+  "(a) A card issuer may not take any action to offset a cardholder's indebtedness arising in connection with a consumer credit transaction under the relevant credit card plan against funds of the cardholder held on deposit with the card issuer unless—
+  "(1) such action was previously authorized in writing by the cardholder in accordance with a credit plan whereby the cardholder agrees periodically to pay debts incurred in his open end credit account by permitting the card issuer periodically to deduct all or a portion of such debt from the cardholder's deposit account, and
+  "(2) such action with respect to any outstanding disputed amount not be taken by the card issuer upon request of the cardholder.
+In the case of any credit card account in existence on the effective date of this section, the previous written authorization referred to in clause (1) shall not be required until the date (after such effective date) when such account is renewed, but in no case later than one year after such effective date. Such written authorization shall be deemed to exist if the card issuer has previously notified the cardholder that the use of his credit card account will subject any funds which the card issuer holds in deposit accounts of such cardholder to offset against any amounts due and payable on his credit card account which have not been paid in accordance with the terms of the agreement between the card issuer and the cardholder.
+  "(b) This section does not alter or affect the right under State law of a card issuer to attach or otherwise levy upon funds of a cardholder held on deposit with the card issuer if that remedy is constitutionally available to creditors generally.
+15 USC 1666h.
+"§ 170. Rights of credit card customers
+  "(a) Subject to the limitation contained in subsection (b), a card issuer who has issued a credit card to a cardholder pursuant to an 
+open end consumer credit plan shall be subject to all claims (other than tort claims) and defenses arising out of any transaction in which 
+the credit card is used as a method of payment or extension of credit 
+if (1) the obligor has made a good faith attempt to obtain satisfactory 
+resolution of a disagreement or problem relative to the transaction from the person honoring the credit card; (2) the amount of the initial
+15 USC 1666i.
+PUBLIC LAW 93-495-OCT. 28, 1974
+
+transaction exceeds $50; and (3) the place where the initial transaction occurred was in the same State as the mailing address previously provided by the cardholder or was within 100 miles from such address; except that the limitations set forth in clauses (2) and (3) with respect to an obligor's right to assert claims and defenses against a card issuer shall not be applicable to any transaction in which the person honoring the credit card (A) is the same person as the card issuer, (B) is controlled by the card issuer, (C) is under direct or indirect common control with the card issuer, (D) is a franchised dealer in the card issuer's products or services, or (E) has obtained the order for such transaction through a mail solicitation made by or participated in by the card issuer in which the cardholder is solicited to enter into such transaction by using the credit card issued by the card issuer.
+    "(b) The amount of claims or defenses asserted by the cardholder may not exceed the amount of credit outstanding with respect to such transaction at the time the cardholder first notifies the card issuer or the person honoring the credit card of such claim or defense. For the purpose of determining the amount of credit outstanding in the preceding sentence, payments and credits to the cardholder's account are deemed to have been applied, in the order indicated, to the payment of: (1) late charges in the order of their entry to the account; (2) finance charges in the order of their entry to the account; and (3) debits to the account other than those set forth above, in the order in which each debit entry to the account was made.
+
+"§ 171. Relation to State laws
+    "(a) This chapter does not annul, alter, or affect, or exempt any person subject to the provisions of this chapter from complying with, the laws of any State with respect to credit billing practices, except to the extent that those laws are inconsistent with any provision of this chapter, and then only to the extent of the inconsistency. The Board is authorized to determine whether such inconsistencies exist. The Board may not determine that any State law is inconsistent with any provision of this chapter if the Board determines that such law gives greater protection to the consumer.
+    "(b) The Board shall by regulation exempt from the requirements of this chapter any class of credit transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this chapter or that such law gives greater protection to the consumer, and that there is adequate provision for enforcement."
+
+§ 307. Conforming amendments
+    (a) The table of chapters of the Truth in Lending Act is amended by adding immediately under item 3 the following:
+    "4. CREDIT BILLING...................................  161"
+    (b) Section 111(d) of such Act (15 U.S.C. 1610(d)) is amended by striking out "and 130" and inserting in lieu thereof a comma and the following: "130, and 166".
+    (c) Section 121(a) of such Act (15 U.S.C. 1631(a)) is amended---
+    (1) by striking out "and upon whom a finance charge is or may be imposed"; and
+    (2) by inserting "or chapter 4" immediately after "this chapter".
+    (d) Section 121(b) of such Act (15 U.S.C. 1631(b)) is amended by inserting "or chapter 4" immediately after "this chapter".
+    (e) Section 122(a) of such Act (15 U.S.C. 1632(a)) is amended by inserting "or chapter 4" immediately after "this chapter".
+88 STAT. ]
+PUBLIC LAW 93-495-OCT. 28, 1974
+1517
+
+(f) Section 122(b) of such Act (15 U.S.C. 1632(b)) is amended by inserting "or chapter 4" immediately after "this chapter".
+
+§ 308. Effective date
+This title takes effect upon the expiration of one year after the date of its enactment.
+
+TITLE IV-AMENDMENTS TO THE TRUTH IN LENDING ACT <br>
+§ 401. Advertising; more-than-four-installment rule
+(a) Chapter 3 of the Truth in Lending Act (15 U.S.C. 1661-1665) is amended by adding at the end thereof a new section as follows:
+§ 146. More-than-four-installment rule
+"Any advertisement to aid, promote, or assist directly or indirectly the extension of consumer credit repayable in more than four installments shall, unless a finance charge is imposed, clearly and conspicuously state, in accordance with the regulations of the Board:
+" 'THE COST OF CREDIT IS INCLUDED IN THE PRICE QUOTED FOR THE GOODS AND SERVICES.' "
+(b) The table of sections of such chapter is amended by adding at the end thereof a new item as follows:
+"146. More-than-four-installment rule."
+
+§ 402. Agricultural credit exemption
+Section 104 of the Truth in Lending Act (15 U.S.C. 1603) is amended by adding at the end thereof a new paragraph as follows:
+"(5) Credit transactions primarily for agricultural purposes in which the total amount to be financed exceeds $25,000."
+
+§ 403. Administrative enforcement
+(a) Section 108(a) of the Truth in Lending Act (15 U.S.C. 1607 (a)) is amended by striking out paragraph (4) and by redesignating paragraphs (5) and (6) as paragraphs (4) and (5), respectively.
+(b) Section 108(a) of such Act (15 U.S.C. 1607(a)) is amended by adding at the end thereof a new paragraph as follows:
+"(6) the Farm Credit Act of 1971, by the Farm Credit Administration with respect to any Federal land bank, Federal land bank association, Federal intermediate credit bank, or production credit association."
+
+§ 404. Liens arising by operation of State law
+Section 125 of the Truth in Lending Act (15 U.S.C. 1635) is amended-
+(1) by striking out "is" the first time it appears in the first sentence of subsection (a) and inserting in lieu thereof "including any such interest arising by operation of law, is or will be";
+(2) by inserting after "obligor" the second time it appears in the first sentence of subsection (b) the following: "including any such interest arising by operation of law,".
+
+§ 405. Time limit for right of rescission
+Section 125 of the Truth in Lending Act (15 U.S.C. 1635) is amended by adding at the end thereof a new subsection as follows:
+“(f) An obligor’s right of rescission shall expire three years after the date of consummation of the transaction or upon the sale of the property, whichever occurs earlier, notwithstanding the fact that the disclosures required under this section or any other material dis

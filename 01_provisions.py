@@ -161,8 +161,7 @@ for rl in rules:
                         entity_entitlement_lst.append(1)
 
     # Extract the law name using a regular expression
-    law_name_match = re.search(r'public law \d+-\d+', preamble, re.IGNORECASE)
-    law_name = law_name_match.group() if law_name_match else "N/A"
+    law_name = os.path.splitext(os.path.basename(rl))[0]
 
     provisions_lst.append([
         law_name, doc_length, 

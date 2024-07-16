@@ -1,0 +1,808 @@
+[Public—No. 43—63d Congress.]
+[H. R. 7837.]
+
+An Act To provide for the establishment of Federal reserve banks, to furnish an elastic currency, to afford means of rediscounting commercial paper, to establish a more effective supervision of banking in the United States, and for other purposes.
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the short title of this Act shall be the “Federal Reserve Act.”
+Wherever the word “bank” is used in this Act, the word shall be held to include State bank, banking association, and trust company, except where national banks or Federal reserve banks are specifically referred to.
+The terms “national bank” and “national banking association” used in this Act shall be held to be synonymous and interchangeable. The term “member bank” shall be held to mean any national bank, State bank, or bank or trust company which has become a member of one of the reserve banks created by this Act. The term “board” shall be held to mean Federal Reserve Board; the term “district” shall be held to mean Federal reserve district; the term “reserve bank” shall be held to mean Federal reserve bank.
+
+federal reserve districts.
+
+Sec. 2. As soon as practicable, the Secretary of the Treasury, the Secretary of Agriculture and the Comptroller of the Currency, acting as “The Reserve Bank Organization Committee,” shall designate not less than eight nor more than twelve cities to be known as Federal reserve cities, and shall divide the continental United States, excluding Alaska, into districts, each district to contain only one of such Federal reserve cities. The determination of said organization committee shall not be subject to review except by the Federal Reserve Board when organized: Provided, That the districts shall be apportioned with due regard to the convenience and customary course of business and shall not necessarily be coterminous with any State or States. The districts thus created may be readjusted and new districts may from time to time be created by the Federal Reserve Board, not to exceed twelve in all. Such districts shall be known as Federal reserve districts and may be designated by number. A majority of the organization committee shall constitute a quorum with authority to act.
+Said organization committee shall be authorized to employ counsel and expert aid, to take testimony, to send for persons and papers, to administer oaths, and to make such investigation as may be deemed necessary by the said committee in determining the reserve districts and in designating the cities within such districts where such Federal reserve banks shall be severally located. The said committee shall supervise the organization in each of the cities designated of a Federal reserve bank, which shall include in its title the name of the city in which it is situated, as “Federal Reserve Bank of Chicago.”
+
+Digitized for FRASER
+http://fraser.stlouisfed.org/
+Federal Reserve Bank of St. Louis
+2
+
+Under regulations to be prescribed by the organization committee, every national banking association in the United States is hereby required, and every eligible bank in the United States and every trust company within the District of Columbia, is hereby authorized to signify in writing, within sixty days after the passage of this Act, its acceptance of the terms and provisions hereof. When the organization committee shall have designated the cities in which Federal reserve banks are to be organized, and fixed the geographical limits of the Federal reserve districts, every national banking association within that district shall be required within thirty days after notice from the organization committee, to subscribe to the capital stock of such Federal reserve bank in a sum equal to six per centum of the paid-up capital stock and surplus of such bank, one-sixth of the subscription to be payable on call of the organization committee or of the Federal Reserve Board, one-sixth within three months and one-sixth within six months thereafter, and the remainder of the subscription, or any part thereof, shall be subject to call when deemed necessary by the Federal Reserve Board, said payments to be in gold or gold certificates.
+
+The shareholders of every Federal reserve bank shall be held individually responsible, equally and ratably, and not one for another, for all contracts, debts, and engagements of such bank to the extent of the amount of their subscriptions to such stock at the par value thereof in addition to the amount subscribed, whether such subscriptions have been paid up in whole or in part, under the provisions of this Act.
+
+Any national bank failing to signify its acceptance of the terms of this Act within the sixty days aforesaid, shall cease to act as a reserve agent, upon thirty days' notice, to be given within the discretion of the said organization committee or of the Federal Reserve Board.
+
+Should any national banking association in the United States now organized fail within one year after the passage of this Act to become a member bank or fail to comply with any of the provisions of this Act applicable thereto, all of the rights, privileges, and franchises of such association granted to it under the national-bank Act, or under the provisions of this Act, shall be thereby forfeited. Any noncompliance with or violation of this Act shall, however, be determined and adjudged by any court of the United States of competent jurisdiction in a suit brought for that purpose in the district or territory in which such bank is located, under direction of the Federal Reserve Board, by the Comptroller of the Currency in his own name before the association shall be declared dissolved. In cases of such noncompliance or violation, other than the failure to become a member bank under the provisions of this Act, every director who participated in or assented to the same shall be held liable in his personal or individual capacity for all damages which said bank, its shareholders, or any other person shall have sustained in consequence of such violation.
+
+Such dissolution shall not take away or impair any remedy against such corporation, its stockholders or officers, for any liability or penalty which shall have been previously incurred.
+
+Should the subscriptions by banks to the stock of said Federal reserve banks or any one or more of them be, in the judgment of the organization committee, insufficient to provide the amount of capital
+required therefor, then and in that event the said organization com- 
+mittee may, under conditions and regulations to be prescribed by it, 
+offer to public subscription at par such an amount of stock in said 
+Federal reserve banks, or any one or more of them, as said committee 
+shall determine, subject to the same conditions as to payment and 
+stock liability as provided for member banks. 
+No individual, copartnership, or corporation other than a member 
+bank of its district shall be permitted to subscribe for or to hold at 
+any time more than $25,000 par value of stock in any Federal reserve 
+bank. Such stock shall be known as public stock and may be trans- 
+ferred on the books of the Federal reserve bank by the chairman of 
+the board of directors of such bank. 
+Should the total subscriptions by banks and the public to the stock 
+of said Federal reserve banks, or any one or more of them, be, in the 
+judgment of the organization committee, insufficient to provide the 
+amount of capital required therefor, then and in that event the said 
+organization committee shall allot to the United States such an 
+amount of said stock as said committee shall determine. Said United 
+States stock shall be paid for at par out of any money in the Treas- 
+ury not otherwise appropriated, and shall be held by the Secretary 
+of the Treasury and disposed of for the benefit of the United States 
+in such manner, at such times, and at such price, not less than par, 
+as the Secretary of the Treasury shall determine. 
+Stock not held by member banks shall not be entitled to voting 
+power. 
+The Federal Reserve Board is hereby empowered to adopt and 
+promulgate rules and regulations governing the transfers of said 
+stock. 
+No Federal reserve bank shall commence business with a sub- 
+scribed capital less than St,000,000. The organization of reserve 
+districts and Federal reserve cities shall not be construed as chang- 
+ing the present status of reserve cities and central reserve cities, 
+except in so far as this Act changes the amount of reserves that 
+may be carried with approved reserve agents located therein. The 
+organization committee shall have power to appoint such assistants 
+and incur such expenses in carrying out the provisions of this Act as 
+it shall deem necessary, and such expenses shall be payable by the 
+Treasurer of the United States upon voucher approved by the Secre- 
+tary of the Treasury, and the sum of $100,000, or so much thereof as 
+may be necessary, is hereby appropriated, out of any moneys in the 
+Treasury not otherwise appropriated, for the payment of such 
+expenses. 
+BRANCH OFFICES. 
+Sec. 3. Each Federal reserve bank shall establish branch banks 
+within the Federal reserve district in which it is located and may do 
+so in the district of any Federal reserve bank which may have been 
+suspended. Such branches shall be operated by a board of directors 
+under rules and regulations approved by the Federal Reserve Board. 
+Directors of branch banks shall possess the same qualifications as 
+directors of the Federal reserve banks. Four of said directors shall 
+be selected by the reserve bank and three by the Federal Reserve 
+Board, and they shall hold office during the pleasure, respectively, 
+of the parent bank and the Federal Reserve Board. The reserve 
+bank shall designate one of the directors as manager. 
+20366 0-13------22 
+
+4
+[Pub. 43]
+FEDERAL RESERVE BANKS.
+
+Sec. 4. When the organization committee shall have established Federal reserve districts as provided in section two of this Act. a certificate shall be filed with the Comptroller of the Currency showing the geographical limits of such districts and the Federal reserve city designated in each of such districts. The Comptroller of the Currency shall thereupon cause to be forwarded to each national bank located in each district, and to such other banks declared to be eligible by the organization committee which may apply therefor, an application blank in form to be approved by the organization committee, which blank shall contain a resolution to be adopted by the board of directors of each bank executing such application, authorizing a subscription to the capital stock of the Federal reserve bank organizing in that district in accordance with the provisions of this Act.
+
+When the minimum amount of capital stock prescribed by this Act for the organization of any Federal reserve bank shall have been subscribed and allotted, the organization committee shall designate any five banks of those whose applications have been received, to execute a certificate of organization, and thereupon the banks so designated shall, under their seals, make an organization certificate which shall specifically state the name of such Federal reserve bank, the territorial extent of the district over which the operations of such Federal reserve bank are to be carried on, the city and State in which said bank is to be located, the amount of capital stock and the number of shares into which the same is divided, the name and place of doing business of each bank executing such certificate, and of all banks which have subscribed to the capital stock of such Federal reserve bank and the number of shares subscribed by each, and the fact that the certificate is made to enable those banks executing the same, and all banks which have subscribed or may thereafter subscribe to the capital stock of such Federal reserve bank, to avail themselves of the advantages of this Act.
+
+The said organization certificate shall be acknowledged before a judge of some court of record or notary public; and shall be, together with the acknowledgment thereof, authenticated by the seal of such court, or notary, transmitted to the Comptroller of the Currency, who shall file, record and carefully preserve the same in his office.
+
+Upon the filing of such certificate with the Comptroller of the Currency as aforesaid, the said Federal reserve bank shall become a body corporate and as such, and in the name designated in such organization certificate, shall have power—
+First. To adopt and use a corporate seal.
+Second. To have succession for a period of twenty years from its organization unless it is sooner dissolved by an Act of Congress, or unless its franchise becomes forfeited by some violation of law.
+Third. To make contracts.
+Fourth. To sue and be sued, complain and defend, in any court of law or equity.
+Fifth. To appoint by its board of directors, such officers and employees as are not otherwise provided for in this Act, to define their duties, require bonds of them and fix the penalty thereof, and to dismiss at pleasure such officers or employees.
+Sixth. To prescribe by its board of directors, by-laws not inconsistent with law, regulating the manner in which its general business may be conducted, and the privileges granted to it by law may be exercised and enjoyed.
+Seventh. To exercise by its board of directors, or duly authorized officers or agents, all powers specifically granted by the provisions of this Act and such incidental powers as shall be necessary to carry on the business of banking within the limitations prescribed by this Act.
+Eighth. Upon deposit with the Treasurer of the United States of any bonds of the United States in the manner provided by existing law relating to national banks, to receive from the Comptroller of the Currency circulating notes in blank, registered and countersigned as provided by law, equal in amount to the par value of the bonds so deposited, such notes to be issued under the same conditions and provisions of law as relate to the issue of circulating notes of national banks secured by bonds of the United States bearing the circulating privilege, except that the issue of such notes shall not be limited to the capital stock of such Federal reserve bank.
+But no Federal reserve bank shall transact any business except such as is incidental and necessarily preliminary to its organization until it has been authorized by the Comptroller of the Currency to commence business under the provisions of this Act.
+Every Federal reserve bank shall be conducted under the supervision and control of a board of directors.
+The board of directors shall perform the duties usually appertaining to the office of directors of banking associations and all such duties as are prescribed by law.
+Said board shall administer the affairs of said bank fairly and impartially and without discrimination in favor of or against any member bank or banks and shall, subject to the provisions of law and the orders of the Federal Reserve Board, extend to each member bank such discounts, advancements and accommodations as may be safely and reasonably made with due regard for the claims and demands of other member banks.
+Such board of directors shall be selected as hereinafter specified and shall consist of nine members, holding office for three years, and divided into three classes, designated as classes A, B, and C.
+Class A shall consist of three members, who shall be chosen by and be representative of the stock-holding banks.
+Class B shall consist of three members, who at the time of their election shall be actively engaged in their district in commerce, agriculture or some other industrial pursuit.
+Class C shall consist of three members who shall be designated by the Federal Reserve Board. When the necessary subscriptions to the capital stock have been obtained for the organization of any Federal reserve bank, the Federal Reserve Board shall appoint the class C directors and shall designate one of such directors as chairman of the board to be selected. Pending the designation of such chairman, the organization committee shall exercise the powers and duties appertaining to the office of chairman in the organization of such Federal reserve bank.
+No Senator or Representative in Congress shall be a member of the Federal Reserve Board or an officer or a director of a Federal reserve bank.
+No director of class B shall be an officer, director, or employee of any bank.
+
+No director of class C shall be an officer, director, employee, or stockholder of any bank.
+
+Directors of class A and class B shall be chosen in the following manner:
+
+The chairman of the board of directors of the Federal reserve bank of the district in which the bank is situated or, pending the appointment of such chairman, the organization committee shall classify the member banks of the district into three general groups or divisions. Each group shall contain as nearly as may be one-third of the aggregate number of the member banks of the district and shall consist, as nearly as may be, of b^nks of similar capitalization. The groups shall be designated by number by the chairman.
+
+At a regularly called meeting of the board of directors of each member bank in the district it shall elect by ballot a district reserve elector and shall certify his name to the chairman of the board of directors of the Federal reserve bank of the district. The chairman shall make lists of the district reserve electors thus named by banks in each of the aforesaid three groups and shall transmit one list to each elector in each group.
+
+Each member bank shall be permitted to nominate to the chairman one candidate for director of class A and one candidate for director of class B. The candidates so nominated shall be listed by the chairman, indicating by whom nominated, and a copy of said list shall, within fifteen days after its completion, be furnished by the chairman to each elector.
+
+Every elector shall, within fifteen days after the receipt of the said list, certify to the chairman his first, second, and other choices of a director of class A and class B, respectively, upon a preferential ballot, on a form furnished by the chairman of the board of directors of the Federal reserve bank of the district. Each elector shall make a cross opposite the name of the first, second, and other choices for a director of class A and for a director of class B, but shall not vote more than one choice for any one candidate.
+
+Any candidate having a majority of all votes east in the column of first choice shall be declared elected. If no candidate have a majority of all the votes in the first column, then there shall be added together the votes cast by the electors for such candidates in the second column and the votes east for the several candidates in the first column. If any candidate then have a majority of the electors voting, by adding together the first and second choices, he shall be declared elected. If no candidate have a majority of electors voting when the first and second choices shall have been added, then the votes cast in the third column for other choices shall be added together in like manner, and the candidate then having the highest number of votes shall be declared elected. An immediate report of election shall be declared.
+
+Class C directors shall be appointed by the Federal Reserve Board. They shall have been for at least two years residents of the district for which they are appointed, one of whom shall be designated by said board as chairman of the board of directors of the Federal reserve bank and as “Federal reserve agent.” He shall be a person of tested banking experience; and in addition to his duties as chairman
+of the board of directors of the Federal reserve bank he shall be required to maintain under regulations to be established by the Federal Reserve Board a local office of said board on the premises of the Federal reserve bank. He shall make regular reports to the Federal Reserve Board, and shall act as its official representative for the performance of the functions conferred upon it by this Act. He shall receive an annual compensation to be fixed by the Federal Reserve Board and paid monthly by the Federal reserve bank to which he is designated. One of the directors of class C, whp shall be a person of tested banking experience, shall be appointed by the Federal Reserve Board as deputy chairman and deputy Federal reserve agent to exercise the powers of the chairman of the board and Federal reserve agent in case of absence or disability of his principal.
+
+Directors of Federal reserve banks shall receive, in addition to any compensation otherwise provided, a reasonable allowance for necessary expenses in attending meetings of their respective boards, which amount shall be paid by the respective Federal reserve banks. Any compensation that may be provided by boards of directors of Federal reserve banks for directors, officers or employees shall be subject to the approval of the Federal Reserve Board.
+
+The Reserve Bank Organization Committee may, in organizing Federal reserve banks, call such meetings of bank directors in the several districts as may be necessary to carry out the purposes of this Act, and may exercise the functions herein conferred upon the chairman of the board of directors of each Federal reserve bank pending the complete organization of such bank.
+
+At the first meeting of the full board of directors of each Federal reserve bank, it shall be the duty of the directors of classes A. B and C, respectively, to designate one of the members of each class whose term of office shall expire in one year from the first of January nearest to date of such meeting, one whose term of office shall expire at the end of two years from said date, and one whose term of office shall expire at the end of three years from said date. Thereafter every director of a Federal reserve bank chosen as hereinbefore provided shall hold office for a term of three years. Vacancies that may occur in the several classes of directors of Federal reserve banks may be filled in the manner provided for the original sc'ection of such direetors, such appointees to hold office for the unexpii ed terms of their predecessors.
+
+STOCK ISSUES; INCREASE AND DECREASE OF CAPITAL.
+
+SEC. 5. The capital stock of each Federal reserve bank shall be divided into shares of $100 each. The outstanding capital stock shall be increased from time to time as member banks increase their capital stock and surplus or as additional banks become members, and may be decreased as member banks reduce their capital stock or surplus or cease to be members. Shares of the capital stock of Federal reserve banks owned by member banks shall not be transferred or hypothecated. When a member bank increases its capital stock or surplus, it shall thereupon subscribe for an additional amount of capital stock of the Federal reserve bank of its district equal to six per centum of the said increase, one-half of said sub-
+scription to be paid in the manner hereinbefore provided for original subscription, and one-half subject to call of the Federal Reserve Board. A bank applying for stock in a Federal reserve bank at any time after the organization thereof must subscribe for an amount of the capital stock of the Federal reserve bank equal to six per centrum of the paid-up capital stock and surplus of said applicant bank, paying therefor its par value plus one-half of one per centum a month from the period of the last dividend. When the capital stock of any Federal reserve bank shall have been increased either on account of the increase of capital stock of member banks or on account of the increase in the number of member banks, the board of directors shall cause to be executed a certificate to the Comptroller of the Currency showing the increase in capital stock, the amount paid in, and by whom paid. When a member bank reduces its capital stock it shall surrender a proportionate amount of its holdings in the capital of said Federal reserve bank, and when a member banks voluntarily liquidates it shall surrender all of its holdings of the capital stock of said Federal reserve bank and be released from its stock subscription not previously called. In either case the shares surrendered shall be canceled and the member bank shall receive in payment therefor, under regulations to be prescribed by the Federal Reserve Board, a sum equal to its cash-paid subscriptions on the shares surrendered and one-half of one per centum a month from the period of the last dividend, not to exceed the book value thereof, less any liability of such member bank to the Federal reserve bank.
+
+SEC. 6. If any member bank shall be declared insolvent and a 
+receiver appointed therefor, the stock held by it in said Federal reserve bank shall be canceled, without impairment of its liability, and all cash-paid subscriptions on said stock, with one-half of one per centum per month from the period of last dividend, not to exceed the book value thereof, shall be first applied to all debts of the insolvent member bank to the Federal reserve bank, and the balance, if any, shall be paid to the receiver of the insolvent bank. Whenever the capital stock of a Federal reserve bank is reduced, either on account of a reduction in capital stock of any member bank or of the liquidation or insolvency of such bank, the board of directors shall cause to be executed a certificate to the Comptroller of the Currency showing such reduction of capital stock and the amount repaid to such bank.
+
+DIVISION OF EARNINGS.
+
+SEC. 7. After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders shall be entitled to receive an annual dividend of six per centum on the paid-in capital stock, which dividend shall be cumulative. After the aforesaid dividend claims have been fully met, all the net earnings shall be paid to the United States as a franchise tax, except that one-half of such net earnings shall be paid into a surplus fund until it shall amount to forty per centum of the paid-in capital stock of such bank.
+
+The net earnings derived by the United States from Federal reserve banks shall, in the discretion of the Secretary, be used to supplement the gold reserve held against outstanding United States notes, or shall be applied to the reduction of the outstanding bonded indebtedness of
+
+Digitized for FRASER
+http://fraser.stlouisfed.org/
+Federal Reserve Bank of St. Louis
+the United States under regulations to be prescribed by the Secre-
+tary of the Treasury. Should a Federal reserve bank be dissolved
+or go into liquidation, any surplus remaining, after the payment of all
+debts, dividend requirements as hereinbefore provided, and the par
+value of the stock, shall be paid to and become the property of the
+United States and shall be similarly applied.
+Federal reserve banks, including the capital stock and surplus
+therein, and the income derived therefrom shall be exempt from
+Federal, State, and local taxation, except taxes upon real estate.
+Sec. 8. Section fifty-one hundred and fifty-four, United States
+Revised Statutes, is hereby amended to read as follows:
+Any bank incorporated by special law of any State of the
+United States or organized under the general laws of any State or of
+the United States and having an unimpaired capital sufficient to
+entitle it to become a national banking association under the pro-
+visions of the existing laws may, by the vote of the shareholders
+owning not less than fifty-one per centum of the capital stock of
+such bank or banking association, with the approval of the Comp-
+troller of the Currency be converted into a national banking associ-
+ation, with any name approved by the Comptroller of the Currency:
+Provided, however, That said conversion shall not be in contravention
+of the State law. In such case the articles of association and organi-
+zation certificate may be executed by a majority of the directors of
+the bank or banking institution, and the certificate shall declare that
+the owners of fifty-one per centum of the capital stock have author-
+ized the directors to make such certificate and to change or convert
+the bank or banking institution into a national association. A ma-
+jority of the directors, after executing the articles of association and
+the organization certificate, shall have power to execute all other
+papers and to do whatever may be required to make its organization
+perfect and complete as a national association. The shares of any
+such bank may continue to be for the same amount each as they
+were before the conversion, and the directors may continue to be
+directors of the association until others are elected or appointed in
+accordance with the provisions of the statutes of the United States.
+When the Comptroller has given to such bank or banking association
+a certificate that the provisions of this Act have been complied with,
+such bank or banking association, and all its stockholders, officers,
+and employes, shall have the same powers and privileges, and shall
+be subject to the same duties, liabilities, and regulations, in all re-
+spects, as shall have been prescribed by the Federal Reserve Act and
+by the national banking Act for associations originally organized as
+national banking associations.
+
+STATE BANKS AS MEMBERS.
+
+Sec. 9. Any bank incorporated by special law of any State, or
+organized under the general laws of any State or of the United
+States, may make application to the reserve bank organization
+committee, pending organization, and thereafter to the Federal
+Reserve Board for the right to subscribe to the stock of the Federal
+reserve bank organized or to be organized within the Federal reserve
+district where the applicant is located. The organization committee
+or the Federal Reserve Board, under such rules and regulations as
+10                                                                                                                      [PUB. 43]
+
+it may prescribe, subject to the provisions of this section, may permit the applying bank to become a stockholder in the Federal reserve bank of the district in which the applying bank is located. Whenever the organization committee or the Federal Reserve Board shall permit the applying bank to become a stockholder in the Federal reserve bank of the district, stock shall be issued and paid for under the rules and regulations in this Act provided for national banks which become stockholders in Federal reserve banks.
+
+The organization committee or the Federal Reserve Board shall establish by-laws for the general government of its conduct in acting upon applications made by the State banks and banking associations and trust companies for stock ownership in Federal reserve banks.
+Such by-laws shall require applying banks not organized under Federal law to comply with the reserve and capital requirements and to submit to the examination and regulations prescribed by the organization committee or by the Federal Reserve Board. No applying bank shall be admitted to membership in a Federal reserve bank unless it possesses a paid-up unimpaired capital sufficient to entitle it to become a national banking association in the place where it is situated, under the provisions of the national banking Act.
+
+Any bank becoming a member of a Federal reserve bank under the provisions of this section shall, in addition to the regulations and restrictions hereinbefore provided, be required to conform to the provisions of law imposed on the national banks respecting the limitation of liability which may be incurred by any person, firm, or corporation to such banks, the prohibition against making purchase of or loans on stock of such banks, and the withdrawal or impairment of capital, or the payment of unearned dividends, and to such rules and regulations as the Federal Reserve Board may, in pursuance thereof, prescribe.
+
+Such banks, and the officers, agents, and employees thereof, shall also be subject to the provisions of and to the penalties prescribed by sections fifty-one hundred and ninety-eight, fifty-two hundred, fifty-two hundred and one, and fifty-two hundred and eight, and fifty-two hundred and nine of the Revised Statutes. The member banks shall also be required to make reports of the conditions and of the payments of dividends to the comptroller, as provided in sections fifty-two hundred and eleven and fifty-two hundred and twelve of the Revised Statutes, and shall be subject to the penalties prescribed by section fifty-two hundred and thirteen for the failure to make such report. 
+
+If at any time it shall appear to the Federal Reserve Board that a member bank has failed to comply with the provisions of this section or the regulations of the Federal Reserve Board, it shall be within the power of the said board, after hearing, to require such bank to surrender its stock in the Federal reserve bank; upon such surrender the Federal reserve bank shall pay the cash-paid subscriptions to the said stock with interest at the rate of one-half of one per centum per month, computed from the last dividend, if earned, not to exceed the book value thereof, less any liability to said Federal reserve bank, except the subscription liability not previously called, which shall be canceled, and said Federal reserve bank shall, upon notice from the Federal Reserve Board, be required to suspend said bank from further privileges of membership, and shall within thirty days of such notice 
+
+                                                                                                                            Digitized for FRASER
+                                                                                                                            http://fraser.stlouisfed.org/
+                                                                                                                            Federal Reserve Bank of St. Louis
+[Pub. 43.]                                                                                   11
+cancel and retire its stock and make payment therefor in the manner herein provided. The Federal Reserve Board may restore membership upon due proof of compliance with the conditions imposed by this section.
+                              
+                              FEDERAL RESERVE BOARD.
+SEC. 10. A Federal Reserve Board is hereby created which shall consist of seven members, including the Secretary of the Treasury and the Comptroller of the Currency, who shall be members ex officio, and five members appointed by the President of the United States, by and with the advice and consent of the Senate. In selecting the five appointive members of the Federal Reserve Board, not more than one of whom shall be selected from any one Federal reserve district, the President shall have due regard to a fair representation of the different commercial, industrial and geographical divisions of the country. The five members of the Federal Reserve Board appointed by the President and confirmed as aforesaid shall devote their entire time to the business of the Federal Reserve Board and shall each receive an annual salary of $12,000, payable monthly together with actual necessary traveling expenses, and the Comptroller of the Currency, as ex officio member of the Federal Reserve Board, shall, in addition to the salary now paid him as Comptroller of the Currency, receive the sum of $7,000 annually for his services as a member of said Board.
+The members of said board, the Secretary of the Treasury, the Assistant Secretaries of the Treasury, and the Comptroller of the Currency shall be ineligible during the time they are in office and for two years thereafter to hold any office, position, or employment in any member bank. Of the five members thus appointed by the President at least two shall be persons experienced in banking or finance. One shall be designated by the President to serve for two, one for four, one for six, one for eight, and one for ten years, and thereafter each member so appointed shall serve for a term of ten years unless sooner removed for cause by the President. Of the five persons thus appointed, one shall be designated by the President as governor and one as vice governor of the Federal Reserve Board. The governor of the Federal Reserve Board, subject to its supervision, shall be the active executive officer. The Secretary of the Treasury may assign offices in the Department of the Treasury for the use of the Federal Reserve Board. Each member of the Federal Reserve Board shall within fifteen days after notice of appointment make and subscribe to the oath of office.
+The Federal Reserve Board shall have power to levy semiannually upon the Federal reserve banks, in proportion to their capital stock and surplus, an assessment sufficient to pay its estimated expenses and the salaries of its members and employees for the half year succeeding the levying of such assessment, together with any deficit carried forward from the preceding half year.
+The first meeting of the Federal Reserve Board shall be held in Washington, District of Columbia, as soon as may be after the passage of this Act, at a date to be fixed by the Reserve Bank Organization Committee. The Secretary of the Treasury shall be ex officio chairman of the Federal Reserve Board. No member of the Federal Reserve Board shall be an officer or director of any bank, banking
+12 [PUB. 43.]
+
+institution, trust company, or Federal reserve bank nor hold stock in any bank, banking institution, or trust company; and before entering upon his duties as a member of the Federal Reserve Board he shall certify under oath to the Secretary of the Treasury that he has complied with this requirement. Whenever a vacancy shall occur, other than by expiration of term, among the five members of the Federal Reserve Board appointed by the President, as above provided, a successor shall be appointed by the President, with the advice and consent of the Senate, to fill such vacancy, and when appointed he shall hold office for the unexpired term of the member whose place he is selected to fill.
+
+The President shall have power to fill all vacancies that may happen on the Federal Reserve Board during the recess of the Senate, by granting commissions which shall expire thirty days after the next session of the Senate convenes.
+
+Nothing in this Act contained shall be construed as taking away any powers heretofore vested by law in the Secretary of the Treasury which relate to the supervision, management, and control of the Treasury Department and bureaus under such department, and wherever any power vested by this Act in the Federal Reserve Board or the Federal reserve agent appears to conflict with the powers of the Secretary of the Treasury, such powers shall be exercised subject to the supervision and control of the Secretary.
+
+The Federal Reserve Board shall annually make a full report of its operations to the Speaker of the House of Representatives, who shall cause the same to be printed for the information of the Congress.
+
+Section three hundred and twenty-four of the Revised Statutes of the United States shall be amended so as to read as follows: There shall be in the Department of the Treasury a bureau charged with the execution of all laws passed by Congress relating to the issue and regulation of national currency secured by United States bonds and, under the general supervision of the Federal Reserve Board, of all Federal reserve notes, the chief officer of which bureau shall be called the Comptroller of the Currency and shall perform his duties under the general directions of the Secretary of the Treasury.
+
+SEC, 11. The Federal Reserve Board shall be authorized and
+
+powered:
+
+(a) To examine at its discretion the accounts, books and affairs of each Federal reserve bank and of each member bank and to require such statements and reports as it may deem necessary. The said board shall publish once each week a statement showing the condition of each Federal reserve bank and a consolidated statement for all Federal reserve banks. Such statements shall show in detail the assets and liabilities of the Federal reserve banks, single and combined, and shall furnish full information regarding the character of the money held as reserve and the amount, nature and maturities of the paper and other investments owned or held by Federal reserve banks.
+
+(b) To permit, or, on the affirmative vote of at least five members of the Reserve Board to require Federal reserve banks to rediscount the discounted paper of other Federal reserve banks at rates of interest to be fixed by the Federal Reserve Board.
+
+(c) To suspend for a period not exceeding thirty days, and from time to time to renew such suspension for periods not exceeding
+fifteen days, any reserve requirement specified in this Act: Provided,
+That it shall establish a graduated tax upon the amounts by which
+the reserve requirements of this Act may be permitted to fall below
+the level hereinafter specified: And provided further, That when the
+gold reserve held against Federal reserve notes falls below forty per
+centum, the Federal Reserve Board shall establish a graduated tax of
+not more than one per centum per annum upon such deficiency until
+the reserves fall to thirty-two and one-half per centum, and when
+said reserve falls below thirty-two and one-half per centum, a tax at
+the rate increasingly of not less than one and one-half per centum
+per annum upon each two and one-half per centum or fraction thereof
+that such reserve falls below thirty-two and one-half per centum.
+The tax shall be paid by the reserve bank, but the reserve bank shall
+add an amount equal to said tax to the rates of interest and discount
+fixed by the Federal Reserve Board.
+
+(d) To supervise and regulate through the bureau under the charge
+of the Comptroller of the Currency the issue and retirement of Federal
+reserve notes, and to prescribe rules and regulations under which such
+notes may be delivered by the Comptroller to the Federal reserve
+agents applying therefor.
+
+(e) To add to the number of cities classified as reserve and central
+reserve cities under existing law in which national banking associa-
+tions are subject to the reserve requirements set forth in section
+twenty of this Act; or to reclassify existing reserve and central reserve cities or to terminate their designation as such.
+
+(f) To suspend or remove any officer or director of any Federal
+reserve bank, the cause of such removal to be forthwith communi-
+cated in writing by the Federal Reserve Board to the removed officer
+or director and to said bank.
+
+(g) To require the writing off of doubtful or worthless assets upon
+the books and balance sheets of Federal reserve banks.
+
+(h) To suspend, for the violation of any of the provisions of this
+Act, the operations of any Federal reserve bank, to take possession
+thereof, administer the same during the period of suspension, and,
+when deemed advisable, to liquidate or reorganize such bank.
+
+(i) To require bonds of Federal reserve agents, to make regulations
+for the safeguarding of all collateral, bonds, Federal reserve notes,
+money or property of any kind deposited in the hands of such
+agents, and said board shall perform the duties, functions, or services
+specified in this Act, and make all rules and regulations necessary to
+enable said board effectively to perform the same.
+
+(j) To exercise general supervision over said Feirercl reserve banks.
+
+(k) To grant by special permit to national banks applying therefor,
+when not in contravention of State or local law, the right to act as
+trustee, executor, administrator, or registrar of stocks and bonds
+under such rules and regulations as the said board may prescribe.
+
+(1) To employ such attorneys, experts, assistants, clerks, or other
+employees as may be deemed necessary to conduct the business of
+the board. All salaries and fees shall be fixed in advance by said
+board and shall be paid in the same manner as the salaries of the
+members of said board. All such attorneys, experts, assistants,
+clerks, and other employees shall be appointed without regard to the
+provisions of the Act of January sixteenth, eighteen hundred and
+eighty-three (volume twenty-two, United States Statutes at Large,
+page four hundred and three), and amendments thereto, or any rule or regulation made in pursuance thereof: Provided, That nothing herein shall prevent the President from placing said employees in the classified service.
+
+FEDERAL ADVISORY COUNCIL.
+
+SEC. 12. There is hereby created a Federal Advisory Council, which shall consist of as many members as there are Federal reserve districts. Each Federal reserve bank by its board of directors shall annually select from its own Federal reserve district one member of said council, who shall receive such compensation and allowances as may be fixed by his board of directors subject to the approval of the Federal Reserve Board. The meetings of said advisory council shall be held at Washington, District of Columbia, at least four times each year, and oftener if called by the Federal Reserve Board. The council may in addition to the meetings above provided for hold such other meetings in Washington, District of Columbia, or elsewhere, as it may deem necessary, may select its own officers and adopt its own methods of procedure, and a majority of its members shall constitute a quorum for the transaction of business. Vacancies in the council shall be filled by the respective reserve banks, and members selected to fill vacancies, shall serve for the unexpired term.
+The Federal Advisory Council shall have power, by itself or through its officers, (1) to confer directly with the Federal Reserve Board on general business conditions; (2) to make oral or written representations concerning matters within the jurisdiction of said board; (3) to call for information and to make recommendations in regard to discount rates, rediscount business, note issues, reserve conditions in the various districts, the purchase and sale of gold or securities by reserve banks, open-market operations by said banks, and the general affairs of the reserve banking system.
+
+POWERS OF FEDERAL RESERVE BANKS.
+
+SEC. 13. Any Federal reserve bank may receive from any of its member banks, and from the United States, deposits of current funds in lawful money, national-bank notes, Federal reserve notes, or checks and drafts upon solvent member banks, payable upon presentation; or, solely for exchange purposes, may receive from other Federal reserve banks deposits of current funds in lawful money, national-bank notes, or checks and drafts upon solvent member or other Federal reserve banks, payable upon presentation.
+Upon the indorsement of any of its member banks, with a waiver of demand, notice and protest by such bank, any Federal reserve bank may discount notes, drafts, and bills of exchange arising out of actual commercial transactions; that is, notes, drafts, and bills of exchange issued or drawn for agricultural, industrial, or commercial purposes, or the proceeds of which have been used, or are to be used, for such purposes, the Federal Reserve Board to have the right to determine or define the character of the paper thus eligible for discount, within the meaning of this Act. Nothing in this Act contained shall be construed to prohibit such notes, drafts, and bills of exchange, secured by staple agricultural products, or other goods, wares, or merchandise
+from being eligible for such discount; but such definition shall not
+include notes, drafts, or bills covering merely investments or issued
+or drawn for the purpose of carrying or trading in stocks, bonds, or
+other investment securities, except bonds and notes of the Govern­
+ment of the United States. Notes, drafts, and bills admitted to dis­
+count under the terms of this paragraph must have a maturity at
+the time of discount of not more than ninety clays: Provided, That
+notes, drafts, and bills drawn or issued for agricultural purposes or
+based on live stock and having a maturity not exceeding six months
+may be discounted in an amount to be limited to a percentage of the
+capital of the Federal reserve bank, to be ascertained and fixed by the
+Federal Reserve Board.
+Any Federal reserve bank may discount acceptances which are
+based on the importation or exportation of goods and which have
+a maturity at time of discount of not more than three months, and
+indorsed by at least one member bank. The amount of acceptances
+so discounted shall at no time exceed one-half the paid-up capital stock
+and surplus of the bank for which the rediscounts are made.
+The aggregate of such notes and bills bearing the signature or in­
+dorsement of any one person, company, firm, or corporation redis­
+counted for any one bank shall at no time exceed ten per centum of the
+unimpaired capital and surplus of said bank; but this restriction shall
+not apply to the discount of bills of exchange drawn in good faith
+against actually existing values.
+Any member bank may accept drafts or bills of exchange drawn
+upon it and growing out of transactions involving the importation
+or exportation of goods having not more than six months sight to
+run; but no bank shall accept such bills to an amount equal at any
+time in the aggregate to more than one-half its paid-up capital stock
+and surplus.
+Section fifty-two hundred and two of the Revised Statutes of the
+United States is hereby amended so as to read as follows: No national
+banking association shall at any time be indebted, or in any way
+liable, to an amount exceeding the amount of its capital stock at such
+time actually paid in and remaining undiminished by losses or other­
+wise, except on account of demands of the nature following:
+First. Notes of circulation.
+Second. Moneys deposited with or collected by the association.
+Third. Bills of exchange or drafts drawn against money actually
+on deposit t.o the credit of the association, or due thereto.
+Fourth. Liabilities to the stockholders of the association for
+dividends and reserve profits.
+Fifth. Liabilities incurred under the provisions of the Federal
+Reserve Act.
+The rediscount by any Federal reserve bank of any bills receivable
+and of domestic and foreign bills of exchange, and of acceptances
+authorized by this Act, shall be subject to such restrictions, limita­
+tions, and regulations as may be imposed by the Federal Reserve
+Board.
+
+OPEN-MARKET OPERATIONS.
+SEC. 14. Any Federal reserve bank may, under rules and regula­
+tions prescribed by the Federal Reserve Board, purchase and sell in
+the open market, at home or abroad, either from or to domestic or
+foreign banks, firms, corporations, or individuals, cable transfers and bankers' acceptances and bills of exchange of the kinds and maturities by this Act made eligible for rediscount, with or without the indorsement of a member bank.
+
+Every Federal reserve bank shall have power:
+(a) To deal in gold coin and bullion at home or abroad, to make loans thereon, exchange Federal reserve notes for gold, gold coin, or gold certificates, and to contract for loans of gold coin or bullion, giving therefor, when necessary, acceptable security, including the hypothecation of United States bonds or other securities which Federal reserve banks are authorized to hold;
+(b) To buy and sell, at home or abroad, bonds and notes of the United States, and bills, notes, revenue bonds, and warrants with a maturity from date of purchase of not exceeding six months, issued in anticipation of the collection of taxes or in anticipation of the receipt of assured revenues by any State, county, district, political subdivision, or municipality in the continental United States, including irrigation, drainage and reclamation districts, such purchases to be made in accordance with rules and regulations prescribed by the Federal Reserve Board;
+(c) To purchase from member banks and to sell, with or without its indorsement, bills of exchange arising out of commercial transactions, as hereinbefore defined;
+(d) To establish from time to time, subject to review and determination of the Federal Reserve Board, rates of discount to be charged by the Federal reserve bank for each class of paper, which shall be fixed with a view of accommodating commerce and business;
+(e) To establish accounts with other Federal reserve banks for exchange purposes and, with the consent of the Federal Reserve Board, to open and maintain banking accounts in foreign countries, appoint correspondents, and establish agencies in such countries wheresoever it may deem best for the purpose of purchasing, selling, and collecting bills of exchange, and to buy and sell with or without its indorsement, through such correspondents or agencies, bills of exchange arising out of actual commercial transactions which have not more than ninety days to run and which bear the signature of two or more responsible parties
+
+GOVERNMENT DEPOSITS.
+SEC. 15. The moneys held in the general fund of the Treasury, except the five per centum fund for the redemption of outstanding national-bank notes and the funds provided in this Act for the redemption of Federal reserve notes may, upon the direction of the Secretary of the Treasury, be deposited in Federal reserve banks, which banks, when required by the Secretary of the Treasury, shall act as fiscal agents of the United States; and the revenues of the Government or any part thereof may be deposited in such banks, and disbursements may be made by checks drawn against such deposits.
+
+No public funds of the Philippine Islands, or of the postal savings, or any Government funds, shall be deposited in the continental United States in any bank not belonging to the system established by this Act: Provided, however, That nothing in this Act shall be construed to deny the right of the Secretary of the Treasury to use member banks as depositories.
+
+Digitized for FRASER
+http://fraser.stlouisfed.org/
+Federal Reserve Bank of St. Louis
+Sec. 16. Federal reserve notes, to be issued at the discretion of the Federal Reserve Board for the purpose of making advances to Federal reserve banks through the Federal reserve agents as hereinafter set forth and for no other purpose, are hereby authorized. The said notes shall be obligations of the United States and shall be receivable by all national and member banks and Federal reserve banks and for all taxes, customs, and other public dues. They shall be redeemed in gold on demand at the Treasury Department of the United States, in the city of Washington, District of Columbia, or in gold or lawful money at any Federal reserve bank.
+
+Any Federal reserve bank may make application to the local Federal reserve agent for such amount of the Federal reserve notes hereinbefore provided for as it may require. Such application shall be accompanied with a tender to the local Federal reserve agent of collateral in amount equal to the sum of the Federal reserve notes thus applied for and issued pursuant to such application. The collateral security thus offered shall be notes and bills, accepted for rediscount under the provisions of section thirteen of this Act, and the Federal reserve agent shall each day notify the Federal Reserve Board of all issues and withdrawals of Federal reserve notes to and by the Federal reserve bank to which he is accredited. The said Federal Reserve Board may at any time call upon a Federal reserve bank for additional security to protect the Federal reserve notes issued to it.
+
+Every Federal reserve bank shall maintain reserves in gold or lawful money of not less than thirty-five per centum against its deposits and reserves in gold of not less than forty per centum against its Federal reserve notes in actual circulation, and not offset by gold or lawful money deposited with the Federal reserve agent. Notes so paid out shall bear upon their faces a distinctive letter and serial number, which shall be assigned by the Federal Reserve Board to each Federal reserve bank. Whenever Federal reserve notes issued through one Federal reserve bank shall be received by another Federal reserve bank they shall be promptly returned for credit or redemption to the Federal reserve bank through which they were originally issued. No Federal reserve bank shall pay out notes issued through another under penalty of a tax of ten per centum upon the face value of notes so paid out. Notes presented for redemption at the Treasury of the United States shall be paid out of the redemption fund and returned to the Federal reserve banks through which they were originally issued, and thereupon such Federal reserve bank shall, upon demand of the Secretary of the Treasury, reimburse such redemption fund in lawful money or, if such Federal reserve notes have been redeemed in gold or gold certificates, then such funds shall be reimbursed to the extent deemed necessary by the Secretary of the Treasury in gold or gold certificates, and such Federal reserve bank shall, so long as any of its Federal reserve notes remain outstanding, maintain with the Treasurer in gold an amount sufficient in the judgment of the Secretary to provide for all redemptions to be made by the Treasurer. Federal reserve notes received by the Treasury, otherwise than for redemption, may be exchanged for gold out of the redemption fund
+18
+
+hereinafter provided and returned to the reserve bank through which they were originally issued, or they may be returned to such bank for the credit of the United States. Federal reszve notes unfit for circulation shall be returned by the Federal reserve agents to the Comptroller of the Currency for cancellation and destruction.
+
+The Federal Reserve Board shall require each Federal reserve bank to maintain on deposit in the Treasury of the United States a sum in gold sufficient in the judgment of the Secretary of the Treasury for the redemption of the Federal reserve notes issued to such bank, but in no event less than five per centum; but such deposit of gold shall be counted and included as part of the forty per centum reserve hereinbefore required. The Board shall have the right, acting through the Federal reserve agent, to grant in whole or in part or to reject entirely the application of any Federal reserve bank for Federal reserve notes; but to the extent that such application may be granted the Federal Reserve Board shall, through its local Federal reserve agent, supply Federal reserve notes to the bank so applying and such bank shall be charged with the amount of such notes and shall pay such rate of interest on said amount as may be established by the Federal Reserve Board, and the amount of such Federal reserve notes so issued to any such bank shall, upon delivery, together with such notes of such Federal reserve bank as may be issued under section eighteen of this Act upon security of United States two per centum Government bonds, become a first and paramount lien on all the assets of such bank.
+
+Any Federal reserve bank may at any time reduce its liability for outstanding Federal reserve notes by depositing, with the Federal reserve agent, its Federal reserve notes, gold, gold certificates, or lawful money of the United States. Federal reserve notes so deposited shall not be reissued, except upon compliance with the conditions of an original issue.
+
+The Federal reserve agent shall hold such gold, gold certificates, or lawful money available exclusively for exchange for the outstanding Federal reserve notes when offered by the reserve bank of which he is a director. Upon the request of the Secretary of the Treasury the Federal Reserve Board shall require the Federal reserve agent to transmit so much of said gold to the Treasury of the United States as may be required for the exclusive purpose of the redemption of such notes.
+
+Any Federal reserve bank may at its discretion withdraw collateral deposited with the local Federal reserve agent for the protection of its Federal reserve notes deposited with .it and shall at'the same time and substitute therefor other like collateral of equal amount wil!. the approval of the Federal reserve agent under regulations to be prescribed by the Federal Reserve Board.
+
+In order to furnish suitable notes for circulation as Federal reserve notes, the Comptroller of the Currency shall, under the direction of the Secretary of the Treasury, cause plates and dies to be engraved in the best manner to guard against counterfeits and fraudulent alterations, and shall have printed therefrom and numbered such quantities of such notes of the denominations of $5, $10, $20, $50, $100, as may be required to supply the Federal reserve banks. Such notes shall be in form and tenor as directed by the Secretary of the Treasury under the provisions of this Act and shall bear the
+[Pub. 43]
+
+19
+
+distinctive numbers of the several Federal reserve banks through which they are issued.
+   
+     When such notes have been prepared, they shall be deposited in the Treasury, or in the subtreasury or mint of the United States nearest the place of business of each Federal reserve bank and shall be held for the use of such bank subject to the order of the Comptroller of the Currency for their delivery, as provided by this Act.
+     
+     The plates and dies to be procured by the Comptroller of the The Currency for the printing of such circulating notes shall remain under his control and direction, and the expenses necessarily incurred in executing the laws relating to the procuring of such notes, and all other expenses incidental to their issue and retirement, shall be paid by the Federal reserve banks, and the Federal Reserve Board shall include in its estimate of expenses levied against the Federal reserve banks a sufficient amount to cover the expenses herein provided for.
+  
+      The examination of plates, dies, bed pieces, and so forth, and regulations relating to such examination of plates, dies, and so forth, of national-bank notes provided for in section fifty-one hundred and seventy-four Revised Statutes, is hereby extended to include notes herein provided for.
+  
+      Any appropriation heretofore made out of the general funds of the Treasury for engraving plates and dies, the purchase of distinctive paper, or to cover any other expense in connection with the printing of national-bank notes or notes provided for by the Act of May thirtieth, nineteen hundred and eight, and any distinctive paper that may be on hand at the time of the passage of this Act may be used in the discretion of the Secretary for the purposes of this Act, and should the appropriations heretofore made be insufficient to meet the requirements of this Act in addition to circulating notes provided for by existing law, the Secretary is hereby authorized to use so much of any funds in the Treasury not otherwise appropriated for the purpose of furnishing the notes aforesaid: Provided, however, That nothing in this section contained shall be construed as exempting national banks or Federal reserve banks from their liability to reimburse the United States for any expenses incurred in printing and issuing circulating notes.
+  
+       Every Federal reserve bank shall receive on deposit at par from member banks or from Federal reserve banks checks and drafts drawn upon any of its depositors, and when remitted by a Federal reserve bank, checks and drafts drawn by any depositor in any other Federal reserve bank or member bank upon funds to the credit of said depositors in said reserve bank or member bank. Nothing herein contained shall be construed as prohibiting a member bank from charging its actual expense incurred in collecting and remitting funds, or for exchange sold to its patrons. The Federal Reserve Board shall, by rule, fix the charges to be collected by the member banks from its patrons whose checks are cleared through the Federal reserve bank and the charge which may be imposed for the service of clearing or collection rendered by the Federal reserve bank. 
+  
+        The Federal reserve Board shall make and promulgate from time to time regulations governing the transfer of funds and charges therefor among Federal reserve banks and their branches, and may at its discretion exercise the functions of a clearing house for such Federal reserve banks, or may designate a Federal reserve bank to
+20 [PU.B. 43.] 
+
+exercise such functions, and may also require each such bank to exercise the functions of a clearing house for its member banks.
+   Sec. 17. So much of the provisions of section fifty-one hundred and fifty-nine of the Revised Statutes of the United States, and section four of the Act of June twentieth, eighteen hundred and seventy-four, and section eight of the Act of July twelfth, eighteen hundred and eighty-two, and of any other provisions of existing statutes as require that before any national banking associations shall be authorized to commence banking business it shall transfer and deliver to the Treasurer of the United States a stated amount of United States registered bonds is hereby repealed.
+
+                              REFUNDING BONDS.
+
+   Sec. 18. After two years from the passage of this Act, and at any time during a period of twenty years thereafter, any member bank desiring to retire the whole or any part of its circulating notes, may file with the Treasurer of the United States an application to sell for its account, at par and accrued interest, United States bonds securing circulation to be retired.
+   The Treasurer shall, at the end of each quarterly period, furnish the Federal Reserve Board with a list of such applications, and the Federal Reserve Board may, in its discretion, require the Federal Reserve banks to purchase such bonds from the banks whose applications have been filed with the Treasurer at least ten days before the end of any quarterly period at which the Federal Reserve Board may direct the purchase to be made: Provided, That Federal reserve banks shall not be permitted to purchase an amount to exceed $25,000,000 of such bonds in any one year, and which amount shall include bonds acquired under section four of this Act by the Federal reserve bank.
+   Provided further, That the Federal Reserve Board shall allot to each Federal reserve bank such proportion of such bonds as the capital and surplus of such bank shall bear to the aggregate capital and surplus of all the Federal reserve banks.
+   Upon notice from the Treasurer of the amount of bonds so sold for its account, each member bank shall duly assign and transfer, in writing, such bonds to the Federal reserve bank purchasing the same, and such Federal reserve bank shall, thereupon, deposit lawful money with the Treasurer of the United States for the purchase price of such bonds, and the Treasurer shall pay to the member bank selling such bonds any balance due after deducting a sufficient sum to redeem its outstanding notes secured by such bonds, which notes shall be canceled and permanently retired when redeemed.
+   The Federal reserve banks purchasing such bonds shall be permitted to take out an amount of circulating notes equal to the par value of such bonds.
+   Upon the deposit with the Treasurer of the United States of bonds so purchased, or any bonds with the circulating privilege acquired under section four of this Act, any Federal reserve bank making such deposit in the manner provided by existing law, shall be entitled to receive from the Comptroller of the Currency circulating notes in blank, registered and countersigned as provided by law, equal in amount to the par value of the bonds so deposited. Such notes
+
+[PRo. 43.]  
+
+21  
+
+shall be the obligations of the Federal reserve bank procuring the same, and shall be in form prescribed by the Secretary of the Treasury, and to the same tenor and effect as national-bank notes now provided by law. They shall be issued and redeemed under the same terms and conditions as national-bank notes except that they shall not be limited to the amount of the capital stock of the Federal reserve bank issuing them.
+
+Upon application of any Federal reserve bank, approved by the Federal Reserve Board, the Secretary of the Treasury may issue, in exchange for United States two per centum gold bonds bearing the circulation privilege, but against which no circulation is outstanding, one-year gold notes of the United States without the circulation privilege, to an amount not to exceed one-half of the two per centum bonds so tendered for exchange, and thirty-year three per centum gold bonds without the circulation privilege for the remainder of the two per centum bonds so tendered: Provided, That at the time of such exchange the Federal reserve bank obtaining such one-year gold notes shall enter into an obligation with the Secretary of the Treasury binding itself to purchase from the United States for gold at the maturity of such one-year notes, an amount equal to those delivered in exchange for such bonds, if so requested by the Secretary, and at each maturity of one-year notes so purchased by such Federal reserve bank, to purchase from the United States such an amount of one-year notes as the Secretary may tender to such bank, not to exceed the amount issued to such bank in the first instance, in exchange for the two per centum United States gold bonds; said obligation to purchase at maturity such notes shall continue in force for a period not to exceed thirty years.  
+
+For the purpose of making the exchange herein provided for, the Secretary of the Treasury is authorized to issue at par Treasury notes in coupon or registered form as he may prescribe in denominations of one hundred dollars, or any multiple thereof, bearing interest at the rate of three per centum per annum, payable quarterly, such Treasury notes to be payable not more than one year from the date of their issue in gold coin of the present standard value, and to be exempt as to principal and interest from the payment of all taxes and duties of the United States except as provided by this Act, as well as from taxes in any form by or under State, municipal, or local authorities. And for the same purpose, the Secretary is authorized and empowered to issue United States gold bonds at par, bearing three per centum interest payable thirty years from date of issue, such bonds to be of the same general tenor and effect and to be issued under the same general terms and conditions as the United States three per centum bonds without the circulation privilege now issued and outstanding.
+
+Upon application of any Federal reserve bank, approved by the Federal Reserve Board, the Secretary may issue at par such three per centum bonds in exchange for the one-year gold notes herein provided for.
+
+BANK RESERVES.
+
+SEC. 19. Demand deposits within the meaning of this Act shall comprise all deposits payable within thirty days, and time deposits shall comprise all deposits payable after thirty days, and all savings accounts and certificates of deposit which are subject to not less than thirty days' notice before payment.
+When the Secretary of the Treasury shall have officially announced, in such manner as he may elect, the establishment of a Federal reserve bank in any district, every subscribing member bank shall establish and maintain reserves as follows:
+
+(a)  A bank not in a reserve or central reserve city as now or hereafter defined shall hold and maintain reserves equal to twelve per centum of the aggregate amount of its demand deposits and five per centum of its time deposits, as follows:
+
+In its vaults for a period of thirty-six months after said date five-twelfths thereof and permanently thereafter four-twelfths.
+
+In the Federal reserve bank of its district, for a period of twelve months after said date, two-twelfths, and for each succeeding six months an additional one-twelfth, until five-twelfths have been so deposited, which shall be the amount permanently required.
+
+For a period of thirty-six months after said date the balance of the reserves may be held in its own vaults, or in the Federal reserve bank, or in national banks in reserve or central reserve cities as now defined by law.
+
+After said thirty-six months' period said reserves, other than those hereinbefore required to be held in the vaults of the member bank and in the Federal reserve bank, shall be held in the vaults of the member bank or in the Federal reserve bank, or in both, at the option of the member bank.
+
+(b)  A bank in a reserve city, as now or hereafter defined, shall hold and maintain reserves equal to fifteen per centum of the aggregate amount of its demand deposits and five per centum of its time deposits, as follows:
+
+In its vaults for a period of thirty-six months after said date six-fifteenths thereof, and permanently thereafter five-fifteenths.
+
+In the Federal reserve bank of its district for a period of twelve months after the date aforesaid at least three-fifteenths, and for each succeeding six months an additional one-fifteenth, until six-fifteenths have been so deposited, which shall be the amount permanently required.
+
+For a period of thirty-six months after said date the balance of the reserves may be held in its own vaults, or in the Federal reserve bank, or in national banks in reserve or central reserve cities as now defined by law.
+
+After said thirty-six months' period all of said reserves, except those hereinbefore required to be held permanently in the vaults of the member bank and in the Federal reserve bank, shall be held in its vaults or in the Federal reserve bank, or in both, at the option of the member bank.
+
+(c)  A bank in a central reserve city, as now or hereafter defined, shall hold and maintain a reserve equal to eighteen per centum of the aggregate amount of its demand deposits and five per centum of its time deposits, as follows:
+
+In its vaults six-eighteenths thereof.
+
+In the Federal reserve bank seven-eighteenths.
+
+The balance of said reserves shall be held in its own vaults or in the Federal reserve bank, at its option.
+
+Any Federal reserve bank may receive from the member banks as reserves, not exceeding one-half of each installment, eligible paper as
+described in section fourteen properly indorsed and acceptable to the said reserve bank.
+If a State bank or trust company is required by the law of its State to keep its reserves either in its own vaults or with another State bank or trust company, such reserve deposits so kept in such State bank or trust company shall be construed, within the meaning of this sec- tion, as if they were reserve deposits in a national bank in a reserve or central reserve city for a period of three years after the Secretary of the Treasury shall have officially announced the establishment of a Federal reserve bank in the district in which such State bank or trust company is situate. Except as thus provided, no member bank shall keep on deposit with any nonmember bank a sum in excess of ten per centum of its own paid-up capital and surplus. No member bank shall act as the medium or agent of a nonmember bank in applying for or receiving discounts from a Federal reserve bank under the provisions of this Act except by permission of the Federal Reserve Board.
+The reserve carried by a member bank with a Federal reserve bank may, under the regulations and subject to such penalties as may be prescribed by the Federal Reserve Board, be checked against and withdrawn by such member bank for the purpose of meeting existing liabilities: Provided, however, That no bank shall at any time make new loans or shall pay any dividends unless and until the total reserve required by law is fully restored.
+In estimating the reserves required by this Act, the net balance of amounts due to and from other banks shall be taken as the basis for ascertaining the deposits against which reserves shall be determined. Balances in reserve banks due to member banks shall, to the extent herein provided, be counted as reserves.
+National banks located in Alaska or outside the continental United States may remain nonmember banks, and shall in that event maintain reserves and comply with all the conditions now provided by law regulating them; or said banks, except in the Philippine Islands, may, with the consent of the Reserve Board, become member banks of any one of the reserve districts, and shall, in that event, take stock, maintain reserves, and be subject to all the other provisions of this Act.
+SEC. 20. So much of sections two and three of the Act of June twentieth, eighteen hundred and seventy-four, entitled “An Act fixing the amount of United States notes, providing for a redistribu- tion of the national-bank currency, and for other purposes,” as pro- vides that the fund deposited by any national banking association with the Treasurer of the United States for the redemption of its notes shall be counted as a part of its lawful reserve as provided in the Act aforesaid, is hereby repealed. And from and after the passage of this Act such fund of five per centum shall in no case be counted by any national banking association as a part of its lawful reserve.
+BANK EXAMINATIONS.
+SEC. 21. Section fifty-two hundred and forty, United States Re- vised Statutes, is amended to read as follows:
+The Comptroller of the Currency, with the approval of the Secre- tary of the Treasury, shall appoint examiners who shall examine
+24                                                                                        [PUB. 43.]
+
+every member bank at least twice in each calendar year and oftener if considered necessary: Provided, however, That the Federal Reserve Board may authorize examination by the State authorities to be accepted in the case of State banks and trust companies and may at any time direct the holding of a special examination of State banks or trust companies that are stockholders in any Federal reserve bank. The examiner making the examination of any national bank, or of any other member bank, shall have power to make a thorough examination of all the affairs of the bank and in doing so he shall have power to administer oaths and to examine any of the officers and agents thereof under oath: and shall make a full and detailed report of the condition of said bank to the Comptroller of the Currency.
+
+The Federal Reserve Board, upon the recommendation of the Comptroller of the Currency, shall fix the salaries of all bank examiners and make report thereof to Congress. The expense of the examinations herein provided for shall be assessed by the Comptroller of the Currency upon the banks examined in proportion to assets or resources held by the banks upon the dates of examination of the various banks.
+
+In addition to the examinations made and conducted by the Comptroller of the Currency, every Federal reserve bank may, with the approval of the Federal reserve agent or the Federal Reserve Board, provide for special examination of member banks within its district. The expense of such examinations shall be borne by the banks examined. Such examinations shall be so conducted as to inform the Federal reserve bank of the condition of its member banks and of the lines of credit which are being extended by them. Every Federal reserve bank shall at all times furnish to the Federal Reserve Board such information as may be demanded concerning the condition of any member bank within the district of the said Federal reserve bank.
+
+No bank shall be subject to any visitatorial powers other than such as are authorized by law, or vested in the courts of justice or such as shall be or shall have been exercised or directed by Congress, or by either House thereof or by any committee of Congress or of either House duly authorized.
+
+The Federal Reserve Board shall, at least once each year, order an examination of each Federal reserve bank, and upon joint application of ten member banks the Federal Reserve Board shall order a special examination and report of the condition of any Federal reserve bank
+
+SEC. 22. No member bank or any officer, director, or employee thereof shall hereafter make any loan or grant any gratuity to any bank examiner. Any bank officer, director, or employee violating this provision shall be deemed guilty of a misdemeanor and shall be imprisoned not exceeding one year or fined not more than $5,000, or both; and may be fined a further sum equal to the money so loaned or gratuity given. Any examiner accepting a loan or gratuity from any bank examined by him or from an officer, director, or employee thereof shall be deemed guilty of a misdemeanor and shall be imprisoned not exceeding one year or fined not more than $5,000, or both; and may be fined a further sum equal to the money so loaned or gratuity given; and shall forever thereafter be disqualified from holding office as a national-bank examiner. No national-bank examiner shall perform
+
+ Digitized for FRASER
+ http://fraser.stlouisfed.org/
+ Federal Reserve Bank of St. Louis
+[PUB. 43.]                                                                                                    25
+
+any other service for compensation while holding such office for any bank or officer, director, or employee thereof.
+
+Other than the usual salary or director's fee paid to any officer, director, or employee of a member bank and other than a reasonable fee paid by said bank to such officer, director, or employee for services rendered to such bank, no officer, director, employee, or attorney of a member bank shall be a beneficiary of or receive, directly or indirectly, any fee, commission, gift, or other consideration for or in connection with any transaction or business of the bank. No examiner, public or private, shall disclose the names of borrowers or the collateral for loans of a member bank to other than the proper officers of such bank without first having obtained the express permission in writing from the Comptroller of the Currency, or from the board of directors of such bank, except when ordered to do so by a court of competent jurisdiction, or by direction of the Congress of the United States, or of either House thereof, or any committee of Congress or of either House duly authorized. Any person violating any provision of this section shall be punished by a fine of not exceeding $5,000 or by imprisonment not exceeding one year, or both.
+
+Except as provided in existing laws, this provision shall not take effect until sixty days after the passage of this Act.
+
+Sec. 23. The stockholders of every national banking association shall be held individually responsible for all contracts, debts, and engagements of such association, each to the amount of his stock therein, at the par value thereof in addition to the amount invested in such stock. The stockholders in any national banking association who shall have transferred their shares or registered the transfer thereof within sixty days next before the date of the failure of such association to meet its obligations, or with knowledge of such impending failure, shall be liable to the same extent as if they had made no such transfer, to the extent that the subsequent transferee fails to meet such liability; but this provision shall not be construed to affect in any way any recourse which such shareholders might otherwise have against those in whose names such shares are registered at the time of such failure.
+
+LOANS ON FARM LANDS.
+
+Sec. 24. Any national banking association not situated in a central reserve city may make loans secured by improved and unencum¬bered farm land, situated within its Federal reserve district, but no such loan shall be made for a longer time than five years, nor for an amount exceeding fifty per centum of the actual value of the property offered as security. Any such bank may make such loans in an aggregate sum equal to twenty-five per centum of its capital and surplus or to one-third of its time deposits and such banks may continue hereafter as heretofore to receive time deposits and to pay interest on the same.
+
+The Federal Reserve Board shall have power from time to time to add to the list of cities in which national banks shall not be permitted to make loans secured upon real estate in the manner described in this section.
+
+Digitized for FRASER
+http://fraser.stlouisfed.org/
+Federal Reserve Bank of St. Louis
+26
+FOREIGN BRANCHES.
+
+SEC. 25. Any national banking association possessing a capital and surplus of $1,000,000 or more may file application with the Federal Reserve Board, upon such conditions and under such regulations as may be prescribed by the said board, for the purpose of securing authority to establish branches in foreign countries or dependencies of the United States for the furtherance of the foreign commerce of the United States, and to act, if required to do so, as fiscal agents of the United States. Such application shall specify, in addition to the name and capital of the banking association filing it, the place or places where the banking operations proposed are to be carried on, and the amount of capital set aside for the conduct of its foreign business. The Federal Reserve Board shall have power to approve or to reject such application if, in its judgment, the amount of capital proposed to be set aside for the conduct of foreign business is inadequate, or if for other reasons the granting of such application is deemed inexpedient.
+
+Every national banking association which shall receive authority to establish foreign branches shall be required at all times to furnish information concerning the condition of such branches to the Comptroller of the Currency upon demand, and the Federal Reserve Board may order special examinations of the said foreign branches at such time or times as it may deem best. Every such national banking
+association shall conduct the accounts of each foreign branch independently of the accounts of other foreign branches established by it and of its home office, and shall at the end of each fiscal period transfer to its general ledger the profit or loss accruing at each branch as a separate item.
+
+SEC. 26. All provisions of law inconsistent with or superseded by any of the provisions of this Act are to that extent and to that extent only hereby repealed: Provided, Nothing in this Act contained shall be construed to repeal the parity provision or provisions contained in an Act approved March fourteenth, nineteen hundred entitled “An Act to define and fix the standard of value, to maintain the parity of all forms of money issued or coined by the United States, to refund the public debt, and for other purposes,” and the Secretary of the Treasury may for the purpose of maintaining such parity and to strengthen the gold reserve, borrow gold on the security of United States bonds authorized by section two of the Act last referred to or for one-year gold notes bearing interest at a rate of not to exceed three per centum per annum, or sell the same if necessary to obtain gold. When the funds of the Treasury on hand justify, he may purchase and retire such outstanding bonds and notes.
+
+SEC. 27. The provisions of the Act of May thirtieth, nineteen hundred and eight, authorizing national currency associations, the issue of additional national-bank circulation, and creating a National Monetary Commission, which expires by limitation under the terms of such Act on the thirtieth day of June, nineteen hundred and fourteen, are hereby extended to June thirtieth, nineteen hundred and fifteen, and sections fifty-one hundred and fifty-three, fifty-one hundred and seventy-two, fifty-one hundred and ninety-one, and fifty-two hundred and fourteen of the Revised Statutes of the United States, which were amended by the Act of May thirtieth, nineteen 
+
+Digitized for FRASER
+http://fraser.stlouisfed.org/
+Federal Reserve Bank of St. Louis
+[PUb. 43.]
+                                27
+
+hundred and eight, are hereby reenacted to read as such sections read prior to May thirtieth, nineteen hundred and eight, subject to such amendments or modifications as are prescribed in this Act: Provided, however, That section nine of the Act first referred to in this section is hereby amended so as to change the tax rates fixed in said Act by making the portion applicable thereto read as follows:
+   National banking associations having circulating notes secured otherwise than by bonds of the United States, shall pay for the first three months a tax at the rate of three per centum per annum upon the average amount of such of their notes in circulation as are based upon the deposit of such securities, and afterwards an additional tax rate of one-half of one per centum per annum for each month until a tax of six per centum per annum is reached, and thereafter such tax of six per centum per annum upon the average amount of such notes.
+
+   SEC. 28. Section fifty-one hundred and forty-three of the Revised Statutes is hereby amended and reenacted to read as follows: Any association formed under this title may, by the vote of shareholders owning two-thirds of its capital stock, reduce its capital to any sum not below the amount required by this title to authorize the formation of associations; but no such reduction shall be allowable which will reduce the capital of the association below the amount required for its outstanding circulation, nor shall any reduction be made until the amount of the proposed reduction has been reported to the Comptroller of the Currency and such reduction has been approved by the said Comptroller of the Currency and by the Federal Reserve Board, or by the organization committee pending the organization of the Federal Reserve Board.
+
+   SEC. 29. If any clause, sentence, paragraph, or part of this Act shall for any reason be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder of this Act, but shall be confined in its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.
+
+   SEC. 30. The right to amend, alter, or repeal this Act is hereby expressly reserved.
+
+      Approved, December 23, 1913.
+
+
+Digitized for FRASER
+http://fraser.stlouisfed.org/
+Federal Reserve Bank of St. Louis
+Digitized for FRASER
+http://fraser.stlouisfed.org/
+Federal Reserve Bank of St. Louis
+INDEX TO FEDERAL RESERVE ACT.
+
+Page.	Section.
+
+A.
+APPLICATION
+For Membership Federal Reserve Bank........................ 4	4
+
+B.
+BANK
+Definition.............................................................. 1	1
+BANK EXAMINATIONS
+See Examinations.
+BANK RESERVES
+See Reserve.
+BOARD
+Definition.............................................................. 1	1
+Federal Reserve. (See Federal Reserve Board.)
+BRANCH BANKS
+How established........................................................ 3	3
+Managed by Board of Directors................................. 3	3
+How Selected............................................................. 3	3
+Manager of................................................................. 3	3
+BRANCH OFFICES
+See Branch Banks.
+
+D.
+DEMAND DEPOSITS
+Definition............................................................... 21	19
+DIRECTORS 
+of Federal Reserve Banks........................................ 5	4
+of Branch Banks....................................................... 3	3
+of Member banks, fees or commissions for loans prohibited 25	22
+Penalty for............................................................... 25	22
+DISSOLUTION
+of Member Banks effect...........................................2	2
+DISTRICT	
+Definition............................................................... 1	1
+DIVISION OF EARNINGS
+See Earnings.
+
+E.
+EARNINGS
+of Federal Reserve Banks.........................................8	7
+How distributed.......................................................8	7
+Dividends to Stockholders.......................................8	7
+U. S. franchise tax....................................................8	7
+Surplus fund.............................................................8	7
+U. S. Earnings, how applied....................................8	7
+EMERGENCY CURRENCY
+Limitations of, Act of May 30, 1908, extended to June 30, 1915. 26	27
+EXAMINATIONS
+of Member Banks...................................................24	21
+Periodical.................................................................24	21
+Special examinations by order of Federal Reserve Board. 24	21
+By Federal Reserve Banks..................................... 24	21
+Expenses of, how paid............................................ 24	21
+Other visitorial powers.............................................24	21
+30
+
+Page. Section.
+
+Examiners
+How appointed ......................................................... 23 21
+Salaries................................................................. 24 21
+Not to receive gratuities from banks examined........... 24 22
+Penalty for.............................................................. 24 22
+Not to perform other services for banks examined....... 25 22
+
+F.
+
+Farm Lands
+See Loans on Farm Lands.
+
+Federal Advisory Council
+How appointed........................................................ 14 12
+Meetings................................................................ 14 12
+Powers................................................................. 14 12
+
+Federal Reserve Agent.
+Salary.................................................................... 7 4
+Deputy.................................................................... 7 4
+
+Federal Reserve Banks
+Organized by Reserve Bank Organization Committee....... 1 2
+Name of.................................................................. 1 2
+National Banks to signify intention to become members.... 2 2
+Subscription of member banks 6% of capital & surplus..... 1 2
+Stock (see stock)....................................................... 7 5
+Payments, how made................................................. 2 2
+How organized.......................................................... 4 4
+Powers.................................................................... 14 13
+............................................................................15 14
+............................................................................16 14
+Directors, how elected................................................. 5 4
+Class A by Member Banks.......................................... 5 4
+Class B by Member Banks.......................................... 5 4
+Class C by Federal Reserve Board............................... 5 4
+No senator or congressman eligible.............................. 5 4
+Electors selected from groups...................................... 5 4
+Preferential ballot....................................................... 6 4
+Directors, salaries & expenses...................................... 7 4
+Decrease and increase of stock.................................. 7 5
+May be Government depositaries and required to act as
+fiscal agents............................................................16 15
+To receive checks at par............................................ 19 16
+Required to purchase 2% Government bonds at par after two
+years.....................................................................20 18
+Limitation of purchase............................................... 20 18
+May issue notes against bonds purchased........... 21 18
+May exchange 2% bonds purchased for 3% bonds.......... 21 18
+Must re-purchase one-year bonds from year to year........ 21 18
+
+Federal Reserve Board
+How appointed.......................................................... 11 10
+Secretary of the Treasury, Comptroller of the Currency, mem-
+bers ex officio.......................................................... 11 10
+Salaries............................................................... 11 10
+Terms of office...................................................... 11 10
+Expenses, how paid............................................... 11 10
+First meeting......................................................... 11 10
+Members ineligible to serve as Directors or officers of member
+banks for two years after retirement.................... 11 10
+Vacancies, how filled.............................................  12 10
+Powers in conflict with those of the Secretary of the Treasury.
+To supervise issue of Federal Reserve Notes.......... 12 10
+General powers....................................................... 12 11
+General powers....................................................... 13 11
+Power to fix rules governing exchange charges......... 19 16
+To act as clearing house for Federal Reserve Banks......... 19 16
+31
+
+Page. Section.
+
+FEDERAL RESERVE CITIES
+  Number .............................................................. 1 2
+  Designated by ..................................................... 1 2
+  How determined .................................................. 1 2
+  Subject to review by ............................................ 1 2
+FEDERAL RESERVE DISTRICTS
+  Number .............................................................. 1 2
+  Designated by number .......................................... 1 2
+  How changed ..................................................... 1 2
+  Reviewed by ........................................................ 1 2
+FEDERAL RESERVE NOTES
+  How issued .......................................................... 17 16
+  Term and effect .................................................... 17 16
+  Reserve against, held by banks ................................ 17 16
+  Redemption of ..................................................... 17 16
+  Withdrawal of collateral security for ....................... 18 16
+  How printed ......................................................... 18 16
+  Where deposited ................................................. 19 16
+  Denominations ..................................................... 18 16
+  Delivered to Federal Reserve Agent ........................ 19 16
+  Appropriation for ................................................ 19 16
+  Expenses of issue, how paid .................................. 19 16
+FOREIGN BRANCHES
+  National banks may establish when ........................ 26 25
+  Regulations to be prescribed by Federal Reserve Board ... 26 25
+  May be required to act as fiscal agents of United States ...... 26 25
+ 
+G.
+
+GOLD RESERVE
+  Secretary to maintain ........................................... 26 26
+GOVERNMENT DEPOSITS
+  May be made with Federal Reserve Banks ............... 16 15
+  With Member Banks ............................................ 16 15
+
+I.
+
+INCONSISTENT LAWS REPEALED ............................................... 26 26
+
+L.
+
+LOANS ON FARM LANDS
+  Member banks not in reserve cities may make ............. 25 24
+  Federal Reserve Board may extend list ................... 25 24
+  Amount and time of such loans ................................. 25 24
+
+N.
+
+NATIONAL BANK.
+  Definition ............................................................ 1 1
+  Limitation of liabilities extended to include debts due Federal
+  Reserve Banks ................................................... 15 13
+  Need not deposit U.S. Government bonds before commencing
+  business ............................................................... 20 17
+  Reduction of Capital Stock, how affected ................... 27 28
+NOTE ISSUE
+  See Federal Reserve Notes
+
+O.
+
+ORGANIZATION COMMITTEE
+  See Reserve Bank Organization Committee.
+
+P.
+
+PENALTY
+  For failure to signify acceptance of provisions of this act ....... 2 2
+  For violating provisions .......................................... 2 2
+  For violating provisions by State Bank Members ......... 10 9
+32
+
+R.
+RESERVE BANK
+ Definition........................................................ 1   1
+RESERVE BANK ORGANIZATION COMMITTEE
+ Composed of....................................................... 1   2
+ Powers................................................................ 2   2
+
+S.
+STATE BANKS
+ Converted to National Banks. ............................ 9   8
+ May become Members as State Banks................. 9   9
+ Conditions of membership..................................... 9   9
+ Regulations.......................................................... 10  9
+ Must be eligible to conversion as National Banks.. 10 9
+ Penalty for violation of provisions........................ 10 9
+ Reserve required................................................. 23 19
+
+STOCK
+ Member banks..................................................... 3   2
+ Public stock........................................................ 3   2
+ Non Voting......................................................... 3   2
+ U. S. Stock........................................................ 3   2
+ How Public and U. S. stock transferred............... 3   2
+ Minimum Capital for any Federal Reserve Bank 3  2
+
+Digitized for FRASER
+http://fraser.stlouisfed.org/
+Federal Reserve Bank of St. Louis
