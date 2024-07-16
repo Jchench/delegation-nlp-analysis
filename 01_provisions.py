@@ -172,7 +172,7 @@ for rl in rules:
 
 # Convert the list of provisions to a DataFrame and save as CSV
 df1 = pd.DataFrame(provisions_lst, columns=cols)
-nms = "Public_laws" + ".csv"
+nms = "public_laws_2" + ".csv"
 df1.to_csv(nms, index=False)
 
 print("DataFrame saved to:", nms)
