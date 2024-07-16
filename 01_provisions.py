@@ -12,7 +12,7 @@ parser.add_argument('-ending', '-e', type=str, help='End of filepath for CSV')
 args = parser.parse_args()
 
 # Default path and ending
-path = args.filepath if args.filepath else 'data/test/'
+path = args.filepath if args.filepath else 'data/'
 
 print("Path:", path)
 
