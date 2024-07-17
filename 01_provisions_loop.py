@@ -12,7 +12,7 @@ parser.add_argument('-ending', '-e', type=str, help='End of filepath for CSV')
 args = parser.parse_args()
 
 # Default path and ending
-path = args.filepath if args.filepath else 'data/test/'
+path = args.filepath if args.filepath else 'data/too_long'
 end1 = args.ending if args.ending else '-FR'
 
 print("Path:", path)
@@ -51,7 +51,7 @@ def split_text_into_chunks(text, chunk_size=10000):
         yield ' '.join(words[i:i + chunk_size])
 
 # Load spaCy model
-nlp = spacy.load('en_core_web_sm')  # Ensure this model is installed
+nlp = spacy.load('myenv/lib/python3.12/site-packages/en_core_web_sm/en_core_web_sm-3.7.1')  # Ensure this model is installed
 
 # Define modal and verb lists
 strict_modals = ['shall', 'must', 'will']
@@ -91,7 +91,7 @@ def entitlement(dep_dict, lemma_dict, tokentg_dict, strict_modals, entitlement_v
     return 1 if way1 or way2 or way3 else 0
 
 # Columns for DataFrame
-cols = ['law_name', 'length', 'date', 'docket-No', 'fr-doc-no', 'obligation', 'constraint', 'permission', 'entitlement', 'agency_obligation', 'agency_constraint', 'agency_permission', 'agency_entitlement', 'entity_obligation', 'entity_constraint', 'entity_permission', 'entity_entitlement']
+cols = ['law_name', 'length', 'obligation', 'constraint', 'permission', 'entitlement', 'agency_obligation', 'agency_constraint', 'agency_permission', 'agency_entitlement', 'entity_obligation', 'entity_constraint', 'entity_permission', 'entity_entitlement']
 provisions_lst = []
 
 # Get list of files
