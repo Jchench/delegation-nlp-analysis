@@ -12,9 +12,11 @@ parser.add_argument('-ending', '-e', type=str, help='End of filepath for CSV')
 args = parser.parse_args()
 
 # Default path and ending
-path = args.filepath if args.filepath else 'data/'
+path = args.filepath if args.filepath else 'data/test/'
+end1 = args.ending if args.ending else '-FR'
 
 print("Path:", path)
+print("Ending:", end1)
 
 # Function to separate preamble
 def separate_preamble(doc):
@@ -42,8 +44,14 @@ def separate_preamble(doc):
 def find_all(text, substring):
     return [i for i in range(len(text)) if text.startswith(substring, i)]
 
+# Function to split text into chunks
+def split_text_into_chunks(text, chunk_size=10000):
+    words = text.split()
+    for i in range(0, len(words), chunk_size):
+        yield ' '.join(words[i:i + chunk_size])
+
 # Load spaCy model
-nlp = spacy.load('myenv/lib/python3.12/site-packages/en_core_web_sm/en_core_web_sm-3.7.1')
+nlp = spacy.load('en_core_web_sm')  # Ensure this model is installed
 
 # Define modal and verb lists
 strict_modals = ['shall', 'must', 'will']
@@ -83,7 +91,7 @@ def entitlement(dep_dict, lemma_dict, tokentg_dict, strict_modals, entitlement_v
     return 1 if way1 or way2 or way3 else 0
 
 # Columns for DataFrame
-cols = ['law_name', 'length', 'obligation', 'constraint', 'permission', 'entitlement', 'agency_obligation', 'agency_constraint', 'agency_permission', 'agency_entitlement', 'entity_obligation', 'entity_constraint', 'entity_permission', 'entity_entitlement']
+cols = ['law_name', 'length', 'date', 'docket-No', 'fr-doc-no', 'obligation', 'constraint', 'permission', 'entitlement', 'agency_obligation', 'agency_constraint', 'agency_permission', 'agency_entitlement', 'entity_obligation', 'entity_constraint', 'entity_permission', 'entity_entitlement']
 provisions_lst = []
 
 # Get list of files
@@ -100,82 +108,78 @@ for rl in rules:
         print(f"Failed to parse document: {rl}")
         continue
     
-    doc_length = len(preamble.split())
-    if doc_length > 300000:
-        print("Document too long and coder too lazy to loop over portions of document")
-        continue
-
-    doc_spacy = nlp(preamble)  # Ensure preamble is processed by spaCy
-    obligation_lst = []
-    constraint_lst = []
-    permission_lst = []
-    entitlement_lst = []
-    agency_obligation_lst = []
-    agency_constraint_lst = []
-    agency_permission_lst = []
-    agency_entitlement_lst = []
-    entity_obligation_lst = []
-    entity_constraint_lst = []
-    entity_permission_lst = []
-    entity_entitlement_lst = []
-
-    for sent in doc_spacy.sents:
-        dep_dict = {token.dep_: token.i for token in sent}
-        tokentg_dict = {token.tag_: token.i for token in sent}
-        lemma_dict = {token.lemma_: token.i for token in sent}
-        token_dict = {token.text: token.i for token in sent}
-        speech_dict = {token.pos_: token.i for token in sent}
-
-        obl = obligation(dep_dict, lemma_dict, tokentg_dict, special_verbs, strict_modals, obligation_verbs)
-        const = constraint(dep_dict, lemma_dict, tokentg_dict, strict_modals, constraint_verbs, permission_verbs)
-        permis = permission(dep_dict, lemma_dict, permissive_modals, constraint_verbs, special_verbs)
-        entitle = entitlement(dep_dict, lemma_dict, tokentg_dict, strict_modals, entitlement_verbs)
-
-        obligation_lst.append(obl)
-        constraint_lst.append(const)
-        permission_lst.append(permis)
-        entitlement_lst.append(entitle)
-
-        if obl == 0 and const == 0 and permis == 0 and entitle == 0:
-            continue
-
-        for chunk in sent.noun_chunks:
-            if chunk.root.dep_ == "nsubj":
-                if bool(re.search('agency|commission|board|agencies', chunk.lemma_)) or bool(re.search('[A-Z]{3,}', chunk.text)):
-                    if obl == 1:
-                        agency_obligation_lst.append(1)
-                    if const == 1:
-                        agency_constraint_lst.append(1)
-                    if permis == 1:
-                        agency_permission_lst.append(1)
-                    if entitle == 1:
-                        agency_entitlement_lst.append(1)
-                else:
-                    if obl == 1:
-                        entity_obligation_lst.append(1)
-                    if const == 1:
-                        entity_constraint_lst.append(1)
-                    if permis == 1:
-                        entity_permission_lst.append(1)
-                    if entitle == 1:
-                        entity_entitlement_lst.append(1)
-
-    # Extract the law name using a regular expression
+    # Extract the law name from the filename
     law_name = os.path.splitext(os.path.basename(rl))[0]
 
+    doc_length = 0
+    total_obligation = 0
+    total_constraint = 0
+    total_permission = 0
+    total_entitlement = 0
+    total_agency_obligation = 0
+    total_agency_constraint = 0
+    total_agency_permission = 0
+    total_agency_entitlement = 0
+    total_entity_obligation = 0
+    total_entity_constraint = 0
+    total_entity_permission = 0
+    total_entity_entitlement = 0
+
+    for chunk in split_text_into_chunks(preamble):
+        doc_spacy = nlp(chunk)
+        doc_length += len(chunk.split())
+
+        for sent in doc_spacy.sents:
+            dep_dict = {token.dep_: token.i for token in sent}
+            tokentg_dict = {token.tag_: token.i for token in sent}
+            lemma_dict = {token.lemma_: token.i for token in sent}
+            token_dict = {token.text: token.i for token in sent}
+            speech_dict = {token.pos_: token.i for token in sent}
+
+            obl = obligation(dep_dict, lemma_dict, tokentg_dict, special_verbs, strict_modals, obligation_verbs)
+            const = constraint(dep_dict, lemma_dict, tokentg_dict, strict_modals, constraint_verbs, permission_verbs)
+            permis = permission(dep_dict, lemma_dict, permissive_modals, constraint_verbs, special_verbs)
+            entitle = entitlement(dep_dict, lemma_dict, tokentg_dict, strict_modals, entitlement_verbs)
+
+            total_obligation += obl
+            total_constraint += const
+            total_permission += permis
+            total_entitlement += entitle
+
+            if obl == 0 and const == 0 and permis == 0 and entitle == 0:
+                continue
+
+            for chunk in sent.noun_chunks:
+                if chunk.root.dep_ == "nsubj":
+                    if bool(re.search('agency|commission|board|agencies', chunk.lemma_)) or bool(re.search('[A-Z]{3,}', chunk.text)):
+                        if obl == 1:
+                            total_agency_obligation += 1
+                        if const == 1:
+                            total_agency_constraint += 1
+                        if permis == 1:
+                            total_agency_permission += 1
+                        if entitle == 1:
+                            total_agency_entitlement += 1
+                    else:
+                        if obl == 1:
+                            total_entity_obligation += 1
+                        if const == 1:
+                            total_entity_constraint += 1
+                        if permis == 1:
+                            total_entity_permission += 1
+                        if entitle == 1:
+                            total_entity_entitlement += 1
+
     provisions_lst.append([
-        law_name, doc_length, 
-        sum(obligation_lst), sum(constraint_lst), sum(permission_lst), sum(entitlement_lst), 
-        sum(agency_obligation_lst), sum(agency_constraint_lst), sum(agency_permission_lst), sum(agency_entitlement_lst), 
-        sum(entity_obligation_lst), sum(entity_constraint_lst), sum(entity_permission_lst), sum(entity_entitlement_lst)
+        law_name, doc_length,
+        total_obligation, total_constraint, total_permission, total_entitlement, 
+        total_agency_obligation, total_agency_constraint, total_agency_permission, total_agency_entitlement, 
+        total_entity_obligation, total_entity_constraint, total_entity_permission, total_entity_entitlement
     ])
 
-# Convert the list of provisions to a DataFrame
+# Convert the list of provisions to a DataFrame and save as CSV
 df1 = pd.DataFrame(provisions_lst, columns=cols)
-
-folder_path = "/path/to/your/folder/"
-nms = folder_path + "public_laws_2" + ".csv"
-
+nms = "DF-Rules" + end1 + ".csv"
 df1.to_csv(nms, index=False)
 
 print("DataFrame saved to:", nms)

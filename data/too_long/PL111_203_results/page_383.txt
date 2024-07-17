@@ -1,15 +1,0 @@
-PUBLIC LAW 111-203—JULY 21, 2010
-
-all supplements to any such master agreement, without regard to whether the master agreement contains an agreement, contract, or transaction that is not a security-based swap pursuant to subparagraph (A), except that the master agreement shall be considered to be a security-based swap only with respect to each agreement, contract, or transaction under the master agreement that is a security-based swap pursuant to subparagraph (A).
-‘‘(C) EXCLUSIONS.—The term ‘security-based swap’ does not include any agreement, contract, or transaction that meets the definition of a security-based swap only because such agreement, contract, or transaction references, is based upon, or settles through the transfer, delivery, or receipt of an exempted security under paragraph (12), as in effect on the date of enactment of the Futures Trading Act of 1982 (other than any municipal security as defined in paragraph (29) as in effect on the date of enactment of the Futures Trading Act of 1982), unless such agreement, contract, or transaction is of the character of, or is commonly known in the trade as, a put, call, or other option.
-‘‘(D) MIXED SWAP.—The term ‘security-based swap’ includes any agreement, contract, or transaction that is as described in subparagraph (A) and also is based on the value of 1 or more interest or other rates, currencies, commodities, instruments of indebtedness, indices, quantitative measures, other financial or economic interest or property of any kind (other than a single security or a narrow-based security index), or the occurrence, non-occurrence, or the extent of the occurrence of an event or contingency associated with a potential financial, economic, or commercial consequence (other than an event described in subparagraph (A)(iii)(III)).
-‘‘(E) RULE OF CONSTRUCTION REGARDING USE OF THE TERM ‘INDEX’.—The term ‘index’ means an index or group of securities, including any interest therein or based on the value thereof.
-‘‘(69) SWAP.—The term ‘swap’ has the same meaning as in section 1a of the Commodity Exchange Act (7 U.S.C. 1a).
-‘‘(70) PERSON ASSOCIATED WITH A SECURITY-BASED SWAP DEALER OR MAJOR SECURITY-BASED SWAP PARTICIPANT.—
-‘‘(A) IN GENERAL.—The term ‘person associated with a security-based swap dealer or major security-based swap participant’ or ‘associated person of a security-based swap dealer or major security-based swap participant’ means—
-‘‘(i) any partner, officer, director, or branch manager of such security-based swap dealer or major security-based swap participant (or any person occupying a similar status or performing similar functions);
-‘‘(ii) any person directly or indirectly controlling, controlled by, or under common control with such security-based swap dealer or major security-based swap participant; or 
-‘‘(iii) any employee of such security-based swap dealer or major security-based swap participant.
-‘‘(B) EXCLUSION.—Other than for purposes of section 15F(j)(12), the term ‘person associated with a security-based swap dealer or major security-based swap participant’ or
-
-124 STAT. 1757
