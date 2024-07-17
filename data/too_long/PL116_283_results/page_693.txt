@@ -1,0 +1,53 @@
+PUBLIC LAW 116-283—JAN. 1, 2021        134 STAT. 4079
+
+Sec. 1171. Cybersecurity State Coordinator.
+Sec. 1172. Cybersecurity Advisory Committee.
+Sec. 1173. Cybersecurity education and training assistance program.
+Sec. 1174. Framework for cyber hunt forward operations.
+Sec. 1701. Rationalization and integration of parallel cybersecurity architectures and operations.
+Sec. 1722. Assessed risks to national security of quantum computing.
+Sec. 1723. National cyberspace operations organizations.
+Sec. 1724. Responsibility for cybersecurity and critical infrastructure protection of the defense industrial base.
+Sec. 1725. Pilot program on remote provision by National Guard to National Guards of other States of cybersecurity technical assistance in training, preparation, and response to cyber incidents.
+Sec. 1726. Department of Defense cyber workforce efforts.
+Sec. 1727. Reporting requirements for cross domain incidents and exemptions to policies for information technology.
+Sec. 1728. Assessing private-public collaboration in cybersecurity.
+Sec. 1729. Cyber capabilities and interoperability of the National Guard.
+Sec. 1730. Evaluation of non-traditional cyber support to the Department of Defense.
+Sec. 1731. Integrated cybersecurity center plan.
+Sec. 1732. Assessment of cyber operational planning and deconfliction policies and processes.
+Sec. 1733. Pilot program on cybersecurity capability metrics.
+Sec. 1734. Assessment of effect of inconsistent timing and use of Network Address Translation in Department of Defense networks.
+Sec. 1735. Integration of Department of Defense user activity monitoring and cybersecurity.
+Sec. 1736. Defense industrial base cybersecurity sensor architecture plan.
+Sec. 1737. Assessment on defense industrial base participation in a threat information sharing program.
+Sec. 1738. Enhancing cyber for small manufacturers in the defense industrial supply chain on matters relating to cybersecurity.
+Sec. 1739. Assessment on defense industrial base cybersecurity threat hunting programs.
+Sec. 1740. Defense Digital Service.
+Sec. 1741. Matters concerning the College of Information and Cyberspace and limitation of funding for National Defense University.
+Sec. 1742. Department of Defense cyber hygiene and Cybersecurity Maturity Model Certification Framework.
+Sec. 1743. Extension of sunset for pilot program on regional cybersecurity training center for the Army National Guard.
+Sec. 1744. National cyber exercises.
+Sec. 1745. Cybersecurity and Infrastructure Security Agency review.
+Sec. 1746. Report on enabling United States Cyber Command resource allocation.
+Sec. 1747. Ensuring cyber resiliency of nuclear command and control systems.
+Sec. 1748. Requirements for review of and limitations on the Joint Regional Security Stacks.
+Sec. 1749. Implementation of information operations matters.
+Sec. 1750. Report on use of encryption by Department of Defense national security systems.
+Sec. 1751. Guidance and direction on use of direct hiring processes for artificial intelligence professionals and other data science and software development personnel.
+Sec. 1752. National Cyber Director.
+
+SEC. 1701. MODIFICATION OF MISSION OF CYBER COMMAND AND 
+                  ASSIGNMENT OF CYBER OPERATIONS FORCES.
+
+Title 10, United States Code, is amended—
+   (1) in section 167b—
+       (A) in subsection (a)—
+            (i) in the first sentence, by inserting “(1)” before “With the advice”;
+            (ii) in paragraph (1), as designated by clause (i), 
+               by striking the second sentence; and
+           (iii) by adding at the end the following new para-
+               graph:
+             “(2) The principal mission of the Cyber Command is to 
+       direct, synchronize, and coordinate military cyberspace plan-
+       ning and operations to defend and advance national interests

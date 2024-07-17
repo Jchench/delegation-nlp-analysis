@@ -1,0 +1,28 @@
+104 STAT. 4850		PUBLIC LAW 101-647—NOV. 29, 1990
+
+“(2) if the real property or facility remains available after such notification, notify the Attorney General of its availability; and
+“(3) if the Attorney General certifies that a determination has been made by the Director of the Bureau of Justice Assistance within the Department of Justice to utilize the real property or facility under the correctional options program carried out under section 515 of title I of the Omnibus Crime Control and Safe Streets Act of 1968, convey the real property or facility, without reimbursement, to the public agencies referred to in section 515(a)(1) or 515(a)(3) of title I of such Act for such utilization.
+“(b) The provisions of this section shall not apply—
+“(1) to real property and facilities to which title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100-526) is applicable; and
+“(2) during any portion of a fiscal year after four conveyances have been made under this section in such fiscal year.”.
+(b) CLERICAL AMENDMENT.—The table of sections at the beginning of such chapter is amended by adding at the end the following:
+“2693b. Conveyance of certain property.”.
+
+SEC. 1803. IMPROVEMENT OF CRIMINAL JUSTICE RECORDS.
+(a) AMENDMENT.—Subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3711 et seq.) is amended by adding at the end the following:
+
+IMPROVEMENT OF CRIMINAL JUSTICE RECORDS
+“SEC. 509. (a) Subject to subsection (d), each State which receives funds under section 506 in a fiscal year shall allocate not less than 5 percent of such funds to the improvement of criminal justice records.
+42 USC 3759.
+Reports.
+“(b) The improvement referred to in subsection (a) shall include—
+“(1) the completion of criminal histories to include the final dispositions of all arrests for felony offenses;
+“(2) the full automation of all criminal justice histories and |fingerprint records; and
+“(3) the frequency and quality of criminal history reports to the Federal Bureau of Investigation.
+“(c) The Director, in consultation with the Director of the Bureau of Justice Statistics, shall establish guidelines for the fulfillment of the requirements specified in subsections (a) and (b) of this section.
+“(d) In accordance with such guidelines as the Director shall issue and on the request of a State, the Director may—
+“(1) waive compliance with subsection (a) by such State; or
+“(2) authorize such State to reduce the minimum amount such State is required to allocate under subsection (a); if the Director, in the discretion of the Director, finds that the quality of the State’s criminal justice records does not warrant expending the amount allocated under subsection (a).”.
+
+(b) TECHNICAL AMENDMENT.—The table of contents of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3711 et seq.) is amended by inserting after the item relating to section 508 the following:
+“Sec. 509. Improvement of criminal justice records.”.

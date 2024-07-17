@@ -1,0 +1,52 @@
+Federal Trade Commission
+
+1. Relation to Other Sections
+
+Consumer reporting agencies are required to make disclosures of all information in their "files" to consumers upon request (section 609) and to follow reinvestigation procedures if the consumer disputes the completeness or accuracy of any item of information contained in his "file" (section 611).
+
+2. General
+
+The term file denotes all information on the consumer that is recorded and retained by a consumer reporting agency that might be furnished, or has been furnished, in a consumer report on that consumer.
+
+3. Audit Trail
+
+The term "file" does not include an "audit trail" (a list of changes made by a consumer reporting agency to a consumer's credit history record, maintained to detect fraudulent changes to that record), because such information is not furnished in consumer reports or used as a basis for preparing them.
+
+4. Other Information
+
+The term "file'' does not include information in billing records or in the consumer relations folder that a consumer reporting agency opens when a consumer who obtains disclosures or files a dispute, if the information has not been used in a consumer report and would not be used in preparing one. 
+
+Section 603(h) defines employment purposes to mean "a report used for the purpose of evaluating a consumer for employment, promotion, reassignment or retention as an employee."
+
+1. Relations to Other Sections
+
+The term employment purposes is used as part of the definition of "consumer report" in section 603(d)(1) and as a permissible purpose for the furnishing of consumer reports (section 604(a)(3)(B)). Where an investigative consumer report is to be used for "employment purposes" for which a consumer has not specifically applied, section 606(a)(2) provides that the notice otherwise required by section 606(a)( 1) need not be sent. When a consumer reporting agency furnishes public record information in reports "for employment purposes," it must follow the procedures set out in section 613.
+
+2. Security Clearances
+
+A report in connection with security clearances of a government contractor's employees would be for "employment purposes'' under this section.
+
+Section 603(g) defines medical information to mean information or records obtained, with the consent of the individual to whom it relates, from licensed physicians or medical practitioners, hospitals, clinics, or other medical or medically related facilities.
+
+1. Relation to Other Sections
+
+Under section 609(a)(1), a consumer reporting agency must, upon the consumer's request and proper identification, disclose the nature and substance of all information in its files on the consumer, except "medical information."
+
+2. Information From Non-medical Sources
+
+Information from non-medical sources such as employers, is not "medical information."
+
+Section 604-Permissible Purposes of Reports
+
+"A consumer reporting agency may furnish a consumer report under the following circumstances and no other: * * * 
+1. Relation to Section 603 
+
+Sections 603(d)(3) and 604 must be construed together to determine what are "permissible purposes." Reference to section 604 refers to "purposes authorized under section 604" (often described as "permissible purposes" of consumer reports), and some purposes are enumerated in section 603 (e.g., sections 603(d)(1) and 603(d)(2)). Because the sections 603 and 604 that specifically set forth "permissible purposes" relating to credit, insurance and employment, are the only subsections that cover permissible purposes relating to those three areas. Section 603(d)(3)(E), a general subsection, is limited to purposes not otherwise addressed in Section 603(d) (3)(A)- (D).
+
+    A. Credit. Sections 603(d)(1) through (d)(1)(F) when defines "consumer report" to include certain reports for the purpose of serving as a factor in establishing the consumer's eligibility for credit or insurance primarily for personal, family, or household purposes-and 604(a)(3)(A) must be read together as fully describing permissible purposes involving credit, or obtaining consumers reports (including section 604(a)(3)(A) permits the furnishing of a consumer report for use in connection with a credit transaction involving the consumer primarily for personal, family or household purposes, and involving the extension of credit to, or review or collection of an account of, the consumer.
+
+    B. Insurance. Sections 603(d)(1) and 604(a)(3)(C) must be read together as describing the only permissible insurance purposes for obtaining consumer reports. Accordingly, section 604(a)(3)(C) permits the furnishing of a consumer report, provided it is for use in connection with the underwriting of insurance involving the consumer, primarily for personal, family, or household purposes.
+    
+    C. Employment. Employment is covered exclusively by sections 603(d)(2) and 604(a)(3)(B).
+
+553

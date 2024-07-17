@@ -1,0 +1,26 @@
+105 STAT. 2388 PUBLIC LAW 102-242—DEC. 19, 1991
+
+SEC. 478. SPECIAL INSURED DEPOSITS.
+
+For purposes of the Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.), the deposits of the Freedom National Bank of New York and the deposits of Community National Bank and Trust Company of New York that—
+(1) were deposited by a charitable organization as such term is defined by New York State law, or by a religious organization; and
+(2) were deposits of such bank on the date of its closure by the Office of the Comptroller of the Currency,
+shall be fully insured notwithstanding any other provisions of the Federal Deposit Insurance Act.
+
+Subtitle N—Severability
+
+SEC. 481. SEVERABILITY.
+
+If any provision of this Act, or any application of any provision of this Act to any person or circumstance, is held invalid, the remainder of the Act, and the application of any remaining provision of the Act to any other person or circumstance, shall not be affected by such holding.
+
+TITLE V—DEPOSITORY INSTITUTION CONVERSIONS
+
+SEC. 501. MERGERS AND ACQUISITIONS OF INSURED DEPOSITORY INSTITUTIONS DURING CONVERSION MORATORIUM.
+
+(a) IN GENERAL.—Section 5(d)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1815(d)(3)) is amended to read as follows:
+ “(3) OPTIONAL CONVERSIONS SUBJECT TO SPECIAL RULES ON DEPOS- IT INSURANCE PAYMENTS—
+(A) CONVERSIONS ALLOWED.—
+ (i) IN GENERAL—Notwithstanding paragraph (2)(A) and subject to the requirements of this paragraph, any insured depository institution may participate in a transaction described in clause (ii), (iii), or (iv) of paragraph (2)(B) with the prior written approval of the responsible agency under section 18(c)(2).
+ (ii) HOLDING COMPANY SUBSIDIARIES.—If, in connection with any transaction referred to in clause (i), the acquiring, assuming, or resulting depository institution is a Bank Insurance Fund member which is a subsidiary of a bank holding company, the prior written approval of the Board shall be required for such transaction in addition to the approval of any agency referred to in clause (i).
+(B) ASSESSMENTS ON DEPOSITS ATTRIBUTABLE TO FORMER DEPOSITORY INSTITUTION.—
+ (i) ASSESSMENTS BY SAIF.—In the case of any acquiring, assuming, or resulting depository institution which is a Bank Insurance Fund member, that portion of the average assessment base of such member for any semiannual period which is equal to the adjusted attributable deposit amount (determined under sub-paragraph (C) with respect to the transaction) shall—

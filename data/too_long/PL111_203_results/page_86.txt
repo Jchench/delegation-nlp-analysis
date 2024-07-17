@@ -1,0 +1,19 @@
+124 STAT. 1460          PUBLIC LAW 111–203—JULY 21, 2010
+continue with the same validity as if an orderly liquidation had not been commenced.
+
+12 USC 5389.        SEC. 209. RULEMAKING; NON-CONFLICTING LAW.
+    The Corporation shall, in consultation with the Council, prescribe such rules or regulations as the Corporation considers necessary or appropriate to implement this title, including rules and regulations with respect to the rights, interests, and priorities of creditors, counterparties, security entitlement holders, or other persons with respect to any covered financial company or any assets or other property of or held by such covered financial company, and address the potential for conﬂicts of interest between or among individual receiverships established under this title or under the Federal Deposit Insurance Act. To the extent possible, the Corporation shall seek to harmonize applicable rules and regulations promulgated under this section with the insolvency laws that would otherwise apply to a covered financial company.
+
+12 USC 5390.       SEC. 210. POWERS AND DUTIES OF THE CORPORATION.
+    (a) POWERS AND AUTHORITIES.—
+        (1) GENERAL POWERS.—
+            (A) SUCCESSOR TO COVERED FINANCIAL COMPANY.—The Corporation shall, upon appointment as receiver for a covered financial company under this title, succeed to—
+                    (i) all rights, titles, powers, and privileges of the covered financial company and its assets, and of any stockholder, member, officer, or director of such company; and
+                    (ii) title to the books, records, and assets of any previous receiver or other legal custodian of such covered financial company.
+            (B) OPERATION OF THE COVERED FINANCIAL COMPANY DURING THE PERIOD OF ORDERLY LIQUIDATION.—The Corporation, as receiver for a covered financial company, may—
+                    (i) take over the assets of and operate the covered financial company with all of the powers of the members or shareholders, the directors, and the officers of the covered financial company, and conduct all business of the covered financial company;
+                    (ii) collect all obligations and money owed to the covered financial company;
+                    (iii) perform all functions of the covered financial company, in the name of the covered financial company;
+                    (iv) manage the assets and property of the covered financial company, consistent with maximization of the value of the assets in the context of the orderly liquidation; and
+                    (v) provide by contract for assistance in fulfilling any function, activity, action, or duty of the Corporation as receiver.
+            (C) FUNCTIONS OF COVERED FINANCIAL COMPANY OFFICERS, DIRECTORS, AND SHAREHOLDERS.—The Corporation may provide for the exercise of any function by any member or stockholder, director, or officer of any covered financial company for which the Corporation has been appointed as receiver under this title.

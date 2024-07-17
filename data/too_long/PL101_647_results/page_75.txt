@@ -1,0 +1,27 @@
+PUBLIC LAW 101-647—NOV. 29, 1990 104 STAT. 4863
+
+SEC. 2509. ENHANCEMENT OF ABILITY TO ORDER RESTITUTION IN CERTAIN FRAUD CASES.
+Section 3663(a) of title 18, United States Code, is amended— 
+(1) by inserting "(1)" after "(a)"; and 
+(2) by adding at the end the following: 
+"(2) For the purposes of restitution, a victim of an offense that involves as an element a scheme, a conspiracy, or a pattern of criminal activity means any person directly harmed by the defendant's criminal conduct in the course of the scheme, conspiracy, or pattern.
+"(3) The court may also order restitution in any criminal case to the extent agreed to by the parties in a plea agreement.".
+
+SEC. 2510. FINANCIAL CRIME KINGPIN STATUTE.
+(a) CONTINUING FINANCIAL CRIME ENTERPRISES.—Chapter 11 of title 18, United States Code, is amended by adding at the end thereof the following new section:
+"§ 225. Continuing financial crimes enterprise. Penalties.
+"(a) Whoever—
+
+"(1) organizes, manages, or supervises a continuing financial crimes enterprise; and
+"(2) receives $5,000,000 or more in gross receipts from such enterprise during any 24-month period,
+shall be fined not more than $10,000,000 if an individual, or $20,000,000 if an organization, and imprisoned for a term of not less than 10 years and which may be life.
+"(b) For purposes of subsection (a), the term 'continuing financial crimes enterprise' means a series of violations under section 215, 656, 657, 1005, 1006, 1007, 1014, 1032, or 1344 of this title, or section 1341 or 1343 affecting a financial institution, committed by at least 4 persons acting in concert.".
+(b) CLERICAL AMENDMENT.—The table of sections for chapter 11 of title 18, United States Code, is amended by adding at the end the following new item:
+"225. Continuing financial crimes enterprise.".
+
+Subtitle B—Protecting Assets From Wrongful Disposition
+SEC. 2521. INJUNCTIVE RELIEF; PREJUDGMENT ATTACHMENTS.
+(a) INJUNCTIVE RELIEF.—
+(1) APPLICATION BY CONSERVATOR OR RECEIVER FOR INSURED DEPOSITORY INSTITUTIONS.—Section 11(d) of the Federal Deposit Insurance Act (12 U.S.C. 1821(d)) is amended by inserting after paragraph (17) (as added by section 2511 of this title) the following new paragraphs:
+"(18) ATTACHMENT OF ASSETS AND OTHER INJUNCTIVE RELIEF.—Subject to paragraph (19), any court of competent jurisdiction may, at the request of—
+"(A) the Corporation (in the Corporation's capacity as conservator or receiver for any insured depository institution or in the Corporation's corporate capacity with respect to any asset acquired or liability assumed by the Corporation under section 11, 12, or 13); or

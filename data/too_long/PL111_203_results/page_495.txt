@@ -1,0 +1,16 @@
+PUBLIC LAW 111–203—JULY 21, 2010	124 STAT. 1869
+
+knowledge of the falsity of the representation and with an intent to deceive or cause injury to another, that such person, or another person, is a member of SIPC or that any person or account is protected or is eligible for protection under this Act or by SIPC, shall be liable for any damages caused thereby and shall be fined not more than $250,000 or imprisoned for not more than 5 years.
+‘‘(2) INJUNCTIONS.—Any court having jurisdiction of a civil action arising under this Act may grant temporary injunctions and final injunctions on such terms as the court deems reasonable to prevent or restrain any violation of paragraph (1). Any such injunction may be served anywhere in the United States on the person enjoined, shall be operative throughout the United States, and shall be enforceable, by proceedings in contempt or otherwise, by any United States court having jurisdiction over that person. The clerk of the court granting the injunction shall, when requested by any other court in which enforcement of the injunction is sought, transmit promptly to the other court a certified copy of all papers in the case on file in such clerk’s office.’’.
+
+SEC. 929W. NOTICE TO MISSING SECURITY HOLDERS.
+Section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q–1) is amended by adding at the end the following new subsection:
+
+‘‘(g) DUE DILIGENCE FOR THE DELIVERY OF DIVIDENDS, INTEREST, AND OTHER VALUABLE PROPERTY RIGHTS.—
+‘‘(1) REVISION OF RULES REQUIRED.—The Commission shall revise its regulations in section 240.17Ad–17 of title 17, Code of Federal Regulations, as in effect on December 8, 1997, to extend the application of such section to brokers and dealers and to provide for the following:
+‘‘(A) A requirement that the paying agent provide a single written notification to each missing security holder that the missing security holder has been sent a check that has not yet been negotiated. The written notification may be sent along with a check or other mailing subsequently sent to the missing security holder but must be provided no later than 7 months after the sending of the not yet negotiated check.
+‘‘(B) An exclusion for paying agents from the notification requirements when the value of the not yet negotiated check is less than $25.
+‘‘(C) A provision clarifying that the requirements described in subparagraph (A) shall have no effect on State escheatment laws.
+‘‘(D) For purposes of such revised regulations—
+‘‘(i) a security holder shall be considered a ‘missing security holder’ if a check is sent to the security holder and the check is not negotiated before the earlier of the paying agent sending the next regularly scheduled check or the elapsing of 6 months after the sending of the not yet negotiated check; and
+‘‘(ii) the term ‘paying agent’ includes any issuer, transfer agent, broker, dealer, investment adviser, indenture trustee, custodian, or any other person that

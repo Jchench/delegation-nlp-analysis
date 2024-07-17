@@ -1,0 +1,58 @@
+134 STAT. 3732         PUBLIC LAW 116–283—JAN. 1, 2021
+
+
+    “(6) MILESTONE B APPROVAL.—The term ‘Milestone B
+approval’ has the meaning given that term in section 2366(e)(7)
+of this title.
+    “(7) MILESTONE DECISION AUTHORITY.—The term ‘milestone
+decision authority’ has the meaning given in section 2431a(e)(5)
+of this title.”.
+(b) ADDITIONAL REQUIREMENTS BEFORE MILESTONE B
+APPROVAL.—Section 2366b of title 10, United States Code is
+amended—
+(1) in subsection (a)(3)—
+    (A) in subparagraph (N), by striking “and” at the end;
+    (B) in subparagraph (O), by striking the period at
+the end and inserting “; and”; and
+    (C) by adding at the end the following new subpara-
+graph:
+    “(P) has approved the life cycle sustainment plan
+required under section 2337(b) of this title.”; and
+(2) in subsection (c)(1)—
+    (A) by redesignating subparagraph (H) as subpara-
+graph (I); and
+    (B) by inserting after subparagraph (G) the following
+new subparagraph:
+    “(H) A summary of the life cycle sustainment plan
+required under section 2337 of this title.”.
+(c) RECURRING SUSTAINMENT REVIEWS.—Section 2441 of title
+10, United States Code, is amended—
+(1) in subsection (a)—
+    (A) in the first sentence—
+        (i) by striking “major weapon system” and
+        inserting “covered system”;
+        (ii) by striking “and throughout the life cycle of
+        the weapon system” and inserting “, and every five
+        years thereafter throughout the life cycle of the covered system.”; and
+        (iii) by striking “costs of the weapon system” and
+        inserting “costs of the covered system”;
+    (B) by striking the second sentence;
+(2) in subsection (b)—
+    (A) in the matter preceding paragraph (1), by inserting
+    “assess execution of the life cycle sustainment plan of the
+    covered system and” before “include the following ele-
+    ments:”; and
+    (B) by adding at the end the following new paragraph:
+        “(10) As applicable, information regarding any decision to
+        restructure the life cycle sustainment plan for a covered system
+        or any other action that will lead to critical operating and
+        support cost growth.”; and
+(3) by adding at the end the following new subsections:
+“(d) SUBMISSION TO CONGRESS.—(1) Not later than September
+30 of each fiscal year, the Secretary of each military department
+shall annually submit to the congressional defense committees the
+sustainment reviews required by this section for such fiscal year.
+    “(2) Each submission under paragraph (1) shall be submitted
+in unclassified form, but may include a classified annex.
+    “(3) For a covered system with critical operating and support
+cost growth, such submission shall include a remediation plan to

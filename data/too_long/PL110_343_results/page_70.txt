@@ -1,0 +1,25 @@
+122 STAT. 3834
+
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+For purposes of this paragraph, the term ‘United States’ includes any possession of the United States.”.
+(c) EXCISE TAX CREDIT.—
+(1) IN GENERAL.—Section 6426 is amended by adding at the end the following new subsection:
+“(i) LIMITATION TO FUELS WITH CONNECTION TO THE UNITED STATES.—
+“(1) ALCOHOL.—No credit shall be determined under this section with respect to any alcohol which is produced outside the United States for use as a fuel outside the United States.
+“(2) BIODIESEL AND ALTERNATIVE FUELS.—No credit shall be determined under this section with respect to any biodiesel or alternative fuel which is produced outside the United States for use as a fuel outside the United States.
+For purposes of this subsection, the term ‘United States’ includes any possession of the United States.”.
+(2) CONFORMING AMENDMENT.—Subsection (e) of section 6427 is amended by redesignating paragraph (5) as paragraph (6) and by inserting after paragraph (4) the following new paragraph:
+“(5) LIMITATION TO FUELS WITH CONNECTION TO THE UNITED STATES.—No amount shall be payable under paragraph (1) or (2) with respect to any mixture or alternative fuel if credit is not allowed with respect to such mixture or alternative fuel by reason of section 6426(i).”.
+(d) EFFECTIVE DATE.—The amendments made by this section shall apply to claims for credit or payment made on or after May 15, 2008.
+
+SEC. 204. EXTENSION AND MODIFICATION OF ALTERNATIVE FUEL CREDIT.
+(a) EXTENSION.—
+(1) ALTERNATIVE FUEL CREDIT.—Paragraph (4) of section 6426(d) (relating to alternative fuel credit) is amended by striking “September 30, 2009” and inserting “December 31, 2009”.
+(2) ALTERNATIVE FUEL MIXTURE CREDIT.—Paragraph (3) of section 6426(e) (relating to alternative fuel mixture credit) is amended by striking “September 30, 2009” and inserting “December 31, 2009”.
+(3) PAYMENTS.—Subparagraph (C) of section 6427(e)(5) (relating to termination) is amended by striking “September 30, 2009” and inserting “December 31, 2009”.
+(b) MODIFICATIONS.—
+(1) ALTERNATIVE FUEL TO INCLUDE COMPRESSED OR LIQUEFIED BIOMASS GAS.—Paragraph (2) of section 6426(d) (relating to alternative fuel credit) is amended by striking “and” at the end of subparagraph (E), by redesignating subparagraph (F) as subparagraph (G), and by inserting after subparagraph (E) the following new subparagraph:
+“(F) compressed or liquefied gas derived from biomass (as defined in section 45K(c)(3)), and”.
+(2) CREDIT ALLOWED FOR AVIATION USE OF FUEL.—Paragraph (1) of section 6426(d) is amended by inserting “sold by the taxpayer for use as a fuel in aviation,” after “motorboat,”.
+(c) CARBON CAPTURE REQUIREMENT FOR CERTAIN FUELS.—

@@ -1,0 +1,21 @@
+103 STAT. 548 PUBLIC LAW 101-73—AUG. 9, 1989 which are located within the jurisdiction of the applicable State housing finance authority or within the geographical area served by the nonprofit entity.
+(4) NET INCOME.—The term "net income" means income after deduction of all associated expenses calculated in accordance with generally accepted accounting principles.
+
+12 USC 1441a-2. SEC. 1302. AUTHORIZATION FOR STATE HOUSING FINANCE AGENCIES AND NONPROFIT ENTITIES TO PURCHASE MORTGAGE-RELATED ASSETS.
+(a) AUTHORIZATION.—Notwithstanding any other provision of Fed- eral or State law, a State housing finance authority or nonprofit entity may purchase mortgage-related assets from the Resolution Trust Corporation or from financial institutions with respect to which the Federal Deposit Insurance Corporation is acting as a conservator or receiver (including assets associated with any trust business), and any contract for such purchase shall be effective in
+accordance with its terms without any further approval, assign- ment, or consent with respect to that contract.
+Disadvantaged  (b) INVESTMENT REQUIREMENT.—Any State housing finance persons. authority or nonprofit entity which purchases mortgage-related assets pursuant to subsection (a) shall invest any net income attrib- utable to the ownership of those assets in financing, refinancing, or rehabilitating low- and moderate-income housing within the juris- diction of the State housing finance authority or within the geo- graphical area served by the nonprofit entity.
+
+TITLE XIV—TAX PROVISIONS
+
+SEC. 1401. EARLY TERMINATION OF SPECIAL REORGANIZATION RULES FOR FINANCIAL INSTITUTIONS.
+(a) GENERAL RULE.—
+(1) REORGANIZATIONS.—Subparagraph (D) of section 368(a)(3) of the Internal Revenue Code of 1986 (as amended by section 4012 of the Technical and Miscellaneous Revenue Act of 1988) is amended to read as follows:
+“(D) AGENCY RECEIVERSHIP PROCEEDINGS WHICH INVOLVE FINANCIAL INSTITUTIONS.—For purposes of subparagraphs (A) and (B), in the case of a receivership, foreclosure, or similar proceeding before a Federal or State agency involv- ing a financial institution referred to in section 581 or 591, the agency shall be treated as a court.”
+26 USC 368.
+(2) NET OPERATING LOSS RULES.—The last sentence of section 382(1)(5)(F) of such Code (as so amended) is amended by striking “after December 31, 1989” and inserting “on or after May 10, 1989”.
+26 USC 382.
+(3) FINANCIAL ASSISTANCE.—
+(A) Section 597 of such Code (as so amended) is amended to read as follows:
+26 USC 597. “SEC. 597. TREATMENT OF TRANSACTIONS IN WHICH FEDERAL FINANCIAL ASSISTANCE PROVIDED.
+“(a) GENERAL RULE.—The treatment for purposes of this chapter of any transaction in which Federal financial assistance is provided with respect to a bank or domestic building and loan association shall be determined under regulations prescribed by the Secretary.

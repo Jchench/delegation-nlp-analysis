@@ -1,0 +1,80 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+134 STAT. 4439
+
+SEC. 4101. PROCUREMENT 
+(In Thousands of Dollars)
+
+Line Item FY 2021 Request Conference Authorized
+
+AIRCRAFT PROCUREMENT, AIR FORCE 
+OTHER AIRCRAFT 
+083 OTHER AIRCRAFT ........................................................... 4,505 4,505 
+RQ-4 POST PRODUCTION CHARGES ............................ 52,855 52,855 
+INDUSTRIAL PREPAREDNESS 
+085 INDUSTRIAL RESPONSIVENESS ................................ 18,215 18,215 
+WAR CONSUMABLES 
+086 WAR CONSUMABLES ................................................ 36,046 36,046 
+OTHER PRODUCTION CHARGES 
+087 OTHER PRODUCTION CHARGES .......................... 1,439,640 1,551,041 
+Classified increases ................................................. [75,000] 
+NATO AWACS—transfer from line 58 ........... [36,401] 
+CLASSIFIED PROGRAMS 
+UNDISTRIBUTED 
+88A CLASSIFIED PROGRAMS ......................................... 21,692 21,692 
+
+TOTAL AIRCRAFT PROCUREMENT, AIR FORCE ...... 17,908,145 19,282,613 
+
+MISSILE PROCUREMENT, AIR FORCE 
+MISSILE REPLACEMENT EQUIPMENT—BALLISTIC 
+001 MISSILE REPLACEMENT EQ-BALLISTIC ............. 75,012 75,012 
+TACTICAL 
+002 REPL& EQUIP & WAR CONSUMABLES ................... 4,435 4,435 
+004 JOINT AIR-SURFACE STANDOFF MISSILE ........ 475,949 475,949 
+005 LRASMD ..................................................................... 19,800 19,800 
+006 SIDEWINDER (AIM-9X) ............................................. 164,769 169,786 
+007 AMRAAM ..................................................... 453,223 451,923 
+ADR w/growth .............................................. [-1,300] 
+008 PREDATOR HELLFIRE MISSILE ............................... 40,129 40,129 
+009 SMALL DIAMETER BOMB ......................................... 45,475 45,475 
+010 SMALL DIAMETER BOMB II ....................................... 273,272 257,332 
+AUR delay and schedule ................................ [-15,940] 
+INDUSTRIAL FACILITIES 
+011 INDUSTRIAL PREPAREDNESS/POL PREVENTION .... 814 814 
+CLASS IV 
+013 ICBM FUZ MOD ............................................................ 3,458 3,458 
+014 ICBM FUZ MOD AP ...................................................... 43,450 43,450 
+015 ICBM MII EMD/ECO/CANS ........................................ 85,810 81,137 
+.. Initial spares—AF requested transfer to line 18 .... [4,673] 
+016 AGM-86B WARRIOR ...................................................... 298 298 
+017 AIR LAUNCHED CRUISE MISSLE (ALCM) ............ 52,924 52,924 
+MISSILE SPARES AND REPAIR PARTS 
+018 MSL SPRS/REPAIR PARTS (INITIAL) .................... 9,402 13,575 
+.. AF requested transfer from line 15 ....................... [4,173] 
+019 MSL SPRS/REPAIR PARTS (REPLEN) .................. 84,671 84,671 
+SPECIAL PROGRAMS 
+025 SPECIAL UPDATED PROGRAMS ............................ 23,501 23,501 
+CLASSIFIED PROGRAMS 
+UNDISTRIBUTED 
+25A CLASSIFIED PROGRAMS .......................................... 540,465 540,465 
+
+TOTAL MISSILE PROCUREMENT, AIR FORCE ............ 2,396,417 2,359,777 
+
+PROCUREMENT OF AMMUNITION, AIR FORCE 
+ROCKETS 
+001 ROCKETS ........................................................................ 14,962 14,962 
+CARTRIDGES 
+002 CARTRIDGES .............................................................. 123,365 123,365 
+BOMBS 
+003 PRACTICE BOMBS ....................................................... 59,725 59,725 
+006 JOINT DIRECT ATTACK MUNITION ......................... 206,989 206,989 
+007 OTHER BOMBS ........................................................... 35,634 35,634 
+OTHER ITEMS 
+009 CAD/PAD ..................................................................... 47,830 47,830 
+010 EXPLOSIVE ORDNANCE DISPOSAL (EOD) ............. 6,232 6,232 
+011 SPARES AND REPAIR PARTS .................................. 542 542 
+012 MODIFICATIONS ......................................................... 1,310 1,310 
+013 ITEMS LESS THAN $5,000,000 ................................ 4,753 4,753 
+FLARES 
+015 FLARES .......................................................................... 40,088 40,088 
+FUZES

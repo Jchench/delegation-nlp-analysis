@@ -1,0 +1,33 @@
+PUBLIC LAW 110-343-OCT. 3, 2008 122 STAT. 3839
+
+    (D) Section 26(a)(1), as amended by section 106, is amended by striking "and 25D?" and inserting "25D, and 30D".
+    (E) Section 1400C(d)(2) is amended by striking "and 25D?" and inserting "25D, and 30D".
+    (2) Section 1016(a) is amended by striking "and" at the end of paragraph (35), by striking the period at the end of paragraph (36) and inserting "; and", and by adding at the end the following new paragraph:
+            "(37) to the extent provided in section 30D(e)(4).".
+    (3) Section 6501(m) is amended by inserting  "30D(e)(9)." after "30C(e)(5).".
+    (4) The table of sections for subpart B of part IV of subchapter A of chapter 1 is amended by adding at the end the following new item:
+    
+"Sec. 30D. New qualified plug-in electric drive motor vehicles.".
+    
+    (e) EFFECTIVE DATE.-The amendments made by this section shall apply to taxable years beginning after December 31, 2008.
+    (f) APPLICATION OF EGTRRA SUNSET.-The amendment made by subsection (d)(1)(A) shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 in the same manner as the provision of such Act to which such amendment relates.
+    
+Applicability.
+ 26 USC 24 note.   
+
+SEC. 206. EXCLUSION FROM HEAVY TRUCK TAX FOR IDLING REDUCTION UNITS AND ADVANCED INSULATION.
+
+    (a) IN GENERAL.-Section 4053 is amended by adding at the end the following new paragraphs:
+            "(9) IDLING REDUCTION DEVICE.- Any device or system of devices which-
+                     "(A) is designed to provide to a vehicle those services (such as heat, air conditioning, or electricity) that would otherwise require the operation of the main drive engine while the vehicle is temporarily parked or remains stationary using one or more devices affixed to a tractor, and
+                     "(B) is determined by the Administrator of the Environmental Protection Agency, in consultation with the Secretary of Energy and the Secretary of Transportation, to reduce idling of such vehicle at a motor vehicle rest stop or other location where such vehicles are temporarily parked or remain stationary.
+            "(10) ADVANCED INSULATION.-Any insulation that has an R value of not less than R35 per inch.".
+    (b) EFFECTIVE DATE.-The amendment made by this section shall apply to sales or installations after the date of the enactment of this Act.
+Applicability.
+26 USC 4053 note.
+
+SEC. 207. ALTERNATIVE FUEL VEHICLE REFUELING PROPERTY CREDIT.
+
+    (a) EXTENSION OF CREDIT.-Paragraph (2) of section 30C(g) is amended by striking "December 31, 2009" and inserting "December 31, 2010".
+    (b) INCLUSION OF ELECTRICITY AS A CLEAN-BURNING FUEL.-Section 30C(c)(2) is amended by adding at the end the following new subparagraph:
+            "(C) ELECTRICITY.".

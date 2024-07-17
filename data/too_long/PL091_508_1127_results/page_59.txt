@@ -1,0 +1,45 @@
+Pt. 680
+
+16 CFR Ch. I (1–1–11 Edition)
+
+or different policies and procedures are nec- essary; and consider whether implementa- tion of existing policies and procedures should be modified to enhance the accuracy and integrity of information about con- sumers furnished to consumer reporting agencies.
+(c) Evaluate the effectiveness of specific methods (including technological means) the furnisher uses to provide information to con- sumer reporting agencies; how those meth- ods may affect the accuracy and integrity of the information it provides to consumer re- porting agencies; and whether new, addi- tional, or different methods (including tech- nological means) should be used to provide information to consumer reporting agencies to enhance the accuracy and integrity of that information.
+
+III. SPECIFIC COMPONENTS OF POLICIES AND PROCEDURES
+In developing its policies and procedures, a furnisher should address the following, as ap- propriate:
+(a) Identifying patterns, practices, and sys- tems for furnishing information about con- sumers to consumer reporting agencies that is appropriate to the nature, size, complex- ity, and scope of the furnisher’s business op- erations;
+(b) Using standard data reporting formats and standard procedures for compiling and furnishing data, where feasible, such as the electronic transmission of information about consumers to consumer reporting agencies;
+(c) Maintaining records for a reasonable period of time, not less than any applicable recordkeeping requirement, by which it can substantiate the accuracy of any information about consumers it furnishes that is subject to a direct dispute;
+(d) Establishing and implementing appro- priate internal controls regarding the accu- racy and integrity of information about con- sumers furnished to consumer reporting agencies, such as by implementing standard procedures and verifying random samples of information provided to consumer reporting agencies;
+(e) Training staff that participates in ac- tivities related to the furnishing of informa- tion about consumers to consumer reporting agencies to implement the policies and pro- cedures;
+(f) Providing for appropriate and effective oversight of relevant service providers whose activities may affect the accuracy or integ- rity of information about consumers fur- nished to consumer reporting agencies to en- sure compliance with the policies and proce- dures;
+(g) Furnishing information about con- sumers to consumer reporting agencies fol- lowing mergers, portfolio acquisitions or transfers, and other acquisitions or transfers of accounts or other obligations in a manner that prevents re-aging of information, dupli- cate reporting, or other problems that may similarly affect the accuracy or integrity of the information furnished;
+(h) Deleting, updating, and correcting in- formation in the furnisher’s records, as ap- propriate, to avoid furnishing inaccurate in- formation;
+(i) Conducting reasonable investigations of disputes;
+(j) Designing technological and other means of communication with consumer re- porting agencies to prevent duplicative re- porting of accounts, erroneous association of information with the wrong consumer(s), and other occurrences that may compromise the accuracy or integrity of information pro- vided to consumer reporting agencies;
+(k) Providing consumer reporting agencies with sufficient identifying information in the furnisher’s possession about each con- sumer about whom information is furnished to enable the consumer reporting agency properly to identify the consumer;
+(l) Conducting a periodic evaluation of its practices and procedures to ensure that in- formation provided to consumer reporting agencies is accurate and in compliance with its obligations under the FCRA and its imple- menting regulations; and
+(m) Complying with applicable require- ments under the Fair Credit Reporting Act and its implementing regulations.
+
+PART 680—AFFILIATE MARKETING
+
+Sec.
+680.1 Purpose and scope.
+680.2 Examples.
+680.3 Definitions.
+680.4-680.20 [Reserved]
+680.21 Affiliate marketing opt-out and ex- ceptions.
+680.22 Scope and duration of opt-out.
+680.23 Contents of opt-out notice; consol- idated and equivalent notices.
+680.24 Reasonable opportunity to opt out.
+680.25 Reasonable and simple methods of opting out.
+680.26 Delivery of opt-out notices.
+680.27 Renewal of opt-out.
+680.28 Effective date, compliance date, and prospective application.
+AUTHORITY: Sec. 214(b), Pub. L. 108-159; 15 U.S.C. 1681s-3
+SOURCE: 72 FR 61455, Oct. 30, 2007, unless otherwise noted.
+
+§680.1 Purpose and scope.
+(a) Purpose. The purpose of this part is to implement section 214 of the Fair
+
+604

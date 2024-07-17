@@ -1,0 +1,34 @@
+134 STAT. 4158          PUBLIC LAW 116-283—JAN. 1, 2021
+
+(A) by inserting after subsection (a) the following new section heading:
+
+10 USC 3066. “§ 3066. Assignment and delegation of procurement functions and responsibilities: procurements for or with other agencies”;
+
+(B) by inserting after subsection (b) the following new section heading:
+
+10 USC 3067. “§ 3067. Approval required for military department termination or reduction in participation in joint acquisition programs”;
+
+(C) in section 3065, as so redesignated—
+(i) by striking “(a) IN GENERAL.—”; and
+(ii) by striking “under this chapter” and inserting “under any provision of this part that is a chapter 137 legacy provision”;
+(D) in section 3066, as so designated—
+(i) by striking “(b) PROCUREMENTS FOR OR WITH OTHER AGENCIES.—Subject to subsection (a)” and inserting “Subject to section 3065 of this title”;
+(ii) by striking “covered by this chapter” and inserting “covered by any provision of this part that is a chapter 137 legacy provision”; and
+(iii) by striking “section 2303” and inserting “section 3063”; and
+(E) in section 3067, as so designated—
+(i) by redesignating subsection (c) as subsection (a);
+(ii) by striking “(1)”;
+(iii) by redesignating paragraph (2) as subsection (b) and inserting “REQUIRED CONTENT OF REGULATIONS.—” before “The regulations”; and
+(iv) by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively.
+3. CONFORMING AMENDMENT.—The heading of section 3065, as transferred and redesignated by paragraph (1), is amended to read as follows:
+“§ 3065. Assignment and delegation of procurement functions and responsibilities: delegation within agency”.
+
+(e) TRANSFER AND CONSOLIDATION OF SECTIONS 2314 & 2315 OF TITLE 10.—
+
+(1) NEW SECTION.—Chapter 203 of title 10, United States Code, is amended by adding after section 3067, as designated by subsection (d), the following new section:
+
+10 USC 3068. “§ 3068. Inapplicability of certain laws”.
+
+(2) TRANSFER OF SECTION 2314.—The text of section 2314 of such title is transferred to section 3068, as added by paragraph (1), inserted after the section heading, designated as subsection (a), and amended—
+(A) by inserting “LAWS INAPPLICABLE TO AGENCIES NAMED IN SECTION 3063.—” before “Sections”; and
+(B) by striking “section 2303” and inserting “section 3063 of this title”.

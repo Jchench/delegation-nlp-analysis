@@ -1,0 +1,52 @@
+122 STAT. 3844            PUBLIC LAW 110–343—OCT. 3. 2008
+
+(1) Paragraph (1) of section 54A(d), as amended by this 
+Act, is amended to read as follows:
+“(1) QUALIFIED TAX CREDIT BOND.—The term ‘qualified tax 
+credit bond’ means—
+“(A) a qualified forestry conservation bond,
+“(B) a new clean renewable energy bond, or
+“(C) a qualified energy conservation bond,
+which is part of an issue that meets requirements of paragraphs 
+(2), (3), (4), (5), and (6).”.
+(2) Subparagraph (C) of section 54A(d)(2), as amended by 
+this Act, is amended to read as follows:
+“(C) QUALIFIED PURPOSE.—For purposes of this paragraph, the term ‘qualified purpose’ means—
+“(i) in the case of a qualified forestry conservation 
+bond, a purpose specified in section 54B(e),
+“(ii) in the case of a new clean renewable energy 
+bond, a purpose specified in section 54C(a)(1), and
+“(iii) in the case of a qualified energy conservation 
+bond, a purpose specified in section 54D(a)(1).”.
+(3) The table of sections for subpart I of part IV of subchapter A of chapter 1, as amended by this Act, is amended 
+by adding at the end the following new item:
+“Sec. 54D. Qualified energy conservation bonds.”.
+Applicability.
+26 USC 54A note.
+(c) EFFECTIVE DATE.—The amendments made by this section shall apply to obligations issued after the date of the enactment of this Act.
+SEC. 302. CREDIT FOR NONBUSINESS ENERGY PROPERTY.
+(a) EXTENSION OF CREDIT.—Section 25C(g) is amended by 
+striking “placed in service after December 31, 2007” and inserting “placed in service—
+“(1) after December 31, 2007, and before January 1, 2009, 
+or
+“(2) after December 31, 2009.”.
+(b) QUALIFIED BIOMASS FUEL PROPERTY.—
+(1) IN GENERAL.—Section 25C(d)(3) is amended—
+(A) by striking “and” at the end of subparagraph (D), 
+(B) by striking the period at the end of subparagraph 
+(E) and inserting “, and”, and
+(C) by adding at the end the following new subparagraph:
+“(F) a stove which uses the burning of biomass fuel 
+to heat a dwelling unit located in the United States and 
+used as a residence by the taxpayer, or to heat water 
+for use in such a dwelling unit, and which has a thermal 
+efficiency rating of at least 75 percent.”.
+(2) BIOMASS FUEL.—Section 25C(d) is amended by adding 
+at the end the following new paragraph:
+“(6) BIOMASS FUEL.—The term ‘biomass fuel’ means any 
+plant-derived fuel available on a renewable or recurring basis, 
+including agricultural crops and trees, wood and wood waste 
+and residues (including wood pellets), plants (including aquatic 
+plants), grasses, residues, and fibers.”.
+(c) MODIFICATION OF WATER HEATER REQUIREMENTS.—Section 
+25C(d)(3)(E) is amended by inserting “or a thermal efficiency of at least 90 percent” after “0.80”.

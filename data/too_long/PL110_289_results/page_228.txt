@@ -1,0 +1,26 @@
+122 STAT. 2880
+
+PUBLIC LAW 110-289—JULY 30, 2008
+
+(iii) by striking “subsection (d)—” and all that follows and inserting “subsection (d) the proceeds of such obligation.”.
+(B) Subparagraph (C) of section 42(i)(2) is amended— 
+(i) by striking “or below market Federal loan” in the matter preceding clause (i),
+(ii) in clause (i)—
+(I) by striking “or loan (when issued or made)” and inserting “(when issued)”, and
+(II) by striking “the proceeds of such obligation or loan” and inserting “the proceeds of such obligation”, and
+(iii) by striking “, and such loan is repaid,” in clause (ii).
+(C) Paragraph (2) of section 42(i) is amended by striking subparagraphs (D) and (E).
+(c) EFFECTIVE DATE.—The amendments made by this subsection shall apply to buildings placed in service after the date of the enactment of this Act.
+
+SEC. 3003. MODIFICATIONS TO DEFINITION OF ELIGIBLE BASIS.
+
+(a) INCREASE IN CREDIT FOR CERTAIN STATE DESIGNATED BUILDINGS.—Subparagraph (C) of section 42(d)(5) (relating to increase in credit for buildings in high cost areas), before redesignation under subsection (g), is amended by adding at the end the following new clause:
+“(v) BUILDINGS DESIGNATED BY STATE HOUSING CREDIT AGENCY.—Any building which is designated by the State housing credit agency as requiring the increase in credit under this subparagraph in order for such building to be financially feasible as part of a qualified low-income housing project shall be treated for purposes of this subparagraph as located in a difficult development area which is designated for purposes of this subparagraph. The preceding sentence shall not apply to any building if paragraph (1) of subsection (h) does not apply to any portion of the eligible basis of such building by reason of paragraph (4) of such subsection.”.
+
+(b) MODIFICATION TO REHABILITATION REQUIREMENTS.—
+(1) IN GENERAL.—Clause (ii) of section 42(e)(3)(A) is amended—
+(A) by striking “10 percent” in subclause (I) and inserting “20 percent”, and 
+(B) by striking “$3,000” in subclause (II) and inserting “$6,000”.
+(2) INFLATION ADJUSTMENT.—Paragraph (3) of section 42(e) is amended by adding at the end the following new subparagraph:
+“(D) INFLATION ADJUSTMENT.—In the case of any expenditures which are treated under paragraph (4) as placed in service during any calendar year after 2009, the $6,000 amount in subparagraph (A)(ii)(II) shall be increased by an amount equal to—
+“(i) such dollar amount, multiplied by

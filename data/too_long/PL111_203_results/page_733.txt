@@ -1,0 +1,23 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+“(1) IN GENERAL.—The Bureau is authorized to promulgate regulations setting minimum net worth or surety bond requirements for residential mortgage loan originators and minimum requirements for recovery funds paid into by loan originators.
+“(2) CONSIDERATIONS.—In issuing regulations under paragraph (1), the Bureau shall take into account the need to provide originators adequate incentives to originate affordable and sustainable mortgage loans, as well as the need to ensure a competitive origination market that maximizes consumer access to affordable and sustainable mortgage loans.”;
+(7) by striking section 1510 (12 U.S.C. 5109) and inserting the following:
+
+“SEC. 1510. FEES.
+“The Bureau, the Farm Credit Administration, and the Nationwide Mortgage Licensing System and Registry may charge reasonable fees to cover the costs of maintaining and providing access to information from the Nationwide Mortgage Licensing System and Registry, to the extent that such fees are not charged to consumers for access to such system and registry.”;
+(8) by striking section 1513 (12 U.S.C. 5112) and inserting the following:
+
+“SEC. 1513. LIABILITY PROVISIONS.
+“The Bureau, any State official or agency, or any organization serving as the administrator of the Nationwide Mortgage Licensing System and Registry or a system established by the Director under section 1509, or any officer or employee of any such entity, shall not be subject to any civil action or proceeding for monetary damages by reason of the good faith action or omission of any officer or employee of any such entity, while acting within the scope of office or employment, relating to the collection, furnishing, or dissemination of information concerning persons who are loan originators or are applying for licensing or registration as loan originators.”; and
+(9) in section 1514 (12 U.S.C. 5113) in the section heading, by striking “UNDER HUD BACKUP LICENSING SYSTEM” and inserting “BY THE BUREAU”.
+
+SEC. 1100A. AMENDMENTS TO THE TRUTH IN LENDING ACT.
+The Truth in Lending Act (15 U.S.C. 1601 et seq.) is amended—
+(1) in section 103 (15 U.S.C. 1602)—
+(A) by redesignating subsections (b) through (bb) as subsections (c) through (cc), respectively; and
+(B) by inserting after subsection (a) the following:
+“(b) BUREAU.—The term ‘Bureau’ means the Bureau of Consumer Financial Protection.”;
+(2) by striking “Board” each place that term appears, other than in section 140(f) and sections 105(i) and 108(a), as amended by this section, and inserting “Bureau”;
+(3) by striking “Federal Trade Commission” each place that term appears, other than in section 108(c) and section 129(m), as amended by this Act, and other than in the context of a reference to the Federal Trade Commission Act, and inserting “Bureau”;
+(4) in section 105(a) (15 U.S.C. 1604(a)), in the second sentence—

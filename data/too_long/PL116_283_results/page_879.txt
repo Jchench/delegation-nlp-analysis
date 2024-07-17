@@ -1,0 +1,32 @@
+PUBLIC LAW 116-283—JAN. 1, 2021	134 STAT. 4265
+
+‘‘§ 4371. Cost growth definitions; applicability of reporting requirements; constant base year dollars
+
+‘‘§ 4372. Unit cost reports: quarterly report from program manager to service acquisition executive
+
+‘‘§ 4373. Unit cost reports: immediate report from program manager to service acquisition executive upon breach of significant cost growth threshold
+
+‘‘§ 4374. Unit cost reports: determinations by service acquisition executive and secretary concerned of breach of significant cost growth threshold or critical cost growth threshold; reports to Congress
+
+‘‘§ 4375. Breach of significant cost growth threshold or critical cost growth threshold: required action
+
+‘‘§ 4376. Breach of critical cost growth threshold: reassessment of program; presumption of program termination
+
+‘‘§ 4377. Breach of critical cost growth threshold: actions if program not terminated’’.
+
+(b) TRANSFER OF SUBSECTION (A) OF SECTION 2433.—
+(1) TRANSFER.—Subsection (a) of section 2433 of title 10, United States Code, is transferred to section 4371 of such title, as added by subsection (a), inserted after the section heading, and amended by striking ‘‘this section’’ in the preceding paragraph (1) and in paragraph (2) and inserting ‘‘this chapter’’.
+(2) INSERTION OF SIDE HEADINGS.—Such subsection is further amended—
+(A) in the matter preceding paragraph (1), by inserting ‘‘DEFINITIONS.—’’ after ‘‘(a)’’;
+(B) in paragraph (1), by inserting ‘‘PROGRAM ACQUISITION UNIT COST; PROCUREMENT UNIT COST; MAJOR CONTRACT.—’’ after ‘‘(1)’’;
+(C) in paragraph (2), by inserting ‘‘BASELINE ESTIMATE.—’’ after ‘‘(2)’’;
+(D) in paragraph (3), by inserting ‘‘PROCUREMENT PROGRAM.—’’ after ‘‘(3)’’;
+(E) in paragraph (4), by inserting ‘‘SIGNIFICANT COST GROWTH THRESHOLD.—’’ after ‘‘(4)’’;
+(F) in paragraph (5), by inserting ‘‘CRITICAL COST GROWTH THRESHOLD.—’’ after ‘‘(5)’’; and
+(G) in paragraph (6), by inserting ‘‘ORIGINAL BASELINE ESTIMATE.—’’ after ‘‘(6)’’.
+(3) CONFORMING CROSS-REFERENCE AMENDMENTS.—Such subsection is further amended—
+(A) in paragraph (1)—
+(i) by striking ‘‘section 2430a(d)’’ and inserting ‘‘section 4203(d)’’; and
+(ii) by striking ‘‘section 2432(a)’’ and inserting ‘‘section 4351’’;
+(B) in paragraph (2), by striking ‘‘section 2435’’ and inserting ‘‘section 4214’’; and
+(C) in paragraph (6), by striking ‘‘section 2435(d)’’ and inserting ‘‘section 4214(d)’’.

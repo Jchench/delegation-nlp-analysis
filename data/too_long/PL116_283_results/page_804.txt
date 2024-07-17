@@ -1,0 +1,38 @@
+134 STAT. 4190
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+(F) by redesignating paragraph (4) as paragraph (3) and inserting “WAIVER AUTHORITY.—” in that paragraph before “The head of”; and
+
+(G) by redesignating paragraph (5) as paragraph (4) and inserting “INAPPLICABILITY WITH RESPECT TO PURCHASE OF INITIAL SPARES.—” in that paragraph before “This subsection does not”.
+
+(3) AMENDMENT TO NEW 3372(b).—Subsection (b) of such section 3372, as transferred and redesignated by paragraph (1), is amended by striking “subsection (b)(1)” and inserting “subsection (a)(1)”.
+
+(4) AMENDMENTS TO NEW 3372(c).—Subsection (c) of such section 3372, as transferred and redesignated by paragraph (1), is amended—
+
+(A) by striking “CONTRACTS.—(1) Except as provided in” and inserting “CONTRACTS.— 
+
+“(1) 180-DAY REQUIREMENT.—Except as provided in”;
+
+(B) by striking “subsection (b)(1)(A)” and inserting “subsection (a)(1)(A)”; 
+
+(C) by realigning paragraph (2) 2 ems to the right; and 
+
+(D) in paragraph (2)—
+(i) by inserting “WAIVER AUTHORITY.—” before “The requirement”; and 
+(ii) by striking “subsection (b)(4)” and inserting “subsection (a)(3)”.
+
+(d) TRANSFER OF SUBSECTIONS (d) AND (e) OF SECTION 2326.—Subsections (d) and (e) of section 2326 of title 10, United States Code, are transferred to section 3373 of such title, as added by subsection (a), inserted after the section heading, and redesignated as subsections (a) and (b), respectively.
+
+(e) TRANSFER OF SUBSECTION (f) OF SECTION 2326.—
+
+(1) TRANSFER.—Subsection (f) of section 2326 of title 10, United States Code, is transferred to section 3374 of such title, as added by subsection (a), inserted after the section heading, and amended—
+(A) by striking the subsection designation and subsection heading; and
+(B) by redesignating paragraphs (1) and (2) as subsections (a) and (b), respectively.
+
+(2) AMENDMENTS TO NEW 3374(a).—Subsection (a) of such section 3374, as so transferred and redesignated, is amended—
+(A) by inserting “ALLOWED PROFIT TO REFLECT CERTAIN REDUCED COST RISKS OF CONTRACTOR.—” before “The head of an agency”; and 
+(B) by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively.
+(3) AMENDMENT TO NEW 3374(b).—Subsection (b) of such section 3374, as so transferred and redesignated, is amended by inserting “DATE AS OF WHICH CONTRACTOR COST RISK TO BE DETERMINED.—” before “If a contractor”.
+
+(f) TRANSFER OF SUBSECTION (g) OF SECTION 2326.—Subsection (g) of section 2326 of title 10, United States Code, is transferred to section 3375 of such title, as added by subsection (a), inserted after the section heading, and amended by striking the subsection designation and subsection heading.

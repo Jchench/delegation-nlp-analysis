@@ -1,0 +1,22 @@
+134 STAT. 4864          PUBLIC LAW 116–283—JAN. 1, 2021
+
+(1) in the section heading, by striking “AT INSTITUTIONS OF HIGHER EDUCATION” and inserting “FOR EDUCATIONAL PURPOSES”; and 
+(2) in subsection (a)— 
+(A) by striking “aircraft system operated by” and all that follows and inserting “aircraft system—”; and 
+(B) by adding at the end the following new paragraphs:
+ “(1) operated by an institution of higher education for educational or research purposes; 
+“(2) flown as part of an established Junior Reserve Officers’ Training Corps (JROTC) program for education or research purposes; or 
+“(3) flown as part of an educational program that is chartered by a recognized community-based organization (as defined in subsection (h) of such section).”.
+
+SEC. 10003. PROHIBITION ON PROVISION OF AIRPORT IMPROVEMENT GRANT FUNDS TO CERTAIN ENTITIES THAT HAVE VIOLATED INTELLECTUAL PROPERTY RIGHTS OF UNITED STATES ENTITIES.
+
+(a) IN GENERAL.—During the period beginning on the date that is 30 days after the date of the enactment of this Act and ending on September 30, 2023, amounts provided as project grants under subchapter I of chapter 471 of title 49, United States Code, may not be used to enter into a contract described in subsection (b) with any entity on the list required by subsection (c). 
+(b) CONTRACT DESCRIBED.—A contract described in this subsection is a contract or other agreement for the procurement of infrastructure or equipment for a passenger boarding bridge at an airport. 
+(c) LIST REQUIRED.—
+(1) IN GENERAL.—Not later than 30 days after the date of enactment of this Act, and thereafter as required by paragraph (2), the Administrator of the Federal Aviation Administration shall, based on information provided by the United States Trade Representative and the Attorney General, make available to the public a list of entities making infrastructure or equipment for a passenger boarding bridge at an airport that—
+(A) are owned, directed, or subsidized by the People’s Republic of China; and 
+(B) have been determined by a Federal court to have misappropriated intellectual property or trade secrets from an entity organized under the laws of the United States or any jurisdiction within the United States; or 
+(C) own or control or are owned or controlled by, are under common ownership or control with, or are successors to, an entity described in subparagraph (A).
+(2) UPDATES TO LIST.—The Administrator shall update the list required by paragraph (1), based on information provided by the Trade Representative and the Attorney General— 
+(A) not less frequently than every 90 days during the 180-day period following the initial publication of the list under paragraph (1); and 
+(B) not less frequently than annually thereafter until September 30, 2023.

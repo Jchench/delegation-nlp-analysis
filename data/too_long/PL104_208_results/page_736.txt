@@ -1,0 +1,23 @@
+110 STAT. 3009-735        PUBLIC LAW 104–208—SEPT. 30, 1996
+
+(b) GUARANTEE FEE FOR DEVELOPMENT COMPANY DEBEN-TURES.—Section 503(b)(7)(A) (15 U.S.C. 697(b)(7)(A)) is amended by striking “equal to 0.125 percent” and all that follows before the semicolon and inserting the following: “equal to the lesser of—
+
+     “(i) 0.9375 percent per year of the outstanding balance of the loan; or
+     “(ii) such percentage per year of the outstanding balance of the loan as the Administration may determine to be necessary to reduce the cost (as that term is defined in section 502 of the Federal Credit Reform Act of 1990) to the Administration of purchasing and guaranteeing debentures under this Act to an amount that, taking into consideration any available appropriated funds, would permit the Administration to purchase or guarantee $2,000,000,000 of debentures in fiscal year 1997".
+
+(c) FEES TO OFFSET SUBSIDY COST.—Section 503(d) (15 U.S.C. 697(d)) is amended to read as follows:
+
+     “(d) CHARGES FOR ADMINISTRATION EXPENSES.—
+     “(1) LEVEL OF CHARGES.—The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a).
+     “(2) PARTICIPATION FEE.—The Administration shall collect a one-time fee in an amount equal to 50 basis points on the total participation in any project of any institution described in subclause (I), (II), or (III) of section 502(3)(B)(i). Such fee shall be imposed only when the participation by the institution will occupy a senior credit position to that of the development company. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 502 of the Credit Reform Act of 1990) to the Administration of making guarantees under subsection (a).
+     “(3) DEVELOPMENT COMPANY FEE.—The Administration shall collect annually from each development company a fee of 0.125 percent of the outstanding principal balance of any guaranteed debenture authorized by the Administration after September 30, 1996. Such fee shall be derived from the servicing fees collected by the development company pursuant to regulation, and shall not be derived from any additional fees imposed on small business concerns. All proceeds of the fee shall be used to offset the cost (as that term is defined in section 502 of the Credit Reform Act of 1990) to the Administration of making guarantees under subsection (a).”.
+
+(d) EFFECTIVE DATE.—Section 503 (15 U.S.C. 697) is amended by adding at the end the following new subsection:
+
+     “(f) EFFECTIVE DATE.—The fees authorized by subsections (b) and (c) shall apply to financings approved by the Administration on or after October 1, 1996, but shall not apply to financings approved by the Administration on or after October 1, 1997.”.
+
+(e) CALCULATION OF SUBSIDY RATE.—Section 503 (15 U.S.C. 697(a)) is amended by adding at the end the following new subsection:
+
+     “(g) CALCULATION OF SUBSIDY RATE.—All fees, interest, and profits received and retained by the Administration under this section shall be included in the calculations made by the Director of the Office of Management and Budget to offset the cost (as
+
+15 USC 697.

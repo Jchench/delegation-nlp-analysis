@@ -1,0 +1,24 @@
+122 STAT. 3922
+
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+26 USC 165.
+
+(C) Section 165(i)(4) is amended by striking ‘‘Presidentially declared disaster (as defined by section 1033(h)(3))’’ and inserting ‘‘federally declared disaster (as defined by subsection (h)(3)(C)(i))’’. 
+(D)(i) So much of subsection (h) of section 1033 as precedes subparagraph (A) of paragraph (1) thereof is amended to read as follows: 
+‘‘(h) SPECIAL RULES FOR PROPERTY DAMAGED BY FEDERALLY DECLARED DISASTERS.— 
+‘‘(1) PRINCIPAL RESIDENCES.—If the taxpayer’s principal residence or any of its contents is located in a disaster area and is compulsorily or involuntarily converted as a result of a federally declared disaster—’’. 
+(ii) Paragraph (2) of section 1033(h) is amended by striking ‘‘investment’’ and all that follows through ‘‘disaster’’ and inserting ‘‘investment located in a disaster area and compulsorily or involuntarily converted as a result of a federally declared disaster’’. 
+(iii) Paragraph (3) of section 1033(h) is amended to read as follows: 
+‘‘(3) FEDERALLY DECLARED DISASTER; DISASTER AREA.—The terms ‘federally declared disaster’ and ‘disaster area’ shall have the respective meaning given such terms by section 165(h)(3)(C).’’. 
+(iv) Section 139(c)(2) is amended to read as follows: 
+‘‘(2) federally declared disaster (as defined by section 165(h)(3)(C)(i)),’’. 
+(v) Subclause (II) of section 172(b)(1)(F)(ii) is amended by striking ‘‘Presidentially declared disasters (as defined in section 1033(h)(3))’’ and inserting ‘‘federally declared disasters (as defined by subsection (h)(3)(C)(i))’’. 
+(vi) Subclause (III) of section 172(b)(1)(F)(ii) is amended by striking ‘‘Presidentially declared disasters’’ and inserting ‘‘federally declared disasters’’. 
+(vii) Subsection (a) of section 7508A is amended by striking ‘‘Presidentially declared disaster (as defined in section 1033(h)(3))’’ and inserting ‘‘federally declared disaster (as defined by section 165(h)(3)(C)(i))’’. 
+(b) INCREASE IN STANDARD DEDUCTION BY DISASTER CASUALTY LOSS.— 
+(1) IN GENERAL.—Paragraph (1) of section 63(c), as amended by the Housing Assistance Tax Act of 2008, is amended by striking ‘‘and’’ at the end of subparagraph (B), by striking the period at the end of subparagraph (C) and inserting ‘‘, and’’, and by adding at the end the following new subparagraph: 
+‘‘(D) the disaster loss deduction.’’. 
+(2) DISASTER LOSS DEDUCTION.—Subsection (c) of section 63, as amended by the Housing Assistance Tax Act of 2008, is amended by adding at the end the following new paragraph: 
+‘‘(8) DISASTER LOSS DEDUCTION.—For for the purposes of paragraph (1), the term ‘disaster loss deduction’ means the net disaster loss (as defined in section 165(h)(3)(B)).’’. 
+(3) ALLOWANCE IN COMPUTING ALTERNATIVE MINIMUM TAXABLE INCOME.—Subparagraph (E) of section 56(b)(1) is amended by adding at the end the following new sentence: ‘‘The preceding

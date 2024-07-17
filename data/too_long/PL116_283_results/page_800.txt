@@ -1,0 +1,48 @@
+134 STAT. 4186         PUBLIC LAW 116-283—JAN. 1, 2021                     
+
+SEC. 1817. SPECIFIC TYPES OF CONTRACTS.
+
+(a) NEW CHAPTER.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232), is amended by inserting after chapter 241, as added by the preceding section, the following new chapter:
+
+“CHAPTER 242—SPECIFIC TYPES OF CONTRACTS
+
+Sec.
+“3321. Contracts awarded using procedures other than sealed-bid procedures.
+“3222. Cost contracts.
+“3323 Cost-plus contracting prohibited for military construction and military family housing projects.
+“3324. Preference for fixed-price contracts.
+
+10 USC 3321 prec.
+
+10 USC 3321.
+“§ 3321. Contracts awarded using procedures other than sealed-bid procedures
+
+10 USC 3322.
+“§ 3322. Cost contracts
+
+10 USC 3323.
+“§ 3323. Cost-plus contracting prohibited for military construction and military family housing projects
+
+10 USC 3324.
+“§ 3324. Preference for fixed-price contracts
+
+[Reserved.]”.
+
+(b) TRANSFER OF SUBSECTIONS (a) AND (b) OF SECTION 2306.— Subsections (a) and (b) of section 2306 of title 10, United States Code, are transferred to section 3321 of such title, as added by subsection (a), and inserted after the section heading.
+
+(c) TRANSFER OF FIRST SENTENCE OF SUBSECTION (a).—The first sentence of such subsection (a) is further transferred to section 3322 of such title, as added by subsection (a), inserted after the section heading, and designated as subsection (a).
+
+(d) AMENDMENTS TO NEW 3321.—
+    (1) NEW 3321(a).—Subsection (a) of such section 3321 (as amended by subsection (c)) is amended—
+        (A) by inserting “AUTHORIZED TYPES.—” before “Subject to”;
+        (B) by striking “the preceding sentence” and inserting “section 3322(a) of this title”;
+        (C) by striking “this section” and inserting “this chapter”; and
+        (D) by striking “under this chapter” and inserting “under chapter 137 legacy provisions”.
+    (2) NEW 3321(B).—Subsection (b) of such section 3321 is amended—
+        (A) by striking “Each contract awarded” and inserting “REQUIRED WARRANTY.—
+            “(1) CONTENT.—Each contract awarded”;
+        (B) by striking “under this chapter” and inserting “under chapter 137 legacy provisions”;
+        (C) by striking “maintained by” and inserting “maintained by the contractor”;
+        (D) by designating the second and third sentences as paragraphs (2) and (3), respectively, and realigning those paragraphs 2 ems to the right;
+        (E) in paragraph (2), as so designated—
+            (i) by inserting “REMEDY FOR BREAKING WARRANTY.—” before “If a contractor”; and

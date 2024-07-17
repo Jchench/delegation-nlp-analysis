@@ -1,0 +1,60 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 3843
+
+        ‘‘SUBCHAPTER I—GOVERNMENT IMPELLED TRANSPORTATION’’.
+
+ SEC. 1025. RESTRICTIONS ON OVERHAUL, REPAIR, ETC. OF NAVAL VES-
+           SELS IN FOREIGN SHIPYARDS.
+
+ (a) EXCEPTION FOR DAMAGE REPAIR DUE TO HOSTILE ACTIONS
+      OR INTERVENTIONS.—Section 8680(a) of title 10, United States Code, is amended—
+            (1) in paragraph (1), by striking “, other than in the case
+                of voyage repairs;’’ and
+            (2) by adding at the end the following new paragraph:
+          ‘‘(3) Notwithstanding paragraph (1), a naval vessel described
+                in paragraph (1) may be repaired in a shipyard outside the United
+                States or Guam if the repairs are—
+                 ‘‘(A) voyage repairs; or
+                 ‘‘(B) necessary to correct damage sustained due to hostile
+                       actions or interventions.’’.
+ (b) LIMITED AUTHORITY TO USE FOREIGN WORKERS.—Section
+      8680(a)(2)(B)(i) of title 10, United States Code, is amended—
+           (1) by inserting “(i)’’ after “(1);’’ and
+           (2) by adding at the end the following new subclauses:
+            ‘‘(II) Notwithstanding subclause (I), foreign workers may be
+ used to perform corrective and preventive maintenance or repair
+ on a vessel as described in subparagraph (A) only if the Secretary
+ of the Navy determines that travel by United States Government
+ personnel or United States contractor personnel to perform the
+ corrective or preventive maintenance or repair is not advisable
+ for health or safety reasons. The Secretary of the Navy may not
+ delegate the authority to make a determination under this subclause.
+ ‘‘(III) Not later than 30 days after making a determination
+ under subclause (II), the Secretary of the Navy shall submit to
+ the congressional defense committees written notification of the
+ determination. The notification shall include the reasons why travel
+ by United States personnel is not advisable for health or safety
+ reasons, the location where the corrective and preventive mainte-
+ nance or repair will be performed, and the approximate duration
+ of the corrective and preventive maintenance or repair.’’.
+ (c) TECHNICAL CORRECTION.—Section 8680(a)(2)(C)(ii) of title
+      10, United States Code, is amended by striking the period after
+      “means—’’.
+
+
+ SEC. 1026. BIENNIAL REPORT ON SHIPBUILDER TRAINING AND THE
+           DEFENSE INDUSTRIAL BASE.
+
+ (a) IN GENERAL.—Chapter 863 of title 10, United States Code,
+ is amended by adding at the end the following new section:
+   ‘‘§ 8692. Biennial report on shipbuilder training and the
+         defense industrial base
+        ‘‘Not later than February 1 of each even-numbered year until
+ 2026, the Secretary of the Navy, in coordination with the Secretary
+ of Labor, shall submit to the Committee on Armed Services and
+ the Committee on Health, Education, Labor, and Pensions of the
+ Senate and the Committee on Armed Services and the Committee
+ on Education and Labor of the House of Representatives a report
+ on shipbuilder training and hiring requirements necessary to
+ achieve the Navy’s 30-year shipbuilding plan and to maintain the
+ shipbuilding readiness of the defense industrial base. Each such
+ report shall include each of the following:

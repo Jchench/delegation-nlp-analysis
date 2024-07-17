@@ -1,0 +1,18 @@
+104 STAT. 4864 PUBLIC LAW 101-647—NOV. 29, 1990
+
+“(B) any conservator appointed by the Comptroller of the Currency or the Director of the Office of Thrift Supervision, may issue an order in accordance with Rule 65 of the Federal Rules of Civil Procedure, including an order placing the assets of any person designated by the Corporation or such conservator under the control of the court and appointing a trustee to hold such assets.
+
+“(19) STANDARDS.—
+“(A) SHOWING.—Rule 65 of the Federal Rules of Civil Procedure shall apply with respect to any proceeding under paragraph (18) without regard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate. 
+“(B) STATE PROCEEDING.—If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantially similar protections to such party’s right to due process as Rule 65 (as modified with respect to such proceeding by subparagraph (A)), the relief sought by the Corporation or a conservator pursuant to paragraph (18) may be requested under the laws of such State.”.
+
+(2) APPLICATION BY CONSERVATOR OR LIQUIDATING AGENT FOR INSURED CREDIT UNION.—Section 207(b)(2) of the Federal Credit Union Act (12 U.S.C. 1787(b)(2)) is amended by redesignating subparagraph (G) as subparagraph (I) and by inserting after subparagraph (F) the following new subparagraphs: 
+“(G) ATTACHMENT OF ASSETS AND INJUNCTIVE RELIEF.—Subject to subparagraph (H), any court of competent jurisdiction may, at the request of the Board (in the Board’s capacity as conservator or liquidating agent for any insured credit union or in the Board’s corporate capacity in the exercise of any authority under section 207), issue an order in accordance with Rule 65 of the Federal Rules of Civil Procedure, including an order placing the assets of any person designated by the Board under the control of the court and appointing a trustee to hold such assets.
+“(H) STANDARDS.—
+“(i) SHOWING.—Rule 65 of the Federal Rules of Civil Procedure shall apply with respect to any proceeding under subparagraph (G) without regard to the requirement of such rule that the applicant show that the injury, loss, or damage is irreparable and immediate. 
+“(ii) STATE PROCEEDING.—If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of such State provide substantially similar protections to such party’s right to due process as Rule 65 (as modified with respect to such proceeding by clause (i)), the relief sought by the Board pursuant to subparagraph (G) may be requested under the laws of such State.”.
+
+(b) PREJUDGMENT ATTACHMENTS.—
+(1) APPROPRIATE FEDERAL BANKING AGENCIES.—Section 8(i) of the Federal Deposit Insurance Act (12 U.S.C. 1818(i)) is amended by adding at the end the following new paragraph: 
+“(4) PREJUDGMENT ATTACHMENT.—
+“(A) IN GENERAL.—In any action brought by an appropriate Federal banking agency (excluding the Corporation

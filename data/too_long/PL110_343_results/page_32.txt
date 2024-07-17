@@ -1,0 +1,29 @@
+122 STAT. 3796
+
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+        “(A) affects, restricts, or limits the ability of any person
+to offer to acquire or acquire,
+        “(B) prohibits any person from offering to acquire or acquiring, or
+        “(C) prohibits any person from using any previously disclosed information in connection with any such offer to acquire or acquisition of,
+all or part of any insured depository institution, including any liabilities, assets, or interest therein, in connection with any transaction in which the Corporation exercises its authority under section 11 or 13, shall be enforceable against or impose any liability on such person, as such enforcement or liability shall be contrary to public policy.”.
+(d) TECHNICAL AND CONFORMING AMENDMENTS.—Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended—
+       (1) in subsection (a)(3)—
+               (A) by striking “this subsection” the first place that term appears and inserting “paragraph (1)”; and
+               (B) by striking “this subsection” the second place that term appears and inserting ‘paragraph (2)’; and
+       (2) in the heading for subsection (a), by striking “INSURANCE LOGO.—” and inserting “REPRESENTATIONS OF DEPOSIT INSURANCE.—”.
+
+12 USC 5234. SEC. 127. COOPERATION WITH THE FBI.
+      Any Federal financial regulatory agency shall cooperate with Federal Bureau of Investigation and other law enforcement agencies investigating fraud, misrepresentation, and malfeasance with respect to development, advertising, and sale of financial products.
+
+SEC. 128. ACCELERATION OF EFFECTIVE DATE.
+      Section 203 of the Financial Services Regulatory Relief Act of 2006 (12 U.S.C. 461 note) is amended by striking “October 1, 2011” and inserting “October 1, 2008”.
+
+12 USC 5235. SEC. 129. DISCLOSURES ON EXERCISE OF LOAN AUTHORITY. Reports. Deadline.
+      (a) IN GENERAL.—Not later than 7 days after the date on which the Board exercises its authority under the third paragraph of section 13 of the Federal Reserve Act (12 U.S.C. 343; relating to discounts for individuals, partnerships, and corporations) the Board shall provide to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report which includes—
+       (1) the justification for exercising the authority; and
+       (2) the specific terms of the actions of the Board, including the size and duration of the lending, available information concerning the value of any collateral held with respect to such a loan, the recipient of warrants or any other potential equity in exchange for the loan, and any expected cost to the taxpayers for such exercise.
+      (b) PERIODIC UPDATES.—The Board shall provide updates to the Committees specified in subsection (a) not less frequently than once every 60 days while the subject loan is outstanding, including—
+       (1) the status of the loan;
+       (2) the value of the collateral held by the Federal reserve bank which initiated the loan; and
+       (3) the projected cost to the taxpayers of the loan.

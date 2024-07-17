@@ -1,0 +1,57 @@
+134 STAT. 4498
+
+PUBLIC LAW 116-283— JAN. 1, 2021
+
+SEC. 4302. OPERATION AND MAINTENANCE FOR OVERSEAS CONTINGENCY OPERATIONS
+(In Thousands of Dollars)
+
+Line		Item	                                                                  FY 2021	Request	  Conference Authorized
+
+					TOTAL OPERATION & MAINTENANCE, ANG 			                                                                     175,642	    175,642
+		OPERATION AND MAINTENANCE, DEFENSE-WIDE
+		OPERATING FORCES
+010		JOINT CHIEFS OF STAFF .....................................................................		       3,799	             3,799
+020		JOINT CHIEFS OF STAFF—CE2T2 ....................................................		       6,634	             6,634
+040		SPECIAL OPERATIONS COMMAND COMBAT DEVELOPMENT ACTIVITIES ................		                             898,024	   898,024
+060		SPECIAL OPERATIONS COMMAND INTELLIGENCE ................................
+		      Program decrease ........................................................................................      1,244,533	   1,243,618			                                                                            [915]
+070		SPECIAL OPERATIONS COMMAND MAINTENANCE ........................................		            354,951	   354,951
+090		SPECIAL OPERATIONS COMMAND OPERATIONAL SUPPORT ...........................................		            104,535	   104,535
+100		SPECIAL OPERATIONS COMMAND THEATER FORCES ...........................................			            757,744	   752,744
+			Unjustified growth .................................................................................			                –          [5,000]
+				SUBTOTAL OPERATING FORCES 				                                                                        3,370,240	  3,364,305
+
+		ADMIN & SRWIDE ACTIVITIES
+180		DEFENSE CONTRACT AUDIT AGENCY .................................................		                1,247	          1,247
+210		DEFENSE CONTRACT MANAGEMENT AGENCY .................................		            21,723	          21,723
+260		DEFENSE INFORMATION SYSTEMS AGENCY .......................................		          56,256	          56,256
+290		DEFENSE INFORMATION SYSTEMS AGENCY—CYBER .........................................................		              3,524	          3,524
+330		DEFENSE LEGAL SERVICES AGENCY ...............................................		            165,373	   165,373
+350		DEFENSE MEDIA ACTIVITY ................................................................
+		      Stars and Stripes .......................................................................................            3,555	          9,555			                                                                         [6,000]
+370		DEFENSE SECURITY COOPERATION AGENCY ........
+		      Transfer from CTTEF for 10 USC 333 Iraq security cooperation activities ........    1,557,763	   1,630,263			                                                                        [72,500]
+				      Transfer to Ukraine Security Assistance ................................................              —          [250,000]
+410		DEFENSE THREAT REDUCTION AGENCY .........................................		            297,486	   297,486
+490		OFFICE OF THE SECRETARY OF DEFENSE .....................................		            16,984	          16,984
+530		WASHINGTON HEADQUARTERS SERVICES .....................................		              1,997	          1,997
+535		CLASSIFIED PROGRAMS ...............................................................................         535,106	  535,106
+				SUBTOTAL ADMIN & SRWIDE ACTIVITIES 			                                                            2,652,014	 2,730,514
+
+		TOTAL OPERATION AND MAINTENANCE, DEFENSE-WIDE 				                                                   6,022,254	 6,094,819
+
+		UKRAINE SECURITY ASSISTANCE
+		UKRAINE SECURITY ASSISTANCE
+010		UKRAINE SECURITY ASSISTANCE INITIATIVE ....................
+		      Transfer from Defense Security Cooperation Agency ................................................ 250,000			                                          [250,000]
+		SUBTOTAL UKRAINE SECURITY ASSISTANCE ........................................................                 250,000
+
+		TOTAL UKRAINE SECURITY ASSISTANCE				                                                                        250,000
+
+		TOTAL OPERATION & MAINTENANCE ................................................................	    58,179,782	 57,943,729
+
+TITLE XLIV—MILITARY PERSONNEL
+
+Sec. 4401. Military personnel.
+
+Sec. 4402. Military personnel for overseas contingency operations.

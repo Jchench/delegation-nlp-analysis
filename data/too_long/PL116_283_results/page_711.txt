@@ -1,0 +1,73 @@
+PUBLIC LAW 116–283—JAN. 1, 2021  134 STAT. 4097
+
+``(ii) destruction of any personally identifiable 
+information not later than 6 months after the date 
+on which the Director receives information obtained 
+through such a subpoena, unless otherwise agreed to 
+by the individual identified by the subpoena 
+respondent.
+
+``(D) The processes for providing notice to each party 
+that is subject to such a subpoena and each entity identified 
+by information obtained under such a subpoena.
+
+``(E) The processes and criteria for conducting critical 
+infrastructure security risk assessments to determine 
+whether a subpoena is necessary prior to being issued 
+pursuant to this subsection.
+
+``(F) The information to be provided to an entity at 
+risk at the time of the notice of the vulnerability, which 
+shall include—
+
+``(i) a discussion or statement that responding to, 
+or subsequent engagement with, the Agency, is vol-
+untary; and
+
+``(ii) to the extent practicable, information 
+regarding the process through which the Director 
+identifies security vulnerabilities.
+
+``(8) LIMITATION ON PROCEDURES.—The internal procedures 
+established pursuant to paragraph (7) may not require an owner 
+or operator of critical infrastructure to take any action as 
+a result of a notice of vulnerability made pursuant to this 
+Act.
+
+``(9) REVIEW OF PROCEDURES.—Not later than 1 year after 
+the date of the enactment of this subsection, the Privacy Officer 
+of the Agency shall—
+``(A) review the internal procedures established pursu-
+ant to paragraph (7) to ensure that—
+
+``(i) such procedures are consistent with fair 
+information practices; and
+
+``(ii) the operations of the Agency comply with such 
+procedures; and
+
+``(B) notify the Committee on Homeland Security and 
+Governmental Affairs of the Senate and the Committee 
+on Homeland Security of the House of Representatives 
+of the results of the review under subparagraph (A).
+
+``(10) PUBLICATION OF INFORMATION.—Not later than 120 
+days after establishing the internal procedures under paragraph 
+(7), the Director shall publish information on the website of 
+the Agency regarding the subpoena process under this sub-
+section, including information regarding the following:
+``(A) Such internal procedures.
+
+``(B) The purpose for subpoenas issued pursuant to 
+this subsection.
+
+``(C) The subpoena process.
+
+``(D) The criteria for the critical infrastructure security 
+risk assessment conducted prior to issuing a subpoena.
+
+``(E) Policies and procedures on retention and sharing 
+of data obtained by subpoenas.
+
+``(F) Guidelines on how entities contacted by the 
+Director may respond to notice of a subpoena.

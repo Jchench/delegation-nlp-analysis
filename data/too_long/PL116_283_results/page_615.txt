@@ -1,0 +1,20 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 4001
+
+“(9)(A) A list, developed and continuously updated in consultation with the National Academies of Science, Engineering, and Medicine and the appropriate Government agencies, of foreign talent programs that pose a threat to the national security interests of the United States, as determined by the Secretary.
+
+“(B) In developing and updating such list, the Secretary shall consider—
+“(i) the extent to which a foreign talent program—
+“(I) poses a threat to research funded by the Department of Defense; and
+“(II) engages in, or facilitates, cyber attacks, theft, espionage, attempts to gain ownership of or influence over companies, or otherwise interferes in the affairs of the United States; and
+“(ii) any other factor the Secretary considers appropriate.
+“(d) PROCEDURES FOR ENHANCED INFORMATION SHARING.—
+“(1) COLLECTION OF INFORMATION.—
+“(A) DEFENSE RESEARCH AND DEVELOPMENT ACTIVITIES.—Not later than October 1, 2020, for the purpose of maintaining appropriate security controls over research activities, technical information, and intellectual property, the Secretary, in conjunction with appropriate public and private entities, shall establish streamlined procedures to collect appropriate information relating to individuals, including United States citizens and foreign nationals, who participate in defense research and development activities.
+“(B) FUNDAMENTAL RESEARCH PROGRAMS.—With respect to fundamental research programs, the academic liaison designated under subsection (g) shall establish policies and procedures to collect, consistent with the best practices of Government agencies that fund academic research, appropriate information relating to individuals who participate in fundamental research programs.
+“(2) PROTECTION FROM RELEASE.—The procedures required by paragraph (1) shall include procedures to protect such information from release, consistent with applicable regulations.
+“(3) REPORTING TO GOVERNMENT INFORMATION SYSTEMS AND REPOSITORIES.—The procedures required by paragraph (1) may include procedures developed, in coordination with appropriate public and private entities, to report such information to existing Government information systems and repositories.
+“(e) ANNUAL REPORT.—
+“(1) IN GENERAL.—Not later than April 30, 2020, and annually thereafter, the Secretary, acting through appropriate Government officials (including the Under Secretary for Research and Engineering), shall submit to the congressional defense committees a report on the activities carried out under the initiative required by subsection (a).
+“(2) CONTENTS.—The report required by paragraph (1) shall include the following:
+“(A) A description of the activities conducted and the progress made under the initiative.
+“(B) The findings of the Secretary with respect to the initiative.

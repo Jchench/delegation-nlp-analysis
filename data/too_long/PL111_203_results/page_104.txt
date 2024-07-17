@@ -1,0 +1,18 @@
+124 STAT. 1478           PUBLIC LAW 111–203—JULY 21, 2010
+
+or not to exercise the rights of repudiation under this section within a reasonable period of time.
+     (3) CLAIMS FOR DAMAGES FOR REPUDIATION.—
+        (A) IN GENERAL.—Except as provided in paragraphs (4), (5), and (6) and in subparagraphs (C), (D), and (E) of this paragraph, the liability of the Corporation as receiver for a covered financial company for the disaffirmance or repudiation of any contract pursuant to paragraph (1) shall be—
+          (i) limited to actual direct compensatory damages; and
+          (ii) determined as of—
+              (I) the date of the appointment of the Corporation as receiver; or
+              (II) in the case of any contract or agreement referred to in paragraph (8), the date of the disaffirmance or repudiation of such contract or agreement.
+        (B) NO LIABILITY FOR OTHER DAMAGES.—For purposes of subparagraph (A), the term ‘‘actual direct compensatory damages’’ does not include—
+          (i) punitive or exemplary damages;
+          (ii) damages for lost profits or opportunity; or
+          (iii) damages for pain and suffering.
+        (C) MEASURE OF DAMAGES FOR REPUDIATION OF QUALIFIED FINANCIAL CONTRACTS.—In the case of any qualified financial contract or agreement to which paragraph (8) applies, compensatory damages shall be—
+          (i) deemed to include normal and reasonable costs of cover or other reasonable measures of damages utilized in the industries for such contract and agreement claims; and
+          (ii) paid in accordance with this paragraph and subsection (d), except as otherwise specifically provided in this subsection.
+        (D) MEASURE OF DAMAGES FOR REPUDIATION OR DISAFFIRMANCE OF DEBT OBLIGATION.—In the case of any debt for borrowed money or evidenced by a security, actual direct compensatory damages shall be no less than the amount lent plus accrued interest plus any accrued original issue discount as of the date the Corporation was appointed receiver of the covered financial company and, to the extent that an allowed secured claim is secured by property the value of which is greater than the amount of such claim and any accrued interest through the date of repudiation or disaffirmance, such accrued interest pursuant to paragraph (1).
+         (E) MEASURE OF DAMAGES FOR REPUDIATION OR DISAFFIRMANCE OF CONTINGENT OBLIGATION.—In the case of any contingent obligation of a covered financial company consisting of any obligation under a guarantee, letter of credit, loan commitment, or similar credit obligation, the Corporation may, by rule or regulation, prescribe that actual direct compensatory damages shall be no less than the estimated value of the claim as of the date the Corporation was appointed receiver of the covered financial company, as such value is measured based on the likelihood

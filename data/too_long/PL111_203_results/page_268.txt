@@ -1,0 +1,24 @@
+124 STAT. 1642          PUBLIC LAW 111–203—JULY 21, 2010
+
+extent possible with the Commodity Futures Trading Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.
+
+(3) PROCEDURES AND DEADLINE.—Such regulations shall be prescribed in accordance with applicable requirements of title 5, United States Code, and shall be issued in final form not later than 360 days after the date of enactment of this Act.
+
+(4) APPLICABILITY.—The requirements of paragraphs (1) and (2) shall not apply to an order issued—
+(A) in connection with or arising from a violation or potential violation of any provision of the Commodity Exchange Act (7 U.S.C. 1 et seq.); 
+(B) in connection with or arising from a violation or potential violation of any provision of the securities laws; or 
+(C) in any proceeding that is conducted on the record in accordance with sections 556 and 557 of title 5, United States Code.
+
+(5) EFFECT.—Nothing in this subsection authorizes any consultation or procedure for consultation that is not consistent with the requirements of subchapter II of chapter 5, and chapter 7, of title 5, United States Code (commonly known as the ‘‘Administrative Procedure Act’’).
+
+(6) RULES; ORDERS.—In developing and promulgating rules or orders pursuant to this subsection, each Commission shall consider the views of the prudential regulators.
+
+(7) TREATMENT OF SIMILAR PRODUCTS AND ENTITIES.— 
+(A) IN GENERAL.—In adopting rules and orders under this subsection, the Commodity Futures Trading Commission and the Securities and Exchange Commission shall treat functionally or economically similar products or entities described in paragraphs (1) and (2) in a similar manner.
+(B) EFFECT.—Nothing in this subtitle requires the Commodity Futures Trading Commission or the Securities and Exchange Commission to adopt joint rules or orders that treat functionally or economically similar products or entities described in paragraphs (1) and (2) in an identical manner.
+
+(8) MIXED SWAPS.—The Commodity Futures Trading Commission and the Securities and Exchange Commission, after consultation with the Board of Governors, shall jointly prescribe such regulations regarding mixed swaps, as described in section 1a(47)(D) of the Commodity Exchange Act (7 U.S.C. 1a(47)(D)) and in section 3(a)(68)(D) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(68)(D)), as may be necessary to carry out the purposes of this title.
+(b) LIMITATION.— 
+(1) COMMODITY FUTURES TRADING COMMISSION.—Nothing in this title, unless specifically provided, confers jurisdiction on the Commodity Futures Trading Commission to issue a rule, regulation, or order providing for oversight or regulation of—
+(A) security-based swaps; or 
+(B) with regard to its activities or functions concerning security-based swaps—

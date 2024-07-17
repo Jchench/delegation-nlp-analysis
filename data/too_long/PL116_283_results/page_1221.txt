@@ -1,0 +1,27 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4607
+
+‘‘(A) any investment company, as defined in section 3(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–3(a)); or
+
+‘’(B) any company that—
+‘‘(i) would be an investment company under that section but for the exclusion provided from that definition by paragraph (1) or (7) of section 3(c) of that Act (15 U.S.C. 80a–3(c)); and 
+‘‘(ii) is identified by its legal name by the applicable investment adviser in its Form ADV (or successor form) filed with the Securities and Exchange Commission.
+‘‘(11) REPORTING COMPANY.—The term ‘reporting company’—
+‘‘(A) means a corporation, limited liability company, or other similar entity that is—
+‘‘(i) created by the filing of a document with a secretary of state or a similar office under the law of a State or Indian Tribe; or
+‘‘(ii) formed under the law of a foreign country and registered to do business in the United States by the filing of a document with a secretary of state or a similar office under the laws of a State or Indian Tribe; and
+‘‘(B) does not include—
+‘‘(i) an issuer—
+‘‘(I) of a class of securities registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l); or
+‘‘(II) that is required to file supplementary and periodic information under section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(d)); 
+‘‘(ii) an entity—
+‘‘(I) established under the laws of the United States, an Indian Tribe, a State, or a political subdivision of a State, or under an interstate compact between 2 or more States; and
+‘‘(II) that exercises governmental authority on behalf of the United States or any such Indian Tribe, State, or political subdivision;
+‘‘(iii) a bank, as defined in—
+‘‘(I) section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813); 
+‘‘(II) section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)); or
+‘‘(III) section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a));
+‘‘(iv) a Federal credit union or a State credit union (as those terms are defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752)); 
+‘‘(v) a bank holding company (as defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841)) or a savings and loan holding company (as defined in section 10(a) of the Home Owners’ Loan Act (12 U.S.C. 1467a(a));
+‘‘(vi) a money transmitting business registered with the Secretary of the Treasury under section 5330;

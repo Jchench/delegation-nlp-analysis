@@ -1,0 +1,25 @@
+124 STAT. 1592           PUBLIC LAW 111-203—JULY 21, 2010
+
+(1) ADMITTED INSURER.—The term “admitted insurer” means, with respect to a State, an insurer licensed to engage in the business of insurance in such State.
+
+(2) AFFILIATE.—The term “affiliate” means, with respect to an insured, any entity that controls, is controlled by, or is under common control with the insured.
+
+(3) AFFILIATED GROUP.—The term “affiliated group” means any group of entities that are all affiliated.
+
+(4) CONTROL.—An entity has “control” over another entity if—
+       (A) the entity directly or indirectly or acting through 1 or more other persons owns, controls, or has the power to vote 25 percent or more of any class of voting securities of the other entity; or
+       (B) the entity controls in any manner the election of a majority of the directors or trustees of the other entity.
+
+(5) EXEMPT COMMERCIAL PURCHASER.—The term “exempt commercial purchaser” means any person purchasing commercial insurance that, at the time of placement, meets the following requirements:
+       (A) The person employs or retains a qualified risk manager to negotiate insurance coverage.
+       (B) The person has paid aggregate nationwide commercial property and casualty insurance premiums in excess of $100,000 in the immediately preceding 12 months.
+       (C)(i) The person meets at least 1 of the following criteria:
+              (I) The person possesses a net worth in excess of $20,000,000, as such amount is adjusted pursuant to clause (ii).
+              (II) The person generates annual revenues in excess of $50,000,000, as such amount is adjusted pursuant to clause (ii).
+              (III) The person employs more than 500 full-time or full-time equivalent employees per individual insured or is a member of an affiliated group employing more than 1,000 employees in the aggregate.
+              (IV) The person is a not-for-profit organization or public entity generating annual budgeted expenditures of at least $30,000,000, as such amount is adjusted pursuant to clause (ii).
+              (V) The person is a municipality with a population in excess of 50,000 persons.
+       (ii) Effective on the fifth January 1 occurring after the date of the enactment of this subtitle and each fifth January 1 occurring thereafter, the amounts in subclauses (I), (II), and (IV) of clause (i) shall be adjusted to reflect the percentage change for such 5-year period in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+
+(6) HOME STATE.—
+       (A) IN GENERAL.—Except as provided in subparagraph (B), the term “home State” means, with respect to an insured—

@@ -1,0 +1,28 @@
+PUBLIC LAW 102-550--OCT. 28, 1992         106 STAT. 4063
+
+the property by the prevailing party shall not deprive the court of jurisdiction. Upon motion of the appealing party, the district court or the court of appeals shall issue any order necessary to preserve the right of the appealing party to the full value of the property at issue, including a stay of the judgment of the district court pending appeal or requiring the prevailing party to post an appeal bond.
+
+"(d) Any court with jurisdiction over a forfeiture action pursuant to subsection (b) may issue and cause to be served in any other district such process as may be required to bring before the court the property that is the subject of the forfeiture action.".
+
+SEC. 1522. CIVIL FORFEITURE OF FUNGIBLE PROPERTY.
+
+(a) IN GENERAL.--Chapter 46 of title 18, United States Code, is amended by adding at the end the following new section:
+
+"§ 984. Civil forfeiture of fungible property
+
+"(a) This section shall apply to any action for forfeiture brought by the Government in connection with any offense under section 1956, 1957, or 1960 of this title or section 5322 of title 31, United States Code.
+
+"(b)(1) In any forfeiture action in rem in which the subject property is cash, monetary instruments in bearer form, funds deposit in an account in a financial institution (as defined in section 20 of this title), or other fungible property-- 
+"(A) it shall not be necessary for the Government to identify the specific property involved in the offense that is the basis for the forfeiture; and
+"(B) it shall not be a defense that the property involved in offense has been removed and replaced by identical property.
+"(2) Except as provided in subsection (c), any identical property found in the same place or account as the property involved in the offense that is the basis for the forfeiture shall be subject to forfeiture under this section.
+"(c) No action pursuant to this section to forfeit property not traceable directly to the offense that is the basis for the forfeiture may be commenced not more than 1 year from the date of the offense.
+"(d)(1) No action pursuant to this section to forfeit property not traceable directly to the offense that is the basis for the forfeiture may be taken against funds held by a financial institution in an interbank account, unless the financial institution holding the account knowingly engaged in the offense.
+"(2) As used in this section, the term 'interbank account' means an account held by one financial institution at another financial institution primarily for the purpose of facilitating customer transactions.".
+
+(b) CONFORMING AMENDMENT.--The chapter analysis for chapter 46 of title 18, United States Code, is amended by adding the end the following:
+"984. Civil forfeiture of fungible property.".
+
+SEC. 1523. PROCEDURE FOR SUBPOENAING BANK RECORDS.
+
+(a) IN GENERAL.--Chapter 46 of title 18, United States Code, is amended by adding at the end the following new section:

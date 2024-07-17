@@ -1,0 +1,15 @@
+124 STAT. 1400      PUBLIC LAW 111-203—JULY 21, 2010
+
+pose a threat to the financial stability of the United States, based on consideration of the factors in subsection (a)(2) or (b)(2), as applicable;
+(B) the company is organized or operates in such a manner as to evade the application of this title; and
+(C) such financial activities of the company shall be supervised by the Board of Governors and subject to prudential standards in accordance with this title, consistent with paragraph (3).
+(2) REPORT.—Upon making a determination under paragraph (1), the Council shall submit a report to the appropriate committees of Congress detailing the reasons for making such determination.
+(3) CONSOLIDATED SUPERVISION OF ONLY FINANCIAL ACTIVITIES; ESTABLISHMENT OF AN INTERMEDIATE HOLDING COMPANY.—
+(A) ESTABLISHMENT OF AN INTERMEDIATE HOLDING COMPANY.—Upon a determination under paragraph (1), the company that is the subject of the determination may establish an intermediate holding company in which the financial activities of such company and its subsidiaries shall be conducted (other than the activities described in section 167(b)(2)) in compliance with any regulations or guidance provided by the Board of Governors. Such intermediate holding company shall be subject to the supervision of the Board of Governors and to prudential standards under this title as if the intermediate holding company were a nonbank financial company supervised by the Board of Governors.
+(B) ACTION OF THE BOARD OF GOVERNORS.—To facilitate the supervision of the financial activities subject to the determination in paragraph (1), the Board of Governors may require a company to establish an intermediate holding company, as provided for in section 167, which would be subject to the supervision of the Board of Governors and to prudential standards under this title, as if the intermediate holding company were a nonbank financial com-pany supervised by the Board of Governors.
+(4) NOTICE AND OPPORTUNITY FOR HEARING AND FINAL DETERMINATION; JUDICIAL REVIEW.—Subsections (d) through (h) shall apply to determinations made by the Council pursuant to paragraph (1) in the same manner as such subsections apply to nonbank financial companies.
+(5) COVERED FINANCIAL ACTIVITIES.—For purposes of this subsection, the term “financial activities”—
+(A) means activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956);
+(B) includes the ownership or control of one or more insured depository institutions; and
+(C) does not include internal financial activities conducted for the company or any affiliate thereof, including internal treasury, investment, and employee benefit functions.
+(6) ONLY FINANCIAL ACTIVITIES SUBJECT TO PRUDENTIAL SUPERVISION.—Nonfinancial activities of the company shall not

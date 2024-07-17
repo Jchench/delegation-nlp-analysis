@@ -1,0 +1,30 @@
+PUBLIC LAW 116–283—JAN. 1, 2021                                                  134 STAT. 3473
+
+defense committees a briefing on the status of the plan required under paragraph (1).
+
+(4) FINAL REPORT.—Not later than September 30, 2021, the Secretary of Defense shall submit to the congressional defense committees a report that includes the plan developed under paragraph (1).
+
+(b) SENIOR OFFICIAL FOR 5G WIRELESS NETWORKING.—
+(1) DESIGNATION OF CHIEF INFORMATION OFFICER.—Not later than October 1, 2023, the Secretary of Defense shall designate the Chief Information Officer as the senior official within Department of Defense with primary responsibility for—
+(A) policy, oversight, guidance, research, and coordination on matters relating to 5G wireless networking; and
+
+                                                                                                                   Deadline.
+(B) making proposals to the Secretary on governance, management, and organizational policy for 5G wireless networking.
+
+(2) ROLE OF UNDER SECRETARY OF DEFENSE FOR RESEARCH AND ENGINEERING.—The Under Secretary of Defense for Research and Engineering shall carry out the responsibilities specified in paragraph (1) until the date on which the Secretary of Defense designates the Chief Information Officer as the senior official responsible for 5G wireless networking under such paragraph.
+
+(c) CROSS-FUNCTIONAL TEAM FOR 5G WIRELESS NETWORKING.—
+(1) ESTABLISHMENT.—Using the authority provided under section 911(c) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 111 note), the Secretary of Defense shall establish a cross-functional team for 5G wireless networking.
+
+(2) DUTIES.—The duties of the cross-functional team established under paragraph (1) shall be—
+(A) to assist the Secretary of Defense in determining the roles and responsibilities of the organizations and elements of the Department of Defense with respect to the acquisition, sustainment, and operation of 5G wireless networking, as required under subsection (d);
+
+(B) to assist the senior official responsible for 5G wireless networking in carrying out the responsibilities assigned to such official under subsection (b);
+
+(C) to oversee the implementation of the strategy developed under section 254 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2223a note) for harnessing 5G wireless networking technologies, coordinated across all relevant elements of the Department;
+
+(D) to advance the adoption of commercially available, next-generation wireless communication technologies, capabilities, security, and applications by the Department and the defense industrial base; and
+
+(E) to support public-private partnerships between the Department and industry on matters relating to 5G wireless networking;
+
+(F) to coordinate research and development, implementation and acquisition activities, warfighting concept development, spectrum policy, industrial policy and

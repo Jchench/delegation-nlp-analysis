@@ -1,0 +1,15 @@
+124 STAT. 2062        PUBLIC LAW 111–203—JULY 21, 2010
+
+Deadline.
+
+“(B) paragraph (2)(B), in the case of a transaction conducted entirely by telephone, by mailing the disclosures required under such subparagraph to the sender, not later than 1 business day after the date on which the transaction is conducted, or by including such documents in the next periodic statement, if the telephone transaction is conducted through a demand deposit, savings deposit, or other asset account that the sender holds with the remittance transfer provider;
+“(C) subparagraphs (A) and (B) of paragraph (2) together in one written disclosure, but only to the extent that the information provided in accordance with paragraph (3)(A) is accurate at the time at which payment is made in connection with the subject remittance transfer; and
+“(D) paragraph (2)(A), without compliance with section 101(c) of the Electronic Signatures in Global Commerce Act, if a sender initiates the transaction electronically and the information is displayed electronically in a manner that the sender can keep.
+“(6) STOREFRONT AND INTERNET NOTICES.—
+“(A) IN GENERAL.—
+“(i) PROMINENT POSTING.—Subject to subparagraph (B), the Board may prescribe rules to require a remittance transfer provider to prominently post, and timely update, a notice describing a model remittance transfer for one or more amounts, as the Board may determine, which notice shall show the amount of currency that will be received by the designated recipient, using the values of the currency into which the funds shall be exchanged.
+“(ii) ONSITE DISPLAYS.—The Board may require the notice prescribed under this subparagraph to be displayed in every physical storefront location owned or controlled by the remittance transfer provider.
+“(iii) INTERNET NOTICES.—Subject to paragraph (3), the Board shall prescribe rules to require a remittance transfer provider that provides remittance transfers via the Internet to provide a notice, comparable to a storefront notice described in this subparagraph, located on the home page or landing page (with respect to such remittance transfer services) owned or controlled by the remittance transfer provider.
+“(iv) RULEMAKING AUTHORITY.—In prescribing rules under this subparagraph, the Board may impose standards or requirements regarding the provision of the storefront and Internet notices required under this subparagraph and the provision of the disclosures required under paragraphs (2) and (3).
+“(B) STUDY AND ANALYSIS.—Prior to proposing rules under subparagraph (A), the Board shall undertake appropriate studies and analyses, which shall be consistent with section 904(a)(2), and may include an advanced notice of proposed rulemaking, to determine whether a storefront notice or Internet notice facilitates the ability of a consumer—
+“(i) to compare prices for remittance transfers; and

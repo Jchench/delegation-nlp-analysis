@@ -1,0 +1,25 @@
+134 STAT. 3480 PUBLIC LAW 116–283—JAN. 1, 2021
+
+“(i) other organizations and elements of the Department of Defense (including the Defense Agencies and the military departments);
+“(ii) agencies of the Federal Government;
+“(iii) the intelligence community;
+“(iv) representatives of the defense industrial base and other sectors of private industry; and
+“(v) any other agencies, entities, organizations, or persons the Secretary considers appropriate; and
+“(D) an explanation of any participation by the Center and the Department of Defense in international or other multi-stakeholder standard-setting bodies.
+“(12) For each member of the Armed Forces who concluded a formal assignment supporting the Center in the period of six months preceding the date of the report, a position description of the billet that the member transitioned into, as provided to the Center by the Armed Force of the member within 30 days of reassignment.
+
+“(13) An annual update, developed in consultation with the Armed Forces, on the status of active duty members of the Armed Forces assigned to the Center. This update shall include the following:
+“(A) An assessment of the effectiveness of such assignments in strengthening the ties between the Center and the Armed Forces for the purposes of—
+“(i) identifying tactical and operational use cases for artificial intelligence;
+“(ii) improving data collection relating to artificial intelligence; and
+“(iii) establishing effective lines of communication between the Center and the Armed Forces to identify and address concerns from the Armed Forces relating to the widespread adoption and dissemination of artificial intelligence.
+“(B) A description of any efforts undertaken to create opportunities for additional nontraditional broadening assignments at the Center for members of the Armed Forces on active duty.
+“(C) An analysis of the career trajectories of active duty members of the Armed Forces assigned to the Center, including any potential negative effects of such assignment on the career trajectories of such members.”.
+
+SEC. 232. MODIFICATION OF JOINT ARTIFICIAL INTELLIGENCE RESEARCH, DEVELOPMENT, AND TRANSITION ACTIVITIES.
+Section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 2358 note) is amended—
+(1) in subsection (a)—
+(A) in paragraph (1), by inserting “acquire,” before “develop”; and
+(B) by amending paragraph (2) to read as follows:
+“(2) EMPHASIS.—The set of activities established under paragraph (1) shall include—
+“(A) acquisition and development of mature artificial intelligence technologies in support of defense missions;

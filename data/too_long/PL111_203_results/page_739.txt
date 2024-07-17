@@ -1,0 +1,23 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+124 STAT. 2113
+
+‘‘(2) A covered agency, as defined in section 609(d)(2), shall, for purposes of complying with paragraph (1)(C)—
+‘‘(A) identify representatives of small entities in consultation with the Chief Counsel for Advocacy of the Small Business Administration; and
+‘‘(B) collect advice and recommendations from the representatives identified under subparagraph (A) relating to issues described in subparagraphs (A) and (B) of paragraph (1) and subsection (b).’’.
+(c) FINAL REGULATORY FLEXIBILITY ANALYSIS.—Section 604(a) of title 5, United States Code, is amended—
+(1) in paragraph (4), by striking ‘‘and’’ at the end;
+(2) in paragraph (5), by striking the period at the end and inserting ‘‘; and’’; and
+(3) by adding at the end the following:
+‘‘(6) for a covered agency, as defined in section 609(d)(2), a description of the steps the agency has taken to minimize any additional cost of credit for small entities.’’.
+SEC. 1100H. EFFECTIVE DATE.
+Except as otherwise provided in this subtitle and the amendments made by this subtitle, this subtitle and the amendments made by this subtitle, other than sections 1081 and 1082, shall become effective on the designated transfer date.
+TITLE XI—FEDERAL RESERVE SYSTEM PROVISIONS
+Sec. 1101. FEDERAL RESERVE ACT AMENDMENTS ON EMERGENCY LENDING AUTHORITY.
+(a) FEDERAL RESERVE ACT.—The third undesignated paragraph of section 13 of the Federal Reserve Act (12 U.S.C. 343) (relating to emergency lending authority) is amended—
+(1) by inserting ‘‘(3)(A)’’ before ‘‘In unusual’’;
+(2) by striking ‘‘individual, partnership, or corporation’’ the first place that term appears and inserting the following: ‘‘participant in any program or facility with broad-based eligibility’’;
+(3) by striking ‘‘exchange for an individual or a partnership or corporation’’ and inserting ‘‘exchange,’’;
+(4) by striking ‘‘such individual, partnership, or corporation’’ and inserting the following: ‘‘such participant in any program or facility with broad-based eligibility’’;
+(5) by striking ‘‘for individuals, partnerships, corporations’’ and inserting ‘‘for any participant in any program or facility with broad-based eligibility’’; and
+(6) by striking ‘‘may prescribe.’’ and inserting the following: ‘‘may prescribe. 
+‘‘(B)(i) As soon as is practicable after the date of enactment of this subparagraph, the Board shall establish, by regulation, in consultation with the Secretary of the Treasury, the policies and procedures governing emergency lending under this paragraph. Such policies and procedures shall be designed to ensure that any emergency lending program or facility is for the purpose of providing liquidity to the financial system, and not to aid a failing financial

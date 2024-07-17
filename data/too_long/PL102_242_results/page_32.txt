@@ -1,0 +1,31 @@
+PUBLIC LAW 102-242—DEC. 19, 1991 105 STAT. 2267
+
+(f) The term 'deposit insurance fund' means the Bank Insurance Fund or the Savings Association Insurance Fund, as appropriate.".
+(d) CONFORMING AMENDMENT TO SECTION 5(t)(7) OF THE HOME OWNERS' LOAN ACT—Section 5(t)(7) of the Home Owners' Loan Act (12 U.S.C. 1464t(t)(7)) is amended—
+(1) in subsection (A), by inserting "under this Act" before the period; and
+(2) in subsection (B), by inserting "under this Act" after "imposed by the Director".
+(e) TRANSITION RULE REGARDING CURRENT DIRECTORS AND SENIOR EXECUTIVE OFFICERS.—
+(1) DISMISSAL FROM OFFICE.—Section 38(f)(2)(F)(ii) of the Fed eral Deposit Insurance Act (as added by subsection (a)) shall not apply with respect to—
+(A) any director whose current term as a director com menced on or before the date of enactment of this Act and has not been extended—
+(i) after that date of enactment, or
+(ii) to evade section 38(f)(2)(F)(ii); or
+(B) any senior executive officer who accepted employment in his or her current position on or before the date of enactment of this Act and whose contract of employment has not been renewed or renegotiated—
+(i) after that date of enactment, or
+(ii) to evade section 38(f)(2)(F)(ii).
+(2) RESTRICTING COMPENSATION.—Section 38(f)(4) of the Fed eral Deposit Insurance Act (as added by subsection (a)) shall not apply with respect to any senior executive officer who accepted employment in his or her current position on or before the date of enactment of this Act and whose contract of employment has not  been renewed or renegotiated—
+(A) after that date of enactment, or
+(B) to evade section 38(f)(4).
+(f) EFFECTIVE DATE.—The amendments made by this section shall become effective 1 year after the date of enactment of this Act.
+
+SEC. 132. STANDARDS FOR SAFETY AND SOUNDNESS.
+(a) IN GENERAL.—The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by adding after section 38 (as added by section 131 of this Act) the following new section:
+"SEC. 39. STANDARDS FOR SAFETY AND SOUNDNESS.
+"(a) OPERATIONAL AND MANAGERIAL STANDARDS.—Each appo priate Federal banking agency shall, for all insured depository institutions and depository institution holding companies, pre scribe—
+"(1) standards relating to—
+"(A) internal controls, information systems, and internal audit systems, in accordance with section 36;
+"(B) loan documentation;
+"(C) credit underwriting;
+"(D) interest rate exposure;
+"(E) asset growth; and
+"(F) compensation, fees, and benefits, in accordance with subsection (c); and
+"(2) such other operational and managerial standards as the agency determines to be appropriate.

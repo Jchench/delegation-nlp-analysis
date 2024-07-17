@@ -1,0 +1,26 @@
+124 STAT. 2080
+PUBLIC LAW 111-203—JULY 21, 2010
+
+Subtitle H—Conforming Amendments
+
+5 USC app. 8G note. Effective date. 5 USC app. 8G.
+SEC. 1081. AMENDMENTS TO THE INSPECTOR GENERAL ACT.
+Effective on the date of enactment of this Act, the Inspector General Act of 1978 (5 U.S.C. App. 3) is amended—
+(1) in section 8G(a)(2), by inserting “and the Bureau of Consumer Financial Protection” after “Board of Governors of the Federal Reserve System”;
+(2) in section 8G(c), by adding at the end the following: “For purposes of implementing this section, the Chairman of the Board of Governors of the Federal Reserve System shall appoint the Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection. The Inspector General of the Board of Governors of the Federal Reserve System and the Bureau of Consumer Financial Protection shall have all of the authorities and responsibilities provided by this Act with respect to the Bureau of Consumer Financial Protection, as if the Bureau were part of the Board of Governors of the Federal Reserve System.”; and
+(3) in section 8G(g)(3), by inserting “and the Bureau of Consumer Financial Protection” after “Board of Governors of the Federal Reserve System” the first place that term appears.
+
+5 USC 552a note. Effective date.
+SEC. 1082. AMENDMENTS TO THE PRIVACY ACT OF 1974.
+Effective on the date of enactment of this Act, section 552a of title 5, United States Code, is amended by adding at the end the following:
+“(w) APPLICABILITY TO BUREAU OF CONSUMER FINANCIAL PROTECTION.—Except as provided in the Consumer Financial Protection Act of 2010, this section shall apply with respect to the Bureau of Consumer Financial Protection.”.
+SEC. 1083. AMENDMENTS TO THE ALTERNATIVE MORTGAGE TRANSACTION PARITY ACT OF 1982.
+(a) IN GENERAL.—The Alternative Mortgage Transaction Parity Act of 1982 (12 U.S.C. 3801 et seq.) is amended—
+(1) in section 803 (12 U.S.C. 3802(1)), by striking “1974” and all that follows through “described and defined” and inserting the following: “(1974), in which the interest rate or finance charge may be adjusted or renegotiated, described and defined;” and
+(2) in section 804 (12 U.S.C. 3803)—
+(A) in subsection (a)—
+(i) in each of paragraphs (1), (2), and (3), by inserting after “transactions made” each place that term appears “on or before the designated transfer date, as determined under section 1062 of the Consumer Financial Protection Act of 2010,”;
+(ii) in paragraph (2), by striking “and” at the end;
+(iii) in paragraph (3), by striking the period at the end and inserting “; and”; and
+(iv) by adding at the end the following new paragraph:
+“(4) with respect to transactions made after the designated transfer date, only in accordance with regulations governing alternative mortgage transactions, as issued by the Bureau of Consumer Financial Protection.’’.

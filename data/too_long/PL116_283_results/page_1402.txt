@@ -1,0 +1,58 @@
+134 STAT. 4788           PUBLIC LAW 116–283—JAN. 1, 2021
+
+1201 et seq.), the rules for which are set forth in part 10 of title 47, Code of Federal Regulations (or any successor regulation).
+
+47 USC 906.            SEC. 9202. WIRELESS SUPPLY CHAIN INNOVATION AND MULTILATERAL 
+                                SECURITY.
+
+(a) COMMUNICATIONS TECHNOLOGY SECURITY FUNDS.—
+        (1) PUBLIC WIRELESS SUPPLY CHAIN INNNOVATION FUND.—
+                (A) ESTABLISHMENT.—
+                           (i) IN GENERAL—There is established in the 
+                          Treasury of the United States a trust fund to be known 
+                          as the “Public Wireless Supply Chain Innovation 
+                          Fund” (referred to in this paragraph as the “Innovation 
+                          Fund”).
+                           (ii) AVAILABILITY.—
+                                    (I) IN GENERAL.—Amounts appropriated to the 
+                                    Innovation Fund shall remain available through 
+                                    the end of the tenth fiscal year beginning after 
+                                    the date on which funds are appropriated to the 
+                                    Fund.
+                                    (II) REMAINDER TO TREASURY.—Any amounts 
+                                    remaining in the Innovation Fund after the end 
+                                    of the tenth fiscal year beginning after the date 
+                                    of appropriation shall be deposited in the general 
+                                    fund of the Treasury.
+                (B) USE OF FUND.—
+                           (i) IN GENERAL.—Amounts appropriated to the 
+                           Innovation Fund shall be available to the Secretary, 
+                           acting through the NTIA Administrator, to make 
+                           grants on a competitive basis under this paragraph 
+                           in such amounts as the Secretary, acting through the 
+                           NTIA Administrator, determines appropriate, subject 
+                           to clause (ii).
+                           (ii) LIMITATION ON GRANT AMOUNTS.—The amount 
+                           of a grant awarded under this paragraph to a recipient 
+                           for a specific research focus area may not exceed 
+                           $50,000,000.
+                (C) ADMINISTRATION OF FUND.—The Secretary, acting 
+                through the NTIA Administrator, in consultation with the 
+                Commission, the Under Secretary of Commerce for Stand-
+                ards and Technology, the Secretary of Homeland Security, 
+                the Secretary of Defense, and the Director of the Intel-
+                ligence Advanced Research Projects Activity of the Office 
+                of the Director of National Intelligence, shall establish 
+                criteria for grants awarded under this paragraph, by the 
+                NTIA Administrator and administer the Innovation Fund, 
+                to support the following:
+                           (i) Promoting and deploying technology, including 
+                           software, hardware, and microprocessing technology, 
+                           that will enhance competitiveness in the fifth-genera-
+                           tion (commonly known as “5G”) and successor wireless 
+                           technology supply chains that use open and interoper-
+                           able interface radio access networks.
+                           (ii) Accelerating commercial deployments of open 
+                           interface standards-based compatible, interoperable 
+                           equipment, such as equipment developed pursuant to 
+                           the standards set forth by organizations such as the

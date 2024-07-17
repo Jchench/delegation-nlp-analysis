@@ -1,0 +1,37 @@
+106 STAT. 4066        PUBLIC LAW 102-550—OCT. 28, 1992
+
+SEC. 1530. PENALTY FOR MONEY LAUNDERING CONSPIRACIES.
+
+      Section 1956 of title 18, United States Code, is amended by inserting at the end the following new subsection:
+
+            "(h) Any person who conspires to commit any offense defined in this section or section 1957 shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.".
+
+SEC. 1531. TECHNICAL AND CONFORMING AMENDMENTS TO MONEY LAUNDERING PROVISION.
+
+      (a) TRANSPORTATION.—Subsections (a)(2) and (b) of section 1956 of title 18, United States Code, are amended by striking "transportation" each time such term appears and inserting "transportation, transmission, or transfer."
+
+      (b) TECHNICAL CORRECTION.—Section 1956(a)(3) of title 18, United States Code, is amended by striking "represented by a law enforcement officer" and inserting "represented".
+
+SEC. 1532. PRECLUSION OF NOTICE TO POSSIBLE SUSPECTS OF EXISTENCE OF A GRAND JURY SUBPOENA FOR BANK RECORDS IN MONEY LAUNDERING AND CONTROLLED SUBSTANCE INVESTIGATIONS.
+
+      Section 1120(b)(1)(A) of the Right to Financial Privacy Act of 1978 (12 U.S.C. 3420(b)(1)(A)) is amended by inserting before the semicolon "or crime involving a violation of the Controlled Substance Act, the Controlled Substances Import and Export Act, section 1956 or 1957 of title 18, sections 5313, 5316 and 5324 of title 31, or section 6050I of the Internal Revenue Code of 1986".
+
+SEC. 1533. ELIMINATION OF RESTRICTION ON DISPOSAL OF FORFEITED PROPERTY BY THE DEPARTMENT OF THE TREASURY AND THE POSTAL SERVICE.
+
+      Section 981(e) of title 18, United States Code, is amended by striking "The authority granted to the Secretary of the Treasury and the Postal Service pursuant to this subsection shall apply only to property that has been administratively forfeited.".
+
+SEC. 1534. NEW MONEY LAUNDERING PREDICATE OFFENSES.
+
+      Section 1956(c)(7)(D) of title 18, United States Code, is amended—
+
+            (1) by striking "or" before "section 16";
+            (2) by inserting "section 1708 (theft from the mail)," before "section 2113"; and
+
+            (3) by inserting before the semicolon "; any felony of section 9(c) of the Food Stamp Act of 1977 (relating to food stamp fraud) involving a quantity of coupons having a value of not less than $5,000, or any felony violation of the Foreign Corrupt Practices Act".
+
+SEC. 1535. AMENDMENTS TO THE BANK SECRECY ACT.
+
+      (a) TITLE 31.—Title 31, United States Code, is amended—
+            (1) in section 5324, by inserting "section 5325, or the regulations issued thereunder" after "section 5313(a)" each place such term appears; and
+            (2) in section 5321(a)(5)(A), by inserting "or any person willfully causing" after "willfully violates".
+      (b) FEDERAL DEPOSIT INSURANCE ACT.—Section 21(j)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1829b(j)(1)) is amended

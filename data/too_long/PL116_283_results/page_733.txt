@@ -1,0 +1,19 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+the National Guard could respond to a cyber attack as a homeland defense activity under section 902 of such title.
+(2) Guidance promulgated regarding how units of the National Guard shall collaborate with relevant civil, law enforcement, and cybersecurity agencies when conducting a homeland defense activity under section 902 of title 32, United States Code.
+(c) UPDATE TO CERTAIN REGULATIONS AND GUIDANCE.—If the Secretary of Defense determines such is appropriate based on the evaluation required under subsection (a) and the review described in subsection (b), the Secretary shall update—
+(1) the regulations referred to in subsection (b)(1); and
+(2) the guidance referred to in subsection (b)(2).
+(d) UPDATE TO THE NATIONAL CYBER INCIDENT RESPONSE PLAN.—Not later than 270 days after the date of the enactment of this Act, the Secretary of Homeland Security, in coordination with the Secretary of Defense, may update the National Cyber Incident Response Plan to address any changes made by the Secretary of Defense to the roles and responsibilities of the National Guard for the response to and recovery from significant cyber incidents.
+(e) JOINT BRIEFINGS.—Not later than 300 days after the date of the enactment of this Act, the Secretary of Defense and the Secretary of Homeland Security shall jointly brief the congressional defense committees, the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives on the following:
+(1) The results of the evaluation required under subsection (a)(1), including the utilization of any input provided to the Secretary of Defense pursuant to subsection (a)(2).
+(2) Any updated regulations or guidance in accordance with subsection (c).
+(3) Any update by the Secretary of Homeland Security to the National Cyber Incident Response Plan pursuant to subsection (d).
+(4) How the Department of Defense, including the National Guard, and the Department of Homeland Security, including the Cybersecurity and Infrastructure Security Agency and the Federal Emergency Management Agency, will collaborate with each other and with relevant law enforcement, State governments, and other non-Federal entities when responding to and recovering from significantcyber incidents.
+(f) DEFINITION.—The term “significant cyber incident” means a cyber incident that results, or several related cyber incidents that result, in demonstrable harm to—
+(1) the national security interests, foreign relations, or economy of the United States; or
+(2) the public confidence, civil liberties, or public health and safety of the American people.
+
+SEC. 1730. EVALUATION OF NON-TRADITIONAL CYBER SUPPORT TO THE DEPARTMENT OF DEFENSE.
+(a) REQUIREMENT.—Not later than 270 days after the date of the enactment of this Act, the Principal Cyber Advisor to the Secretary of Defense, in conjunction with the Under Secretary for Personnel and Readiness of the Department of Defense and the Principal Cyber Advisors of the military services, shall submit

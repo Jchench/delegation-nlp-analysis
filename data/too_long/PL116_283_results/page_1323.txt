@@ -1,0 +1,26 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 4709
+
+(d) DEFINITION OF ALASKAN REGION.—Not later than 30 days after the date of enactment of this Act, the Secretary shall define the term “Alaskan Region” for purposes of this section. The Secretary shall include in the definition of such term the area of responsibility of Coast Guard District 17.
+
+Subtitle D—Ports
+
+SEC. 8341. PORT, HARBOR, AND COASTAL FACILITY SECURITY.
+Section 70116 of title 46, United States Code, is amended—
+(1) in subsection (a), by inserting “, cyber incidents, transnational organized crime, and foreign state threats” after “an act of terrorism”;
+(2) in subsection (b)—
+(A) in paragraphs (1) and (2), by inserting “cyber incidents, transnational organized crime, and foreign state threats” after “terrorism” each place it appears; and
+(B) in paragraph (3)—
+(i) by striking “armed” and inserting “, armed (as needed),”; and
+(ii) by striking “terrorism or transportation security incidents,” and inserting “terrorism, cyber incidents, transnational organized crime, foreign state threats, or transportation security incidents,”; and
+(3) in subsection (c)—
+(A) by striking “70034,” and inserting “70033,”;
+(B) by adding at the end the following new sentence: “When preventing or responding to acts of terrorism, cyber incidents, transnational organized crime, or foreign state threats, the Secretary may carry out this section without regard to chapters 5 and 6 of title 5 or Executive Order Nos. 12866 and 13563.”.
+
+SEC. 8342. AIMING LASER POINTER AT VESSEL.
+(a) IN GENERAL.—Subchapter II of chapter 700 of title 46, United States Code, is amended by adding at the end the following:
+“§ 70014. Aiming laser pointer at vessel
+“(a) PROHIBITION.—It shall be unlawful to cause the beam of a laser pointer to strike a vessel operating on the navigable waters of the United States.
+“(b) EXCEPTIONS.—This section shall not apply to a member or element of the Department of Defense or Department of Homeland Security acting in an official capacity for the purpose of research, development, operations, testing, or training.
+“(c) LASER POINTER DEFINED.—In this section the term ‘laser pointer’ means any device designed or used to amplify electromagnetic radiation by stimulated emission that emits a beam designed to be used by the operator as a pointer or highlighter to indicate, mark, or identify a specific position, place, item, or object.”.
+(b) CLERICAL AMENDMENT.—The analysis for subchapter II of chapter 700 of title 46, United States Code, is amended by adding at the end the following:
+“70014. Aiming laser pointer at vessel.”.

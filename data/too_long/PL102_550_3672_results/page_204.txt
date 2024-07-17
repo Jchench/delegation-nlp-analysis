@@ -1,0 +1,21 @@
+PUBLIC LAW 102-550—OCT. 28, 1992      106 STAT. 3875
+
+(3) if the risks of lending in low-income, minority, and distressed neighborhoods exceed the risks of lending in other neighborhoods, recommend ways of mitigating those risks.
+
+SEC. 911. SUBSIDY LAYERING REVIEW.
+
+(a) IN GENERAL.—The Secretary shall establish guidelines for housing credit agencies, as defined under section 42 of the Internal Revenue Code of 1986, to implement the requirements of section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C. 3545(d)) for projects receiving assistance within the jurisdiction of the Department of Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986.
+(b) IN PARTICULAR.—The guidelines established pursuant to subsection (a) shall—
+(1) require that the amount of equity capital contributed by investors to a project partnership is not less than the amount generally contributed by investors in current market conditions, as determined by the housing credit agency; and 
+(2) require that project costs, including developer fees, are within a reasonable range, taking into account project size, project characteristics, project location and project risk factors, as determined by the housing credit agency.
+(c) EFFECTIVE DATE.—As of January 1, 1993, a housing credit agency shall carry out the responsibilities of section 102(d) of the Housing and Urban Development Reform Act for projects allocated a low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 if such agency certifies to the Secretary that it is properly implementing the guidelines established under subsection (a). The Secretary may revoke the responsibility delegated in the preceding sentence if the Secretary determines that a housing credit agency has failed to properly implement such guidelines.
+(d) APPLICABILITY.—Section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C. 3545(d)) shall apply only to projects for which an application for assistance or insurance was filed after the date of enactment of the Housing and Urban Development Reform Act.
+
+SEC. 912. SOLAR ASSISTANCE FINANCING ENTITY.
+
+(a) ESTABLISHMENT.—The Secretary of Housing and Urban Development shall establish within the Department of Housing and Urban Development the Solar Assistance Financing Entity (in this section referred to as the "Entity").
+(b) PURPOSE.—The purpose of the Entity shall be to assist in financing solar and renewable energy capital investments and projects for eligible buildings under subsection (c).
+(c) ELIGIBLE BUILDINGS.—The Entity may provide assistance under this section only for the following buildings:
+(1) SINGLE FAMILY HOUSING.—Any building consisting of 1 to 4 dwelling units that has a system for heating or cooling, or both.
+(2) MULTIFAMILY HOUSING.—Any building consisting of more than 4 dwelling units that has a system for heating or cooling, or both.
+(3) COMMERCIAL BUILDINGS.—Any building used primarily to carry on a business (including any nonprofit business) that

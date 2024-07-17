@@ -1,0 +1,33 @@
+134 STAT. 3702
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+(c) REPORT.—Not later than June 1, 2021, the Secretary shall submit to the congressional defense committees a report containing—
+           (1) the strategy under subsection (a); and
+           (2) the study under subsection (b), including any findings or recommendations from the study that relate to an element of the strategy under subsection (a), such as recommended changes to policy, funding, practices, manning, organization, or legislative authority.
+
+                                                                                      SEC. 733. TRANSITIONAL HEALTH BENEFITS FOR CERTAIN MEMBERS
+                                                                                                 OF THE NATIONAL GUARD SERVING UNDER ORDERS IN
+                                                                                                 RESPONSE TO THE CORONAVIRUS (COVID-19).
+
+              (a) IN GENERAL.—The Secretary of Defense shall provide to a member of the National Guard separating from active service after serving on full-time National Guard duty pursuant to section 502(f) of title 32, United States Code, the health benefits authorized under section 1145 of title 10, United States Code, for a member of a reserve component separating from active duty, as referred to in subsection (a)(2)(B) of such section 1145, if the active service from which the member of the National Guard is separating was in support of the whole of government response to the coronavirus (COVID–19).
+              (b) DEFINITIONS.—In this section, the terms “active duty”, “active service”, and “full-time National Guard duty” have the meanings given those terms in section 101(d) of title 10, United States Code.
+                                                                                                                                                    10 USC 1145
+                                                                                                                                                              note.
+
+                                                                                    SEC. 734. REGISTRY OF CERTAIN TRICARE BENEFICIARIES DIAGNOSED
+                                                                                                 WITH COVID-19.
+
+              (a) ESTABLISHMENT.—Not later than June 1, 2021, and subject                  Deadline.
+to subsection (b), the Secretary of Defense shall establish and maintain a registry of covered TRICARE beneficiaries who have been diagnosed with COVID–19.
+              (b) RIGHT OF BENEFICIARY TO OPT OUT.—A covered TRICARE beneficiary may elect to opt out of inclusion in the registry under subsection (a).
+              (c) CONTENTS.—The registry under subsection (a) shall include, with respect to each covered TRICARE beneficiary included in the registry, the following:
+                          (1) The demographic information of the beneficiary.
+                          (2) Information on the industrial or occupational history of the beneficiary, to the extent such information is available in the records regarding the COVID–19 diagnosis of the beneficiary.
+                          (3) Administrative information regarding the COVID–19 diagnosis of the beneficiary, including the date of the diagnosis and the location and source of the test used to make the diagnosis.
+                          (4) Any symptoms of COVID–19 manifested in the beneficiary.
+                          (5) Any treatments for COVID–19 taken by the beneficiary, or other medications taken by the beneficiary, when the beneficiary was diagnosed with COVID–19.
+                          (6) Any pathological data characterizing the incidence of COVID–19 and the type of treatment for COVID–19 provided to the beneficiary.
+
+                                                                                                                                                    10 USC 1074
+                                                                                                                                                              note.

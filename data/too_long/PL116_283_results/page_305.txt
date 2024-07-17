@@ -1,0 +1,28 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+134 STAT. 3691
+
+(f) RULE OF CONSTRUCTION.—Nothing in this section may be construed to affect—
+    (1) the ability of the Secretary to carry out section 1074g(a)(9)(C) of title 10, United States Code, after the date on which the pilot program is completed; or
+    (2) the prices established for medications under section 8126 of title 38, United States Code.
+(g) DEFINITIONS.—In this section:
+    (1) The term “eligible covered beneficiary” has the meaning given that term in section 1074g(i) of title 10, United States Code.
+    (2) The terms “military medical treatment facility pharmacies”, “retail pharmacies”, and “the national mail-order pharmacy program” mean the methods for receiving prescription drugs as described in clauses (i), (ii), and (iii), respectively, of section 1074g(a)(2)(E) of title 10, United States Code.
+
+Subtitle B—Health Care Administration
+
+SEC. 711. REPEAL OF ADMINISTRATION OF TRICARE DENTAL PLANS THROUGH FEDERAL EMPLOYEES DENTAL AND VISION INSURANCE PROGRAM.
+
+(a) TITLE 5.—Section 8951(8) of title 5, United States Code, is amended by striking “1076a or”.
+(b) TITLE 10.—Section 1076a(b) of title 10, United States Code, is amended to read as follows:
+        “(b) ADMINISTRATION OF PLANS.—The plans established under this section shall be administered under regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries.”.
+(c) CONFORMING REPEAL.—Section 713 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1811) is repealed.
+(d) TECHNICAL AMENDMENT.—Section 1076a(a)(1) of title 10, United States Code, is amended by striking the second sentence.
+SEC. 712. PROTECTION OF THE ARMED FORCES FROM INFECTIOUS DISEASES.
+
+(a) IN GENERAL.—Chapter 55 of title 10, United States Code, is amended by inserting after section 1073d the following new section:
+
+“§ 1073e. Protection of armed forces from infectious diseases
+    “(a) PROTECTION.—The Secretary of Defense shall develop and implement a plan to ensure that the armed forces have the diagnostic equipment, testing capabilities, and personal protective equipment necessary to protect members of the armed forces from the threat of infectious diseases and to treat members who contract infectious diseases.
+    “(b) REQUIREMENTS.—In carrying out subsection (a), the Secretary shall ensure the following:
+        “(1) Each military medical treatment facility has the testing capabilities described in such subsection, as appropriate for the mission of the facility.
+        “(2) Each deployed naval vessel has access to the testing capabilities described in such subsection.

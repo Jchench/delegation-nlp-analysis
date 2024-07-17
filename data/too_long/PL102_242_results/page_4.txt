@@ -1,0 +1,21 @@
+PUBLIC LAW 102-242--DEC. 19, 1991  105 STAT. 2239
+
+``(iii) RECAPITALIZATION SCHEDULES.--For purposes of clause (ii)(II), the Corporation shall, by regulation, promulgate a schedule that specifies, at semiannual intervals, target reserve ratios for the Bank Insurance Fund, culminating in a reserve ratio that is equal to the designated reserve ratio no later than 15 years after the date on which the schedule becomes effective.
+``(iv) AMENDING SCHEDULE.--The Corporation may, by regulation, amend a schedule promulgated under clause (iii), but such an amendment may not extend the date for achieving the designated reserve ratio.''. 
+
+(b) ASSESSMENT RATE CHANGES.--Section 7(b)(1)(A) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(1)(A)) is amended by striking clause (iii) and inserting the following: 
+
+``(iii) RATE CHANGES.--The Corporation shall notify each insured depository institution of that institution's semiannual assessment. The Corporation may establish and, from time to time, adjust the assessment rates for such institutions.''. 
+
+SEC. 105. BORROWING FOR BIF FROM BIF MEMBERS.
+
+Section 14 of the Federal Deposit Insurance Act (12 U.S.C. 1824) is amended by inserting after subsection (c) (as added by section 103 of this subtitle) the following new subsection:
+``(d) BORROWING FOR BIF FROM BIF MEMBERS.-- 
+``(1) BORROWING AUTHORITY.--The Corporation may issue obligations to Bank Insurance Fund members, and may borrow from Bank Insurance Fund members and give security for any amount borrowed, and may pay interest on (and any redemption premium with respect to) any such obligation or amount to the extent--
+``(A) the proceeds of any such obligation or amount are used by the Corporation solely for purposes of carrying out the Corporation's functions with respect to the Bank Insurance Fund; and 
+``(B) the terms of the obligation or instrument limit the liability of the Corporation or the Bank Insurance Fund for the payment of interest and the repayment of principal to the amount which is equal to the amount of assessment income received by the Fund from assessments under sec-
+tion 7.
+``(2) LIMITATIONS ON BORROWING.-- 
+``(A) APPLICABILITY OF PUBLIC DEBT LIMIT.--For purposes of the public debt limit established in section 3101(b) of title 31, United States Code, any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an obligation to which such limit applies. 
+``(B) APPLICABILITY OF FDIC BORROWING LIMIT.--For purposes of the dollar amount limitation established in section 14(a) of the Federal Deposit Insurance Act (12 U.S.C. 1824(a)), any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall be considered to be an amount borrowed from the Treasury under such section. 
+``(C) INTEREST RATE LIMIT.--The rate of interest payable in connection with any obligation issued, or amount borrowed, by the Corporation under paragraph (1) shall not exceed an amount determined by the Secretary of the Treasury,

@@ -1,0 +1,30 @@
+103 STAT. 504 
+
+PUBLIC LAW 101-73—AUG. 9, 1989
+
+(H) by redesignating paragraphs (3), (4), (5), (6), and (7) (as amended by this paragraph) as paragraphs (2), (3), (4), (5), and (6), respectively. 
+    (3) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 1 of title 18, United States Code, is amended by adding at the end the following new item: 
+"20. Financial institution defined.". 
+
+SEC. 963. CIVIL AND CRIMINAL FORFEITURE. 
+(a) CIVIL FORFEITURE.—Section 981(a)(1) of title 18, United States
+Code, is amended by adding at the end the following: 
+    "(C) Any property, real or personal, which constitutes or is derived from proceeds traceable to a violation of section 215, 656, 657, 1005, 1006, 1007, 1014, or 1344 of this title.". 
+(b) TRANSFER OF PROPERTY UNDER CIVIL FORFEITURE.—Section 981(e) of title 18, United States Code, is amended— 
+    (1) in the matter before paragraph (1), by striking out "determine to—" and inserting in lieu thereof "determine—"; 
+    (2) by striking out paragraphs (1) and (2) and inserting in lieu thereof the following: 
+
+"(1) to any other Federal agency;
+"(2) to any State or local law enforcement agency which participated directly in any of the acts which led to the seizure or forfeiture of the property; 
+"(3) in the case of property referred to in subsection (a)(1)(C) (if the affected financial institution is in receivership or liquidation), to any Federal financial institution regulatory agency— 
+    "(A) to reimburse the agency for payments to claimants or creditors of the institution; and 
+    "(B) to reimburse the insurance fund of the agency for losses suffered by the fund as a result of the receivership or liquidation; 
+"(4) in the case of property referred to in subsection(a)(1)(C) (if the affected financial institution is not in receivership or liquidation), upon the order of the appropriate Federal financial institution regulatory agency, to the financial institution as restitution, with the value of the property so transferred to be set off against any amount later recovered by the financial institution as compensatory damages in any State or Federal proceeding; or 
+"(5) in the case of property referred to in subsection (a)(1)(C), to any Federal financial institution regulatory agency, to the extent of the agency's contribution of resources to, or expenses involved in, the seizure and forfeiture, and the investigation leading directly to the seizure and forfeiture, of such property."; and 
+    
+(3) by adding at the end the following new sentence: "The United States shall not be liable in any action arising out of a transfer under paragraph (3), (4), or (5) of this subsection.". 
+(c) CRIMINAL FORFEITURE—Section 982 of title 18, United States Code, is amended— 
+    (1) in subsection (a)— 
+        (A) by inserting "(1)" after "(a)"; and 
+        (B) by adding at the end the following:
+        "(2) The court, in imposing sentence on a person convicted of a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of this title, affecting a financial

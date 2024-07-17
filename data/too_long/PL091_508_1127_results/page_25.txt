@@ -1,0 +1,48 @@
+Pt. 600, App.                                                      16 CFR Ch. 1 (1–1–11 Edition)
+
+for such adverse action received within 60 days after learning of such adverse action. disclose the nature of the information to the consumer. The user of such information shall clearly and accurately disclose to the consumer his right to make such written request at the time such adverse action is communicated to the consumer.
+
+(c) No person shall be held liable for any violation of this section if he shows by a preponderance of the evidence that at the time of the alleged violation he maintained reasonable procedures to assure compliance with the provisions of subsections (a) and (b).*
+
+1. Relation to Other Sections and Regulation B
+
+Sections 606 and 615 are the only two sections that require users of reports to make disclosures to consumers. Section 606 applies only to users of ‘‘investigative consumer reports.’’ Creditors should not confuse compliance with section 615(a), which only requires disclosure of the name and address of the consumer reporting agency, with compliance with the Equal Credit Opportunity Act, 15 U.S.C. et seq. and Regulation B, 12 CFR 202, which require disclosure of the reasons for adverse action. Compliance with section 615(a), therefore, does not constitute compliance with Regulation B.
+
+2. Limited Scope of Requirements
+
+The section does not require that creditors disclose their credit criteria or standards or that employers furnish copies of personnel reports to former employees. The section does not require that the user provide any kind of advance notification to consumers before a consumer report is obtained. (See section 606 regarding notice of investigative consumer reports.)
+
+3. Method of Disclosure
+
+The disclosures required by this section need not be made in writing. However, users will have evidence that they have taken reasonable steps to comply with this section if they provide written disclosures and retain copies for at least two years, the applicable statute of limitations for most civil liability actions under the FCRA.
+
+4. Adverse Action Based on Direct Information
+
+This section does not require that a user send any notice to a consumer concerning adverse action regarding that consumer that is based on information from a source other consumer reporting agency or on information from a third party. For example, no disclosure required concerning adverse action based on information provided by the consumer in an application or based on past experience in direct transactions with the consumer.
+
+5. Creditors Using ‘‘Prescreened’’ Mailing Lists
+
+A creditor is not required to provide notices regarding consumer reporting agencies that prepare mailing lists by ‘‘prescreening’’ because they do not involve consumer requests for credit and credit has not been denied to consumers whose names are deleted from a list furnished to the agency for use in this procedure. See discussion of ‘‘prescreening,’’ under section 604(3)(A), item 6, supra.
+
+6. Applicability to Users of Motor Vehicle Reports
+
+An insurer that refuses to issue a policy, or charges a higher than normal premium, based on a motor vehicle report is required to comply with subsection(a).
+
+7. Securities and Insurance Transactions
+
+A consumer report ‘‘used’’ means credit to a consumer in connection with a securities transaction must provide the required notice, because the denial is for ‘‘credit * * * for personal purposes,’’ unless the consumer engages in such transaction as a 
+business.
+
+8. Denial of Employment
+
+An employer must provide the notice required by subsection (a) to an individual who has applied for employment and has been rejected based on a consumer report. However, an employer is not required to send a notice when it decides not to offer a position to an individual who has not applied, because in this case employment is not ‘‘denied.’’ (See discussion in section 606, item 4, supra.)
+
+9. Adverse Action Involving Credit
+
+A creditor must provide the required notice when it denies the consumer’s request for credit (including a rejection based on a scoring system, where a credit report received less than the maximum number of points possible and caused the application to receive an insufficient score), denies the consumer’s request for increased credit, grants credit in an amount less than the consumer requested, or raises the charge for credit.
+
+10. Adverse Action Not Involving Credit, Insurance or Employment
+
+The Act does not require that a report user provide any notice to consumers concerning adverse action not relating to credit, insurance or employment. For example, a landlord who refuses to rent an apartment to a consumer based on credit or other information in a consumer report need not provide
+
+570

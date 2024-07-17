@@ -1,0 +1,64 @@
+134 STAT. 4500        PUBLIC LAW 116–283—JAN. 1, 2021
+
+                          SEC. 4501. OTHER AUTHORIZATIONS
+                                   (In Thousands of Dollars)
+------------------------------------------------------------------------
+                                               FY 2021        Conference
+       Program Title                           Request       Authorized
+------------------------------------------------------------------------
+ CHEM DEMILITARIZATION—PROC                          616             616
+TOTAL, CHEM AGENTS & MUNITIONS DESTRUC-           889,500         889,500
+              TION
+ DRUG INTERDICTION & CTR-DRUG ACTIVITIES, DEF      546,203         562,003
+COUNTER-NARCOTICS SUPPORT
+   PDI: Joint Interagency Task Force—West Project
+                3309                                                [13,000]
+   PDI: Joint Interagency Task Force—West Project
+                9202                                                 [2,800]
+ DRUG DEMAND REDUCTION PROGRAM                      123,704         123,704
+ NATIONAL GUARD COUNTER-DRUG PROGRAM                 94,211          94,211
+ NATIONAL GUARD COUNTER-DRUG SCHOOLS                 5,511           5,511
+TOTAL DRUG INTERDICTION & CTR-DRUG AC-             769,629         785,429
+TIVITIES, DEF
+ OFFICE OF THE INSPECTOR GENERAL                   368,279         368,279
+ OFFICE OF THE INSPECTOR GENERAL................
+ OFFICE OF THE INSPECTOR GENERAL—CYBER               1,204           1,204
+ OFFICE OF THE INSPECTOR GENERAL, CYBER
+ .... OFFICE OF THE INSPECTOR GENERAL—RDT&E          1,098           1,098
+ OFFICE OF THE INSPECTOR GENERAL—PROCURE-             858             858
+ MENT
+TOTAL OFFICE OF THE INSPECTOR GENERAL              371,439         371,439
+ DEFENSE HEALTH PROGRAM
+ IN-HOUSE CARE                                   9,560,564        9,271,064
+   Equipment purchases excess growth                                [–29,500]
+   Medical reform implementation—excess funding to
+ replace military medical end strength                             [–296,000]
+   Reverse DWR savings from downsizing MTFs                          [98,000]
+ PRIVATE SECTOR CARE                             15,841,587       15,826,887
+   Program decrease                                                [–15,100]
+ CONSOLIDATED HEALTH SUPPORT                       1,338,269       1,314,169
+   Historical underexecution                                       [–24,100]
+ INFORMATION MANAGEMENT                           2,039,910       2,039,910
+ MANAGEMENT ACTIVITIES                              330,627         330,627
+ EDUCATION AND TRAINING                             315,691         331,691
+   Health Professions Scholarship Program                           [16,000]
+   Reverse DWR cuts to USUHS                                        [10,000]
+ BASE OPERATIONS/COMMUNICATIONS                    1,922,605       1,922,605
+ R&D RESEARCH                                          8,913           13,913
+   Pancreatic cancer research                                        [5,000]
+ R&D EXPLORATORY DEVELOPMENT                          73,984          73,984
+ R&D ADVANCED DEVELOPMENT                            225,602         225,602
+ R&D DEMONSTRATION/VALIDATION                        132,431         132,431
+ R&D ENGINEERING DEVELOPMENT                         55,748          55,748
+ R&D MANAGEMENT AND SUPPORT                           48,676          48,676
+ R&D CAPABILITIES ENHANCEMENT                        17,815          17,815
+ PROC INITIAL OUTFITTING                              22,932          22,932
+ PROC REPLACEMENT & MODERNIZATION                    215,618         215,618
+ PROC MILITARY HEALTH SYSTEM—DESKTOP TO
+DATA CENTER                                           70,872          70,872
+ PROC DOD HEALTHCARE MANAGEMENT SYSTEM MOD-
+ERNIZATION                                           308,504         245,854
+   Excess to need                                                  [–62,650]
+ SOFTWARE & DIGITAL TECHNOLOGY PILOT PROGRAMS       160,428         160,428
+UNDISTRIBUTED
+   Foreign Currency adjustments                                      [–9,800]

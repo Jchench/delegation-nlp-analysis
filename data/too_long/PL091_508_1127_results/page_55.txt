@@ -1,0 +1,43 @@
+§ 642.4 
+(2) Form. The long notice shall: 
+(i) Appear in the solicitation; 
+(ii) Be in a type size that is no smaller than the type size of the principal text on the same page, and, for solicitations provided other than by electronic means, the type size shall in no event be smaller than 8-point type; 
+(iii) Begin with a heading in capital letters and underlined, and identifying the long notice as the “PRESCREEN & OPT-OUT NOTICE”; 
+(iv) Be in a type style that is distinct from the principal type style used on the same page, such as bolded, italicized, underlined, and/or in a color that contrasts with the color of the principal text on the page, if the solicitation is in more than one color; and 
+(v) Be set apart from other text on the page, such as by including a blank line above and below the statement, or by indenting both the left and right margins from other text on the page. 
+
+§ 642.4 Effective date. 
+
+This part is effective on August 1, 2005. 
+
+PART 660—DUTIES OF FURNISHERS OF INFORMATION TO CONSUMER REPORTING AGENCIES 
+
+Sec. 
+660.1 Scope. 
+660.2 Definitions. 
+660.3 Reasonable policies and procedures concerning the accuracy and integrity of furnished information. 
+660.4 Direct disputes. 
+
+APPENDIX A TO PART 660—INTERAGENCY GUIDELINES CONCERNING THE ACCURACY AND INTEGRITY OF INFORMATION FURNISHED TO CONSUMER REPORTING AGENCIES 
+
+AUTHORITY: 15 U.S.C. 1681a-2(a)(8) and 1681s-2(a), Sec. 312, Pub. L. 108-159, 117 Stat. 1989. 
+
+SOURCE: 74 FR 31525, July 1, 2009, unless otherwise noted. 
+
+§ 660.1 Scope. 
+This part applies to furnishers of information to consumer reporting agencies that are subject to administrative enforcement of the FCRA by the Federal Trade Commission pursuant to 15 U.S.C. 1681s(a)(1) referred to as “furnishers”).
+
+§ 660.2 Definitions. 
+
+For purposes of this part and appendix A of this part, the following definitions apply: 
+(a) Accuracy means that information that a furnisher provides to a consumer reporting agency about an account or other relationship with the consumer correctly: 
+(1) Reflects the terms of and liability for the account or other relationship; 
+(2) Reflects the consumer’s performance and other conduct with respect to the account or other relationship; and 
+(3) Identifies the appropriate consumer. 
+(b) Direct dispute means a dispute submitted directly to a furnisher (including a furnisher that is a debt collector) by a consumer concerning the accuracy of any information contained in a consumer report and pertaining to an account or other relationship that the furnisher has or had with the consumer. 
+(c) Furnisher means an entity that furnishes information relating to consumers to one or more consumer reporting agencies for inclusion in a consumer report. An entity is not a furnisher when it: 
+(1) Provides information to a consumer reporting agency solely to obtain a consumer report in accordance with sections 604(a) and (f) of the Fair Credit Reporting Act; 
+(2) Is acting as a “consumer reporting agency” as defined in section 603(f) of the Fair Credit Reporting Act; (3) Is a consumer to whom the furnished information pertains; or (4) Is a neighbor, friend, or associate of the consumer, or another individual with whom the consumer is acquainted or who may have knowledge about the consumer, and who provides information about the consumer’s character, general reputation, personal characteristics, or mode of living in response to a specific request from a consumer reporting agency. 
+(d) Identity theft has the same meaning as in 16 CFR 603.2(a). 
+(e) Integrity means that information that a furnisher provides to a consumer reporting agency about an account or other relationship with the consumer: 
+(1) Is substantiated by the furnisher’s records at the time it is furnished; 

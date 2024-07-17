@@ -1,0 +1,20 @@
+103 STAT. 454     PUBLIC LAW 101-73—AUG. 9, 1989
+
+        (2) TEMPORARY SUSPENSION OR PROHIBITION.—Section 8(e) of the Federal Deposit Insurance Act (12 U.S.C. 1818(e)) is amend- ed by striking out paragraphs (2) and (4), by redesignating paragraphs (3), (5), and (6) as paragraphs (2), (4), and (5), respec- tively, and by inserting after paragraph (2) (as so redesignated) the following new paragraph:
+            "(3) SUSPENSION ORDER.— 
+                "(A) SUSPENSION OR PROHIBITION AUTHORIZED.—If the appropriate Federal banking agency serves written notice under paragraph (1) or (2) to any institution-affiliated party of such agency's intention to issue an order under such paragraph, the appropriate Federal banking agency may suspend such party from office or prohibit such party from further participation in any manner in the conduct of the affairs of the depository institution, if the agency—
+``(i) determines that such action is necessary for the protection of the depository institution or the interests of the depository institution's depositors; and
+``(ii) serves such party with written notice of the suspension order.
+``(B) EFFECTIVE PERIOD.—Any suspension order issued under subparagraph (A)—
+``(i) shall become effective upon service; and
+``(ii) unless a court issues a stay of such order under subsection (f), shall remain in effect and enforceable until—
+``(I) the date the appropriate Federal banking agency dismisses the charges contained in the notice served under paragraph (1) or (2) with re- spect to such party; or
+``(II) the effective date of an order issued by the agency to such party under paragraph (1) or (2).
+   ``(C) COPY OF ORDER.—If an appropriate Federal banking agency issues a suspension order under subparagraph (A) to any institution-affiliated party, the agency shall serve a copy of such order on any insured depository institution with which such party is associated at the time such order is issued.''.
+        (3) PROHIBITION OF CERTAIN SPECIFIC ACTIVITIES.—Section 8(e) of the Federal Deposit Insurance Act (12 U.S.C. 1818(e)) is amended by adding after paragraph (5) (as so redesignated by paragraph (2) of this subsection) the following new paragraph:
+            ``(6) PROHIBITION OF CERTAIN SPECIFIC ACTIVITIES.—Any person subject to an order issued under this subsection shall not—
+                ``(A) participate in any manner in the conduct of the affairs of any institution or agency specified in paragraph (7)(A);
+                ``(B) solicit, procure, transfer, attempt to transfer, vote, or attempt to vote any proxy, consent, or authorization with respect to any voting rights in any institution described in subparagraph (A);
+                ``(C) violate any voting agreement previously approved by the appropriate Federal banking agency; or
+                ``(D) vote for a director, or serve or act as an institution- affiliated party.''.
+        (4) CONFORMING AMENDMENTS.—

@@ -1,0 +1,16 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+134 STAT. 4319
+
+“(D) Any determination made pursuant to subsection (d)(2) to waive or disregard another provision of law to undertake any construction project using the construction authority described in subsection (a).
+“(E) The military construction projects, including any ancillary supporting facility projects, whose cancellation, modification, or other cost savings result in funds being available to undertake construction projects using the construction authority described in subsection (a) and the possible impact of the cancellation or modification of such military construction projects on military readiness and the quality of life of members of the armed forces and their dependents.”; and
+(2) by adding at the end the following new paragraph:
+“(2) In the event of a declaration by the President of a national emergency in which the construction authority described in subsection (a) is used, a construction project to be undertaken using such construction authority may be carried out only after the end of the five-day period beginning on the date the notification required by paragraph (1) is received by the congressional defense committees.”.
+CLERICAL AMENDMENTS.—Section 2808 of title 10, United States Code, is further amended—
+(1) in subsection (a), by inserting “CONSTRUCTION AUTHORIZED.—” after “(a)”;
+(2) in subsection (e), as redesignated by subsection (a)(1), by inserting “NOTIFICATION REQUIREMENT.—(1)” after “(e)”; and (3) in subsection (f), as redesignated by subsection (a)(1), by inserting “TERMINATION OF AUTHORITY.—” after “(f)”.
+(f) EXCEPTION FOR PANDEMIC MITIGATION AND RESPONSE PROJECTS.—Subsections (b), (c), (d) of section 2808 of title 10, United States Code, as added by this section, shall not apply to a military construction project commenced under the authority of subsection (a) of such section 2808 during the emergency period described in section 1135(g)(1)(B) of the Social Security Act (42 U.S.C. 1320b5(g)(1)(B)) if the Secretary of Defense determines that the military construction project will directly support pandemic mitigation and response efforts of health care providers or support members of the Armed Forces directly participating in such pandemic mitigation and response efforts. Subsection (e) of section 2808 of title 10, United States Code, as redesignated by subsection (a)(1) and amended by subsection (d) of this section, shall still apply to any such military construction project.
+SEC. 2802. EXTENSION OF SUNSET FOR ANNUAL LOCALITY ADJUSTMENT OF DOLLAR THRESHOLDS APPLICABLE TO UNSPECIFIED MINOR MILITARY CONSTRUCTION AUTHORITIES.
+Section 2805(f)(3) of title 10, United States Code, is amended by striking “2022” and inserting “2027.”
+SEC. 2803. MODIFICATION OF REPORTING REQUIREMENTS REGARDING CERTAIN MILITARY CONSTRUCTION PROJECTS AND MILITARY FAMILY HOUSING PROJECTS, CONTRACTS, AND AGREEMENTS.
+(a) COST-INCREASE REPORTS; ELIMINATION OF SUBMISSION TO COMPTROLLER GENERAL.—Section 2853(f) of title 10, United States Code, is amended—
+(1) in paragraphs (1) and (3), by striking “and the Comptroller General of the United States”; and

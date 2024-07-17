@@ -1,0 +1,25 @@
+134 STAT. 4104
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+“(A) TERMS.—The term of each member of the Advisory Committee shall be two years, except that a member may continue to serve until a successor is appointed.
+“(B) REMOVAL.—The Director may review the participation of a member of the Advisory Committee and remove such member any time at the discretion of the Director.
+“(C) REAPPOINTMENT.—A member of the Advisory Committee may be reappointed for an unlimited number of terms.
+“(3) PROHIBITION ON COMPENSATION.—The members of the Advisory Committee may not receive pay or benefits from the United States Government by reason of their service on the Advisory Committee.
+“(4) MEETINGS.—
+“(A) IN GENERAL.—The Director shall require the Advisory Committee to meet not less frequently than semiannually, and may convene additional meetings as necessary.
+“(B) PUBLIC MEETINGS.—At least one of the meetings referred to in subparagraph (A) shall be open to the public.
+“(C) ATTENDANCE.—The Advisory Committee shall maintain a record of the persons present at each meeting.
+“(5) MEMBER ACCESS TO CLASSIFIED INFORMATION.—
+“(A) IN GENERAL.—Not later than 60 days after the date on which a member is first appointed to the Advisory Committee and before the member is granted access to any classified information, the Director shall determine, for the purposes of the Advisory Committee, if the member should be restricted from reviewing, discussing, or possessing classified information.
+“(B) ACCESS.—Access to classified materials shall be managed in accordance with Executive Order No. 13526 of December 29, 2009 (75 Fed. Reg. 707), or any subsequent corresponding Executive Order.
+“(C) PROTECTIONS.—A member of the Advisory Committee shall protect all classified information in accordance with the applicable requirements for the particular level of classification of such information. 
+“(D) RULE OF CONSTRUCTION.—Nothing in this paragraph shall be construed to affect the security clearance of a member of the Advisory Committee or the authority of a Federal agency to provide a member of the Advisory Committee access to classified information.
+“(6) CHAIRPERSON.—The Advisory Committee shall select, from among the members of the Advisory Committee—
+“(A) a member to serve as chairperson of the Advisory Committee; and
+“(B) a member to serve as chairperson of each subcommittee of the Advisory Committee established under subsection (d).
+“(d) SUBCOMMITTEES.—
+“(1) IN GENERAL.—The Director shall establish subcommittees within the Advisory Committee to address cybersecurity issues, which may include the following:
+“(A) Information exchange.
+“(B) Critical infrastructure.
+“(C) Risk management.”

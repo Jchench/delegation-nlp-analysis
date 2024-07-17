@@ -1,0 +1,30 @@
+PUBLIC LAW 116-283—JAN. 1, 2021          134 STAT. 4815
+
+(c) CLERICAL AMENDMENT.—The table of contents in section 1(b) of such Act is amended by inserting after the item relating to section 204 the following:
+
+“Sec. 205. National cybersecurity challenges.”.
+
+Subtitle B—Other Matters
+
+SEC. 9411. ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH.
+
+Section 2203(b) of the Energy Policy Act of 1992 (42 U.S.C. 13503(b)) is amended by striking paragraph (3) and inserting the following new paragraph (3):
+
+“(3) ESTABLISHED PROGRAM TO STIMULATE COMPETITIVE RESEARCH.—
+“(A) DEFINITIONS.—In this paragraph:
+“(i) ELIGIBLE JURISDICTION.—The term ‘eligible jurisdiction’ means a State that is determined to be eligible for a grant under this paragraph in accordance with subparagraph (D).
+“(ii) EPSCoR.—The term ‘EPSCoR’ means the Established Program to Stimulate Competitive Research operated under subparagraph (B).
+“(iii) NATIONAL LABORATORY.—The term ‘National Laboratory’ has the meaning given the term in section 2 of the Energy Policy Act of 2005 (42 U.S.C. 15801).
+“(iv) STATE.—The term ‘State’ means—
+“(I) a State;
+“(II) the District of Columbia;
+“(III) the Commonwealth of Puerto Rico;
+“(IV) Guam; and
+“(V) the United States Virgin Islands.
+“(B) PROGRAM OPERATION.—The Secretary shall operate an Established Program to Stimulate Competitive Research.
+“(C) OBJECTIVES.—The objectives of EPSCoR shall be—
+“(i) to increase the number of researchers in eligible jurisdictions, especially at institutions of higher education, capable of performing nationally competitive science and engineering research in support of the mission of the Department of Energy in the areas of applied energy research, environmental management, and basic science;
+“(ii) to improve science and engineering research and education programs at institutions of higher education in eligible jurisdictions and enhance the capabilities of eligible jurisdictions to develop, plan, and execute research that is competitive, including through investing in research equipment and instrumentation; and
+“(iii) to increase the probability of long-term growth of competitive funding to eligible jurisdictions.
+“(D) ELIGIBLE JURISDICTIONS.—
+“(i) IN GENERAL.—The Secretary may establish criteria for determining whether a State is eligible for a grant under this paragraph.

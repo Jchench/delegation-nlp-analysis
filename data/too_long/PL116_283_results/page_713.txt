@@ -1,0 +1,29 @@
+PUBLIC LAW 116–283—JAN. 1, 2021                 134 STAT. 4099
+
+(A) request assistance from the Director of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security; or
+(B) implement any measure or recommendation suggested by the Director.
+
+SEC. 1717. CYBERSECURITY STATE COORDINATOR.
+(a) CYBERSECURITY STATE COORDINATOR.—
+(1) IN GENERAL.—Subtitle A of title XXII of the Homeland Security Act of 2002 (6 U.S.C. 651 et seq.) is amended—
+(A) in section 2202(c) (6 U.S.C. 652(c)—
+(i) in paragraph (10), by striking ‘‘and’’ at the end;
+(ii) by redesignating paragraph (11) as paragraph (12); and
+(iii) by inserting after paragraph (10) the following:
+‘‘(11) appoint a Cybersecurity State Coordinator in each State, as described in section 2215; and’’; and
+(B) by adding at the end the following new section:
+
+
+‘‘SEC. 2215. CYBERSECURITY STATE COORDINATOR.
+‘‘(a) APPOINTMENT.—The Director shall appoint an employee of the Agency in each State, with the appropriate cybersecurity qualifications and expertise, who shall serve as the Cybersecurity State Coordinator.
+‘‘(b) DUTIES.—The duties of a Cybersecurity State Coordinator appointed under subsection (a) shall include—
+‘‘(1) building strategic public and, on a voluntary basis, private sector relationships, including by advising on establishing governance structures to facilitate the development and maintenance of secure and resilient infrastructure;
+‘‘(2) serving as the Federal cybersecurity risk advisor and supporting preparation, response, and remediation efforts relating to cybersecurity risks and incidents;
+‘‘(3) facilitating the sharing of cyber threat information to improve understanding of cybersecurity risks and situational awareness of cybersecurity incidents;
+‘‘(4) raising awareness of the financial, technical, and operational resources available from the Federal Government to non-Federal entities to increase resilience against cyber threats;
+‘‘(5) supporting training, exercises, and planning for continuity of operations to expedite recovery from cybersecurity incidents, including ransomware;
+‘‘(6) serving as a principal point of contact for non-Federal entities to engage, on a voluntary basis, with the Federal Government on preparing, managing, and responding to cybersecurity incidents;
+‘‘(7) assisting non-Federal entities in developing and coordinating vulnerability disclosure programs consistent with Federal and information security industry standards;
+‘‘(8) assisting State, local, Tribal, and territorial governments, on a voluntary basis, in the development of State cybersecurity plans;
+‘‘(9) coordinating with appropriate officials within the Agency; and
+‘‘(10) performing such other duties as determined necessary by the Director to achieve the goal of managing cybersecurity

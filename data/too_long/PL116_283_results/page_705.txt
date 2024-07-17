@@ -1,0 +1,22 @@
+PUBLIC LAW 116-283—JAN. 1, 2021  134 STAT. 4091
+
+(3) in subsection (h), by—
+(A) striking ‘‘(1) IN GENERAL.—’’; and
+(B) striking paragraph (2);
+(4) in subsection (i)(1)(B), by striking ‘‘officers or employees of the United States or’’; and
+(5) in subsection (i)(2)—
+(A) in subparagraph (A)—
+(i) by striking ‘‘at the end of the 120-day period beginning on’’ and inserting ‘‘20 months after’’; and
+(ii) by adding at the end the following new sentence: ‘‘No extension of the Commission is permitted.’’;
+(B) in subparagraph (B), by—
+(i) striking ‘‘may use the 120-day’’ and inserting ‘‘shall use the 20-month’’;
+(ii) striking ‘‘for the purposes of concluding its activities, including providing testimony to Congress concerning the final report referred to in that paragraph and disseminating the report’’ and inserting the following: ‘‘for the purposes of—
+‘‘(i) collecting and assessing comments and feedback from the Executive Branch, academia, and the public on the analysis and recommendations contained in the Commission’s report;
+‘‘(ii) collecting and assessing any developments in cybersecurity that may affect the analysis and recommendations contained in the Commission’s report;
+‘‘(iii) reviewing the implementation of the recommendations contained in the Commission’s report;
+‘‘(iv) revising, amending, or making new recommendations based on the assessments and reviews required under clauses (i)–(iii);
+‘‘(v) providing an annual update to the congressional defense committees, the congressional intelligence committees, the Committee on Homeland Security of the House of Representatives, the Committee on Homeland Security and Governmental Affairs of the Senate, the Director of National Intelligence, the Secretary of Defense, and the Secretary of Homeland Security in a manner and format determined by the Commission regarding any such revisions, amendments, or new recommendations; and
+‘‘(vi) concluding its activities, including providing testimony to Congress concerning the final report referred to in that paragraph and disseminating the report.’’; and
+(C) by adding at the end the following new subparagraph:
+‘‘(C) If the Commission is extended, and the effective date of such extension is after the date on which the Commission terminated, the Commission shall be deemed reconstituted with the same members and powers that existed on the day before such termination date, except that—
+‘‘(i) a member of the Commission may serve only if the member’s position continues to be authorized under subsection (b);

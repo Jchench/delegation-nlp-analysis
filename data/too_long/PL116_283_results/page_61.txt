@@ -1,0 +1,20 @@
+PUBLIC LAW 116-283—JAN. 1, 2021	134 STAT. 3447
+
+a functional capability and capacity to meet the requirements of the combatant commands.
+SEC. 156. JOINT STRATEGY FOR AIR BASE DEFENSE AGAINST MISSILE THREATS.
+(a) STRATEGY REQUIRED.—The Chief of Staff of the Air Force and the Chief of Staff of the Army shall jointly develop and carry out a strategy to address the defense of air bases and prepositioned sites outside the continental United States against current and emerging missile threats, as validated by the Defense Intelligence Agency.
+(b) CERTIFICATION AND STRATEGY.—Not later than June 1, 2021, the Chief of Staff of the Air Force and the Chief of Staff of the Army shall jointly submit to the congressional defense committees the following:
+(1) A certification that the defense of air bases and prepositioned sites outside the continental United States against threats described in subsection (a) is being addressed jointly.
+(2) The strategy developed pursuant to subsection (a).
+
+SEC. 157. JOINT ALL DOMAIN COMMAND AND CONTROL REQUIREMENTS.
+(a) VALIDATION OF REQUIREMENTS BY JOINT REQUIREMENTS OVERSIGHT COUNCIL.—Not later than April 1, 2021, the Joint Requirements Oversight Council (JROC) shall validate requirements for Joint All Domain Command and Control (JADC2).
+(b) AIR FORCE CERTIFICATION.—Immediately after the validation of requirements pursuant to subsection (a), the Chief of Staff of the Air Force shall submit to the congressional defense committees a certification that the current Joint All Domain Command and Control effort, including programmatic and architecture efforts, being led by the Air Force will meet the requirements validated by the Joint Requirements Oversight Council.
+(c) CERTIFICATION BY OTHER ARMED FORCES.—Not later than July 1, 2021, the chief of staff of each Armed Force other than the Air Force shall submit to the congressional defense committees a certification whether the efforts of such Armed Force on multi domain command and control are compatible with Joint All Domain Command and Control architecture.
+(d) BUDGETING.—The Secretary of Defense shall incorporate the expected costs for full development and implementation of Joint All Domain Command and Control across the Department of Defense in fiscal year 2022 in the budget of the President for fiscal year 2022 as submitted to Congress under section 1105 of title 31, United States Code.
+
+SEC. 158. EXPANSION OF ECONOMIC ORDER QUANTITY CONTRACTING AUTHORITY FOR F-35 AIRCRAFT PROGRAM.
+Section 1611(a)(2) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116-92; 133 Stat. 1246) is amended by striking “$574,000,000” and inserting “$1,035,793,000”.
+
+SEC. 159. DOCUMENTATION RELATING TO THE F-35 AIRCRAFT PROGRAM.
+The Secretary of Defense shall submit to the congressional defense committees, not later than 15 days following Milestone C approval for the F-35 aircraft program pursuant to section 2366e 

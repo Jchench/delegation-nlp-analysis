@@ -1,0 +1,61 @@
+134 STAT. 4692       PUBLIC LAW 116–283—JAN. 1, 2021
+
+“(1) ELECTRONIC CHARTS IN LIEU OF MARINE CHARTS, 
+CHARTS, AND MAPS.—Subject to paragraph (2), the following 
+vessels, while operating on the navigable waters of the United 
+States, equipped with and operating electronic navigational 
+charts that are produced by a government hydrographic office 
+or conform to a standard acceptable to the Secretary, shall 
+be deemed in compliance with any requirement under title 
+33 or title 46, Code of Federal Regulations, to have a chart, 
+marine chart, or map on board such vessel:
+
+“(A) A self-propelled commercial vessel of at least 65 
+feet in overall length.
+“(B) A vessel carrying more than a number of pas-
+sengers for hire determined by the Secretary.
+“(C) A towing vessel of more than 26 feet in overall
+length and 600 horsepower.
+“(D) Any other vessel for which the Secretary decides
+that electronic charts are necessary for the safe navigation
+of the vessel.”.
+(b) EXEMPTIONS AND WAIVERS.—Section 3105(a)(2) of title 46,
+United States Code, is amended—
+
+(1) in subparagraph (A), by striking “operates; and” and
+inserting “operates;”;
+(2) in subparagraph (B), by striking “those waters.” and
+inserting “those waters; and”; and
+(3) by adding at the end the following:
+“(C) permit vessels described in subparagraphs (A) 
+through (D) of paragraph (1) that operate beyond 12 miles
+of the baseline from which the territorial sea of the United
+States is measured to utilize software-based, platform-inde-
+pendent electronic chart systems that the Secretary deter-
+mines are capable of displaying electronic navigational 
+charts with necessary scale and detail to ensure safe
+navigation for the intended voyage.”.
+
+SEC. 8302. SUBROGATED CLAIMS.
+(a) IN GENERAL.—Section 1012(b) of the Oil Pollution Act of 
+1990 (33 U.S.C. 2712(b)) is amended—
+(1) by striking “The” and inserting the following:
+“(1) IN GENERAL.—The”; and
+(2) by adding at the end the following:
+“(2) SUBROGATED RIGHTS.—Except for a guarantor claim
+pursuant to a defense under section 1016(f)(1), fund compensa-
+tion of any claim by an insurer or other indemnifier of a 
+responsible party or injured third party is subject to the sub-
+rogated rights of that responsible party or injured third party
+to such compensation.”.
+(b) EFFECTIVE DATE.—This section and the amendments made
+by this section shall take effect 180 days after the date of enactment
+of this Act.
+
+SEC. 8303. LOAN PROVISIONS UNDER OIL POLLUTION ACT OF 1990.
+(a) IN GENERAL.—Section 1013 of the Oil Pollution Act of 1990
+(33 U.S.C. 2713) is amended by striking subsection (f).
+(b) CONFORMING AMENDMENTS.—Section 1012(a) of the Oil 
+Pollution Act of 1990 (33 U.S.C. 2712(a)) is amended—
+(1) in paragraph (4), by adding “and” after the semicolon
+at the end;

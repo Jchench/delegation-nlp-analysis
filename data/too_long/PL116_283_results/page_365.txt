@@ -1,0 +1,23 @@
+PUBLIC LAW 116–283—JAN. 1, 2021   134 STAT. 3751
+
+    ‘‘(B) consider the views of appropriate public and private sector entities.
+        ‘‘(2) MEMORANDUM.—Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification for such determination.’’.
+
+SEC. 817. MODIFICATION TO SMALL PURCHASE THRESHOLD EXCEPTION TO SOURCING REQUIREMENTS FOR CERTAIN ARTICLES.
+
+Subsection (h) of section 2533a of title 10, United States Code, is amended to read as follows: ‘‘(h) EXCEPTION FOR SMALL PURCHASES.—(1) Subsection (a) does not apply to purchases for amounts not greater than $150,000. A proposed procurement of an item in an amount greater than $150,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for this exception. 
+     ‘‘(2) On October 1 of each year that is evenly divisible by five, the Secretary of Defense may adjust the dollar threshold in this subsection based on changes in the Consumer Price Index. Any such adjustment shall take effect on the date on which the Secretary publishes notice of such adjustment in the Federal Register.’’.
+
+SEC. 818. REPEAL OF PROGRAM FOR QUALIFIED APPRENTICES FOR MILITARY CONSTRUCTION CONTRACTS.
+    (a) IN GENERAL.—Section 2870 of title 10, United States Code, is repealed.
+    (b) CONFORMING AMENDMENTS.—
+        (1) CLERICAL AMENDMENT.—The table of sections at the beginning of subchapter III of chapter 169 of title 10, United States Code, is amended by striking the item relating to section 2870.
+        (2) REPEAL.—Section 865 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1523) is repealed.
+
+SEC. 819. MODIFICATIONS TO MITIGATING RISKS RELATED TO FOREIGN OWNERSHIP, CONTROL, OR INFLUENCE OF DEPARTMENT OF DEFENSE CONTRACTORS AND SUBCONTRACTORS.
+    (a) ASSESSMENT OF FOCI.—Subparagraph (A) of section 847(b)(2) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; 10 U.S.C. 2509 note) is amended by adding at the end the following new clause:
+        ‘‘(v) A requirement for the Secretary to require reports and conduct examinations on a periodic basis of covered contractors or subcontractors in order to assess compliance with the requirements of this section.’’.
+    (b) CONTRACT REQUIREMENTS, ADMINISTRATION, AND OVERSIGHT RELATING TO FOCI.—Subparagraph (C) of such section is amended—
+        (1) by redesignating clause (iv) as clause (v); and
+        (2) by inserting after clause (iii) the following new clause:
+            ‘‘(iv) Procedures for appropriately responding to changes in covered contractor or subcontractor beneficial ownership status based on changes in disclosures of their beneficial ownership and whether they are

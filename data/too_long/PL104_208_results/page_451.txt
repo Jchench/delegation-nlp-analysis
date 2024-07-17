@@ -1,0 +1,45 @@
+PUBLIC LAW 104–208—SEPT. 30, 1996	110 STAT. 3009–450
+
+SEC. 2415. INCREASED CRIMINAL PENALTIES FOR OBTAINING INFORMATION UNDER FALSE PRETENSES.
+
+(a) OBTAINING INFORMATION UNDER FALSE PRETENSES.—Section 619 of the Fair Credit Reporting Act (15 U.S.C. 1681q) is amended by striking ‘‘fined not more than $5,000 or imprisoned not more than one year, or both’’ and inserting ‘‘fined under title 18, United States Code, imprisoned for not more than 2 years, or both’’.
+
+(b) UNAUTHORIZED DISCLOSURES BY OFFICERS OR EMPLOYEES.— Section 620 of the Fair Credit Reporting Act (15 U.S.C. 1681r) is amended by striking ‘‘fined not more than $5,000 or imprisoned not more than one year, or both’’ and inserting ‘‘fined under title 18, United States Code, imprisoned for not more than 2 years, or both’’.
+
+SEC. 2416. ADMINISTRATIVE ENFORCEMENT.
+
+(a) AVAILABLE ENFORCEMENT POWERS.—Section 621(a) of the Fair Credit Reporting Act (15 U.S.C. 1681s(a)) is amended—
+	(1) by inserting ‘‘(1)’’ after ‘‘(a)’’;
+	(2) by adding at the end the following new paragraph:
+		‘‘(2)(A) In the event of a knowing violation, which constitutes 
+a pattern or practice of violations of this title, the Commission
+may commence a civil action to recover a civil penalty in a district
+court of the United States against any person that violates this
+title. In such action, such person shall be liable for a civil penalty
+of not more than $2,500 per violation.
+		‘‘(B) In determining the amount of a civil penalty under
+subparagraph (A), the court shall take into account the degree
+of culpability, any history of prior such conduct, ability to pay,
+effect on ability to continue to do business, and such other matters
+as justice may require.
+		‘‘(3) Notwithstanding paragraph (2), a court may not impose
+any civil penalty on a person for a violation of section 623(a)(1)
+unless the person has been enjoined from committing the violation,
+or ordered not to commit the violation, in an action or proceeding
+brought by or on behalf of the Federal Trade Commission, and
+has violated the injunction or order, and the court may not impose
+any civil penalty for any violation occurring before the date of
+the violation of the injunction or order.
+		‘‘(4) Neither the Commission nor any other agency referred
+to in subsection (b) may prescribe trade regulation rules or other
+regulations with respect to this title.’’.
+
+(b) AGENCIES RESPONSIBLE FOR ENFORCEMENT.—Section 621 of the Fair Credit Reporting Act (15 U.S.C. 1681s) is amended—
+	(1) in subsection (a), by inserting ‘‘ENFORCEMENT BY FEDERAL TRADE COMMISSION.—’’ before ‘‘Compliance with the requirements’’;
+	(2) in subsection (b), by striking the matter preceding paragraph (1) and inserting the following:
+		‘‘(b) ENFORCEMENT BY OTHER AGENCIES.—Compliance with the
+requirements imposed under this title with respect to consumer
+reporting agencies, persons who use consumer reports from such
+agencies, persons who furnish information to such agencies, and
+users of information that are subject to subsection (d) or (e) of
+section 615 shall be enforced under—’’; and

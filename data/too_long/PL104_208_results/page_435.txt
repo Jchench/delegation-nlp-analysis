@@ -1,0 +1,59 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009-434
+
+“(2) the purpose is certified in accordance with section
+607 by a prospective user of the report through a general
+or specific certification.”.
+
+(c) FTC GUIDELINES REGARDING PRESCREENING FOR INSURANCE
+TRANSACTIONS.—The Federal Trade Commission may issue such
+guidelines as it deems necessary with respect to the use of consumer
+reports in connection with insurance transactions that are not initi¬
+ated by the consumer pursuant to section 604(c) of the Fair Credit
+Reporting Act, as added by subsection (a) of this section.
+SEC. 2405. CONSUMER CONSENT REQUIRED TO FURNISH CONSUMER
+REPORT CONTAINING MEDICAL INFORMATION.
+Section 604 of the Fair Credit Reporting Act (15 U.S.C. 1681b)
+is amended by adding at the end the following new subsection:
+"(g) FURNISHING REPORTS CONTAINING MEDICAL INFORMA¬
+TION.—A consumer reporting agency shall not furnish for employ¬
+ment purposes, or in connection with a credit or insurance trans¬
+action or a direct marketing transaction, a consumer report that
+contains medical information about a consumer, unless the
+consumer consents to the furnishing of the report.”.
+SEC. 2406. OBSOLETE INFORMATION AND INFORMATION CONTAINED
+IN CONSUMER REPORTS.
+(a) AMENDMENT TO LARGE-DOLLAR EXCEPTION.—Section 605
+of the Fair Credit Reporting Act (15 U.S.C. 1681c) is amended—
+(1) by inserting “INFORMATION EXCLUDED FROM CONSUMER
+REPORTS.—” after “(a)”;
+(2) in subsection (b)—
+(A) in paragraph (1), by striking “$50,000” and insert¬
+ing “$150,000”;
+(B) in paragraph (2), by striking “$50,000” and insert¬
+ing “$150,000”; and
+(C) in paragraph (3), by striking “$20,000” and insert¬
+ing “$75,000”.
+(b) CLARIFICATION OF REPORTING PERIOD.—Section 605 of the
+Fair Credit Reporting Act (15 U.S.C. 1681c) (as amended by sub¬
+section (a) of this section) is amended by adding at the end the
+following new subsection:
+“(c) RUNNING OF REPORTING PERIOD.—
+“(1) IN GENERAL.—The 7-year period referred to in para¬
+graphs (4) and (6) of subsection (a) shall begin, with respect
+to any delinquent account that is placed for collection
+(internally or by referral to a third party, whichever is earlier),
+charged to profit and loss, or subjected to any similar action,
+upon the expiration of the 180-day period beginning on the
+date of the commencement of the delinquency which imme¬
+diately preceded the collection activity, charge to profit and
+loss, or similar action.
+“(2) EFFECTIVE DATE.—Paragraph (1) shall apply only to
+items of information added to the file of a consumer on or
+after the date that is 455 days after the date of enactment
+of the Consumer Credit Reporting Reform Act of 1996.”.
+(c) ADDITIONAL INFORMATION ON BANKRUPTCY FILINGS
+REQUIRED.—Section 605 of the Fair Credit Reporting Act (15 U.S.C.
+1681c) is amended by adding at the end the following new sub¬
+section:
+“(d) INFORMATION REQUIRED TO BE DISCLOSED.—Any consumer
+reporting agency that furnishes a consumer report that contains

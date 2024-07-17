@@ -1,0 +1,129 @@
+PUBLIC LAW 110–289—JULY 30, 2008
+
+122 STAT. 2773
+
+with the commission of or participation in a crime involving dishonesty or breach of trust which is punishable by imprisonment for a term exceeding 1 year under Federal or State law, the Director may, if continued service or participation by such party may pose a threat to the regulated entity or impair public confidence in the regulated entity, by written notice served upon such party, suspend such party from office or prohibit such party from further participation in any manner in the conduct of the affairs of any regulated entity.
+``(B) PROVISIONS APPLICABLE TO NOTICE.—
+    ``(i) COPY.—A copy of any notice under subparagraph (A) shall be served upon the relevant regulated entity.
+    ``(ii) EFFECTIVE PERIOD.—A suspension or prohibition under subparagraph (A) shall remain in effect until the information, indictment, or complaint referred to in subparagraph (A) is finally disposed of, or until terminated by the Director.
+``(2) REMOVAL OR PROHIBITION.—
+    ``(A) IN GENERAL.—If a judgment of conviction or an agreement to enter a pretrial diversion or other similar program is entered against an entity-affiliated party in connection with a crime described in paragraph (1)(A), at such time as such judgment is not subject to further appellate review, the Director may, if continued service or participation by such party may pose a threat to the regulated entity or impair public confidence in the regulated entity, issue and serve upon such party an order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the regulated entity without the prior written consent of the Director.
+    ``(B) PROVISIONS APPLICABLE TO ORDER.—
+        ``(i) COPY.—A copy of any order under subparagraph (A) shall be served upon the relevant regulated entity, at which time the entity-affiliated party who is subject to the order (if a director or an officer) shall cease to be a director or officer of such regulated entity.
+        ``(ii) EFFECT OF ACQUITTAL.—A finding of not guilty or other disposition of the charge shall not preclude the Director from instituting proceedings after such finding or disposition to remove a party from office or to prohibit further participation in the affairs of a regulated entity pursuant to subsection (a) or (b).
+        ``(iii) EFFECTIVE PERIOD.—Unless terminated by the Director, any notice of suspension or order of removal issued under this subsection shall remain effective and outstanding until the completion of any hearing or appeal authorized under paragraph (4).
+``(3) AUTHORITY OF REMAINING BOARD MEMBERS.—
+    ``(A) IN GENERAL.—If at any time, because of the suspension of 1 or more directors pursuant to this section, there shall be on the board of directors of a regulated entity less than a quorum of directors not so suspended, all powers and functions vested in or exercisable by such
+
+122 STAT. 2774
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+board shall vest in and be exercisable by the director or directors on the board not so suspended, until such time as there shall be a quorum of the board of directors.
+    ``(B) APPOINTMENT OF TEMPORARY DIRECTORS.—If all of the directors of a regulated entity are suspended pursuant to this section, the Director shall appoint persons to serve temporarily as directors pending the termination of such suspensions, or until such time as those who have been suspended cease to be directors of the regulated entity and their respective successors take office.
+``(4) HEARING REGARDING CONTINUED PARTICIPATION.—
+    ``(A) IN GENERAL.—Not later than 30 days after the date of service of any notice of suspension or order of removal issued pursuant to paragraph (1) or (2), the entity-affiliated party may request in writing an opportunity to appear before the Director to show that the continued service or participation in the conduct of the affairs of the regulated entity by such party does not, or is not likely to, pose a threat to the interests of the regulated entity, or threaten to impair public confidence in the regulated entity.
+    ``(B) TIMING AND FORM OF HEARING.—Upon receipt of a request for a hearing under subparagraph (A), the Director shall fix a time (not later than 30 days after the date of receipt of such request, unless extended at the request of such party) and place at which the entity-affiliated party may appear, personally or through counsel, before the Director or 1 or more designated employees of the Director to submit written materials (or, at the discretion of the Director, oral testimony) and oral argument.
+    ``(C) DETERMINATION.—Not later than 60 days after the date of a hearing under subparagraph (B), the Director shall notify the entity-affiliated party whether the suspension or prohibition from participation in any manner in the conduct of the affairs of the regulated entity will be continued, terminated, or otherwise modified, or whether the order removing such party from office or prohibiting such party from further participation in any manner in the conduct of the affairs of the regulated entity will be rescinded or otherwise modified. Such notification shall contain a statement of the basis for any adverse decision of the Director.
+``(5) RULES.—The Director is authorized to prescribe such rules as may be necessary to carry out this subsection.''.
+(b) CONFORMING AMENDMENTS.—
+    (1) SAFETY AND SOUNDNESS ACT.—Subtitle C of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.) is amended—
+        (A) in section 1317(f), by striking ``section 1379B'' and inserting ``section 1379D'';
+        (B) in section 1373(a)—
+            (i) in paragraph (1), by striking ``or 1376(c)'' and inserting ``s, 1376(c), or 1377'';
+            (ii) in paragraph (2), by inserting ``or 1377'' after ``1371''; and
+
+122 STAT. 2775
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+            (iii) in paragraph (4), by inserting ``or removal or prohibition'' after ``cease and desist''; and
+        (C) in section 1374(a)—
+            (i) by striking ``or 1376'' and inserting ``1313B, 1376, or 1377''; and
+            (ii) by striking ``such section'' and inserting ``this title''.
+    (2) FANNIE MAE CHARTER ACT.—Section 308(b) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1723(b)) is amended in the second sentence, by striking ``The'' and inserting ``Except to the extent that action under section 1377 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 temporarily results in a lesser number, the''.
+    (3) FREDDIE MAC CHARTER ACT.—Section 303(a)(2)(A) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1452(a)(2)(A)) is amended, in the second sentence, by striking ``The'' and inserting ``Except to the extent action under section 1377 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 temporarily results in a lesser number, the''.
+
+SEC. 1154. ENFORCEMENT AND JURISDICTION.
+
+Section 1375 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4635) is amended—
+    (1) by striking subsection (a) and inserting the following new subsection:
+    ``(a) ENFORCEMENT.—The Director may, in the discretion of the Director, apply to the United States District Court for the District of Columbia, or the United States district court within the jurisdiction of which the headquarters of the regulated entity is located, for the enforcement of any effective and outstanding notice or order issued under this subtitle or subtitle B, or request that the Attorney General of the United States bring such an action. Such court shall have jurisdiction and power to order and require compliance with such notice or order.''; and
+    (2) in subsection (b), by striking ``or 1376'' and inserting ``1373, 1376, or 1377''.
+
+SEC. 1155. CIVIL MONEY PENALTIES.
+
+Section 1376 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4636) is amended—
+    (1) by striking subsection (a) and inserting the following:
+    ``(a) IN GENERAL.—The Director may impose a civil money penalty in accordance with this section on any regulated entity or any entity-affiliated party. The Director shall not impose a penalty in accordance with this section on any regulated entity or any entity-affiliated party for any violation that is addressed under section 1354(a).'';
+    (2) by striking subsection (b) and inserting the following:
+    ``(b) AMOUNT OF PENALTY.—
+        ``(1) FIRST TIER.—A regulated entity or entity-affiliated party shall forfeit and pay a civil penalty of not more than $10,000 for each day during which a violation continues, if such regulated entity or party—
+            ``(A) violates any provision of this title, the authorizing statutes, or any order, condition, rule, or regulation under this title or any authorizing statute;
+
+122 STAT. 2776
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+            ``(B) violates any final or temporary order or notice issued pursuant to this title;
+            ``(C) violates any condition imposed in writing by the Director in connection with the grant of any application or other request by such regulated entity; or
+            ``(D) violates any written agreement between the regulated entity and the Director.
+        ``(2) SECOND TIER.—Notwithstanding paragraph (1), a regulated entity or entity-affiliated party shall forfeit and pay a civil penalty of not more than $50,000 for each day during which a violation, practice, or breach continues, if—
+            ``(A) the regulated entity or entity-affiliated party, respectively—
+                ``(i) commits any violation described in any subparagraph of paragraph (1);
+                ``(ii) recklessly engages in an unsafe or unsound practice in conducting the affairs of the regulated entity; or
+                ``(iii) breaches any fiduciary duty; and
+            ``(B) the violation, practice, or breach—
+                ``(i) is part of a pattern of misconduct;
+                ``(ii) causes or is likely to cause more than a minimal loss to the regulated entity; or
+                ``(iii) results in pecuniary gain or other benefit to such party.
+        ``(3) THIRD TIER.—Notwithstanding paragraphs (1) and (2), any regulated entity or entity-affiliated party shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under paragraph (4) for each day during which such violation, practice, or breach continues, if such regulated entity or entity-affiliated party—
+            ``(A) knowingly—
+                ``(i) commits any violation described in any subparagraph of paragraph (1);
+                ``(ii) engages in any unsafe or unsound practice in conducting the affairs of the regulated entity; or
+                ``(iii) breaches any fiduciary duty; and
+            ``(B) knowingly or recklessly causes a substantial loss to the regulated entity or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach.
+        ``(4) MAXIMUM AMOUNTS OF PENALTIES FOR ANY VIOLATION DESCRIBED IN PARAGRAPH (3).—The maximum daily amount of any civil penalty which may be assessed pursuant to paragraph (3) for any violation, practice, or breach described in paragraph (3) is—
+            ``(A) in the case of any entity-affiliated party, an amount not to exceed $2,000,000; and
+            ``(B) in the case of any regulated entity, $2,000,000.''.
+    (3) in subsection (c)—
+        (A) by striking ``enterprise'' each place that term appears and inserting ``regulated entity'';
+        (B) by inserting ``or entity-affiliated party'' before ``in writing''; and
+        (C) by inserting ``or entity-affiliated party'' before ``has been given'';
+    (4) in subsection (d)—
+
+122 STAT. 2777
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+        (A) by striking ``or director'' each place such term appears and inserting ``director, or entity-affiliated party'';
+        (B) by striking ``an enterprise'' and inserting ``a regulated entity'';
+        (C) by striking ``the enterprise'' and inserting ``the regulated entity'';
+        (D) by striking ``request the Attorney General of the United States to'';
+        (E) by inserting ``, or the United States district court within the jurisdiction of which the headquarters of the regulated entity is located,'' after ``District of Columbia'';
+        (F) by striking ``, or may, under the direction and control of the Attorney General of the United States, bring such an action''; and
+        (G) by striking ``and section 1374''; and
+    (5) in subsection (g), by striking ``An enterprise'' and inserting ``A regulated entity''.
+
+SEC. 1156. CRIMINAL PENALTY.
+
+    (a) IN GENERAL.—Subtitle C of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4631 et seq.) is amended by inserting after section 1377, as added by this Act, the following:
+
+``SEC. 1378. CRIMINAL PENALTY.
+
+``Whoever, being subject to an order in effect under section 1377, without the prior written approval of the Director, knowingly participates, directly or indirectly, in any manner (including by engaging in an activity specifically prohibited in such an order) in the conduct of the affairs of any regulated entity shall, notwithstanding section 3571 of title 18, be fined not more than $1,000,000, imprisoned for not more than 5 years, or both.''.
+    (b) TECHNICAL AND CONFORMING AMENDMENTS.—The Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.) is amended—
+        (1) in section 1379 (as so designated by this Act)—
+            (A) by striking ``an enterprise'' and inserting ``a regulated entity''; and
+            (B) by striking ``the enterprise'' and inserting ``the regulated entity'';
+        (2) in section 1379A (as so designated by this Act), by striking ``an enterprise'' and inserting ``a regulated entity'';
+        (3) in section 1379B(c) (as so designated by this Act), by striking ``enterprise'' and inserting ``regulated entity''; and
+        (4) in section 1379D (as so designated by this Act), by striking ``enterprise'' and inserting ``regulated entity''.
+
+SEC. 1157. NOTICE AFTER SEPARATION FROM SERVICE.
+
+Section 1379 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4637), as so designated by this Act, is amended—
+    (1) by striking ``2-year'' and inserting ``6-year'';
+    (2) by striking ``a director or executive officer of an enterprise'' and inserting ``an entity-affiliated party'';
+    (3) by striking ``director or officer'' each place that term appears and inserting ``entity-affiliated party''; and
+    (4) by striking ``enterprise.'' and inserting ``regulated entity.''.

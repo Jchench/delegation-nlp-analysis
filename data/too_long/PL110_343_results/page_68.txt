@@ -1,0 +1,33 @@
+122 STAT. 3832
+
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+TITLE II—TRANSPORTATION AND DO-
+MESTIC FUEL SECURITY PROVISIONS
+
+SEC. 201. INCLUSION OF CELLULOSIC BIOFUEL IN BONUS DEPRECIA-
+TION FOR BIOMASS ETHANOL PLANT PROPERTY.  
+
+(a) IN GENERAL.—Paragraph (3) of section 168(1) is amended to read as follows: 
+“(3) CELLULOSIC BIOFUEL.—The term ‘cellulosic biofuel’ means any liquid fuel which is produced from any lignocellulosic or hemicellulosic matter that is available on a renewable or recurring basis.”. 
+(b) CONFORMING AMENDMENTS.—Subsection (1) of section 168 is amended— 
+(1) by striking ‘‘cellulosic biomass ethanol’’ each place it appears and inserting ‘‘cellulosic biofuel’’, 
+(2) by striking ‘‘CELLULOSIC BIOMASS ETHANOL’’ in the heading of such subsection and inserting ‘‘CELLULOSIC BIOFUEL’’, and 
+(3) by striking ‘‘CELLULOSIC BIOMASS ETHANOL’’ in the heading of paragraph (2) thereof and inserting ‘‘CELLULOSIC BIOFUEL.’’. 
+(c) EFFECTIVE DATE.—The amendments made by this section shall apply to property placed in service after the date of the enactment of this Act, in taxable years ending after such date. 
+SEC. 202. CREDITS FOR BIODIESEL AND RENEWABLE DIESEL.   
+(a) IN GENERAL.—Sections 40A(g), 6426(c)(6), and 6427(e)(5)(B) are each amended by striking “December 31, 2008” and inserting “December 31, 2009”. 
+(b) INCREASE IN RATE OF CREDIT.— 
+(1) INCOME TAX CREDIT.—Paragraphs (1)(A) and (2)(A) of section 40A(b) are each amended by striking “50 cents” and inserting “$1.00”. 
+(2) EXCISE TAX CREDIT.—Paragraph (2) of section 6426(c) is amended to read as follows: 
+“(2) APPLICABLE AMOUNT.—For purposes of this subsection, the applicable amount is $1.00.”. 
+(3) CONFORMING AMENDMENTS.— 
+(A) Subsection (b) of section 40A is amended by striking paragraph (3) and by redesignating paragraphs (4) and (5) as paragraphs (3) and (4), respectively. 
+(B) Paragraph (2) of section 40A(f) is amended to read as follows: 
+‘‘(2) EXCEPTION.—Subsection (b)(4) shall not apply with respect to renewable diesel.”. 
+(C) Paragraphs (2) and (3) of section 40A(e) are each amended by striking “subsection (b)(5)(C)” and inserting ‘‘subsection (b)(4)(C)’’. 
+(D) Clause (ii) of section 40A(d)(3)(C) is amended by striking ‘‘subsection (b)(5)(B)’’ and inserting ‘‘subsection (b)(4)(B)’’. 
+(c) UNIFORM TREATMENT OF DIESEL PRODUCED FROM BIO-
+MASS.—Paragraph (3) of section 40A(f) is amended— 
+(1) by striking “diesel fuel” and inserting ‘‘liquid fuel’’, 
+(2) by striking “using a thermal depolymerization process”, and

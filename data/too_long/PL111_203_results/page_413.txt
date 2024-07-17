@@ -1,0 +1,61 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+124 STAT. 1787
+
+participant, for which there is not a prudential regulator
+imposing—
+‘‘(i) capital requirements; and
+‘‘(ii) both initial and variation margin requirements
+on all swaps that are not cleared by a registered
+clearing agency.
+‘‘(C) CAPITAL.—In setting capital requirements for a
+person that is designated as a security-based swap dealer
+or a major security-based swap participant for a single
+type or single class or category of security-based swap
+or activities, the prudential regulator and the Commission
+shall take into account the risks associated with other
+types of security-based swaps or classes of security-based
+swaps or categories of security-based swaps engaged in
+and the other activities conducted by that person that
+are not otherwise subject to regulation applicable to that
+person by virtue of the status of the person.
+‘‘(3) STANDARDS FOR CAPITAL AND MARGIN.—
+‘‘(A) IN GENERAL.—To offset the greater risk to the
+security-based swap dealer or major security-based swap
+participant and the financial system arising from the use
+of security-based swaps that are not cleared, the require-
+ments imposed under paragraph (2) shall—
+‘‘(i) help ensure the safety and soundness of the
+security-based swap dealer or major security-based
+swap participant; and
+‘‘(ii) be appropriate for the risk associated with
+the non-cleared security-based swaps held as a secu-
+rity-based swap dealer or major security-based swap
+participant.
+‘‘(B) RULE OF CONSTRUCTION.—
+‘‘(i) IN GENERAL.—Nothing in this section shall
+limit, or be construed to limit, the authority—
+‘‘(I) of the Commission to set financial respon-
+sibility rules for a broker or dealer registered
+pursuant to section 15(b) (except for section
+15(b)(11) thereof) in accordance with section
+15(c)(3); or
+‘‘(II) of the Commodity Futures Trading
+Commission to set financial responsibility rules
+for a futures commission merchant or introducing
+broker registered pursuant to section 4f(a) of the
+Commodity Exchange Act (except for section
+4f(a)(3) thereof) in accordance with section 4f(b)
+of the Commodity Exchange Act.
+‘‘(ii) FUTURES COMMISSION MERCHANTS AND OTHER
+DEALERS.—A futures commission merchant, intro-
+ducing broker, broker, or dealer shall maintain suffi-
+cient capital to comply with the stricter of any
+applicable capital requirements to which such futures
+commission merchant, introducing broker, broker, or
+dealer is subject to under this title or the Commodity
+Exchange Act.
+‘‘(C) MARGIN REQUIREMENTS.—In prescribing margin
+requirements under this subsection, the prudential regu-
+lator with respect to security-based swap dealers and major
+security-based swap participants that are depository

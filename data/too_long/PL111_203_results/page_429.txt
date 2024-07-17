@@ -1,0 +1,31 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+and settlement of payment, securities, and other financial transactions.
+
+(2) Financial market utilities that conduct or support multilateral payment, clearing, or settlement activities may reduce risks for their participants and the broader financial system, but such utilities may also concentrate and create new risks and thus must be well designed and operated in a safe and sound manner.
+
+(3) Payment, clearing, and settlement activities conducted by financial institutions also present important risks to the participating financial institutions and to the financial system.
+
+(4) Enhancements to the regulation and supervision of systemically important financial market utilities and the conduct of systemically important payment, clearing, and settlement activities by financial institutions are necessary—
+
+(A) to provide consistency;
+(B) to promote robust risk management and safety and soundness;
+(C) to reduce systemic risks; and
+(D) to support the stability of the broader financial system.
+
+(b) PURPOSE.—The purpose of this title is to mitigate systemic risk in the financial system and promote financial stability by—
+(1) authorizing the Board of Governors to promote uniform standards for the—
+(A) management of risks by systemically important financial market utilities; and
+(B) conduct of systemically important payment, clearing, and settlement activities by financial institutions;
+(2) providing the Board of Governors an enhanced role in the supervision of risk management standards for systemically important financial market utilities;
+(3) strengthening the liquidity of systemically important financial market utilities; and
+(4) providing the Board of Governors an enhanced role in the supervision of risk management standards for systemically important payment, clearing, and settlement activities by financial institutions.
+
+SEC. 803. DEFINITIONS.
+In this title, the following definitions shall apply:
+(1) APPROPRIATE FINANCIAL REGULATOR.—The term “appropriate financial regulator” means—
+(A) the primary financial regulatory agency, as defined in section 2 of this Act;
+(B) the National Credit Union Administration, with respect to any insured credit union under the Federal Credit Union Act (12 U.S.C. 1751 et seq.); and
+(C) the Board of Governors, with respect to organizations operating under section 25A of the Federal Reserve Act (12 U.S.C. 611), and any other financial institution engaged in a designated activity.
+
+(2) DESIGNATED ACTIVITY.—The term “designated activity” means a payment, clearing, or settlement activity that the Council has designated as systemically important under section 804.

@@ -1,0 +1,58 @@
+134 STAT. 3762        PUBLIC LAW 116-283—JAN. 1, 2021
+
+SEC. 839. COMPTROLLER GENERAL REPORT ON INTELLECTUAL PROP-
+                ERTY ACQUISITION AND LICENSING.
+
+Evaluation.      (a) IN GENERAL.—Not later than October 1, 2021, the Comp-
+             troller General of the United States shall submit to the congres-
+             sional defense committees a report evaluating the implementation
+             of Department of Defense Instruction 5010.44 relating to Intellec-
+             tual Property Acquisition and Licensing (or successor instruction).
+Assessments.     (b) ELEMENTS.—The report required under subsection (a) shall
+             assess the following:
+                     (1) The extent to which the Department of Defense is
+                fulfilling the core principles established in such Instruction.
+                    (2) The extent to which the Defense Acquisition University
+                (established under section 1746 of title 10, United States Code)
+                and elements of the Department of Defense (specified in para-
+                graphs (1) through (10) of section 111(b) of such title) are
+                carrying out the requirements of such Instruction.
+                    (3) The progress of the Secretary of Defense in establishing
+                a cadre of intellectual property experts (as required under
+                section 2322(b) of such title), including the extent to which
+                members of such cadre are executing their roles and responsibil-
+                ities.
+                    (4) The performance of the Secretary of Defense in
+                assessing and demonstrating the implementation of such
+                Instruction, including the effectiveness of the cadre described
+                in paragraph (3).
+                    (5) The effectiveness of the cadre described in paragraph
+                (3) in providing resources on the acquisition and licensing of
+                intellectual property.
+                    (6) The effect implementation of such Instruction has had
+                on particular acquisitions.
+                    (7) The extent to which feedback from appropriate stake-
+                holders was incorporated, including large and small businesses,
+                traditional and nontraditional defense contractors (as defined
+                in section 2302(9) of title 10, United States Code), and mainte-
+                nance and repair organizations.
+                    (8) Any other matters the Comptroller General determines
+                appropriate.
+
+Subtitle D—Industrial Base Matters
+
+SEC. 841. ADDITIONAL REQUIREMENTS PERTAINING TO PRINTED CIR-
+                CUIT BOARDS.
+
+(a) IN GENERAL.—Chapter 148 of title 10, United States Code,
+             is amended by inserting after section 2533c the following section:
+10 USC 2533d.  “§ 2533d. Additional requirements pertaining to printed cir-
+                            cuit boards
+                    “(a) IN GENERAL.—
+                            “(1) Beginning on January 1, 2023, the Secretary of Defense
+                        may not acquire a covered printed circuit board from a covered
+                        nation.
+Effective date.         “(2) Paragraph (1) shall not apply with respect to any
+                        acquisition of supplies or services below the micro-purchase
+                        threshold under section 2338 of this title.
+                    “(b) WAIVER.—

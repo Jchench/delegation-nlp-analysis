@@ -1,0 +1,60 @@
+134 STAT. 4492				PUBLIC LAW 116–283—JAN. 1, 2021
+
+SEC. 4301. OPERATION AND MAINTENANCE 
+                 (In Thousands of Dollars)
+Line	Item                   	    FY 2021 Request	                  Conference Authorized
+
+SUBTOTAL DEFENSE-WIDE ...................................	          9,105	                             9,105
+
+DEFENSE-WIDE
+090	ENVIRONMENTAL RESTORATION FORMERLY USED SITES ........             216,587	                  216,587
+SUBTOTAL DEFENSE-WIDE ....................................         216,587	                  216,587
+
+TOTAL ENVIRONMENTAL RESTORATION ...............................	1,073,068	               1,073,068
+
+TOTAL OPERATION & MAINTENANCE .........................	196,830,496	          192,436,494
+
+UNDISTRIBUTED
+010	UNDISTRIBUTED .......................................................	          –1,711,780	              –1,711,780
+	Excessive standard price for fuel .....................................	             –1,711,780	              –1,711,780
+SUBTOTAL UNDISTRIBUTED ..................................	          –1,711,780	              –1,711,780
+
+TOTAL UNDISTRIBUTED .........................	          –1,711,780	              –1,711,780
+
+SEC. 4302. OPERATION AND MAINTENANCE FOR OVERSEAS CONTINGENCY OPERATIONS.
+
+SEC. 4302. OPERATION AND MAINTENANCE FOR OVERSEAS CONTINGENCY OPERATIONS 
+(In Thousands of Dollars)
+Line	Item                  	     FY 2021 Request	                  Conference Authorized
+
+OPERATION & MAINTENANCE, ARMY
+OPERATING FORCES
+010	MANEUVER UNITS ...........................................	       4,114,001	           3,862,628
+	Drawdown from Operation Freedom’s Sentinel ........	          [–59,500]
+	Unjustified funding for Dynamic Force Employment ....	          [–181,873]
+030	ECHELONS ABOVE BRIGADE .............................	             32,811	                  32,811
+040	THEATER LEVEL ASSETS .....................................	      2,542,760	           2,052,760
+	Drawdown from Operation Freedom’s Sentinel ........	          [–1,500,000]
+	Unjustified growth ......................................	          [–10,000]
+050	LAND FORCES OPERATIONS SUPPORT ..........	      162,557	           150,557
+	Drawdown from Operation Freedom’s Sentinel ........	          [–12,000]
+060	AVIATION ASSETS ............................................	       204,396	             179,871
+	Drawdown from Operation Freedom’s Sentinel ........	          [–24,524]
+070	FORCE READINESS OPERATIONS SUPPORT ......	       5,716,734	         4,136,734
+	Drawdown from Operation Freedom’s Sentinel ........	          [–1,500,000]
+	Unjustified growth ......................................	          [–80,000]
+080	LAND FORCES SYSTEMS READINESS ...............	       180,045	             80,045
+	Drawdown from Operation Freedom’s Sentinel ........	          [–100,000]
+090	LAND FORCES DEPOT MAINTENANCE ............	          81,125	              81,125
+100	BASE OPERATIONS SUPPORT ..........................	        219,029	             187,029
+	Drawdown from Operation Freedom’s Sentinel ........	          [–32,000]
+110	FACILITIES SUSTAINMENT, RESTORATION & MODERNIZATION ................…..	 	  301,017	              260,017
+	Drawdown from Operation Freedom’s Sentinel ........	          [–41,000]
+130	ADDITIONAL ACTIVITIES ...................................	       966,649	             782,649
+	Drawdown from Operation Freedom’s Sentinel ........	          [–184,000]
+140	COMMANDER’S EMERGENCY RESPONSE PROGRAM ................................                                                      2,500                       2,000
+	Excess to need ............................................	          [–500]
+150	RESET ........................................................	         403,796	           1,003,796
+	Retrograde from Operation Freedom’s Sentinel ........	          [600,000]
+160	US AFRICA COMMAND .....................................	          100,432	             100,432
+170	US EUROPEAN COMMAND ................................	          120,043	             120,043

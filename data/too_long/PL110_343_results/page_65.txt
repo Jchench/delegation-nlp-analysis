@@ -1,0 +1,25 @@
+PUBLIC LAW 110–343—OCT. 3, 2008 122 STAT. 3829
+
+requirements of this section are met, the claim for refund shall be paid not later than 180 days after the Secretary makes such determination.
+(f) INTEREST.—Any refund paid pursuant to this section shall be paid by the Secretary with interest from the date of overpayment determined by using the overpayment rate and method under section 6621 of the Internal Revenue Code of 1986.
+(g) DENIAL OF DOUBLE BENEFIT.—The payment under subsection (a) with respect to any coal shall not exceed—
+(1) in the case of a payment to a coal producer, the amount of tax paid under section 4121 of the Internal Revenue Code of 1986 with respect to such coal by such coal producer or a party related to such coal producer, and
+(2) in the case of a payment to an exporter, an amount equal to $0.825 per ton with respect to such coal exported by the exporter or caused to be exported by the exporter.
+(h) APPLICATION OF SECTION.—This section applies only to claims on coal exported or shipped on or after October 1, 1990, through the date of the enactment of this Act.
+(i) STANDING NOT CONFERRED.—
+(1) EXPORTERS.—With respect to exporters, this section shall not confer standing upon an exporter to commence, or intervene in, any judicial or administrative proceeding concerning a claim for refund by a coal producer of any Federal or State tax, fee, or royalty paid by the producer and alleged to have been passed on to an exporter.
+(2) COAL PRODUCERS.—With respect to coal producers, this section shall not confer standing upon a coal producer to commence, or intervene in, any judicial or administrative proceeding concerning a claim for refund by an exporter of any Federal or State tax, fee, or royalty paid by the producer and alleged to have been passed on to an exporter.
+
+SEC. 115. TAX CREDIT FOR CARBON DIOXIDE SEQUESTRATION.
+(a) IN GENERAL.—Subpart D of part IV of subchapter A of chapter 1 (relating to business credits) is amended by adding at the end the following new section:
+‘‘SEC. 45Q. CREDIT FOR CARBON DIOXIDE SEQUESTRATION.
+‘‘(a) GENERAL RULE.—For purposes of section 38, the carbon dioxide sequestration credit for any taxable year is an amount equal to the sum of—
+‘‘(1) $20 per metric ton of qualified carbon dioxide which is—
+‘‘(A) captured by the taxpayer at a qualified facility,
+and
+‘‘(B) disposed of by the taxpayer in secure geological storage, and
+‘‘(2) $10 per metric ton of qualified carbon dioxide which is—
+‘‘(A) captured by the taxpayer at a qualified facility, and
+‘‘(B) used by the taxpayer as a tertiary injectant in a qualified enhanced oil or natural gas recovery project.
+‘‘(b) QUALIFIED CARBON DIOXIDE.—For purposes of this section—
+‘‘(1) IN GENERAL.—The term ‘qualified carbon dioxide’ means carbon dioxide captured from an industrial source which—

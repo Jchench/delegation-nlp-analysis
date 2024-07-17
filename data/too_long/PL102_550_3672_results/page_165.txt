@@ -1,0 +1,20 @@
+106 STAT. 3836                      PUBLIC LAW 102-550—OCT. 28, 1992
+
+rural housing voucher program to assist very low-income families and persons to reside in rental housing in rural areas. For such purposes, the Secretary may provide assistance using a payment standard based on the fair market rental rate established by the Secretary for the area. The monthly assistance payment for any family shall be the amount by which the payment standard for the area exceeds 30 per centum of the family's monthly adjusted income, except that such monthly assistance payment shall not exceed the amount which the rent for the dwelling unit (including the amount allowed for utilities in the case of a unit with separate utility metering) exceeds 10 per centum of the family's monthly gross income.
+    "(b) COORDINATION AND LIMITATION.—In carrying out the rural housing voucher program under this section, the Secretary shall—
+        "(1) coordinate activities under this section with activities assisted under sections 515 and 533 of this title; and
+        "(2) enter into contracts for assistance for not more than 5000 units in any fiscal year.".
+
+SEC. 707. RENTAL HOUSING LOANS.
+
+    (a) DEVELOPMENT COSTS.—Section 515(e)(4) of the Housing Act of 1949 (42 U.S.C. 1485 (e)(4)) is amended—
+        (1) by striking "and" before "initial";
+        (2) by inserting before the first period the following: " impact fees, local charges for installation, provision, or use of infrastructure, and local assessments for public improvements and services imposed by State and local governments"; and
+        (3) by inserting after the period at the end the following new sentence: "Notwithstanding the first sentence of this paragraph, the term 'development cost' shall not include any initial operating expenses in the case of any nonprofit corporation or consumer cooperative that is financing housing under this section and has been allocated a low-income housing tax credit by a housing credit agency pursuant to section 42 of the Internal Revenue Code of 1986.".
+    (b) COORDINATION OF LOANS AND RENTAL ASSISTANCE PAYMENTS.—Section 515 of the Housing Act of 1949 (42 U.S.C. 1485) is amended—
+        (1) in subsection (l), by striking paragraph (1) and inserting the following new paragraph:
+        "(1) in the case of any applicant who applies for rental assistance payments under section 521 in connection with such project, the Secretary shall consider the availability of such rental assistance payments with respect to the project and shall require such applicant to demonstrate that a market exists for persons and families eligible for such rental assistance payments; and"; and
+        (2) in subsection (p)—
+            (1) in paragraph (4), by striking "except" in the first sentence and all that follows through the end of the paragraph and inserting a period; and
+            (2) by inserting at the end the following new paragraph:
+           "(5) The Secretary shall coordinate the processing of any application for a loan under this section for a project and the processing of any application for assistance under section 521(a)(2)

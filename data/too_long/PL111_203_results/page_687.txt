@@ -1,0 +1,16 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+124 STAT. 2061
+
+‘‘(II) appropriate contact information for—
+‘‘(aa) the remittance transfer provider; and
+‘‘(bb) the State agency that regulates the remittance transfer provider and the Board, including the toll-free telephone number established under section 1013 of the Consumer Financial Protection Act of 2010.
+‘‘(3) REQUIREMENTS RELATING TO DISCLOSURES.—With respect to each disclosure required to be provided under paragraph (2) a remittance transfer provider shall—
+‘‘(A) provide an initial notice and receipt, as required by subparagraphs (A) and (B) of paragraph (2), and an error resolution statement, as required by subsection (d), that clearly and conspicuously describe the information required to be disclosed therein; and
+‘‘(B) with respect to any transaction that a sender conducts electronically, comply with the Electronic Signatures in Global and National Commerce Act (15 U.S.C. 7001 et seq.).
+‘‘(4) EXCEPTION FOR DISCLOSURES OF AMOUNT RECEIVED.—
+‘‘(A) IN GENERAL.—Subject to the rules prescribed by the Board, and except as provided under subparagraph (B), the disclosures required regarding the amount of currency that will be received by the designated recipient shall be deemed to be accurate, so long as the disclosures provide a reasonably accurate estimate of the foreign currency to be received. This paragraph shall apply only if a remittance transfer provider who is an insured depository institution, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813), or an insured credit union, as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752), and if—
+‘‘(i) a remittance transfer is conducted through a demand deposit, savings deposit, or other asset account that the sender holds with such remittance transfer provider; and
+‘‘(ii) at the time at which the sender requests the transaction, the remittance transfer provider is unable to know, for reasons beyond its control, the amount of currency that will be made available to the designated recipient.
+‘‘(B) DEADLINE.—The application of subparagraph (A) shall terminate 5 years after the date of enactment of the Consumer Financial Protection Act of 2010, unless the Board determines that termination of such provision would negatively affect the ability of remittance transfer providers described in subparagraph (A) to send remittances to locations in foreign countries, in which case, the Board may, by rule, extend the application of subparagraph (A) to not longer than 10 years after the date of enactment of the Consumer Financial Protection Act of 2010.
+‘‘(5) EXEMPTION AUTHORITY.—The Board may, by rule, permit a remittance transfer provider to satisfy the requirements of—
+‘‘(A) paragraph (2)(A) orally, if the transaction is conducted entirely by telephone;

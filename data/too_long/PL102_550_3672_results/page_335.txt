@@ -1,0 +1,25 @@
+106 STAT. 4006                 PUBLIC LAW 102-550—OCT. 28, 1992
+
+"(3) The Corporation shall also submit to the Director any other reports required by the Director pursuant to section 1314 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992.
+"(4) Each report of financial condition shall contain a declara-
+tion by the president, vice president, treasurer, or any other officer designated by the Board of Directors of the Corporation to make such declaration, that the report is true and correct to the best of such officer's knowledge and belief."
+(q) AUDITS OF FINANCIAL STATEMENTS.—Section 307 of the Fed-
+eral Home Loan Mortgage Corporation Act (12 U.S.C. 1456) is amended by adding after subsection (c) (as added by subsection (p) of this section) the following new subsection:
+"(d)(1) The Corporation shall have an annual independent audit made of its financial statements by an independent public account- ant in accordance with generally accepted auditing standards.
+'(2) In conducting an audit under this subsection, the independ- ent public accountant shall determine and report on whether the financial statements of the Corporation (A) are presented fairly in accordance with generally accepted accounting principles, and (B) to the extent determined necessary by the Director, comply with any disclosure requirements imposed under subsection (c)(2)(B).".
+(r) MORTGAGE DATA COLLECTION AND REPORTING REQUIRE-
+MENTS.—Section 307 of the Federal Home Loan Mortgage Corpora- tion Act (12 U.S.C. 1456) is amended by adding after subsection (d) (as added by subsection (q) of this section) the following new subsection:
+"(e)(1) The Corporation shall collect, maintain, and provide to the Secretary, in a form determined by the Secretary, data relating to its mortgages on housing consisting of 1 to 4 dwelling units. Such data shall include—
+"(A) the income, census tract location, race, and gender of mortgagors under such mortgages;
+"(B) the loan-to-value ratios of purchased mortgages at the time of origination;
+"(C) whether a particular mortgage purchased is newly originated or seasoned;
+"(D) the number of units in the housing subject to the mortgage and whether the units are owner-occupied; and
+"(E) any other characteristics that the Secretary considers appropriate, to the extent practicable.
+"(2) The Corporation shall collect, maintain, and provide to the Secretary, in a form determined by the Secretary, data relating to its mortgages on housing consisting of more than 4 dwelling units. Such data shall include—
+"(A) census tract location of the housing;
+"(B) income levels and characteristics of tenants of the housing (to the extent practicable);
+"(C) rent levels for units in the housing;
+"(D) mortgage characteristics (such as the number of units financed per mortgage and the amount of loans);
+"(E) mortgagor characteristics (such as nonprofit, for-profit, or limited equity cooperatives);
+"(F) use of funds (such as new construction, rehabilitation, or refinancing);
+"(G) type of originating institution; and

@@ -1,0 +1,31 @@
+105 STAT. 2286
+
+PUBLIC LAW 102-242—DEC. 19, 1991
+
+Effective date.
+
+"(4) RIGHTS, POWERS, AND DUTIES.—Effective August 10, 1989, the Corporation shall have all rights, powers, and duties to carry out the Corporation's duties with respect to the assets and liabilities of the FSLIC Resolution Fund that the Corporation otherwise has under this Act.
+
+"(5) CORPORATION AS CONSERVATOR OR RECEIVER.—
+"(A) IN GENERAL.—Effective August 10, 1989, the Corporation shall succeed the Federal Savings and Loan Insurance Corporation as conservator or receiver with respect to any depository institution—
+"(i) the accounts of which were insured before August 10, 1989 by the Federal Savings and Loan Insurance Corporation; and
+"(ii) for which a conservator or receiver was appointed before January 1, 1989.
+"(B) RIGHTS, POWERS, AND DUTIES.—When acting as conservator or receiver with respect to any depository institution described in subparagraph (A), the Corporation shall have all rights, powers, and duties that the Corporation otherwise has as conservator or receiver under this Act.".
+(c) CLERICAL AMENDMENT TO SUBSECTION HEADING.—The heading for section 3(w) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)) is amended by striking "HOLDING COMPANIES" and inserting "AFFILIATES OF DEPOSITORY INSTITUTIONS".
+(d) FDIC REMOVAL PERIOD MADE CONSISTENT WITH RTC PERIOD.— Section 9(b)(2)(B) of the Federal Deposit Insurance Act (12 U.S.C. 1819(b)(2)(B)) is amended by inserting "before the end of the 90-day period beginning on the date the action, suit, or proceeding is filed against the Corporation or the Corporation is substituted as a party" before the period.
+(e) CLARIFICATION OF FDIC AUTHORITY TO PAY DE MINIMUS CLAIMS.—The second sentence of section 11(i)(3)(A) of the Federal Deposit Insurance Act (12 U.S.C. 1821(i)(3)(A)) is amended by striking "The" and inserting "Notwithstanding any other provision of Federal or State law, or the constitution of any State, the".
+(f) CLERICAL AMENDMENT TO SECTION HEADING.—
+(1) The heading for section 219 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 is amended by striking "FROM TAXATION".
+(2) The table of contents for the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 is amended by striking "from taxation" in the item relating to section 219.
+
+TITLE II—REGULATORY IMPROVEMENT
+
+Foreign Bank Supervision Enhancement Act of 1991. 12 USC 3101 note
+
+Subtitle A—Regulation of Foreign Banks
+
+SEC. 201. SHORT TITLE.
+This subtitle may be cited as the "Foreign Bank Supervision Enhancement Act of 1991".
+
+SEC. 202. REGULATION OF FOREIGN BANK OPERATIONS.
+(a) ESTABLISHMENT AND TERMINATION OF FOREIGN BANK OFFICES IN THE UNITED STATES.—Section 7 of the International Banking Act

@@ -1,0 +1,18 @@
+PUBLIC LAW 102-550—OCT. 28, 1992 106 STAT. 3793
+
+"(7) DEFINITION OF 'MORTGAGEE'.— For purposes of this subsection, the term ‘mortgagee’ means—
+"(A) a mortgagee approved under this Act;
+"(B) a lender or a loan correspondent approved under title I of this Act;
+"(C) a branch office or subsidiary of the mortgagee, lender, or loan correspondent; or
+"(D) a director, officer, employee, agent, or other person participating in the conduct of the affairs of the mortgagee, lender, or loan correspondent."
+
+SEC. 520. EXEMPTION FROM SECTION 137(b) OF THE TRUTH IN LENDING ACT.
+Section 255(g) of the National Housing Act (12 U.S.C. 1715z-20(g)) is amended by adding at the end the following: "Section 137(b) of the Truth in Lending Act (15 U.S.C. 1647(b)) and any implementing regulations issued by the Board of Governors of the Federal Reserve System shall not apply to a mortgage insured under this section.".
+
+Subtitle B—Secondary Mortgage Market Programs
+SEC. 531. LIMITATION ON GNMA GUARANTEES OF MORTGAGE-BACKED SECURITIES.
+Section 306(g)(2) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1721(g)(2)) is amended to read as follows:
+"(2) Notwithstanding any other provision of law and subject only to the absence of qualified requests for guarantees, to the authority provided in this subsection, and to the extent of or in such amounts as any funding limitation approved in appropriation Acts, the Association shall enter into commitments to issue guarantees under this subsection in an aggregate amount of $88,000,000,000 during fiscal year 1993 and $91,696,000,000 during fiscal year 1994. There is authorized to be appropriated such sums as may be necessary to cover the costs (as such term is defined in section 502 of the Congressional Budget Act of 1974) of guarantees issued under this Act by the Association.".
+
+SEC. 532. AUTHORITY FOR GNMA TO MAKE HARDSHIP INTEREST PAYMENTS.
+Section 306(g)(1) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1721(g)(1)) is amended by inserting after the period at the end of the third sentence the following new sentence: "In any case in which (I) Federal law requires the reduction of the interest rate on any mortgage backing a security guaranteed under this subsection, (II) the mortgagor under the mortgage is a person in the military service, and (III) the issuer of such security fails to receive from the mortgagor the full amount of interest payment due, the Association may make payments of interest on the security in amounts not exceeding the difference between the amount payable under the interest rate on the mortgage and the amount of interest actually paid by the mortgagor.".

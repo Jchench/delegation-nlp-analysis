@@ -1,0 +1,25 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+124 STAT. 1987
+
+(f) IMPLEMENTING RULES.—The Council shall prescribe procedural rules to implement this section.
+
+SEC. 1024. SUPERVISION OF NONDEPOSITORY COVERED PERSONS.
+
+(a) SCOPE OF COVERAGE.—
+(1) APPLICABILITY.—Notwithstanding any other provision of this title, and except as provided in paragraph (3), this section shall apply to any covered person who—
+(A) offers or provides origination, brokerage, or servicing of loans secured by real estate for use by consumers primarily for personal, family, or household purposes, or loan modification or foreclosure relief services in connection with such loans;
+(B) is a larger participant of a market for other consumer financial products or services, as defined by rule in accordance with paragraph (2);
+(C) the Bureau has reasonable cause to determine, by order, after notice to the covered person and a reasonable opportunity for such covered person to respond, based on complaints collected through the system under section 1031(b)(3) or information from other sources, that such covered person is engaging, or has engaged, in conduct that poses risks to consumers with regard to the offering or provision of consumer financial products or services;
+(D) offers or provides to a consumer any private education loan, as defined in section 140 of the Truth in Lending Act (15 U.S.C. 1650), notwithstanding section 1027(a)(2)(A) and subject to section 1027(a)(2)(C); or
+(E) offers or provides to a consumer a payday loan.
+(2) RULEMAKING TO DEFINE COVERED PERSONS SUBJECT TO THIS SECTION.—The Bureau shall consult with the Federal Trade Commission prior to issuing a rule, in accordance with paragraph (1)(B), to define covered persons subject to this section. The Bureau shall issue its initial rule not later than 1 year after the designated transfer date.
+(3) RULES OF CONSTRUCTION.—
+(A) CERTAIN PERSONS EXCLUDED.—This section shall not apply to persons described in section 1025(a) or 1026(a).
+(B) ACTIVITY LEVELS.—For purposes of computing activity levels under paragraph (1) or rules issued thereunder, activities of affiliated companies (other than insured depository institutions or insured credit unions) shall be aggregated.
+(b) SUPERVISION.—
+(1) IN GENERAL.—The Bureau shall require reports and conduct examinations on a periodic basis of persons described in subsection (a)(1) for purposes of—
+(A) assessing compliance with the requirements of Federal consumer financial law;
+(B) obtaining information about the activities and compliance systems or procedures of such person; and
+(C) detecting and assessing risks to consumers and to markets for consumer financial products and services.
+(2) RISK-BASED SUPERVISION PROGRAM.—The Bureau shall exercise its authority under paragraph (1) in a manner designed to ensure that such exercise, with respect to persons described in subsection (a)(1), is based on the assessment by the Bureau

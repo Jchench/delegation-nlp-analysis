@@ -1,0 +1,25 @@
+134 STAT. 4544             PUBLIC LAW 116–283—JAN. 1, 2021
+
+education to advance education and workforce development in areas related to artificial intelligence pursuant to section 3 of the Scientific and Advanced-Technology Act of 1992 (42 U.S.C. 1862(i)). Activities of such centers may include—
+	(i) the development, dissemination, and evaluation of curriculum and other educational tools and methods in artificial intelligence related fields and research areas, including technology ethics;
+	(ii) the development and evaluation of artificial intelligence related certifications for 2-year programs; and
+	(iii) interdisciplinary science and engineering research in employment-based adult learning and career retraining related to artificial intelligence fields.
+	(f) NATIONAL SCIENCE FOUNDATION PILOT PROGRAM OF GRANTS FOR RESEARCH IN RAPIDLY EVOLVING, HIGH PRIORITY TOPICS.—
+ASSESSMENT. (1) PILOT PROGRAM REQUIRED.—The Director of the National Science Foundation shall establish a pilot program to assess the feasibility and advisability of awarding grants for the conduct of research in rapidly evolving, high priority topics using funding mechanisms that require brief project descriptions and internal merit review, and that may include accelerated external review.
+		(2) DURATION.—
+			(A) IN GENERAL.—The Director shall carry out the pilot program required by paragraph (1) during the 5-year period beginning on the date of the enactment of this Act.
+			(B) ASSESSMENT AND CONTINUATION AUTHORITY.—After the period set forth in paragraph (2)(A)—
+				(i) the Director shall assess the pilot program; and
+				(ii) if the Director determines that it is both feasible and advisable to do so, the Director may continue the pilot program.
+		(3) GRANTS.—In carrying out the pilot program, the Director shall award grants for the conduct of research in topics selected by the Director in accordance with paragraph (4).
+		(4) TOPIC SELECTION.—The Director shall select topics for research under the pilot program in accordance with the following:
+			(A) The Director shall select artificial intelligence as the initial topic for the pilot program.
+			(B) The Director may select additional topics that the Director determines are—
+				(i) rapidly evolving; and
+				(ii) of high importance to the economy and security of the United States.
+	(g) AUTHORIZATION OF APPROPRIATIONS.—There are authorized to be appropriated to the National Science Foundation to carry out this section—
+		(1) $868,000,000 for fiscal year 2021;
+		(2) $911,400,000 for fiscal year 2022;
+		(3) $956,970,000 for fiscal year 2023;
+		(4) $1,004,820,000 for fiscal year 2024; and
+		(5) $1,055,060,000 for fiscal year 2025.

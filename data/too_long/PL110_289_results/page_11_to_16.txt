@@ -1,0 +1,235 @@
+PUBLIC LAW 110–289—JULY 30, 2008
+122 STAT. 2663
+
+“(1) IN GENERAL.—The Agency shall have a Deputy Director of the Division of Federal Home Loan Bank Regulation, who shall be designated by the Director from among individuals who are citizens of the United States, have a demonstrated understanding of financial management or oversight, and have a demonstrated understanding of the Federal Home Loan Bank System and housing finance.
+
+“(2) FUNCTIONS.—The Deputy Director of the Division of Federal Home Loan Bank Regulation shall have such functions, powers, and duties with respect to the oversight of the Federal Home Loan Banks as the Director shall prescribe.
+
+“(e) DEPUTY DIRECTOR FOR HOUSING MISSION AND GOALS.—
+“(1) IN GENERAL.—The Agency shall have a Deputy Director for Housing Mission and Goals, who shall be designated by the Director from among individuals who are citizens of the United States, and have a demonstrated understanding of the housing markets and housing finance.
+
+“(2) FUNCTIONS.—The Deputy Director for Housing Mission and Goals shall have such functions, powers, and duties with respect to the oversight of the housing mission and goals of the enterprises, and with respect to oversight of the housing finance and community and economic development mission of the Federal Home Loan Banks, as the Director shall prescribe.
+
+“(3) CONSIDERATIONS.—In exercising such functions, powers, and duties, the Deputy Director for Housing Mission and Goals shall consider the differences between the enterprises and the Federal Home Loan Banks, including the differences in section 1313(f).
+
+“(f) ACTING DIRECTOR.—In the event of the death, resignation, sickness, or absence of the Director, the President shall designate either the Deputy Director of the Division of Enterprise Regulation, the Deputy Director of the Division of Federal Home Loan Bank Regulation, or the Deputy Director for Housing Mission and Goals, to serve as acting Director until the return of the Director, or the appointment of a successor pursuant to subsection (b).
+
+“(g) LIMITATIONS.—The Director and each of the Deputy Directors may not—
+
+“(1) have any direct or indirect financial interest in any regulated entity or entity-affiliated party;
+
+“(2) hold any office, position, or employment in any regulated entity or entity-affiliated party; or
+
+“(3) have served as an executive officer or director of any regulated entity or entity-affiliated party at any time during the 3–year period preceding the date of appointment or designation of such individual as Director or Deputy Director, as applicable.”.
+
+SEC. 1102. DUTIES AND AUTHORITIES OF THE DIRECTOR.
+(a) IN GENERAL. —Section 1313 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4513) is amended to read as follows:
+
+“SEC. 1313. DUTIES AND AUTHORITIES OF DIRECTOR.
+
+“(a) DUTIES.—
+
+“(1) PRINCIPAL DUTIES.—The principal duties of the Director shall be—
+
+“(A) to oversee the prudential operations of each regulated entity; and
+
+PUBLIC LAW 110–289—JULY 30, 2008 122 STAT. 2664
+
+“(B) to ensure that—
+
+“(i) each regulated entity operates in a safe and sound manner, including maintenance of adequate capital and internal controls;
+
+“(ii) the operations and activities of each regulated entity foster liquid, efficient, competitive, and resilient national housing finance markets (including activities relating to mortgages on housing for low- and moderate-income families involving a reasonable economic return that may be less than the return earned on other activities);
+
+“(iii) each regulated entity complies with this title and the rules, regulations, guidelines, and orders issued under this title and the authorizing statutes;
+
+“(iv) each regulated entity carries out its statutory mission only through activities that are authorized under and consistent with this title and the authorizing statutes; and
+
+“(v) the activities of each regulated entity and the manner in which such regulated entity is operated are consistent with the public interest.
+
+“(2) SCOPE OF AUTHORITY.—The authority of the Director shall include the authority—
+
+“(A) to review and, if warranted based on the principal duties described in paragraph (1), reject any acquisition or transfer of a controlling interest in a regulated entity; and
+
+“(B) to exercise such incidental powers as may be necessary or appropriate to fulfill the duties and responsibilities of the Director in the supervision and regulation of each regulated entity.
+
+“(b) DELEGATION OF AUTHORITY.—The Director may delegate to officers and employees of the Agency any of the functions, powers, or duties of the Director, as the Director considers appropriate.
+
+“(c) LITIGATION AUTHORITY.—
+
+“(1) IN GENERAL.—In enforcing any provision of this title, any regulation or order prescribed under this title, or any other provision of law, rule, regulation, or order, or in any other action, suit, or proceeding to which the Director is a party or in which the Director is interested, and in the administration of conservatorships and receiverships, the Director may act in the Director’s own name and through the Director’s own attorneys.
+
+“(2) SUBJECT TO SUIT.—Except as otherwise provided by law, the Director shall be subject to suit (other than suits on claims for money damages) by a regulated entity with respect to any matter under this title or any other applicable provision of law, rule, order, or regulation under this title, in the United States district court for the judicial district in which the regulated entity has its principal place of business, or in the United States District Court for the District of Columbia, and the Director may be served with process in the manner prescribed by the Federal Rules of Civil Procedure.”.
+
+(b) INDEPENDENCE IN CONGRESSIONAL TESTIMONY AND RECOMMENDATIONS.—Section 111 of Public Law 93–495 (12 U.S.C. 250) is amended by striking ‘‘the Federal Housing Finance Board’’ and inserting ‘‘the Director of the Federal Housing Finance Agency’’.
+
+122 STAT. 2665 PUBLIC LAW 110–289—JULY 30, 2008
+
+SEC. 1103. FEDERAL HOUSING FINANCE OVERSIGHT BOARD.
+(a) IN GENERAL.—The Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.) is amended by inserting after section 1313 the following:
+
+“SEC. 1313A. FEDERAL HOUSING FINANCE OVERSIGHT BOARD.
+
+“(a) IN GENERAL.—There is established the Federal Housing Finance Oversight Board, which shall advise the Director with respect to overall strategies and policies in carrying out the duties of the Director under this title.
+
+“(b) LIMITATIONS.—The Board may not exercise any executive authority, and the Director may not delegate to the Board any of the functions, powers, or duties of the Director.
+
+“(c) COMPOSITION.—The Board shall be comprised of 4 members, of whom—
+
+“(1) 1 member shall be the Secretary of the Treasury;
+
+“(2) 1 member shall be the Secretary of Housing and Urban Development;
+
+“(3) 1 member shall be the Chairman of the Securities and Exchange Commission; and
+
+“(4) 1 member shall be the Director, who shall serve as Chairperson of the Board.
+
+“(d) MEETINGS.—
+“(1) IN GENERAL.—The Board shall meet upon notice by the Director, but in no event shall the Board meet less frequently than once every 3 months.
+
+“(2) SPECIAL MEETINGS.—Either the Secretary of the Treasury, the Secretary of Housing and Urban Development, or the Chairman of the Securities and Exchange Commission may, upon giving written notice to the Director, require a special meeting of the Board.
+
+“(e) TESTIMONY.—On an annual basis, the Board shall testify before Congress regarding—
+
+“(1) the safety and soundness of the regulated entities;
+
+“(2) any material deficiencies in the conduct of the operations of the regulated entities;
+
+“(3) the overall operational status of the regulated entities;
+
+“(4) an evaluation of the performance of the regulated entities in carrying out their respective missions;
+
+“(5) operations, resources, and performance of the Agency; and
+
+“(6) such other matters relating to the Agency and its fulfillment of its mission, as the Board determines appropriate.”.
+(b) ANNUAL REPORT OF THE DIRECTOR.—Section 1319B(a) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4521(a)) is amended—
+
+(1) by striking ‘‘enterprise’’ each place that term appears and inserting ‘‘regulated entity’’;
+
+(2) by striking ‘‘enterprises’’ each place that term appears and inserting ‘‘regulated entities’’;
+
+(3) in paragraph (3), by striking ‘‘; and’’ and inserting a semicolon;
+
+(4) in paragraph (4), by striking ‘‘1994.’’ and inserting ‘‘1994; and’’; and
+
+(5) by adding at the end the following:
+
+122 STAT. 2666 PUBLIC LAW 110–289—JULY 30, 2008
+
+“(5) the assessment of the Board or any of its members with respect to—
+
+“(A) the safety and soundness of the regulated entities;
+
+“(B) any material deficiencies in the conduct of the operations of the regulated entities;
+
+“(C) the overall operational status of the regulated entities; and
+
+“(D) an evaluation of the performance of the regulated entities in carrying out their respective missions;
+
+“(6) operations, resources, and performance of the Agency; and
+
+“(7) such other matters relating to the Agency and its fulfillment of its mission.”.
+
+SEC. 1104. AUTHORITY TO REQUIRE REPORTS BY REGULATED ENTITIES.
+(a) IN GENERAL.—Section 1314 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4514) is amended—
+
+(1) in the section heading, by striking ‘‘ENTERPRISES’’ and inserting ‘‘REGULATED ENTITIES’’;
+
+(2) by striking ‘‘an enterprise’’ each place that term appears and inserting ‘‘a regulated entity’’;
+
+(3) by striking ‘‘the enterprise’’ and inserting ‘‘the regulated entity’’;
+
+(4) in subsection (a)—
+
+(A) by striking the subsection heading and all that follows through ‘‘and operations’’ in paragraph (1) and inserting the following:
+
+‘‘(a) REGULAR AND SPECIAL REPORTS.—
+‘‘(1) REGULAR REPORTS.—The Director may require, by general or specific orders, a regulated entity to submit regular reports, including financial statements determined on a fair value basis, on the condition (including financial condition), management, activities, or operations of the regulated entity, as the Director considers appropriate’’; and
+
+(B) in paragraph (2)—
+
+(i) by inserting ‘‘, by general or specific orders,’’ after ‘‘may also require’’; and
+
+(ii) by striking ‘‘whenever’’ and inserting ‘‘on any of the topics specified in paragraph (1) or any other relevant topics, if’’; and
+
+(5) by adding at the end the following:
+
+‘‘(c) PENALTIES FOR FAILURE TO MAKE REPORTS.—
+‘‘(1) VIOLATIONS.—It shall be a violation of this section for any regulated entity—
+
+‘‘(A) to fail to make, transmit, or publish any report or obtain any information required by the Director under this section, section 309(k) of the Federal National Mortgage Association Charter Act, section 307(e) of the Federal Home Loan Mortgage Corporation Act, or section 20 of the Federal Home Loan Bank Act, within the period of time specified in such provision of law or otherwise by the Director; or
+
+‘‘(B) to submit or publish any false or misleading report or information under this section.
+
+‘‘(2) PENALTIES.—
+
+122 STAT. 2667 PUBLIC LAW 110–289—JULY 30, 2008
+
+‘‘(A) FIRST TIER.—
+
+‘‘(i) IN GENERAL.—A violation described in paragraph (1) shall be subject to a penalty of not more than $2,000 for each day during which such violation continues, in any case in which—
+
+‘‘(I) the subject regulated entity maintains procedures reasonably adapted to avoid any inadvertent error and the violation was unintentional and a result of such an error; or
+
+‘‘(II) the violation was an inadvertent transmittal or publication of any report which was minimally late.
+
+‘‘(ii) BURDEN OF PROOF.—For purposes of this subparagraph, the regulated entity shall have the burden of proving that the error was inadvertent or that a report was inadvertently transmitted or published late.
+
+‘‘(B) SECOND TIER.—A violation described in paragraph (1) shall be subject to a penalty of not more than $20,000 for each day during which such violation continues or such false or misleading information is not corrected, in any case that is not addressed in subparagraph (A) or (C).
+
+‘‘(C) THIRD TIER.—A violation described in paragraph (1) shall be subject to a penalty of not more than $1,000,000 for each day during which such violation continues if, in any case in which the subject regulated entity committed such violation knowingly or with reckless disregard for the accuracy of any such information or report.
+
+‘‘(3) ASSESSMENTS.—Any penalty imposed under this subsection shall be in lieu of a penalty under section 1376, but shall be assessed and collected by the Director in the manner provided in section 1376 for penalties imposed under that section, and any such assessment (including the determination of the amount of the penalty) shall be otherwise subject to the provisions of section 1376.
+
+“(4) HEARING.—A regulated entity against which a penalty is assessed under this section shall be afforded an agency hearing if the regulated entity submits a request for a hearing not later than 20 days after the date of the issuance of the notice of assessment. Section 1374 shall apply to any such proceedings.”.
+
+(b) CONFORMING AMENDMENT. —The Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.) is amended by striking sections  1327 and 1328. 12  USC 4547, 4548.
+
+SEC. 1105. EXAMINERS AND ACCOUNTANTS; AUTHORITY TO CONTRACT FOR REVIEWS OF REGULATED ENTITIES; OMBUDSMAN.
+(a) IN GENERAL. —Section 1317 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4517) is amended—
+
+(1) in subsection (a), by striking ‘‘enterprise’’ each place that term appears and inserting ‘‘regulated entity’’;
+
+(2) in subsection (b)—
+
+(A) by inserting ‘‘of a regulated entity’’ after ‘‘under this section’’; and
+
+PUBLIC LAW 110–289—JULY 30, 2008 122 STAT. 2668
+
+(B) by striking ‘‘to determine the condition of an enterprise for the purpose of ensuring its financial safety and soundness’’ and inserting ‘‘or appropriate’’;
+
+(3) in subsection (c), in the second sentence, by inserting before the period ‘‘to conduct examinations under this section’’;
+
+(4) by redesignating subsections (d) through (g) as subsections (e) through (g), respectively; and
+
+(5) by inserting after subsection (c) the following:
+
+“(d) INSPECTOR GENERAL.—There shall be within the Agency an Inspector General, who shall be appointed in accordance with section 3(a) of the Inspector General Act of 1978.”.
+
+(b) DIRECT HIRE AUTHORITY TO HIRE ACCOUNTANTS, ECONOMISTS, AND EXAMINERS. —Section 1317 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4517) is amended by adding at the end the following:
+
+“(h) APPOINTMENT OF ACCOUNTANTS, ECONOMISTS, AND EXAMINERS.—
+
+“(1) APPLICABILITY.—This section shall apply with respect to any position of examiner, accountant, economist, and specialist in financial markets and in technology at the Agency with respect to supervision and regulation of the regulated entities, that is in the competitive service.
+
+“(2) APPOINTMENT AUTHORITY.—The Director may appoint candidates to any position described in paragraph (1)—
+
+“(A) in accordance with the statues, rules, and regulations governing appointments in the excepted service; and
+
+“(B) notwithstanding any statutes, rules, and regulations governing appointments in the competitive service.
+
+(c) AMENDMENTS TO INSPECTOR GENERAL ACT. —Section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) is amended—
+
+(1) in paragraph (1), by inserting ‘‘, the Director of the Federal Housing Finance Agency’’ after ‘‘Social Security Administration’’; and
+
+(2) in paragraph (2), by inserting ‘‘, the Federal Housing Finance Agency’’ after ‘‘Social Security Administration”.
+
+(d) AUTHORITY TO CONTRACT FOR REVIEWS OF REGULATED ENTITIES. —Section 1319 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4519) is amended—
+
+(1) in the section heading, by striking “ENTERPRISES BY RATING ORGANIZATION” and inserting “REGULATED ENTITIES”; and
+
+(2) by striking “enterprises’’ and inserting “regulated entities’’.
+
+(e ) OFFICE OF THE OMBUDSMAN. —Section 1317 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4517) is amended by adding at the end the following:
+
+“(i) OMBUDSMAN.—The Director shall establish, by regulation, an Office of the Ombudsman within the Agency, which shall be responsible for considering complaints and appeals, from any regulated entity and any person that has a business relationship with a regulated entity, regarding any matter relating to the regulation and supervision of such regulated entity by the Agency. The regulation issued by the Director under this subsection shall specify the authority and duties of the Office of the Ombudsman”.

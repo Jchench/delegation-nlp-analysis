@@ -1,0 +1,29 @@
+103 STAT. 470             PUBLIC LAW 101-73—AUG. 9, 1989
+
+   "(3) THIRD TIER.—Notwithstanding paragraphs (1) and (2), any national banking association which, and any institution-affiliated party (within the meaning of section 3(u) of the Federal Deposit Insurance Act) with respect to such association who—
+      "(A) knowingly—
+         "(i) commits any violation described in paragraph (1);
+         "(ii) engages in any unsafe or unsound practice in conducting the affairs of such association; or
+         "(iii) breaches any fiduciary duty; and
+      "(B) knowingly or recklessly causes a substantial loss to such association or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach, 
+shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under paragraph (4) for each day during which such violation, practice, or breach continues.
+   
+   "(4) MAXIMUM AMOUNTS OF PENALTIES FOR ANY VIOLATION DESCRIBED IN PARAGRAPH (3).—The maximum daily amount of any civil penalty which may be assessed pursuant to paragraph (3) for any violation, practice, or breach described in such paragraph is—
+      "(A) in the case of any person other than a national banking association, an amount not to exceed $1,000,000; and
+      "(B) in the case of a national banking association, an amount not to exceed the lesser of—
+         "(i) $1,000,000; or
+         "(ii) 1 percent of the total assets of such association.
+   
+   "(5) ASSESMENT; ETC.—Any penalty imposed under paragraph (1), (2), or (3) shall be assessed and collected by the Comptroller of the Currency in the manner provided in subparagraphs (E), (F), (G), and (I) of section 8(i)(2) of the Federal Deposit Insurance Act for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+   
+   "(6) HEARING.—The association or other person against whom any penalty is assessed under this subsection shall be afforded an agency hearing if such association or person submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 8(h) of the Federal Deposit Insurance Act shall apply to any proceeding under this subsection.
+   
+   "(7) DISBURSEMENT.—All penalties collected under authority of this subsection shall be deposited into the Treasury.
+   
+   "(8) VIOLATE DEFINED.—For purposes of this section, the term 'violate' includes any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+   
+   "(12) REGULATIONS.—The Comptroller shall prescribe regulations establishing such procedures as may be necessary to carry this subsection.".
+   
+      (f) NATIONAL BANKS.—The 2d paragraph of section 5240 of the Revised Statutes (12 U.S.C. 481) is amended by striking "$100" inserting "$5,000".
+      
+      (g) MEMBER BANKS.—Section 29 of the Federal Reserve Act (12 U. S. C. 504) is amended to read as follows:

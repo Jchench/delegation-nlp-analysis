@@ -1,0 +1,23 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+ 
+124 STAT. 1431
+
+agency shall conduct annual stress tests. The tests required under this subparagraph shall be conducted in accordance with the regulations prescribed under subparagraph (C).
+
+(B) REPORT.—A company required to conduct stress tests under subparagraph (A) shall submit a report to the Board of Governors and to its primary financial regulatory agency at such time, in such form, and containing such information as the primary financial regulatory agency shall require.
+
+(C) REGULATIONS.—Each Federal primary financial regulatory agency, in coordination with the Board of Governors and the Federal Insurance Office, shall issue consistent and comparable regulations to implement this paragraph that shall—
+(i) define the term “stress test” for purposes of this paragraph;
+(ii) establish methodologies for the conduct of stress tests required by this paragraph that shall provide for at least 3 different sets of conditions, including baseline, adverse, and severely adverse;
+(iii) establish the form and content of the report required by subparagraph (B); and
+(iv) require companies subject to this paragraph Publication. to publish a summary of the results of the required stress tests.
+
+(j) LEVERAGE LIMITATION.—
+(1) REQUIREMENT.—The Board of Governors shall require a bank holding company with total consolidated assets equal to or greater than $50,000,000,000 or a nonbank financial company supervised by the Board of Governors to maintain a debt to equity ratio of no more than 15 to 1, upon a determination by the Council that such company poses a grave threat to the financial stability of the United States and that the imposition of such requirement is necessary to mitigate the risk that such company poses to the financial stability of the United States. Nothing in this paragraph shall apply to a Federal home loan bank.
+(2) CONSIDERATIONS.—In making a determination under this subsection, the Council shall consider the factors described in subsections (a) and (b) of section 113 and any other risk-related factors that the Council deems appropriate.
+(3) REGULATIONS.—The Board of Governors shall promul- Procedures 
+gate regulations to establish procedures and timelines for complying with the requirements of this subsection.
+
+(k) INCLUSION OF OFF-BALANCE-SHEET ACTIVITIES IN COMPUTING CAPITAL REQUIREMENTS.—
+(1) IN GENERAL.—In the case of any bank holding company described in subsection (a) or nonbank financial company supervised by the Board of Governors, the computation of capital for purposes of meeting capital requirements shall take into account any off-balance-sheet activities of the company.
+(2) EXEMPTIONS.—If the Board of Governors determines that an exemption from the requirement under paragraph (1) is appropriate, the Board of Governors may exempt a company, or any transaction or transactions engaged in by such company, from the requirements of paragraph (1).

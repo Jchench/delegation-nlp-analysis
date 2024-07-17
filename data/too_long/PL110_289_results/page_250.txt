@@ -1,0 +1,19 @@
+122 STAT. 2902    PUBLIC LAW 110–289—JULY 30, 2008
+
+(e)(6)(D)(ii), any independent contractor if, at the time such contractor enters into a management agreement or other similar service contract with the taxable REIT subsidiary to operate such qualified lodging facility or qualified health care property, such contractor (or any related person) is actively engaged in the trade or business of operating qualified lodging facilities or qualified health care properties, respectively, for any person who is not a related person with respect to the real estate investment trust or the taxable REIT subsidiary.
+‘‘(B) SPECIAL RULES.—Solely for purposes of this paragraph and paragraph (8)(B), a person shall not fail to be treated as an independent contractor with respect to any qualified lodging facility or qualified health care property (as so defined) by reason of the following:
+ ‘‘(i) The taxable REIT subsidiary bears the expenses for the operation of such qualified lodging facility or qualified health care property pursuant to the management agreement or other similar service contract.
+ ‘‘(ii) The taxable REIT subsidiary receives the revenues from the operation of such qualified lodging facility or qualified health care property, net of expenses for such operation and fees payable to the operator pursuant to such agreement or contract.
+ ‘‘(iii) The real estate investment trust receives income from such person with respect to another property that is attributable to a lease of such other property to such person that was in effect as of the later of—
+ ‘‘(I) January 1, 1999, or
+ ‘‘(II) the earliest date that any taxable REIT subsidiary of such trust entered into a management agreement or other similar service contract with such person with respect to such qualified lodging facility or qualified health care property.’’.
+(c) TAXABLE REIT SUBSIDIARIES.—The last sentence of section 856(l)(3) is amended—
+ (1) by inserting ‘‘or a health care facility’’ after ‘‘a lodging facility’’, and
+ (2) by inserting ‘‘or health care facility’’ after ‘‘such lodging facility’’.
+
+Subtitle E—Effective Dates
+ SEC. 3071. EFFECTIVE DATES.
+ (a) IN GENERAL.—Except as otherwise provided in this section, the amendments made by this title shall apply to taxable years beginning after the date of the enactment of this Act.
+ (b) REIT INCOME TESTS.—
+ (1) The amendments made by section 3031(a) and (c) shall apply to gains and items of income recognized after the date of the enactment of this Act.
+ (2) The amendment made by section 3031(b) shall apply to transactions entered into after the date of the enactment of this Act.

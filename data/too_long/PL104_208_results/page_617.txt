@@ -1,0 +1,21 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009-616
+
+(B) in subsection (a)(2), by striking “section 242(a)(2)” and inserting “section 236(c)”; and
+(C) in subsection (b)(1), by striking “section 241(a)(2)(A)(iii)” and inserting “section 237(a)(2)(A)(iii)”.
+(2) TREATMENT OF CERTAIN HELPLESS ALIENS.—
+(A) CERTIFICATION OF HELPLESS ALIENS.—Section 232 (8 U.S.C. 1222), as amended by section 308(b)(2) of this division, is further amended by adding at the end the following new subsection:
+“(c) CERTIFICATION OF CERTAIN HELPLESS ALIENS.—If an examining medical officer determines that an alien arriving in the United States is inadmissible, is helpless from sickness, mental or physical disability, or infancy, and is accompanied by another alien whose protection or guardianship may be required, the officer may certify such fact for purposes of applying section 212(a)(10)(B) with respect to the other alien.”.
+(B) GROUND OF INADMISSIBILITY FOR PROTECTION AND GUARDIANSHIP OF ALIENS DENIED ADMISSION FOR HEALTH OR INFANCY.—Subparagraph (B) of section 212(a)(10) (8 U.S.C. 1182(a)(10)), as redesignated by section 301(a)(1) of this division, is amended to read as follows:
+“(B) GUARDIAN REQUIRED TO ACCOMPANY HELPLESS ALIEN.—Any alien—
+“(i) who is accompanying another alien who is inadmissible and who is certified to be helpless from sickness, mental or physical disability, or infancy pursuant to section 232(c), and
+“(ii) whose protection or guardianship is determined to be required by the alien described in clause (i),
+is inadmissible.”.
+(3) CONTINGENT CONSIDERATION IN RELATION TO REMOVAL OF ALIENS.—Section 273(a) (8 U.S.C. 1323(a)) is amended—
+(A) by inserting “(1)” after “(a)”, and
+(B) by adding at the end the following new paragraph:
+“(2) It is unlawful for an owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel or aircraft who is bringing in an alien (except an alien crewmember) to the United States to take any consideration to be kept or retained contingent on whether an alien is admitted to, or ordered removed from, the United States.”.
+(4) CLARIFICATION.—(A) Section 238(a)(1), which, previous to redesignation under section 308(b)(5) of this division, was section 242A(a)(1), is amended by adding at the end the following: “Nothing in this section shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.”.
+(B) Section 225 of the Immigration and Nationality Technical Corrections Act of 1994 (Public Law 103–416) is amended by striking “and nothing in” and all that follows up to “shall”.
+(d) ADDITIONAL CONFORMING AMENDMENTS RELATING TO EXCLUSION AND INADMISSIBILITY.—
+(1) SECTION 212.—Section 212 (8 U.S.C. 1182(a)) is amended—
+(A) in the heading, by striking “EXCLUDED FROM” and inserting “INELIGIBLE FOR”;

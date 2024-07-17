@@ -1,0 +1,29 @@
+110 STAT. 3009-409   PUBLIC LAW 104-208—SEPT. 30, 1996
+
+time, based on a comparison of the average total risk-weighted assets controlled by each insured depository institution during the previous 12-month period.
+‘‘(B) BRANCH OR AGENCY.—For purposes of this paragraph and section 4(j)(4), the term ‘insured depository institution’ includes any branch or agency operated in the United States by a foreign bank.
+‘‘(9) WELL MANAGED.—The term ‘well managed’ means—
+‘‘(A) in the case of any company or depository institution which receives examinations, the achievement of—
+‘‘(i) a CAMEL composite rating of 1 or 2 (or an equivalent rating under an equivalent rating system) in connection with the most recent examination or subsequent review of such company or institution; and
+‘‘(ii) at least a satisfactory rating for management, if such rating is given; or
+‘‘(B) in the case of a company or depository institution that has not received an examination rating, the existence and use of managerial resources which the Board determines are satisfactory.’’.
+
+SEC. 2209. ELIMINATION OF UNNECESSARY FILING FOR OFFICER AND DIRECTOR APPOINTMENTS.
+Section 32 of the Federal Deposit Insurance Act (12 U.S.C. 1831i) is amended—
+(1) in subsection (a)—
+(A) by inserting ‘‘or such other period, as determined by the appropriate Federal banking agency’’ after ‘‘30 days’’;
+(B) by striking ‘‘if the insured depository institution or depository institution holding company’’ and inserting ‘‘if’’;
+(C) by striking paragraphs (1) and (2);
+(D) by redesignating paragraph (3) as paragraph (1);
+(E) in paragraph (1), as redesignated—
+(i) by inserting ‘‘the insured depository institution or depository institution holding company’’ before ‘‘is not in compliance’’; and
+(ii) by striking the period at the end and inserting ‘‘; or’’; and
+(F) by adding at the end the following new paragraph:
+‘‘(2) the agency determines, in connection with the review by the agency of the plan required under section 38 or otherwise, that such prior notice is appropriate.’’; and
+(2) in subsection (b), by striking ‘‘30-day period’’ and inserting ‘‘notice period, not to exceed 90 days,’’.
+
+SEC. 2210. AMENDMENTS TO THE DEPOSITORY INSTITUTION MANAGEMENT INTERLOCKS ACT.
+
+(a) DUAL SERVICE AMONG LARGER ORGANIZATIONS.—Section 204 of the Depository Institution Management Interlocks Act (12 U.S.C. 3203) is amended—
+(1) by striking ‘‘$1,000,000,000’’ and inserting ‘‘$2,500,000,000’’;
+(2) by striking ‘‘$500,000,000’’ and inserting ‘‘$1,500,000,000’’; and

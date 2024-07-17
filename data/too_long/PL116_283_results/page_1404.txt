@@ -1,0 +1,28 @@
+134 STAT. 4790
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+NTIA Administrator on technology developments to help inform—
+
+(I) the strategic direction of the Innovation Fund; and
+
+(II) efforts of the Federal Government to promote a more secure, diverse, sustainable, and competitive supply chain.
+
+(G) REPORTS TO CONGRESS.—
+(i) INITIAL REPORT.—Not later than 180 days after the date of the enactment of this Act, the Secretary, acting through the NTIA Administrator, shall submit to the relevant committees of Congress a report with—
+(I) additional recommendations on promoting the competitiveness and sustainability of trusted suppliers in the wireless supply chain; and
+(II) any additional authorities needed to facilitate the timely adoption of open standards-based equipment, including authority to provide loans, loan guarantees, and other forms of credit extension that would maximize the use of funds.
+(ii) ANNUAL REPORT.—For each fiscal year for which amounts in the Innovation Fund are available under this paragraph, the Secretary, acting through the NTIA Administrator, shall submit to Congress a report that—
+(I) describes how, and to whom, amounts in the Innovation Fund have been deployed;
+(II) details the progress of the Secretary and the NTIA Administrator in meeting the objectives described in subparagraph (C); and
+(III) includes any additional information that the Secretary and the NTIA Administrator determine appropriate.
+
+(2) MULTILATERAL TELECOMMUNICATIONS SECURITY FUND.—
+(A) ESTABLISHMENT OF FUND.—
+(i) IN GENERAL.—There is established in the Treasury of the United States a trust fund to be known as the ‘‘Multilateral Telecommunications Security Fund’’.
+(ii) USE OF FUND.—Amounts appropriated to the Multilateral Telecommunications Security Fund shall be available to the Secretary of State to make expenditures under this paragraph in such amounts as the Secretary of State determines appropriate.
+(iii) AVAILABILITY.—
+(I) IN GENERAL.—Amounts appropriated to the Multilateral Telecommunications Security Fund—
+(aa) shall remain available through the end of the tenth fiscal year beginning after the date of appropriation; and
+(bb) may only be allocated upon the Secretary of State reaching an arrangement or agreement with foreign government partners to participate in the common funding mechanism described in subparagraph (B).
+(II) REMAINDER TO TREASURY.—Any amounts remaining in the Multilateral Telecommunications

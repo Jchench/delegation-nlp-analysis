@@ -1,0 +1,64 @@
+134 STAT. 4520        PUBLIC LAW 116-283—JAN. 1, 2021
+
+                           SEC. 4701. DEPARTMENT OF ENERGY NATIONAL SECURITY PROGRAMS
+                                   (In Thousands of Dollars)
+------------------------------------------------------------------------------------------------------------------------------
+                                                              Program                        FY 2021         Conference
+                                                                                             Request         Authorized
+------------------------------------------------------------------------------------------------------------------------------
+                                     19–D–670 138kV Power Transmission System Re-
+                                                 placement, NNSS ....................................... 59,000                 59,000
+                                     18–D–690 Lithium Processing Facility, Y–12 ............. 109,405               109,405
+                                     18–D–620 Exascale Computing Facility Moderniza-
+                                                 tion Project, LLNL .................................. 29,200                 29,200
+                                     18–D–650 Tritium Finishing Facility, SRS .................. 27,000                 27,000
+                                     17–D–640, U1a Complex Enhancements Project,
+                                                 NNSS .......................................................... 160,600               160,600
+                                     15–D–612 Emergency Operations Center, LLNL ........ 27,000                 27,000
+                                     15–D–611 Emergency Operations Center, SNL .......... 36,000                 36,000
+                                     15–D–302, TA–55 Reinvestment Project, Phase 3,
+                                                 LANL .......................................................... 30,000                 30,000
+                                     15–D–301, HE Science & Engineering Facility, PX ........ 43,000                 43,000
+                                     07–D–220–04 Transuranic Liquid Waste Facility,
+                                                 LANL ........................................................... 36,687                 36,687
+                                     06–D–141 Uranium processing facility Y–12, Oak
+                                                 Ridge, TN ................................................... 750,000               750,000
+                                     04–D–125 Chemistry and Metallurgy Research Re-
+                                                 placement Project, LANL ........................... 169,427               169,427
+                                     Total, Construction ................................................. 1,508,319            1,508,319
+                                     Total, Infrastructure and operations ................... 4,383,577            4,347,005
+------------------------------------------------------------------------------------------------------------------------------
+                                     Secure transportation asset ........................................ 390,074               390,074
+                                         Operations and equipment .................................. 266,396               266,390
+                                         Program direction ................................................ 123,684               123,684
+                                     Total, Secure transportation asset .......................... 390,074               390,074
+------------------------------------------------------------------------------------------------------------------------------
+                                     Defense Nuclear Security ........................................... 815,895              800,895
+                                         Operations and maintenance ................................ 815,895              800,895
+                                         Construction:
+                                            17–D–710 West end protected area reduction project,
+                                                         Y–12 ................................................. 11,000               11,000
+                                     Total, Defense nuclear security .............................. 826,895              800,895
+------------------------------------------------------------------------------------------------------------------------------
+                                  Information technology and cybersecurity .................... 375,511              375,511
+                                  Legacy contractor pensions .......................................... 101,668              101,668
+------------------------------------------------------------------------------------------------------------------------------
+                                  Total, Weapons Activities ........................................... 15,602,000           15,550,428
+------------------------------------------------------------------------------------------------------------------------------
+                                         Defense Nuclear Nonproliferation  
+                                     Defense Nuclear Nonproliferation Programs
+                                         Global material security ......................................... 
+                                            International nuclear security .......................... 66,391               66,391
+                                            Domestic radiological security ........................ 101,000               131,000
+                                            Container breach in Seattle, WA ................. [30,000]
+                                            International radiological security ................ 73,340               73,340
+                                            Nuclear smuggling detection and deterrence ... 159,749               159,749
+                                         Total, Global material security ............................ 400,480               430,480
+                                         Material management and minimization
+                                            HEU reactor conversion ................................... 170,000               110,000
+                                            Nuclear material removal ................................. 40,000               40,000
+                                            Material disposition .......................................... 190,711               190,711
+                                         Total, Material management & minimization ........ 400,711           340,711
+------------------------------------------------------------------------------------------------------------------------------
+                                         Nonproliferation and arms control .......................... 138,708               138,708
+                                         National Technical Nuclear Forensics R&D ............. 40,000                40,000

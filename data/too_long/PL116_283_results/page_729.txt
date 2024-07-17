@@ -1,0 +1,19 @@
+PUBLIC LAW 116–283—JAN. 1, 2021                134 STAT. 4115
+
+(E) A description of costs associated with the implementation and conduct of the pilot program.
+(F) A recommendation as to the value of the pilot program, including whether to authorize a permanent program modeled on the pilot program, including whether the pilot program duplicates the remote operating concept and capabilities of active duty cyber operations forces.
+(G) An estimate of the costs of making the pilot program permanent and expanding it nationwide in accordance with the recommendation in subparagraph (F).
+(H) Such recommendations for legislative or administrative action as the Secretary considers appropriate in light of the pilot program.
+(3) APPROPRIATE COMMITTEES OF CONGRESS DEFINED.—In this subsection, the term “appropriate committees of Congress” means—
+(A) the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives; and
+(B) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate.
+(k) STATE DEFINED.—In this section, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands. 
+
+SEC. 1726. DEPARTMENT OF DEFENSE CYBER WORKFORCE EFFORTS.
+(a) RESOURCES FOR CYBER EDUCATION.—
+(1) IN GENERAL.—The Chief Information Officer of the Department of Defense, in consultation with the Director of the National Security Agency (NSA), shall examine the current policies permitting National Security Agency employees to use up to 140 hours of paid time toward NSA’s cyber education programs.
+(2) REPORT.—
+(A) IN GENERAL.—Not later than 90 days after the date of the enactment of this Act, the Chief Information Officer shall submit to the congressional defense committees and the congressional intelligence committees a strategy for expanding the policies described in paragraph (1) to—
+(i) individuals who occupy positions described in section 1599f of title 10, United States Code; and
+(ii) any other individuals who the Chief Information Officer determines appropriate.
+(B) IMPLEMENTATION PLAN.—The report required under subparagraph (A) shall detail the utilization of the policies in place at the National Security Agency, as well as an implementation plan that describes the mechanisms needed to expand the use of such policies to accommodate wider participation by individuals described in such subparagraph. Such implementation plan shall detail how such individuals would be able to connect to the instructional and participatory opportunities available through the efforts, programs, initiatives, and investments accounted for.

@@ -1,0 +1,21 @@
+103 STAT. 526 PUBLIC LAW 101-73-AUG. 9, 1989
+
+(2) by inserting after paragraph (2) the following new paragraphs:
+3. the term 'completed application' means an application in which the creditor has received the information that is regularly obtained in evaluating applications for the amount and type of credit requested;
+4. the term 'other lending institutions' means any person engaged for profit in the business of mortgage lending;
+(f) APPLICALBILITY OF HOME MORTGAGE DISCLOSURE ACT.-Section 304(a)(2) of the Home Mortgage Disclosure Act of 1975 (12 U.SC. 2803(a)(2)) is amended by inserting at the end the following new sentence: "For purposes of this paragraph, other lending institutions shall be deemed to have a home office or branch office within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas if such institutions have originated or purchased or received completed applica- tions for at least 5 mortgage loans in such area in the preceding calendar year."
+(g) AMENDMENT TO ENFORCEMENT PROVISIONS.-Section 305(b) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2804(b) is amended-
+(1) by striking out "and" at the end of paragraph (2);
+(2) by striking out the period at the end of paragraph (3) and inserting in lieu thereof ', and"; and
+(3) by adding at the end the following new paragraph:
+"(4) other lending institutions, by the Secretary of Housing and Urban Development."
+(h) REPORT ON UTILITY OF DATA.-Section 308 of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2807) is amended to read as follows:
+"SEC. 308. REPORT.
+"The Board, in consultation with the Secretary of Housing and Urban Development, shall report annually to the Congress on the utility of the requirements of section 304(b)(4)."
+(i) CONFORMING AMENDMENT TO FORMAT REQUIREMENT.-Section 304(e) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(e)) is amended by striking out "The Board" and inserting in lieu thereof "Subject to subsection (h). the Board".
+(j) EXEMPTION FROM CERTAIN DISCLOSURE REQUIREMENTS. - Section 304 of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803 is amended by inserting after subsection (h) (as added by subsection (b) of this section) the following new subsection:
+" (i) EXEMPTION FROM CERTAIN DISCLOSURE REQUIREMENTS . - The requirements of subsection (b)(4) shall not apply with respect to any depository institution described in section 303(2)(A) which has total assets, as of the most recent full fiscal year of such institution, of $30,000,000 or less.".
+(k) EFFECTIVE DATE.-The amendments made by this section shall apply to each calendar year beginning after December 31, 1989.
+12 USC 2802 note.
+SEC. 1212 AMENDMENT TO THE COMMUNITY REINVESTMENT ACT OF 1977.
+(a) CONFORMING AMENDMENT TO DEFINITION OF REGULATED FINAN- CIAL INSTITUTION.-Section 803(2) of the Community Reinvestment Act of 1977 (12 U.S.C. 2902(2)) is amended by striking out "insured bank as defined in section 3 of the Federal Deposit Insurance Act or

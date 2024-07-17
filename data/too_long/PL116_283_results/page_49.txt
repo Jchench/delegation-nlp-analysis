@@ -1,0 +1,21 @@
+PUBLIC LAW 116–283—JAN. 1, 2021	134 STAT. 3435
+
+(b) REPORT TO CONGRESS.—
+	(1) IN GENERAL.—Not later than March 30, 2021, the Secretary of the Air Force shall submit to the congressional defense committees a report that includes—
+		(A) the comprehensive modernization plan required by subsection (a); and
+		(B) a strategy for carrying out such plan through fiscal year 2030.
+	(2) FORM.—The report required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+       SEC. 143. RC–26B MANNED INTELLIGENCE, SURVEILLANCE, AND
+			RECONNAISSANCE AIRCRAFT.
+	(a) LIMITATION.—Except as provided in subsection (b), none of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2021 for the Air Force may be obligated or expended to retire, divest, realign, or place in storage or on backup aircraft inventory status, or prepare to retire, divest, realign, or place in storage or on backup aircraft inventory status, any RC–26B aircraft.
+	(b) EXCEPTION.—The limitation in subsection (a) shall not apply to individual RC–26B aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable because of mishap or other damage.
+
+	(c) FUNDING FOR AIRCRAFT PLATFORM.—
+		(1) Of the amount authorized to be appropriated for fiscal year 2021 by section 301 for operation and maintenance and available for operation and maintenance, Air National Guard, as specified in the funding table in section 4301, the Secretary of the Air Force may transfer up to $18,500,000 to be used in support of the RC–26B manned intelligence, surveillance, and reconnaissance platform.
+		(2) Of the amount authorized to be appropriated for fiscal year 2021 by section 421 and available for military personnel for military personnel, Air National Guard, specified in the funding table in section 4401, the Secretary of the Air Force may transfer up to $13,000,000 to be used in support of personnel who operate and maintain the RC–26B manned intelligence, surveillance, and reconnaissance platform.
+	(d) MEMORANDA OF AGREEMENT.—Notwithstanding any other provision of law, the Secretary of Defense may enter into one or more memoranda of agreement or cost sharing agreements with other departments and agencies of the Federal Government under which the RC–26B aircraft may be used to assist with the missions and activities of such departments and agencies.
+
+SEC. 144. PROHIBITION ON FUNDING FOR CLOSE AIR SUPPORT
+           INTEGRATION GROUP.
+No funds authorized to be appropriated by this Act may be obligated or expended for the Close Air Support Integration Group (CIG) or its subordinate units at Nellis Air Force Base, Nevada, and the Air Force may not utilize personnel or equipment in support of the CIG or its subordinate units.

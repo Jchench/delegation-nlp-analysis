@@ -1,0 +1,25 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 	134 STAT. 4085
+
+	‘‘(b) LIMITATION.—(1) Each fiscal year, the Secretaries of the military departments concerned may each obligate and expend under subsection (a) not more than $10,000,000.
+		‘‘(2) Each fiscal year, the Commander of the United States Cyber Command may obligate and expend under subsection (a) not more than $6,000,000.’’; and
+		(4) in subsection (d), as so redesignated, by striking ‘‘through 2022’’ and inserting ‘‘through 2025’’.
+
+SEC. 1708. PERSONNEL MANAGEMENT AUTHORITY FOR COMMANDER OF UNITED STATES CYBER COMMAND AND DEVELOP-
+MENT PROGRAM FOR OFFENSIVE CYBER OPERATIONS.
+
+(a)  PERSONNEL MANAGEMENT AUTHORITY FOR COMMANDER OF UNITED STATES CYBER COMMAND TO ATTRACT EXPERTS IN SCIENCE AND ENGINEERING.—Section 1599f of title 10, United States Code, as amended by section 1602 of this Act, is further amended—
+	(1) in subsection (a), by adding at the end the following:
+		‘‘(8) UNITED STATES CYBER COMMAND.—The Commander of United States Cyber Command may carry out a program of personnel management authority provided in subsection (b) in order to facilitate the recruitment of eminent experts in computer science, data science, engineering, mathematics, and computer network exploitation within the headquarters of United States Cyber Command and the Cyber National Mission Force.’’;
+	(2) in subsection (b)(1)—
+		(A) in subparagraph (F), by striking ‘‘and’’ after the semicolon;
+		(B) in subparagraph (G), by inserting ‘‘and’’ after the semicolon; and
+		(C) by adding at the end the following new subparagraph:
+
+			‘‘(H) in the case of United States Cyber Command, appoint computer scientists, data scientists, engineers, mathematicians, and computer network exploitation specialists to a total of not more than 10 scientific and engineering positions in the Command.’’;
+
+(b) PROGRAM TO DEVELOP ACCESSES, DISCOVER VULNERABILITIES, AND ENGINEER CYBER TOOLS AND DEVELOP TAC- TICS, TECHNIQUES, AND PROCEDURES FOR OFFENSIVE CYBER OPERATIONS.—
+
+	(1) IN GENERAL.—Pursuant to the authority provided under section 1599f(a)(8) of title 10, United States Code, as added by subsection (a), the Commander of United States Cyber Command shall establish a program or augment an existing program within the Command to develop accesses, discover vulnerabilities, and engineer cyber tools and develop tactics, techniques, and procedures for the use of these assets and capabilities in offensive cyber operations.
+
+	(2) ELEMENTS.—The program or augmented program required by paragraph (1) shall—
+		(A) develop accesses, discover vulnerabilities, and engineer cyber tools and develop tactics, techniques, and procedures fit for Department of Defense military operations in cyberspace, such as reliability, meeting short develop- ment and operational timelines, low cost, and expend- ability;

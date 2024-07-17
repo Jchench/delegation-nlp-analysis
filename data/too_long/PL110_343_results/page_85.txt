@@ -1,0 +1,24 @@
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+122 STAT. 3849
+
+        ‘‘(ii) providing real-time, two-way communications to monitor or manage such grid, and
+        ‘‘(iii) providing real time analysis of and event prediciton based upon collected data that can be used to improve electric distribution system reliability, quality, and performance.’’.
+(c) CONTINUED APPLICATION OF 150 PERCENT DECLINING BALANCE METHOD.—Paragraph (2) of section 168(b) is amended by striking ‘‘or’’ at the end of subparagraph (B), by redesignating subparagraph (C) as subparagraph (D), and by inserting after subparagraph (B) the following new subparagraph:
+        ‘‘(C) any property (other than property described in paragraph (3)) which is a qualified smart electric meter or qualified smart electric grid system, or’’.
+(d) EFFECTIVE DATE.—The amendments made by this section shall apply to property placed in service after the date of the enactment of this Act.
+SEC. 307. QUALIFIED GREEN BUILDING AND SUSTAINABLE DESIGN PROJECTS.
+(a) IN GENERAL.—Paragraph (8) of section 142(l) is amended by striking ‘‘September 30, 2009’’ and inserting ‘‘September 30,2012’’.
+(b) TREATMENT OF CURRENT REFUNDING BONDS.—Paragraph (9) of section 142(l) is amended by striking ‘‘October 1, 2009’’ and inserting ‘‘October 1, 2012’’.
+(c) ACCOUNTABILITY.—The second sentence of section 701(d) of the American Jobs Creation Act of 2004 is amended by striking ‘‘issuance,’’ and inserting ‘‘issuance of the last issue with respect to such project,’’.
+SEC. 308. SPECIAL DEPRECIATION ALLOWANCE FOR CERTAIN REUSE AND RECYCLING PROPERTY.
+(a) IN GENERAL.—Section 168 is amended by adding at the end the following new subsection:
+        ‘‘(m) SPECIAL ALLOWANCE FOR CERTAIN REUSE AND RECYCLING PROPERTY.—
+        ‘‘(1) IN GENERAL.—In the case of any qualified reuse and recycling property—
+                ‘‘(A) the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to 50 percent of the adjusted basis of the qualified reuse and recycling property, and
+                ‘‘(B) the adjusted basis of the qualified reuse and recycling property shall be reduced by the amount of such deduction before computing the amount otherwise allowable as a depreciation deduction under this chapter for such taxable year and any subsequent taxable year.
+        ‘‘(2) QUALIFIED REUSE AND RECYCLING PROPERTY.—For purposes of this subsection—
+        ‘‘(A) IN GENERAL.—The term ‘qualified reuse and recycling property’ means any reuse and recycling property—
+                ‘‘(i) to which this section applies,
+                ‘‘(ii) which has a useful life of at least 5 years,
+                ‘‘(iii) the original use of which commences with the taxpayer after August 31, 2008, and

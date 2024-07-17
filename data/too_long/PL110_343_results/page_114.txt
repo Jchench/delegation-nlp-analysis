@@ -1,0 +1,19 @@
+122 STAT. 3878           PUBLIC LAW 110–343—OCT. 3, 2008
+
+eligible retirement plan of which such qualified taxpayer is a beneficiary in an aggregate amount not to exceed the lesser of—
+(A) $100,000 (reduced by the amount of qualified settlement income contributed to an eligible retirement plan in prior taxable years pursuant to this subsection), or
+(B) the amount of qualified settlement income received by the individual during the taxable year.
+(2) TIME WHEN CONTRIBUTIONS DEEMED MADE.—For purposes of paragraph (1), a qualified taxpayer shall be deemed to have made a contribution to an eligible retirement plan on the last day of the taxable year in which such income is received if the contribution is made on account of such taxable year and is made not later than the time prescribed by law for filing the return for such taxable year (not including extensions thereof).
+(3) TREATMENT OF CONTRIBUTIONS TO ELIGIBLE RETIREMENT 
+PLANS.—For purposes of the Internal Revenue Code of 1986, if a contribution is made pursuant to paragraph (1) with respect to qualified settlement income, then—
+(A) except as provided in paragraph (4)—
+(i) to the extent of such contribution, the qualified settlement income shall not be included in taxable income, and
+(ii) for purposes of section 72 of such Code, such contribution shall not be considered to be investment in the contract,
+(B) the qualified taxpayer shall, to the extent of the amount of the contribution, be treated—
+(i) as having received the qualified settlement income—
+(I) in the case of a contribution to an individual retirement plan (as defined in section 7701(a)(37) of such Code), in a distribution described in section 408(d)(3) of such Code, and
+(II) in the case of any other eligible retirement plan, in an eligible rollover distribution (as defined under section 402(f)(2) of such Code), and
+(ii) as having transferred the amount to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution,
+(C) section 408(d)(3)(B) of the Internal Revenue Code of 1986 shall not apply with respect to amounts treated as a rollover under this paragraph, and
+(D) section 408A(c)(3)(B) of the Internal Revenue Code of 1986 shall not apply with respect to amounts contributed to a Roth IRA (as defined under section 408A(b) of such Code) or a designated Roth contribution an applicable retirement plan (within the meaning of section 402A of such Code) under this paragraph.
+(4) SPECIAL RULE FOR ROTH IRAS AND ROTH 401(k)s.—For purposes of the Internal Revenue Code of 1986, if a contribution is made pursuant to paragraph (1) with respect to qualified settlement income to a Roth IRA (as defined under section 408A(b) of such Code) or as a designated Roth contribution to an applicable retirement plan (within the meaning of section 402A of such Code), then—

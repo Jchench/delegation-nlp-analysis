@@ -1,0 +1,71 @@
+124 STAT. 1802				PUBLIC LAW 111–203—JULY 21, 2010
+
+Futures Trading Commission has under the Wall Street Trans-
+parency and Accountability Act of 2010 with respect to swaps,
+including under section 4(c) of the Commodity Exchange Act.”.
+	(b) RULE OF CONSTRUCTION.—Section 30 of the Securities
+Exchange Act of 1934 (15 U.S.C. 78dd) is amended by adding
+at the end the following:
+	``(c) RULE OF CONSTRUCTION.—No provision of this title that
+was added by the Wall Street Transparency and Accountability
+Act of 2010, or any rule or regulation thereunder, shall apply
+to any person insofar as such person transacts a business in secu-
+rity-based swaps without the jurisdiction of the United States,
+unless such person transacts such business in contravention of
+such rules and regulations as the Commission may prescribe as
+necessary or appropriate to prevent the evasion of any provision
+of this title that was added by the Wall Street Transparency and
+Accountability Act of 2010. This subsection shall not be construed
+to limit the jurisdiction of the Commission under any provision
+of this title, as in effect prior to the date of enactment of the
+Wall Street Transparency and Accountability Act of 2010.’’.
+
+SEC. 773. CIVIL PENALTIES.
+
+Section 21B of the Securities Exchange Act of 1934 (15 U.S.C.
+78u–2) is amended by adding at the end the following:
+	``(f) Security-Based Swaps.—
+		``(1) Clearing Agency.—Any clearing agency that know-
+		ingly or recklessly evades or participates in or facilitates an
+		evasion of the requirements of section 3C shall be liable for
+		a civil money penalty in twice the amount otherwise available
+		for a violation of section 3C.
+		``(2) Security-Based Swap Dealer or Major Security-Based
+		Swap Participant.—Any security-based swap dealer or
+		major security-based swap participant that knowingly or reck-
+		lessly evades or participates in or facilitates an evasion of
+		the requirements of section 3C shall be liable for a civil money
+		penalty in twice the amount otherwise available for a violation
+		of section 3C.’’.
+
+SEC. 774. EFFECTIVE DATE.
+
+Unless otherwise provided, the provisions of this subtitle shall
+take effect on the later of 360 days after the date of the enactment
+of this subtitle or, to the extent a provision of this subtitle requires
+a rulemaking, not less than 60 days after publication of the final
+rule or regulation implementing such provision of this subtitle.
+
+			TITLE VIII—PAYMENT, CLEARING, AND
+				SETTLEMENT SUPERVISION
+
+Payment,
+Clearing, and
+Settlement
+Supervision Act
+of 2010.
+12 USC 5301
+note.
+
+SEC. 801. SHORT TITLE.
+
+This title may be cited as the ``Payment, Clearing, and Settle-
+ment Supervision Act of 2010’’.
+
+12 USC 5461.
+
+SEC. 802. FINDINGS AND PURPOSES.
+
+	(a) Findings.—Congress finds the following:
+		(1) The proper functioning of the financial markets is
+		dependent upon safe and efficient arrangements for the clearing

@@ -1,0 +1,28 @@
+PUBLIC LAW 116—283—JAN. 1, 2021
+
+134 STAT. 3541
+
+“(1) the strategic framework required by section 113(g)(1)(B)(vii) of this title; and
+
+“(2) guidance issued by the Secretary of Defense pursuant to section 113(g)(1)(B) of this title.
+“(b) REQUIRED METRICS.—At a minimum, the materiel readiness metrics required by subsection (a) shall address the materiel availability, operational availability, operational capability, and materiel reliability of each major weapon system by designated mission, design series, variant, or class.
+“(c) MATERIEL READINESS OBJECTIVES.—(1) Not later than one year after the date of the enactment of this subsection, each head of an element described in subsection (a) shall establish the metrics required by subsection (b) necessary to support the strategic framework and guidance referred to in paragraph (1) and (2) of subsection (a).
+“(2) Annually, each head of an element described in subsection (a) shall review and revise the metrics required by subsection (b) and include any such revisions in the materials submitted to Congress in support of the budget of the President under section 1105 of title 31.”. 
+
+(4) in subsection (d) (as designated by paragraph (2))—
+(A) in paragraph (1)—
+(i) by striking “materiel reliability, and mean down time metrics for each major weapons system” and inserting “operational availability, and materiel reliability for each major weapon system”; and
+(ii) by inserting “and” at the end; 
+(B) in paragraph (2), by striking “; and” and inserting a period at the end; and
+(C) by striking paragraph (3); and
+(5) by adding at the end the following new subsection:
+“(e) DEFINITIONS.—In this section:
+“(1) The term ‘major weapon system’ has the meaning given in section 2379(f) of this title.
+“(2) The term ‘material availability’ means a measure of the percentage of the total inventory of a major weapon system that is operationally capable of performing an assigned mission.
+“(3) The term ‘material reliability’ means the probability that a major weapon system will perform without failure over a specified interval.
+“(4) The term ‘operational availability’ means a measure of the percentage of time a major weapon system is operationally capable.
+“(5) The term ‘operationally capable’ means a materiel condition indicating that a major weapon system is capable of performing its assigned mission and has no discrepancies with a subsystem of a major weapon system.”.
+
+(b) CLERICAL AMENDMENT.— The table of sections at the beginning of chapter 2 of title 10, United States Code, is amended
+
+10 USC 111 prec.

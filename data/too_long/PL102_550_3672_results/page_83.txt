@@ -1,0 +1,20 @@
+106 STAT. 3754               PUBLIC LAW 102-550—OCT. 28, 1992
+
+   (A) by striking paragraph (2); and
+   (B) by redesignating paragraphs (3), (4), and (5) as paragraphs (2), (3), and (4), respectively.
+(d) LIMITATION ON ADMINISTRATIVE COSTS.—Section 212 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12742) is amended by adding at the end the following:
+   “(g) LIMITATION ON OPERATING ASSISTANCE.—A participating jurisdiction may not use more than 5 percent of its allocation              under this subtitle for the payment of operating expenses for               community housing development organizations.”.
+SEC. 208. AFFORDABLE HOUSING.
+   (a) RENT CALCULATIONS.—Section 215(a) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12745(a)) is amended—
+      (1) in paragraph (1)(A) by striking “smaller and larger families” and inserting “number of bedrooms in the unit”;
+      (2) in paragraph (3), by adding at the end the following:
+           “The preceding sentence shall not apply with respect to funds made available under this Act for units that have been allocated a low-income housing tax credit by a housing credit agency   pursuant to section 42 of the Internal Revenue Code 1986.”; and
+      (3) in the second sentence of paragraph (3), by striking “not less than” and inserting “the lesser of the amount payable by the tenant under State or local law or”.
+   (b) EXCEPTION TO TERMINATION RULE.—Section 215(a)(1)(E) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12745(a)(1)(E)) is amended by inserting after “Act” the following: “, except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to take actions that would avoid termination of low-income affordability in the case of foreclosure or transfer in lieu of foreclosure, and (ii) is not for the purpose of avoiding low income affordability restrictions, as determined by the Secretary”.
+SEC. 209. HOMEOWNERSHIP RESALE RESTRICTIONS.
+   Section 215(b) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12745(b)) is amended by striking paragraph (4) and inserting the following:
+      “(4) is subject to resale restrictions that are established by the participating jurisdiction and determined by the Secretary to be appropriate to—
+         “(A) allow for subsequent purchase of the property only by persons who meet the qualifications specified under paragraph (2), at a price which will—
+            “(i) provide the owner with a fair return on investment, including any improvements, and
+            “(ii) ensure that the housing will remain affordable to a reasonable range of low-income homebuyers; or 
+         “(B) recapture the investment provided under this title in order to assist other persons in accordance with the requirements of this subsection, except where there are no net proceeds or where the net proceeds are insufficient to repay the full amount of the assistance; and”.

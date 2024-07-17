@@ -1,0 +1,25 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+ 
+whether such systems are adequate to meet the current and evolving threat described in subparagraph (A).
+
+(4) APPROPRIATE COMMITTEES OF CONGRESS DEFINED.—In this subsection, the term ‘‘appropriate committees of Congress’’ means—
+(A) the Committee on Armed Services and the Select Committee on Intelligence of the Senate; and
+(B) the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+(d) INDEPENDENT ASSESSMENT OF COUNTER-SMALL UNMANNED AIRCRAFT SYSTEMS PROGRAM.—
+
+(1) ASSESSMENT.—Not later than 60 days after the submittal of the strategy required by subsection (a), the Secretary of Defense shall seek to enter into a contract with a federally funded research and development center to conduct an assessment of the efficacy of the counter-small unmanned aircraft systems program.
+
+(2) ELEMENTS.—The assessment conducted pursuant to paragraph (1) shall include the following:
+(A) An identification of metrics to assess progress in the implementation of the strategy required by subsection (a), which metrics shall take into account the threat assessment required for purposes of subsection (c).
+(B) An assessment of progress, and key challenges, in the implementation of the strategy using such metrics, and recommendations for improvements in the implementation of the strategy.
+(C) An assessment of the extent to which the Department of Defense is coordinating adequately with other departments and agencies of the United States Government, and other appropriate entities, in the development and procurement of counter-small unmanned aircraft systems for the Department.
+(D) An assessment of the extent to which the designation of the Secretary of the Army as the executive agent for the counter-small unmanned aircraft systems program has reduced redundancies and increased efficiencies in procurement of counter-small unmanned aircraft systems.
+(E) An assessment whether United States technological progress on counter-small unmanned aircraft systems is sufficient to maintain a competitive edge over the small unmanned aircraft systems technology available to United States adversaries.
+
+(3) REPORT.—Not later than 180 days after entering into the contract referred to in paragraph (1), the Secretary shall submit to the congressional defense committees a report setting forth the results of the assessment required under the contract.
+ 
+SEC. 1075. UNDER SECRETARY OF DEFENSE (COMPTROLLER) REPORTS ON IMPROVING THE BUDGET JUSTIFICATION AND 
+RELATED MATERIALS OF THE DEPARTMENT OF DEFENSE.
+
+(a) REPORTS REQUIRED.—Not later than April 1 of each of 2021 through 2025, the Under Secretary of Defense (Comptroller) shall submit to the congressional defense committees a report on the following matters:

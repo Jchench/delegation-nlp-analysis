@@ -1,0 +1,27 @@
+103 STAT. 546 PUBLIC LAW 101-73-AUG. 9, 1989
+
+(5) in subsection (k) (as so redesignated by paragraph (3) of this subsection) by striking out the 1st and 5th sentences.
+
+(b) LIMITATION ON COURT ACTION.-Section 206(h)(3) of the Federal Credit Union Act (12 U.S.C. 1786(h)(3)) is amended by adding at the end thereof the following sentence: "Except as provided in this paragraph, no court may take any action, except at the request of the Board by regulation or order, to restrain or affect the exercise of powers or functions of the Board as conservator."
+
+SEC. 1218. RISK MANAGEMENT TRAINING.
+
+The Federal Financial Institutions Examination Council Act (12 U.S.C. 3301 et beg.) is amended by adding at the end the following new section:
+
+"SEC. 1009A. RISK MANAGEMENT TRAINING.
+
+"(a) SEMINARS.-The Council shall develop and administer training seminars in risk management for its employees and the employees of insured financial institutions.
+
+"(b) STUDY OF RISK MANAGEMENT TRAINING PROGRAM.-Not later than end of the 1-year period beginning on the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, the Council shall—
+ .. Reports.
+"(1) conduct a study on the feasibility and appropriateness of establishing a formalized risk management training program designed to lead to the certification of Risk Management Analysts, and
+"(2) report to the Congress the results of such study.".
+
+SEC. 1219. CROSS-MARKETING RESTRICTIONS.
+
+Section 4(f)(3)(B) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(f)(3)(B)) is amended by striking clause (ii) and inserting the following:
+
+"(ii) offer or market products or services of an affiliate that are not permissible for bank holding companies to provide under subsection (c)(8), or permit its products or services to be offered or marketed in connection with products and services of an affiliate, unless-
+"(I) the Board, by regulation, has determined such products and services are permissible for bank holding companies to provide under subsection (c)(8);
+"(II) such products and services are described in section 20 of the Banking Act of 1933 and the Board, by regulation, has permitted bank holding companies to offer or market such products or services, but has prohibited bank holding companies and their affiliates from principally engaging in the offering or marketing of such products or services, or
+"(III) such products or services were being so offered or marketed as of March 5, 1987, and then only in the same manner in which they were being offered or marketed as of that date;".

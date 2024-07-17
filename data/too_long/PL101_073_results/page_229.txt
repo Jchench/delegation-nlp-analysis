@@ -1,0 +1,29 @@
+PUBLIC LAW 101-73—AUG. 9, 1989 103 STAT. 411
+
+ant to section 10(q) of such Act, except that this paragraph shall apply only with respect to service as a single management official of such savings association or holding company, or any subsidiary of such savings association or holding company, by a single management official of the savings and loan holding company which purchased the stock issued in connection with such qualified stock issuance, and shall apply only when the Director of the Office of Thrift Supervision has determined that such service is consistent with the purposes of this Act and the Home Owners' Loan Act."
+
+(b) AMENDMENTS TO BANK HOLDING COMPANY ACT.—Section 4(f) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(f)) is amended—
+
+(1) by adding at the end thereof the following new paragraphs:
+
+"(12) EXEMPTION UNAFFECTED BY CERTAIN OTHER ACQUISITIONS.—For purposes of clauses (i) and (ii)(VIII) of paragraph (2)(A), an insured institution is described in this paragraph if the insured institution was acquired (or any shares or assets of such institution were acquired) by a company described in paragraph (1)—
+
+"(A) from the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, or the Director of the Office of Thrift Supervision, in any capacity; or
+
+"(B) in an acquisition in which the insured institution has been found to be in danger of default (as defined in section 3 of the Federal Deposit Insurance Act) by the appropriate Federal or State authority.
+
+"(13) SPECIAL RULE RELATING TO SHARES ACQUIRED IN A QUALIFIED STOCK ISSUANCE.—A company described in paragraph (1) that holds shares issued in a qualified stock issuance pursuant to section 10(q) of the Home Owners' Loan Act by any savings association or savings and loan holding company (neither of which is a subsidiary) shall not be deemed to control such savings association or savings and loan holding company solely because such company holds such shares unless—
+
+"(A) the company fails to comply with any requirement or condition imposed by paragraph (2XA)(ii)(X) or section 10(q) of the Home Owners' Loan Act with respect to such shares; or
+
+"(B) the shares are acquired or retained with a view to acquiring, exercising, or transferring control of the savings association or savings and loan holding company."; and
+
+(2) in clause (i) of paragraph (2XA), by striking out "paragraph (10)" and inserting in lieu thereof "paragraph (10) or (12)".
+
+TITLE VII—FEDERAL HOME LOAN BANK SYSTEM REFORMS
+
+Subtitle A—Federal Home Loan Bank Act Amendments
+
+SEC. 701. DEFINITIONS.
+
+(a) IN GENERAL.—Section 2 of the Federal Home Loan Bank Act (12 U.S.C. 1422) is amended—

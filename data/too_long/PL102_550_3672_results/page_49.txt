@@ -1,0 +1,17 @@
+106 STAT. 3720		PUBLIC LAW 102–550–OCT. 28, 1992
+
+“(iii) have a high incidence of mortgages involving principal obligations (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the properties that are insured pursuant to section 203 of the National Housing Act; and”.
+
+(4) ELIGIBILITY.—Section 106(c)(4) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(c)(4)) is amended by adding at the end the following new flush sentence: “An applicant for a mortgage shall be eligible for homeownership counseling under this subsection if the applicant is a first-time homebuyer who meets the requirements of section 303(b)(1) of the Cranston-Gonzalez National Affordable Housing Act and the mortgage involves a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in excess of 97 percent of the appraised value of the property and is to be insured pursuant to section 203 of the National Housing Act.”
+
+(5) NOTIFICATION OF AVAILABILITY.—Section 106(c)(5)(A) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(c)(5)(A)) is amended by striking subparagraph (A) and inserting the following new subparagraph:
+“(A) NOTIFICATION OF AVAILABILITY OF HOMEOWNERSHIP COUNSELING.— 
+“(i) REQUIREMENT.—Except as provided in subparagraph (C), the creditor of a loan (or proposed creditor) shall provide notice under clause (ii) to (I) any eligible homeowner who fails to pay any amount by the date the amount is due under a home loan, and (II) any applicant for a mortgage described in paragraph (4).
+“(ii) CONTENT.—Notification under this subparagraph shall—
+“(I) notify the homeowner or mortgage applicant of the availability of any homeownership counseling offered by the creditor (or proposed creditor);
+“(II) if provided to an eligible mortgage applicant, state that completion of a counseling program is required for insurance pursuant to section 203 of the National Housing Act; and
+“(III) notify the homeowner or mortgage applicant of the availability of homeownership counseling provided by nonprofit organizations approved by the Secretary and experienced in the provision of homeownership counseling, or provide the toll-free telephone number described in subparagraph (D)(i).”.
+
+(6) ANNUAL UPDATE OF LIST OF COUNSELING ORGANIZATIONS FOR TOLL-FREE NUMBER.—The matter preceding subclause (I) in section 106(c)(5)(D)(i) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(c)(5)(D)(i)) is amended by inserting “, which shall be updated annually,” after “organizations”.
+
+(c) PREPURCHASE AND FORECLOSURE-PREVENTION COUNSELING DEMONSTRATION.—Section 106(d)(12) of the Housing and Urban

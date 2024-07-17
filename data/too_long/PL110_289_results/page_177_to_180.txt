@@ -1,0 +1,96 @@
+PUBLIC LAW 110–289—JULY 30, 2008 122 STAT. 2829
+(R) in paragraph (11), by inserting ‘‘or a Federal savings association, as the case may be,’’ after ‘‘national bank’’ each place such term appears;
+(S) in paragraph (12)—
+(i) by inserting ‘‘or the Director of the Office of Thrift Supervision, as appropriate,’’ after ‘‘Comptroller of the Currency’’ each place such term appears; and
+(ii) by inserting ‘‘or Federal savings associations, as appropriate’’ after ‘‘national banks’’; and
+(T) in paragraph (13), by striking ‘‘single bank’’ and inserting ‘‘single depository institution’’.
+(b) OTHER CONFORMING AMENDMENTS.— 
+(1) FEDERAL DEPOSIT INSURANCE ACT.—The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended— 
+(A) in section 3 (12 U.S.C. 1813), by striking subsection (i) and inserting the following:
+‘‘(i) NEW DEPOSITORY INSTITUTION AND BRIDGE DEPOSITORY INSTITUTION DEFINED.—
+(1) NEW DEPOSITORY INSTITUTION.—The term ‘new depository institution' means a new national bank or Federal savings association, other than a bridge depository institution, organized by the Corporation in accordance with section 11(m).
+(2) BRIDGE DEPOSITORY INSTITUTION.—The term ‘bridge depository institution' means a new national bank or Federal savings association organized by the Corporation in accordance with section 11(n).’’;
+(B) in section 10(d)(5)(B) (12 U.S.C. 1820(d)(5)(B)), by striking ‘‘bridge bank’’ and inserting ‘‘bridge depository institution’’;
+(C) in section 12 (12 U.S.C. 1822), by striking ‘‘new bank’’ each place such term appears and inserting ‘‘new depository institution’’; and
+(D) in section 38(6)(2) (12 U.S.C. 1831o(f)(2)), by striking ‘‘bridge bank’’ and inserting ‘‘bridge depository institution’’.
+(2) FEDERAL CREDIT UNION ACT.—Section 207(c)(10)(C)(i) of the Federal Credit Union Act (12 U.S.C. 1787(c)(10)(C)(i)) is amended by striking ‘‘bridge bank’’ and inserting ‘‘bridge depository institution’’.
+(3) TITLE 11, UNITED STATES CODE.—Section 783 of title 11, United States Code, is amended by striking ‘‘bridge bank’’ and inserting ‘‘bridge depository institution’’.
+(4) TITLE 26, UNITED STATES CODE.—Section 41A(l)(2)(G) of the Internal Revenue Code of 1986, is amended by striking ‘‘bridge bank’’ and inserting ‘‘bridge depository institution’’.
+(c) REPEAL OF DEPOSIT LIMITATION.—Section 11(n)(1)(B)(i) of the Federal Deposit Insurance Act (12 U.S.C. 1821(n)(1)(B)(i)) is amended by striking ‘‘, except that’’ and all that follows through ‘‘another insured depository institution’’.
+(d) FEDERAL RESERVE BANK LENDING TO BRIDGE DEPOSITORY INSTITUTIONS.—Section 11(n)(5) of the Federal Deposit Insurance Act (12 U.S.C. 1821(n)(5)) is amended by adding at the end the following new subparagraph:
+‘‘(D) CAPITAL LEVELS.—A bridge depository institution shall not be considered an undercapitalized depository institution or a critically undercapitalized depository institution for purposes of section 10B(b) of the Federal Reserve Act.’’.
+
+122 STAT. 2830 PUBLIC LAW 110–289—JULY 30, 2008 
+
+SEC. 1605. SENSE OF THE SENATE.
+It is the sense of the Senate that in implementing or carrying out any provision of this Act, or any amendment made by this Act, the Senate supports a policy of noninterference regarding local government requirements that the holder of a foreclosed property maintain that property.
+
+DIVISION B—FORECLOSURE PREVENTION 
+
+SEC. 2001. SHORT TITLE.
+This division may be cited as the ‘‘Foreclosure Prevention Act of 2008’’.
+SEC. 2002. EMERGENCY DESIGNATION.
+For purposes of Senate enforcement, all provisions of this division are designated as emergency requirements and necessary to meet emergency needs pursuant to section 204 of S. Con. Res. 21 (110th Congress), the concurrent resolution on the budget for fiscal year 2008.
+
+TITLE I—FHA MODERNIZATION ACT OF 2008 
+
+SEC. 2101. SHORT TITLE.
+This title may be cited as the ‘‘FHA Modernization Act of 2008’’.
+Subtitle A—Building American Homeownership 
+SEC. 2111. SHORT TITLE.
+This subtitle may be cited as the ‘‘Building American Homeownership Act of 2008’’.
+SEC. 2112. MAXIMUM PRINCIPAL LOAN OBLIGATION.
+(a) IN GENERAL.—Paragraph (2) of section 203(b) of the National Housing Act (12 U.S.C. 1709(b)(2)) is amended—
+(1) by striking subparagraphs (A) and (B) and inserting the following:
+‘‘(A) not to exceed the lesser of—
+(i) in the case of a 1-family residence, 115 percent of the median 1-family house price in the area, as determined by the Secretary; and in the case of a 2-, 3-, or 4-family residence, the percentage of such median price that bears the same ratio to such median price as the dollar amount limitation determined under the sixth sentence of section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) for a 2-, 3-, or 4-family residence, respectively, bears to the dollar amount limitation determined under such section for a 1-family residence; or
+
+122 STAT. 2831 PUBLIC LAW 110–289—JULY 30, 2008
+(ii) 150 percent of the dollar amount limitation determined under the sixth sentence of such section 305(a)(2) for a residence of applicable size;
+except that the dollar amount limitation in effect under this subparagraph for any size residence for any area may not be less than the greater of: (I) the dollar amount limitation in effect under this section for the area on October 21, 1998; or (II) 65 percent of the dollar amount limitation determined under the sixth sentence of section 305(a)(2) for a residence of the applicable size; and
+(B) not to exceed 100 percent of the appraised value of the property.’’; and
+(2) in the matter following subparagraph (B), by striking the second sentence (relating to a definition of ‘‘average closing cost’’) and all that follows through ‘‘section 3103A(d) of title 38, United States Code.’’.
+(b) TREATMENT OF UP-FRONT PREMIUMS.—Section 203(d) of the National Housing Act (12 U.S.C. 1709(d)) is amended—
+(1) by striking ‘‘Notwithstanding any’’ and inserting the following: ‘‘Except as provided in paragraph (2) of this subsection, notwithstanding’’;
+(2) by inserting ‘‘(1)’’ after ‘‘(d)’’; and
+(3) by adding at the end the following new paragraph:
+‘‘(2) The maximum amount of a mortgage determined under subsection (b)(2)(B) of this section may not be increased as provided in paragraph (1).’’.
+(c) EFFECTIVE DATE.—The amendments made by subsection (a) shall take effect upon the expiration of the date described in section 202(a) of the Economic Stimulus Act of 2008 (Public Law 110–185; 122 Stat. 620).
+SEC. 2113. CASH INVESTMENT REQUIREMENT AND PROHIBITION OF SELLER-FUNDED DOWN PAYMENT ASSISTANCE.
+Paragraph (9) of section 203(b) of the National Housing Act (12 U.S.C. 1709(b)(9)) is amended to read as follows:
+‘‘(9) CASH INVESTMENT REQUIREMENT.—
+(A) IN GENERAL.—A mortgage insured under this section shall be executed by a mortgagor who shall have paid, in cash or its equivalent, on account of the property an amount equal to not less than 3.5 percent of the appraised value of the property or such larger amount as the Secretary may determine.
+(B) FAMILY MEMBERS.—For purposes of this paragraph, the Secretary shall consider as cash or its equivalent any amounts borrowed from a family member (as such term is defined in section 201), subject only to the requirements that, in any case in which the repayment of such borrowed amounts is secured by a lien against the property, that—
+
+(i) such lien shall be subordinate to the mortgage; and
+(ii) the sum of the principal obligation of the mortgage and the obligation secured by such lien may not exceed 100 percent of the appraised value of the property plus any initial service charges, appraisal,
+
+122 STAT. 2832 PUBLIC LAW 110–289—JULY 30, 2008
+inspection, and other fees in connection with the mortgage.
+(C) PROHIBITED SOURCES.—In no case shall the funds required by subparagraph (A) consist, in whole or in part, of funds provided by any of the following parties before, during, or after closing of the property sale:
+(i) The seller or any other person or entity that financially benefits from the transaction.
+(ii) Any third party or entity that is reimbursed, directly or indirectly, by any of the parties described in clause (i). 
+This subparagraph shall apply only to mortgages for which the mortgagee has issued credit approval for the borrower on or after October 1, 2008.’’.
+SEC. 2114. MORTGAGE INSURANCE PREMIUMS.
+Section 203(c)(2) of the National Housing Act (12 U.S.C. 1709(c)(2)) is amended—
+(1) in the matter preceding subparagraph (A), by striking ‘‘or of the General Insurance Fund’’ and all that follows through ‘‘section 234(c),’’; and
+(2) in subparagraph (A)—
+(A) by striking ‘‘2.25 percent’’ and inserting ‘‘3 percent’’; and
+(B) by striking ‘‘2.0 percent’’ and inserting ‘‘2.75 percent’’.
+SEC. 2115. REHABILITATION LOANS.
+Subsection (k) of section 203 of the National Housing Act (12 U.S.C. 1709(k)) is amended—
+(1) in paragraph (1), by striking ‘‘on’’ and all that follows through ‘‘1978’’; and
+(2) in paragraph (5)—
+(A) by striking ‘‘General Insurance Fund’’ the first place it appears and inserting ‘‘Mutual Mortgage Insurance Fund’’; and 
+(B) in the second sentence, by striking the comma and all that follows through ‘‘General Insurance Fund’’.
+SEC. 2116. DISCRETIONARY ACTION.
+The National Housing Act is amended—
+(1) in subsection (e) of section 202 (12 U.S.C. 1708(e))—
+(A) in paragraph (3)(B), by striking ‘‘section 202(e) of the National Housing Act’’ and inserting ‘‘this subsection’’; and
+(B) by redesignating such subsection as subsection (f);
+(2) by striking paragraph (4) of section 203(b) (12 U.S.C. 1709§(4)) and inserting the following new paragraph:
+‘‘(4) the Secretary of Agriculture;’’; and
+(3) by transferring subsection (g) of section 203 (as amended by paragraph (2) of this section) to section 202, inserting such subsection after subsection (d) of section 202, and redesignating such subsection as subsection (e).
+SEC. 2117. INSURANCE OF CONDOMINIUMS.
+(a) IN GENERAL.—Section 234 of the National Housing Act (12 U.S.C. 1715y) is amended—
+(1) in subsection (c), in the first sentence—

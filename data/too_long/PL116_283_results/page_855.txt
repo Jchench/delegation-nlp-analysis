@@ -1,0 +1,52 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 4241
+
+“§ 3843. Contractor internal audit reports: Department of 
+Defense access to, use of, and safeguards and 
+protections for
+[Reserved.] 
+
+10 USC 3843.
+
+“§ 3844. Contractor business systems 
+[Reserved.]; and 
+(2) by inserting after section 3845, as transferred and 
+redesignated by subsection (c), the following:
+“§ 3846. Defense Contract Audit Agency: legal resources and
+expertise [Reserved.]”. 
+SEC. 1836. CLAIMS AND DISPUTES.
+(a) NEW CHAPTER.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National 
+Defense Authorization Act for Fiscal Year 2019 (Public Law 115– 
+232), is amended by striking chapter 281 and inserting the following:
+“CHAPTER 281—CLAIMS AND DISPUTES 
+
+10 USC 3861 prec.
+
+“Sec. 
+“3861. Research and development contracts: indemnification provisions.
+“3862. Requests for equitable adjustment or other relief: certification.
+“3863. Retention of amounts collected from contractor during the pendency of con- 
+tract dispute.”.
+
+(b) TRANSFER OF SECTIONS.—Sections 2354, 2410, and 2410m of title 10, United States Code, are transferred to chapter 281 of such title, as added by subsection (a), inserted (in that order) after the table of sections, and redesignated as sections 3861, 3862, 
+and 3863, respectively.
+
+(c) HEADING AMENDMENT.—The heading of section 3861 of title 10, United States Code, as so transferred and redesignated, is amended to read as follows: 
+“§ 3861. Research and development contracts: indemnification provisions”.
+SEC. 1837. FOREIGN ACQUISITIONS.
+(a) NEW CHAPTER.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–
+232), is amended by striking chapter 283 and inserting the following:
+“CHAPTER 283—FOREIGN ACQUISITIONS 
+10 USC 3881 prec.
+
+“Subchapter Sec.
+“I. General .................................................................................................. 3881
+“II. Prohibition on Contracting with the Enemy ............................. 3891
+
+“SUBCHAPTER I—GENERAL
+10 USC 3881.
+“Sec.
+“3881. Contracts: consideration of national security objectives.”.
+
+(b) TRANSFER OF SECTION 2327.—
+(1) TRANSFER.—Section 2327 of title 10, United States 
+Code, is transferred to chapter 283 of such title, as added

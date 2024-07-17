@@ -1,0 +1,24 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009-674
+
+subclause (I) of section 402(a)(2)(D)(ii) (8 U.S.C. 1612(a)(2)(D)(ii)) is amended to read as follows:
+‘‘(I) IN GENERAL.—With respect to the specified Federal program described in paragraph (3)(B), ineligibility under paragraph (1) shall not apply until April 1, 1997, to an alien who received benefits under such program on the date of enactment of this Act, unless such alien is determined to be ineligible to receive such benefits under the Food Stamp Act of 1977. The State agency shall recertify the eligibility of all such aliens during the period beginning April 1, 1997, and ending August 22, 1997.’’.
+
+Subtitle B—Public Charge Exclusion
+
+SEC. 531. GROUND FOR EXCLUSION.
+(a) IN GENERAL.—Paragraph (4) of section 212(a) (8 U.S.C. 1182(a)) is amended to read as follows:
+‘‘(4) PUBLIC CHARGE.—
+‘‘(A) IN GENERAL.—Any alien who, in the opinion of the consular officer at the time of application for a visa, or in the opinion of the Attorney General at the time of application for admission or adjustment of status, is likely at any time to become a public charge is excludable.
+‘‘(B) FACTORS TO BE TAKEN INTO ACCOUNT.—(i) In determining whether an alien is excludable under this paragraph, the consular officer or the Attorney General shall at a minimum consider the alien’s—
+‘‘(I) age;
+‘‘(II) health;
+‘‘(III) family status;
+‘‘(IV) assets, resources, and financial status; and
+‘‘(V) education and skills. 
+‘‘(ii) In addition to the factors under clause (i), the consular officer or the Attorney General may also consider any affidavit of support under section 213A for purposes of exclusion under this paragraph.
+‘‘(C) FAMILY-SPONSORED IMMIGRANTS.—Any alien who seeks admission or adjustment of status under a visa number issued under section 201(b)(2) or 203(a) is excludable under this paragraph unless—
+‘‘(i) the alien has obtained—
+‘‘(I) status as a spouse or a child of a United States citizen pursuant to clause (ii), (iii), or (iv) of section 204(a)(1)(A), or
+‘‘(II) classification pursuant to clause (i) or (iii) of section 204(a)(1)(B); or
+‘‘(ii) the person petitioning for the alien’s admission (including any additional sponsor required under section 213A(f)) has executed an affidavit of support described in section 213A with respect to such alien.
+‘‘(D) CERTAIN EMPLOYMENT-BASED IMMIGRANTS.—Any alien who seeks admission or adjustment of status under a visa number issued under section 203(b) by virtue of a classification petition filed by a relative of the alien

@@ -1,0 +1,55 @@
+105 STAT. 2376	 PUBLIC LAW 102-242—DEC. 19, 1991
+	
+"No supervisory agency which transfers any such record under this
+subsection shall be deemed to have waived any privilege applicable 
+to that record under law.".
+
+Subtitle C—Final Settlement Payment
+	Procedure
+	
+SEC. 416. FINAL SETTLEMENT PAYMENT PROCEDURE.
+Section 11(d)(4) of the Federal Deposit Insurance Act (12 U.S.C.
+1821(d)) is amended to read as follows:
+
+"(4) RULEMAKING AUTHORITY RELATING TO DETERMINATION OF
+            CLAIMS.—
+	
+            "(A) IN GENERAL.—The Corporation may prescribe regu-
+            lations regarding the allowance or disallowance of claims
+            by the receiver and providing for administrative determina-
+            tions of claims and review of such determination.
+	
+            "(B) FINAL SETTLEMENT PAYMENT PROCEDURE.—
+	
+               ‘‘(i) IN GENERAL.—In the handling of receiverships of
+               insured depository institutions, to maintain essential
+               liquidity and to prevent financial disruption, the Cor-
+               poration may, after the declaration of an institution’s
+               insolvency, settle all uninsured and unsecured claims
+               on the receivership with a final settlement payment
+               which shall constitute full payment and disposition of
+               the Corporation’s obligations to such claimants.
+	
+               ‘‘(ii) FINAL SETTLEMENT PAYMENT.—For purposes of
+               clause (i), a final settlement payment shall be payment
+               of an amount equal to the product of the final settle-
+               ment payment rate and the amount of the uninsured
+               and unsecured claim on the receivership; and
+				
+               ‘‘(iii) FINAL SETTLEMENT PAYMENT RATE.—For pur-
+               poses of clause (ii), the final settlement payment rate
+               shall be a percentage rate reflecting an average of the
+               Corporation’s receivership recovery experience, deter-
+               mined by the Corporation in such a way that over such
+               time period as the Corporation may deem appropriate,
+               the Corporation in total will receive no more or less
+               than it would have received in total as a general credi-
+               tor standing in the place of insured depositors in each
+               specific receivership.
+					
+               ‘‘(iv) CORPORATION AUTHORITY.—The Corporation may
+               undertake such supervisory actions and promulgate
+               such regulations as may be necessary to assure that the
+               requirements of this section can be implemented with
+               respect to each insured depository institution in the
+               event of its insolvency.".

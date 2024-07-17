@@ -1,0 +1,28 @@
+134 STAT. 3460       PUBLIC LAW 116–283—JAN. 1, 2021
+
+SEC. 216. EXTENSION OF PILOT PROGRAM FOR THE ENHANCEMENT OF THE RESEARCH, DEVELOPMENT, TEST, AND EVALUA-
+TION CENTERS OF THE DEPARTMENT OF DEFENSE.
+
+    (a)  IN GENERAL.—Section 233 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 2358 note) is amended—
+             (1) in subsection (e), by striking ‘‘2022’’ and inserting ‘‘2027’’; and
+             (2) in subsection (f)—
+                      (A) by amending paragraph (1) to read as follows:
+                                  ‘‘(1) IN GENERAL.—Not later than one year after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the pilot program.’’; and
+                     (B) in paragraph (2), by adding at the end the following new subparagraph:
+                                ‘‘(F) With respect to any military department not                          participating in the pilot program, an explanation for such               nonparticipation, including identification of—
+                                        ‘‘(i) any issues that may be preventing such partici-
+                                pation; and
+                                        ‘‘(ii) any offices or other elements of the Depart-
+                                               ment of Defense that may be responsible for the delay
+                                               in participation.’’.
+   (b) TECHNICAL AMENDMENT.—Effective as of December 23, 2016, and as if included therein as enacted, section 233(c)(2)(C)(ii) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 2358 note) is amended by striking ‘‘Assistant Secretary of the Army for Acquisition, Technology, and Logistics’’ and inserting ‘‘Assistant Secretary of the Army for Acquisition, Logistics, and Technology’’.
+   (c) EXTENSION OF PILOT PROGRAM TO IMPROVE INCENTIVES FOR                          TECHNOLOGY TRANSFER FROM DEPARTMENT OF DEFENSE LABORA-             TORIES.—Subsection (e) of section 233 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2514 note) is amended to read as follows:
+             ‘‘(e) SUNSET.—The pilot program under this section shall termi-                   nate on September 30, 2025.’’. 
+
+SEC. 217. DESIGNATION OF SENIOR OFFICIALS FOR CRITICAL TECHNOLOGY AREAS SUPPORTIVE OF THE NATIONAL DEFENSE STRATEGY.
+
+    (a) DESIGNATION OF SENIOR OFFICIALS.—The Under Secretary of Defense for Research and Engineering shall—
+                (1) identify technology areas that the Under Secretary con-             siders critical for the support of the National Defense Strategy;             and
+                (2) for each such technology area, designate a senior official          of the Department of Defense to coordinate research and                      engineering activities in that area.
+    (b) DUTIES.—The duties of each senior official designated under subsection (a) shall include, with respect to the technology area             overseen by such official—
+                  (1) developing and continuously updating research and                   technology development roadmaps, funding strategies, and tech-           nology transition strategies to ensure—

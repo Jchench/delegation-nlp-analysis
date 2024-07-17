@@ -1,0 +1,23 @@
+103 STAT. 304          PUBLIC LAW 101-73—AUG. 9, 1989
+
+      “(ii)  a tangible capital requirement; and
+      “(iii) a risk-based capital requirement.
+   “(B) COMPLIANCE.—A savings association is not in compliance with capital standards for purposes of this subsection unless it complies with all capital standards prescribed under this paragraph.
+   “(C) STRINGENCY.—The standards prescribed under this paragraph shall be no less stringent than the capital standards applicable to national banks.
+   “(D) DEADLINE FOR REGULATIONS.—The Director shall promulgate final regulations under this paragraph not later than 90 days after the date of enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and those regulations shall become effective not later than 120 days after the date of enactment.
+   “(2) CONTENT OF STANDARDS.—
+      “(A) LEVERAGE LIMIT.—The leverage limit prescribed under paragraph (1) shall require a savings association to maintain core capital in an amount not less than 3 percent of the savings association’s total assets.
+      “(B) TANGIBLE CAPITAL REQUIREMENT.—The tangible capital requirement prescribed under paragraph (1) shall require a savings association to maintain tangible capital in an amount not less than 1.5 percent of the savings association’s total assets.
+      “(C) RISK-BASED CAPITAL REQUIREMENT.—Notwithstanding paragraph (1)(C), the risk-based capital requirement prescribed under paragraph (1) may deviate from the risk-based capital standards applicable to national banks to reflect interest-rate risk or other risks, but such deviations shall not, in the aggregate, result in materially lower levels of capital being required of savings associations under the risk-based capital requirement than would be required under the risk-based capital standards applicable to national banks.
+   “(3) TRANSITION RULE.—
+      “(A) CERTAIN QUALIFYING SUPERVISORY GOODWILL INCLUDED IN CALCULATING CORE CAPITAL.—Notwithstanding paragraph (9)(A), an eligible savings association may include qualifying supervisory goodwill in calculating core capital. The amount of qualifying supervisory goodwill that may be included may not exceed the applicable percentage of total assets set forth in the following table:
+
+“For the following                                                                  The applicable period:                                                                                     percentage is:
+Prior to January 1, 1992.........................................................   1.500 percent
+January 1, 1992–December 31, 1992.................................  1.000 percent
+January 1, 1993–December 31, 1993.................................  0.750 percent
+January 1, 1994–December 31, 1994.................................  0.375 percent
+Thereafter..........................................................................           0 percent
+
+      “(B) ELIGIBLE SAVINGS ASSOCIATIONS.—For purposes of subparagraph (A), a savings association is an eligible savings association so long as the Director determines that—
+        “(i)  the savings association’s management is competent;

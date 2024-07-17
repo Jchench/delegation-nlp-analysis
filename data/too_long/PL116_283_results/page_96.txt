@@ -1,0 +1,24 @@
+134 STAT. 3482        PUBLIC LAW 116–283—JAN. 1, 2021
+
+‘‘(C) COVERED PERIOD DEFINED.—In this paragraph, the term ‘covered period’ means the period of two years beginning on the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021.’’;
+(5) in subsection (d), as so redesignated—
+    (A) in paragraph (1), in the matter preceding subparagraph (A), by inserting ‘‘acquire,’’ before ‘‘develop’’;
+    (B) in the heading of paragraph (2), by striking ‘‘DEVELOPMENT’’ and inserting ‘‘ACQUISITION, DEVELOPMENT’’; and
+    (C) in paragraph (2)—
+        (i) in the matter preceding subparagraph (A), by striking ‘‘To the degree practicable, the designated official’’ and inserting ‘‘The official designated under subsection (b)’’;
+        (ii) in subparagraph (A), by striking ‘‘development’’ and inserting ‘‘acquisition’’;
+        (iii) by redesignating subparagraphs (H) and (I) as subparagraphs (J) and (K), respectively; and 
+        (iv) by inserting after subparagraph (G), the following new subparagraphs:
+            ‘‘(H) develop standard data formats for the Department that—
+                ‘‘(i) aid in defining the relative maturity of datasets; and
+                ‘‘(ii) inform best practices for software development, computation, data collection strategies aligned to mission outcomes, and dataset maintenance practices;
+            ‘‘(I) establish data and model usage agreements and collaborative partnership agreements for artificial intelligence product development with each organization and element of the Department, including each of the Armed Forces;’’;
+(6) in subsection (e), as so redesignated—
+    (A) by striking ‘‘The Secretary shall’’ and inserting ‘‘Not later than 180 days after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, the Secretary of Defense shall issue regulations to’’;
+    (B) by striking ‘‘the coordination described in subsection (b) and the duties set forth in subsection (c)’’ and inserting ‘‘the duties set forth in subsection (d)’’; and
+    (C) by adding at the end the following new sentence: ‘‘At a minimum, such access shall ensure that the Director of the Joint Artificial Intelligence Center has the ability to discover, access, share, and appropriately reuse data and models of the Armed Forces and other organizations and elements of the Department of Defense, build and maintain artificial intelligence capabilities for the Department, and execute the duties assigned to the Director by the Secretary.’’; and
+(7) by adding at the end the following new subsection:
+    ‘‘(h) JOINT ARTIFICIAL INTELLIGENCE CENTER DEFINED.—In this section, term ‘Joint Artificial Intelligence Center’ means the Joint Artificial Intelligence Center of the Department of Defense established pursuant to the memorandum of the Secretary of Defense
+
+Deadline.
+Regulations.

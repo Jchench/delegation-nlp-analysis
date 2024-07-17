@@ -1,0 +1,34 @@
+134 STAT. 4052
+
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+subsection (a), the President, in consultation with the National Space Council, shall develop and submit to the appropriate congressional committees a strategy to ensure the United States can—
+  (A) compete with other national space programs;
+  (B) maintain leadership in the emerging commercial space economy;
+  (C) identify market, regulatory, and other means to address unfair competition from China based on the findings of the report under subsection (a);
+  (D) leverage commercial space capabilities to ensure the national security of the United States and the security of the interests of the United States in space;
+  (E) protect the supply chains and manufacturing of the United States critical to competitiveness in space; and
+  (F) coordinate with international allies and partners in space.
+
+(2) FORM.—The strategy required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+(c) APPROPRIATE CONGRESSIONAL COMMITTEES DEFINED.—In this section, the term “appropriate congressional committees” means—
+  (1) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Commerce, Science, and Transportation of the Senate; and
+  (2) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Science, Space, and Technology of the House of Representatives.
+
+Subtitle B—Defense Intelligence and
+    Intelligence-Related Activities
+
+SEC. 1621. SAFETY OF NAVIGATION MISSION OF THE NATIONAL
+  GEOSPATIAL-INTELLIGENCE AGENCY.
+(a) MISSION OF NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY.—Section 442 of title 10, United States Code, is amended—
+  (1) in subsection (b)—
+    (A) by striking “means of navigating vessels of the Navy and the merchant marine” and inserting “the means for safe navigation”; and
+    (B) by striking “and inexpensive nautical charts” and all that follows and inserting “geospatial information for use by the departments and agencies of the United States, the merchant marine, and navigators generally.”;
+  (2) in subsection (c)—
+    (A) by striking “shall prepare and” and inserting “shall acquire, prepare, and”;
+    (B) by striking “charts” and inserting “safe-for-navigation charts and datasets”; and
+    (C) by striking “geodetic” and inserting “geomatics”;
+  and
+  (3) by adding at the end the following new subsection:
+“(f) VALIDATION.—The National Geospatial-Intelligence Agency shall assist the Joint Chiefs of Staff, combatant commands, and

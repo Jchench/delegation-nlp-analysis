@@ -1,0 +1,31 @@
+134 STAT. 3448         PUBLIC LAW 116–283—JAN. 1, 2021
+
+of title 10, United States Code, or entering into a contract for the full-rate production of F–35 aircraft, the documentation with respect to the F–35 aircraft program as follows:
+
+Certification. 
+(1) A certification by the Under Secretary of Defense for Acquisition and Sustainment that— 
+                (A) all alternative supply contractors for parts, required for the airframe and propulsion prime contractors of the F–35 aircraft program as a result of the removal of the Republic of Turkey from the program, have been identified, and all related undefinitized contract actions have been definitized (as described in section 7401 of part 217 of the Defense Federal Acquisition Regulation Supplement);
+                (B) the parts produced by each such contractor have been qualified and certified as meeting applicable technical design and use specifications; and
+                (C) each such contractor has reached the required rate of production to meet supply requirements for parts under the program.
+Cost analysis.
+(2) A cost analysis, prepared by the joint program office for the F–35 aircraft program, that assesses and defines—
+                (A) the manner in which the full integration of Block 4 and Technical Refresh 3 capabilities for each lot of Block 4 production aircraft beginning after lot 14 will affect the average procurement unit cost of United States variants of the F–35A , F–35B , and F–35C aircraft; and
+                
+                (B) the manner in which the establishment of alternate sources of production and sustainment of supply and repair parts due to the removal of the Republic of Turkey from the program will affect such unit cost.
+Reports.
+(3) All reports required by section 167 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1250).
+
+Cost estimate.
+(4) An independent cost estimate, prepared by Director of Cost Assessment and Program Evaluation, that, defines, for each phase of the F–35 aircraft program, the cost to develop, procure, integrate, and retrofit F–35 aircraft with all Block 4 capability requirements that are specified in the most recent Block 4 capabilities development document.
+
+Plan.
+(5) A plan to correct or mitigate any deficiency in the F–35 aircraft, identified as of the date of enactment of this Act that—
+                (A) may cause death, severe injury or occupational illness, or major loss or damage to equipment or a system, and for which there is no identified workaround (commonly known as a "category 1A deficiency"); or
+                
+                (B) critically restricts combat readiness capabilities or results in the inability to attain adequate performance to accomplish mission requirements (commonly known as a "category 1B deficiency").
+
+Plan.
+(6) A software and hardware capability, upgrade, and aircraft modification plan for the F–35 aircraft that defines the cost and schedule for retrofitting F–35 aircraft that currently have Technical Refresh 2 capabilities installed to ensure compatibility with Block 4 and Technical Refresh 3 capabilities.
+
+Reports.
+(7) The following reports for the F–35 aircraft program, as prepared by the Director of Operational Test and Evaluation:

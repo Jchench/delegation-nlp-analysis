@@ -1,0 +1,82 @@
+134 STAT. 4430                             PUBLIC LAW 116-283—JAN. 1, 2021
+
+                                         SEC. 4101. PROCUREMENT
+                                        (In Thousands of Dollars)
+----------------------------------------------------------------------------
+Line             Item                                 FY 2021          Conference
+                                                       Request         Authorized
+----------------------------------------------------------------------------
+
+040       E-2 SERIES                              175,540           175,540
+041       TRAINER AC SERIES                   7,585                7,585
+042       C-2A                                      5,055               5,055
+043       C-130 SERIES                       19,463             19,463
+            GPE excess growth                                                   [−8,569]
+            Installation excess growth                                       [−1,402]
+            JAGM A kit procurement and installation early to need     ......               6,871
+044       FEWSG                                 684                 684
+045       CARGO/TRANSPORT AC SERIES 8,911            8,911
+046       E-6 SERIES                             197,206          197,206
+047       EXECUTIVE HELICOPTERS SERIES 29,086       29,086
+048       T-45 SERIES                           156,745          156,745
+050       POWER PLANT CHANGES       24,633           24,633
+051       JPATS SERIES                        52,852             52,852
+052       AVIATION LIFE SUPPORT MODS 40,401          45,401
+            Aviation body armor vest…………………………………………...... 5,000
+053       COMMON EC EQUIPMENT 138,850       134,070
+            HI-1 cork pit growth (OSIP 014-90)…………………………... [−1,500]
+            MV-22 kit cost growth (OSIP 014-90)………………………... [−2,019]
+054       COMMON AVIONICS CHANGES 14,322          14,322
+055       COMMON DEFENSIVE WEAPON SYSTEM       4,142      4,142
+056       ID SYSTEMS                           35,989             35,989
+057       P-8 SERIES                           180,504          178,795
+            Increment 3 aircrew trainers previously funded             ..                   [−1,709]
+058       MAGTF EW FOR AVIATION      27,794             27,794
+059       MQ-9 SERIES                        178,734          178,734
+060       V-22 (TILT/ROTOR ACFT) OSPREY 334,405      334,405
+            Block IV/TR5 upgrade delays        …………………………               [−3,755]
+            Block IV/TR5 upgrade delays        …………………………               [−1,200]
+063       F-35 STOVL SERIES                 105,452          99,502
+            Block IV/TR5 upgrade delays        …………………………               [−5,950]
+064       QRC                                       126,618          126,618
+065       MQ-4 SERIES                        32,998             33,996
+            Operating base installation early to need       …………       [−1,229]
+066       RQ -21 SERIES                       18,550             16,725
+            SURFF payload suite unit cost growth  ………………               [−1,825]
+=====
+AIRCRAFT SPARES AND REPAIR PARTS            
+070       SPARES AND REPAIR PARTS       2,198,460      2,085,679
+            Additional F-35X aircraft parts               ………………               [−30,000]
+            C-41 ASPA spares excess growth ………………                [−2,784]
+            E-2D EHF spare kits excess growth ………………               [−1,553]
+            Spares for modifications excess growth           …………       [−7,755]
+            Spares for repair of repairables excess growth   …………       [−11,160]
+            VH-92 spares excess growth       ………………        [−58,569]
+=====
+AIRCRAFT SUPPORT EQUIP & FACILITIES  
+ UNDISTRIBUTED                                     
+071      COMMON GROUND EQUIPMENT          543,559      543,559
+072      AIRCRAFT INDUSTRIAL FACILITIES       85,155             85,155
+073      WAR CONSUMABLES                     40,833             40,833
+074      OTHER PRODUCTION CHARGES           191,194          191,194
+075      SPECIAL SUPPORT EQUIPMENT       155,170          155,170
+076      FIRST DESTINATION TRANSPORTATION      2,121               2,121
+            TOTAL AIRCRAFT PROCUREMENT, NAVY
+====                                                                                                 17,137,918    18,545,283
+
+WEAPONS PROCUREMENT, NAVY
+======
+ MODIFICATION OF MISSILES
+001      TRIDENT II MODS                     1,173,837    1,173,837
+            SUPPORT EQUIPMENT & FACILITIES         …             ……           ………….
+002      MISSILE INDUSTRIAL FACILITIES       7,275               7,275
+ STRATEGIC MISSILES SYSTEMS
+======
+003      TOMAHAWK                            277,694          287,474
+            Contract award delay               ………………        [−10,000]
+            Unit cost carryover                 ………………        [−7,780]
+======
+ TACTICAL MISSILES
+======
+004      AMRAAM                             326,852          326,852
+005      SIDEWINDER                      126,485          126,485

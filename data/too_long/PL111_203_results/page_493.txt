@@ -1,0 +1,29 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+(B) by striking "shall be transmitted to the issuer and the exchange and";
+(3) in subsection (g)(1), by striking "shall send to the issuer of the security and"; and
+(4) in subsection (g)(2)—
+(A) by striking "sent to the issuer and"; and 
+(B) by striking "shall be transmitted to the issuer and".
+
+(b) SHORT-SWING PROFIT REPORTING.—Section 16(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78p(a)) is amended—
+(1) in paragraph (1), by striking "and, if such security is registered on a national securities exchange, also with the exchange"); and
+(2) in paragraph (2)(B), by inserting after "officer" the following: ", or within such shorter time as the Commission may establish by rule".
+
+SEC. 929S. FINGERPRINTING.
+Section 17(f)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78q(f)(2)) is amended—
+(1) in the first sentence, by striking "and registered clearing agency," and inserting "registered clearing agency, registered securities information processor, national securities exchange, and national securities association"; and
+(2) in the second sentence, by striking "or clearing agency," and inserting "clearing agency, securities information processor, national securities exchange, or national securities association".
+
+SEC. 929T. EQUAL TREATMENT OF SELF-REGULATORY ORGANIZATION RULES.
+Section 29(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78cc(a)) is amended by striking "an exchange required thereby" and inserting "a self-regulatory organization," 
+
+SEC. 929U. DEADLINE FOR COMPLETING EXAMINATIONS, INSPECTIONS AND ENFORCEMENT ACTIONS.
+The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 4D the following new section:
+
+"SEC. 4E. DEADLINE FOR COMPLETING ENFORCEMENT INVESTIGATIONS AND COMPLIANCE EXAMINATIONS AND INSPECTIONS.
+" (a) ENFORCEMENT INVESTIGATIONS.—
+"(1) IN GENERAL.—Not later than 180 days after the date on which Commission staff provide a written Wells notification to any person, the Commission staff shall either file an action against such person or provide notice to the Director of the Division of Enforcement of its intent to not file an action.
+"(2) EXCEPTIONS FOR CERTAIN COMPLEX ACTIONS.—Notwithstanding paragraph (1), if the Director of the Division of Enforcement of the Commission or the Director's designee determines that a particular enforcement investigation is sufficiently complex such that a determination regarding the filing of an action against a person cannot be completed within the deadline specified in paragraph (1), the Director of the Division of Enforcement of the Commission or the Director's designee may, after providing notice to the Chairman of the Commission,
+
+124 STAT. 1867

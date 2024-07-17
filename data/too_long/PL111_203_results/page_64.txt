@@ -1,0 +1,26 @@
+124 STAT. 1438
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+agencies, shall conduct a study of access to capital by smaller insured depository institutions.
+
+(B) SCOPE.—For purposes of this study required by subparagraph (A), the term ‘‘smaller insured depository institution’’ means an insured depository institution with total consolidated assets of $5,000,000,000 or less.
+
+(C) REPORT TO CONGRESS.—Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report summarizing the results of the study conducted under subparagraph (A), together with any recommendations for legislative or regulatory action that would enhance the access to capital of smaller insured depository institutions, in a manner that is consistent with safe and sound banking operations.
+
+(7) CAPITAL REQUIREMENTS TO ADDRESS ACTIVITIES THAT POSE RISKS TO THE FINANCIAL SYSTEM.—
+
+(A) IN GENERAL.—Subject to the  recommendations of the Council, in accordance with section 120, the Federal banking agencies shall develop capital requirements applicable to insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors that address the risks that the activities of such institutions pose, not only to the institution engaged in the activity, but to other public and private stakeholders in the event of adverse performance, disruption, or failure of the institution or the activity.
+
+(B) CONTENT.—Such rules shall address, at a minimum, the risks arising from—
+(i) significant volumes of activity in derivatives, securitized products purchased and sold, financial guarantees purchased and sold, securities borrowing and lending, and repurchase agreements and reverse repurchase agreements;
+(ii) concentrations in assets for which the values presented in financial reports are based on models rather than historical cost or prices deriving from deep and liquid 2-way markets; and
+(iii) concentrations in market share for any activity that would substantially disrupt financial markets if the institution is forced to unexpectedly cease the activity.
+
+SEC. 172. EXAMINATION AND ENFORCEMENT ACTIONS FOR INSURANCE AND ORDERLY LIQUIDATION PURPOSES.
+
+(a) EXAMINATIONS FOR INSURANCE AND RESOLUTION PURPOSES.—Section 10(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1820(b)(3)) is amended—
+(1) by striking ‘‘In addition’’ and inserting the following: 
+‘‘(A) IN GENERAL.—In addition’’; and
+(2) by striking ‘‘whenever the board of directors determines’’ and all that follows through the period and inserting the following: ‘‘or nonbank financial company supervised by the Board 
+of Governors or a bank holding company described in section

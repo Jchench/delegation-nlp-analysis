@@ -1,0 +1,35 @@
+PUBLIC LAW 101-73—AUG. 9, 1989 103 STAT. 501
+
+(l) LIMITATIONS—
+
+(1) IN GENERAL.—Chapter 213 of title 18, United States Code, is amended by adding at the end the following:
+
+"§ 3293. Financial institution offenses
+
+"No person shall be prosecuted, tried, or punished for a violation of, or a conspiracy to violate—
+
+"(1) section 215, 656, 657, 1005, 1006, 1007, 1008, 1014, or 1344; 
+
+or 
+
+"(2) section 1341 or 1343, if the offense affects a financial institution;
+
+unless the indictment is returned or the information is filed within 10 years after the commission of the offense.".
+
+(2) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 213 of title 18, United States Code, is amended by adding at the end of the following new item:
+
+"3293. Financial institution offenses.".
+
+(3) EFFECT OF AMENDMENTS ON OFFENSES FOR WHICH THE CURRENT PERIOD OF LIMITATIONS HAD NOT RUN.—The amendments made by this subsection shall apply to an offense committed before the effective date of this section, if the statute of limitations applicable to that offense under this chapter had not run as of such date.
+
+(m) SENTENCING GUIDELINES.—Pursuant to section 994 of title 28, United States Code, and section 21 of the Sentencing Act of 1987, the United States Sentencing Commission shall promulgate guidelines, or amend existing guidelines, to provide for a substantial period of incarceration for a violation of, or a conspiracy to violate, section 215, 656, 657, 1005, 1006, 1007, 1014, 1341, 1343, or 1344 of title 18, United States Code, that substantially jeopardizes the safety and soundness of a federally insured financial institution.
+
+SEC. 962. MISCELLANEOUS REVISIONS TO TITLE 18.
+
+(a) SPECIFIC TERMINOLOGY CHANGES AND REPEAL—
+
+(1) SECTION 212.—Section 212 of title 18, United States Code, is amended—
+(A) by striking "bank" the first place it appears and inserting "financial institution" in lieu thereof;
+(B) by striking "land bank" and all that follows through "farm credit examiner" and inserting "Farm Credit Bank, bank for cooperatives, production credit association, Federal land bank association, agricultural credit association, Federal land credit association, service organization chartered under section 4.26 of the Farm Credit Act of 1971, the Farm Credit System Financial Assistance Corporation, the Federal Agricultural Mortgage Credit Corporation, the Federal Farm Credit Banks Funding Corporation, the National Consumer Cooperative Bank, or other institution subject to examination by a Farm Credit Administration examiner";
+(C) in the 2nd undesignated paragraph, by striking "insured banks" and inserting "insured financial institutions" in lieu thereof; and
+(D) in the 2nd undesignated paragraph, by striking "or by the Federal Deposit Insurance Corporation" and inserting in lieu thereof ", by the Federal Deposit Insurance Corpora-

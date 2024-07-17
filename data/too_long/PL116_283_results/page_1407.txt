@@ -1,0 +1,36 @@
+PUBLIC LAW 116-283—JAN. 1, 2021	134 STAT. 4793
+
+of open standards for multi-vendor network equipment interoperability.
+(6) The term “relevant committees of Congress” means—
+(A) the Select Committee on Intelligence of the Senate;
+(B) the Committee on Foreign Relations of the Senate;
+(C) the Committee on Homeland Security and Governmental Affairs of the Senate;
+(D) the Committee on Armed Services of the Senate;
+(E) the Committee on Commerce, Science, and Transportation of the Senate;
+(F) the Committee on Appropriations of the Senate;
+(G) the Permanent Select Committee on Intelligence of the House of Representatives;
+(H) the Committee on Foreign Affairs of the House of Representatives;
+(I) the Committee on Homeland Security of the House of Representatives;
+(J) the Committee on Armed Services of the House of Representatives;
+(K) the Committee on Energy and Commerce of the House of Representatives; and
+(L) the Committee on Appropriations of the House of Representatives.
+(7) The term “Secretary” means the Secretary of Commerce.
+
+SEC. 9203. SPECTRUM INFORMATION TECHNOLOGY MODERNIZATION EFFORTS.
+
+(a) INITIAL INTERAGENCY SPECTRUM INFORMATION TECHNOLOGY COORDINATION.—Not later than 90 days after the date of the enactment of this Act, the Assistant Secretary of Commerce for Communications and Information, in consultation with the Policy and Plans Steering Group, shall identify a process to establish goals, including parameters to measure the achievement of such goals, for the modernization of the infrastructure of covered agencies relating to managing the use of Federal spectrum by such agencies, which shall include—
+(1) the standardization of data inputs, modeling algorithms, modeling and simulation processes, analysis tools with respect to Federal spectrum, assumptions, and any other tool to ensure interoperability and functionality with respect to such infrastructure;
+(2) other potential innovative technological capabilities with respect to such infrastructure, including cloud-based databases, artificial intelligence technologies, automation, and improved modeling and simulation capabilities;
+(3) ways to improve the management of the use of Federal spectrum by covered agencies through such infrastructure, including by—
+(A) increasing the efficiency of such infrastructure;
+(B) addressing validation of usage with respect to such infrastructure;
+(C) increasing the accuracy of such infrastructure;
+(D) validating models used by such infrastructure; and
+(E) monitoring and enforcing requirements that are imposed on covered agencies with respect to the use of Federal spectrum by covered agencies;
+Reports.
+Plans.
+47 USC 902 note.
+Deadline.
+Consultation.
+Standards.
+Data.

@@ -1,0 +1,18 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+124 STAT. 1811
+
+Act or the Securities and Exchange Commission under section 3C(a) of the Securities Exchange Act of 1934, including—
+(1) the approval of, disapproval of, or stay of the clearing requirement for any group, category, type, or class of swaps that a designated clearing entity may accept for clearing;
+(2) the determination that any group, category, type, or class of swaps shall be subject to the mandatory clearing requirement of section 2(h)(1) of the Commodity Exchange Act or section 3C(a)(1) of the Securities Exchange Act of 1934;
+(3) the determination that any person is exempt from the mandatory clearing requirement of section 2(h)(1) of the Commodity Exchange Act or section 3C(a)(1) of the Securities Exchange Act of 1934; or
+(4) any authority granted to the Commodity Futures Trading Commission or the Securities and Exchange Commission with respect to transaction reporting or trade execution.
+(e) THRESHOLD LEVEL.—The standards prescribed under subsection (a) governing the conduct of designated activities by financial institutions shall, where appropriate, establish a threshold as to the level or significance of engagement in the activity at which a financial institution will become subject to the standards with respect to that activity.
+(f) COMPLIANCE REQUIRED.—Designated financial market utilities and financial institutions subject to the standards prescribed under subsection (a) for a designated activity shall conduct their activities in compliance with the applicable risk management standards.
+
+SEC. 806. OPERATIONS OF DESIGNATED FINANCIAL MARKET UTILITIES.
+
+(a) FEDERAL RESERVE ACCOUNT AND SERVICES.—The Board of Governors may authorize a Federal Reserve Bank to establish and maintain an account for a designated financial market utility and provide the services listed in section 11A(b) of the Federal Reserve Act (12 U.S.C. 248a(b)) and deposit accounts under the first undesignated paragraph of section 13 of the Federal Reserve Act (12 U.S.C. 342) to the designated financial market utility that the Federal Reserve Bank is authorized under the Federal Reserve Act to provide to a depository institution, subject to any applicable rules, orders, standards, or guidelines prescribed by the Board of Governors.
+(b) ADVANCES.—The Board of Governors may authorize a Federal Reserve bank under section 10B of the Federal Reserve Act (12 U.S.C. 347b) to provide to a designated financial market utility discount and borrowing privileges only in unusual or exigent circumstances, upon the affirmative vote of a majority of the Board of Governors then serving (or such other number in accordance with the provisions of section 11(r)(2) of the Federal Reserve Act (12 U.S.C. 248(r)(2)) after consultation with the Secretary, and upon a showing by the designated financial market utility that it is unable to secure adequate credit accommodations from other banking institutions. All such discounts and borrowing privileges shall be subject to such other limitations, restrictions, and regulations as the Board of Governors may prescribe. Access to discount and borrowing privileges under section 10B of the Federal Reserve Act as authorized in this section does not require a designated
+
+12 USC 5465.

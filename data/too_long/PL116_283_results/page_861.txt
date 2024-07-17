@@ -1,0 +1,36 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 
+134 STAT. 4247
+
+“CHAPTER 309—TEST AND EVALUATION
+
+Sec.
+4171. Operational test and evaluation of defense acquisition programs.
+4172. Major systems and munitions programs: survivability testing and lethality testing required before full-scale production.
+4173. Department of Defense Test Resource Management Center.”.
+
+(b) TRANSFER OF TITLE 10 SECTIONS.—Sections 2399, 2366, and 196 of title 10, United States Code, are transferred to chapter 309 of such title, as amended by subsection (a), inserted after the table of sections (in that order), and redesignated as sections 4171, 4172, and 4173, respectively.
+
+(c) CONFORMING CROSS-REFERENCE AMENDMENTS.— 
+    (1) Section 139b(6) of title 10, United States Code, is amended by striking “section 2366” and inserting “section 4172”.
+    (2) Section 171a(i)3) of such title is amended by striking “section 2366(e)” and inserting “section 4172(e)”.
+    (3) Section 2275g)3) of such title is amended by striking “section 2366(e)(7)” and inserting “sections 4172(e)(7)”.
+    (4) Section 130(i)3)C)(ix) of such title is amended by striking “section 196i)” and inserting “sections 4173(i)”.
+    (5) Section 4111 of such title, as transferred and redesignated by section 503(b)2), is amended by striking “section 196i)” in subsection f)1) and inserting “section 4173”.
+    (6) Section 220c) of the National Defense Authorization Act For Fiscal Year 2010 (Public Law 111-84; 10 U.S.C. 221 note) is amended by striking “section 196(h)” and inserting “sections 4173(i)”.
+
+Subtitle F—Major Systems, Major Defense Acquisition Programs, and Weapon Systems Development
+
+SEC. 1846. GENERAL MATTERS.
+
+(a) TABLES OF CHAPTERS AMENDMENTS SHOWING CHAPTER ORGANIZATION FOR SUBPART F.—The tables of chapters at the beginning of subtitle A, and at the beginning of part V of subtitle A (as added by section 801 of Public Law 115-232), of title 10, United States Code, are amended by inserting before the item for the heading for subpart G of part V the following: 
+
+“Subpart F—Major Systems, Major Defense Acquisition Programs, and Weapon Systems Development
+
+    “ 321. General Matters
+      “322. Major Systems and Major Defense Acquisition Programs Generally
+      “324. Life-Cycle and Sustainment
+      “324. Program Status—Selected Acquisition Reports
+      “325. Cost Growth—Unit Cost Reports (Nunn-McCurdy)
+      “327. Weapon Systems Development and Related Matters”.
+
+(b) DESIGNATION OF REVISED SUBPART F AND INSERTION OF NEW CHAPTER 321.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-

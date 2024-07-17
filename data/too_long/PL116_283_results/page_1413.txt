@@ -1,0 +1,29 @@
+PUBLIC LAW 116–283—JAN. 1, 2021	134 STAT. 4799
+
+(D) small, medium, and large businesses;
+(E) think tanks and academia;
+(F) nonprofit organizations and consumer groups;
+(G) security experts;
+(H) rural stakeholders; and
+(I) other stakeholders with relevant expertise, as deter- mined by the Secretary.
+(5) STEERING COMMITTEE.—
+(A) ESTABLISHMENT.—There is established within the Department of Commerce a steering committee to advise the working group.
+(B) DUTIES.—The steering committee shall advise the working group with respect to—
+(i) the identification of any Federal regulations, statutes, grant practices, programs, budgetary or jurisdic- tional challenges, and other sector-specific policies that are inhibiting, or could inhibit, the development of the Internet of Things;
+(ii) situations in which the use of the Internet of Things is likely to deliver significant and scalable economic and societal benefits to the United States, including benefits from or to—
+(I) smart traffic and transit technologies;
+(II) augmented logistics and supply chains;
+(III) sustainable infrastructure;
+(IV) precision agriculture;
+(V) environmental monitoring;
+(VI) public safety; and
+(VII) health care;
+(iii) whether adequate spectrum is available to support the growing Internet of Things and what legal or regulatory barriers may exist to providing any spec- trum needed in the future;
+(iv) policies, programs, or multi-stakeholder activi- ties that—
+(I) promote or are related to the privacy of individuals who use or are affected by the Internet of Things;
+(II) may enhance the security of the Internet of Things, including the security of critical infra- structure;
+(III) may protect users of the Internet of Things; and
+(IV) may encourage coordination among Fed- eral agencies with jurisdiction over the Internet of Things;
+(v) the opportunities and challenges associated with the use of Internet of Things technology by small businesses; and
+(vi) any international proceeding, international negotiation, or other international matter affecting the Internet of Things to which the United States is or should be a party.
+(C) MEMBERSHIP.—The Secretary shall appoint to the steering committee members representing a wide range of stakeholders outside of the Federal Government with expertise relating to the Internet of Things, including—

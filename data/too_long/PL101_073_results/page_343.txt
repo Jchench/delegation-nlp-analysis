@@ -1,0 +1,21 @@
+PUBLIC LAW 101-73—AUG. 9, 1989
+
+"(5) the Secretary of Housing and Urban Development for other lending institutions not regulated by the agencies referred to in paragraphs (1) through (4),
+shall develop regulations prescribing the format for such disclosures, the method for submission of the data to the appropriate regulatory agency, and the procedures for disclosing the information to the public. These regulations shall also require the collection of data required to be disclosed under subsection (b)(4) with respect to loans sold by each institution reporting under this title, and, in addition, shall require disclosure of the class of the purchaser of such loans. Any reporting institution may submit in writing to the appropriate agency such additional data or explanations as it deems relevant to the decision to originate or purchase mortgage loans.".
+(c) INFORMATION REGARDING LOAN APPLICATIONS.-
+(1) GENERAL REPORTING REQUIREMENT.-Section 304(a)(1) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(a)(1)) is amended by striking out "originated, or" and inserting in lieu thereof "(originated (or for which the institution received completed applications), or".
+(2) CONFORMING AMENDMENTS.-
+(A) The last sentence of section 304(a)(2) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(a)(2)) is amended by inserting after "originated or purchased" the following: "(or for which completed applications were received)";
+(B) Section 304(g)(1) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(g)(1)) is amended by inserting after "made" the following: "(or for which completed applications are received)";
+(C) Section 304(g)(2) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(g)(2)) is amended by inserting after "approved" the following: "(or for which completed applications are received)";
+(D) The first sentence of section 311 of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2810) is amended by inserting after "approved" the following: "(or for which completed applications are received)".
+(d) APPLICABILITY OF REPORTING REQUIREMENTS TO ALL MORTGAGE LENDERS.-Section 303(2) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2802(2)) is amended to read as follows:
+"(2) the term 'depository institution'-
+"(A) means—
+"(i) any bank (as defined in section 3(a)(1) of the Federal Deposit Insurance Act);
+(ii) any savings association (as defined in section 3(b)(1) of the Federal Deposit Insurance Act); and
+(iii) any credit union,
+which makes federally related mortgage loans as determined by the Board; and
+(B) includes any other lending institution (as defined in paragraph (4)) other than any institution described in subparagraph (A):".
+(e) COMPLETED APPLICATION DEFINED.-Section 303 of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2802) is amended—
+(1) by redesignating paragraphs (3) and (4) as paragraphs (5 and (6), respectively; and

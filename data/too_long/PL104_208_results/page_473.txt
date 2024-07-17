@@ -1,0 +1,25 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009--472
+
+(1) IN GENERAL.—Chapter 5 of the Truth in Lending Act (15 U.S.C. 1667 et seq.) is amended by adding at the end the following new section:
+
+"SEC. 187. REGULATIONS.
+15 USC 1667f.
+
+"(a) REGULATIONS AUTHORIZED.—
+"(1) IN GENERAL.—The Board shall prescribe regulations to update and clarify the requirements and definitions applicable to lease disclosures and contracts, and any other issues specifically related to consumer leasing, to the extent that the Board determines such action to be necessary—
+"(A) to carry out this chapter;
+"(B) to prevent any circumvention of this chapter; or
+"(C) to facilitate compliance with the requirements of the chapter.
+"(2) CLASSIFICATIONS, ADJUSTMENTS.—Any regulations prescribed under paragraph (1) may contain classifications and differentiations, and may provide for adjustments and exceptions for any class of transactions, as the Board considers appropriate.
+"(b) MODEL DISCLOSURE.—
+"(1) PUBLICATION.—The Board shall establish and publish model disclosure forms to facilitate compliance with the disclosure requirements of this chapter and to aid the consumer in understanding the transaction to which the subject disclosure form relates.
+"(2) USE OF AUTOMATED EQUIPMENT.—In establishing model forms under this subsection, the Board shall consider the use by lessors of data processing or similar automated equipment.
+"(3) USE OPTIONAL.—A lessor may utilize a model disclosure form established by the Board under this subsection for purposes of compliance with this chapter, at the discretion of the lessor.
+"(4) EFFECT OF USE.—Any lessor who properly uses any material aspects of any model disclosure form established by the Board under this subsection shall be deemed to be in compliance with the disclosure requirements to which the form relates.".
+
+(2) EFFECTIVE DATE.—
+(A) IN GENERAL.—Any regulation of the Board, or any amendment or interpretation of any regulation of the Board issued pursuant to section 187 of the Truth in Lending Act (as added by paragraph (1) of this subsection), shall become effective on the first October 1 that follows the date of promulgation of that regulation, amendment, or interpretation by not less than 6 months.
+(B) LONGER PERIOD.— The Board may, at the discretion of the Board, extend the time period referred to in subparagraph (A) in accordance with subparagraph (C), to permit lessors to adjust their disclosure forms to accommodate the requirements of section 127 of the Truth in Lending Act (as added by paragraph (1) of this subsection).
+(C) SHORTER PERIOD.—The Board may shorten the time period referred to in subparagraph (A), if the Board makes a specific finding that such action is necessary to comply with the findings of a court or to prevent an unfair or deceptive practice.
+
+15 USC 1667f note.

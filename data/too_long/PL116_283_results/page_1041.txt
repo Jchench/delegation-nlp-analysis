@@ -1,0 +1,78 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4427
+
+SEC. 4101. PROCUREMENT
+(In Thousands of Dollars)
+
+    Line	                                                         Item                                                    FY 2021 	          Conference
+	                                                                                                                                        Request               Authorized
+
+075	ELECT EQUIP—ELECTRONIC WARFARE (EW)
+076	    LIGHTWEIGHT COUNTER MORTAR RADAR 	                                                        5,832              5,832
+074	    EW PLANNING & MANAGEMENT TOOLS (EWPMT) 	                                                   7,849              7,849
+077	    AIR VIGILANCE (AV) (MP)	                                                                      1,810              1,810
+079	    MULTI-FUNCTION ELECTRONIC WARFARE (MFEW) SYST.　　　 8,669              8,669
+082	    CI MODERNIZATION OMI	P                                                                       360                360
+083	ELECT EQUIP—TACTICAL SURV. (TAC SURV)
+083	    SENTINEL MODS	                                                                              58,884            58,884
+084	    NIGHT VISION DEVICES	                                                                  1,127,375       857,375
+		                                                                                                                          [–230,000]
+086	    SMALL TACTICAL OPTICAL RIFLE MOUNTED MLRF	                                               13,064           13,064
+088	    INDIRECT FIRE PROTECTION FAMILY OF SYSTEMS	                                       10,969           14,969
+		                                                                                                                             [4,000]
+091	    FAMILY OF WEAPON SIGHTS (FWS)		                                                        133,509         115,000
+		                                                                                                                           [–18,509]
+092	    Program decrease                                                                                                      -15,100
+093	    JOINT BATTLE COMMAND—PLATFORM (JBC–P)	                                              243,850         243,850
+097	    JOINT EFFECTS TARGETING SYSTEM (JETS)	                                                 60,541           60,541
+		                                                                                                                           [–1,500]
+094	    COMPUTE BALLISTICS: LINKED XM32	                                                       7,509             7,509
+095	    MORTAR FIRE CONTROL SYSTEM	                                                            3,809             3,809
+096	    MORTAR FIRE CONTROL SYSTEMS MODIFICATIONS 	                                       7,292             7,292
+097	    COUNTERFIRE RADARS	                                                                    74,421           73,420
+		                                                                                                                            [–1,001]
+	                                                      Elect to end release
+098	ELECT EQUIP—TACTICAL C2 SYSTEMS
+099	    ARMY COMMAND POST INTEGRATED INFRASTRUCTURE	                                   49,947           49,947
+100	    FIRE SUPPORT C2 FAMILY	                                                               9,300             9,300
+101	    MID & SMALL DEPENSE PLANNING & CONTROL SYS	                                     47,374           47,374
+102	    RADIENT FIRES COMMAND SYSTEMED                                                 48,753           48,753
+102	    LONG RANGE FIRES	                                                                    46,495           46,495
+103	    NETWORK MANAGEMENT INITIALIZATION AND SERVICE	
+104   GLOBAL COMBAT SUPPORT SYSTEM-ARMY (GCSS-A)                                      2,792             2,792
+106	    INTEGRATED PERSONNEL AND PAY SYSTEM-ARMY (IPPS-A)                               9,017            9,017
+107	    RECONNAISSANCE AND SURVEYING INSTRUMENT SET	                              21,172           21,172
+108	    MOD OF IN-SVC EQUIPMENT (ENTIRE)                                                    3,004            2,004
+		                                                                                                                       [–1,000]
+109	ELECT EQUIP—AUTOMATION
+110	    ARMY TACTICAL MODERNIZATION	                                                       14,574          14,574
+113	    AUTOMATED DATA PROCESSING EQUIP	
+		                                                                                                                     [-1,778]
+111	GLOBAL FORCE INFORMATION PROCESSING SYSTEMS FAM                                4,448             4,448
+112	    HIGH PERF COMPUTING MOD BM (HPCMP)	                                          68,405           68,405
+113	    CONTRACT WRITING SYSTEM	                                                              8,657             8,657
+114	    GSS COMMCATION SYSTEM	                                                   57,843           57,843
+115	    RESERVE COMPONENT AUTOMATIONS SYS (RCAS)	                                44,858           44,858
+117	ELECT EQUIP—AUDIOD/VISUAL SYS (AV/V)
+120	    ITEMS LESS THAN ARM (SURVEYING EQUIPMENT)	                               4,995            4,995
+117	ELECT EQUIP—SUPPORT
+119	    BET EMERGING TECHNOLOGIES                                                 16,983            8,983
+		                                                                                                                     [-8,000]
+120	CLASSIFIED PROGRAMS
+121	    CLASSIFIED PROGRAMS                                                               1,582            1,582
+123	    CHEMICAL, DEFENSIVE EQUIPMENT	                                            28,426           28,426
+126	    SMOKE & OBCURANT FAMILY: SOP (NON AAO ITEM)	                         13,995           13,995
+128	    BRIDGING EQUIPMENT	
+125	TACTICAL BRIDGING	                                                                 10,545         10,545
+126	    TACTICAL, FLOAT-RIBBONS                                                72,074          72,074
+127	BRIDGE SUPPLEMENTAL SET      
+128	    COMMON BRIDGE TRANSPORTER (CBT) RECAPGL                         42,938           42,938
+130	ENGINEER CONSTRUCTION EQUIPMENT                     		62,978           62,978
+129	    HANDHELD STANDOFF INFRDIVEID DETECTION SYS-HST	                  5,570            5,570
+131	    GUARD STANDOFF MIFF DETECTIV SYSTEM (GSTAMIDS)	                        4,297            2,297
+		                                                                                                                    [-2,000]
+132	    HUSKY MODITE DETECTION SYSTEM (HMDS)	                           109,069         99,069
+		                                                                                                                    [-10,000]
+134	    ROBOTICS SYSTEMS RECAPITULIZATION	                                      36,584          36,584
+136	    ROBOTICS AND APPLIQUE SYSTEMS	                                      179,544        174,744

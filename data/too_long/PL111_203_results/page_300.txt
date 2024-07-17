@@ -1,0 +1,60 @@
+124 STAT. 1674         PUBLIC LAW 111–203—JULY 21, 2010
+
+15 USC 8322.
+7 USC 1b.
+on a registered entity or trading facility that is not 
+owned or operated by a regional transmission organiza-
+tion or independent system operator (as defined by 
+sections 3(27) and (28) of the Federal Power Act (16 
+U.S.C. 796(27), 796(28)).’’.
+(f) PUBLIC INTEREST WAIVER.—Section 4(c) of the Commodity 
+Exchange Act (7 U.S.C. 6(c)) (as amended by section 721(d)) is 
+amended by adding at the end the following:
+‘‘(6) If the Commission determines that the exemption 
+would be consistent with the public interest and the purposes 
+of this Act, the Commission shall, in accordance with para-
+graphs (1) and (2), exempt from the requirements of this Act 
+an agreement, contract, or transaction that is entered into—
+‘‘(A) pursuant to a tariff or rate schedule approved 
+or permitted to take effect by the Federal Energy Regu-
+latory Commission;
+‘‘(B) pursuant to a tariff or rate schedule establishing 
+rates or charges for, or protocols governing, the sale of 
+electric energy approved or permitted to take effect by 
+the regulatory authority of the State or municipality having 
+jurisdiction to regulate rates and charges for the sale of 
+electric energy within the State or municipality; or
+‘‘(C) between entities described in section 201(f) of the 
+Federal Power Act (16 U.S.C. 824(f)).’’.
+(g) AUTHORITY OF FERC.—Nothing in the Wall Street Trans-
+parency and Accountability Act of 2010 or otherwise in the amend-
+ments to the Commodity Exchange Act made by such Act shall limit or 
+affect any statutory enforcement authority of the Federal Energy 
+Regulatory Commission pursuant to section 222 of the Federal 
+Power Act and section 4A of the Natural Gas Act that existed 
+prior to the date of enactment of the Wall Street Transparency 
+and Accountability Act of 2010.
+(h) DETERMINATION.—The Commodity Exchange Act is 
+amended by inserting after section 1a (7 U.S.C. 1a) the following:
+
+‘‘SEC. 1b. REQUIREMENTS OF SECRETARY OF THE TREASURY 
+REGARDING EXEMPTION OF FOREIGN EXCHANGE SWAPS 
+AND FOREIGN EXCHANGE FORWARDS FROM DEFINITION 
+OF THE TERM ‘SWAP’.
+‘‘(a) REQUIRED CONSIDERATIONS.—In determining whether to 
+exempt foreign exchange swaps and foreign exchange forwards from 
+the definition of the term ‘swap’, the Secretary of the Treasury 
+(referred to in this section as the ‘Secretary’) shall consider—
+‘‘(1) whether the required trading and clearing of foreign 
+exchange swaps and foreign exchange forwards would create 
+systemic risk, lower transparency, or threaten the financial 
+stability of the United States;
+‘‘(2) whether foreign exchange swaps and foreign exchange 
+forwards are already subject to a regulatory scheme that is 
+materially comparable to that established by this Act for other 
+classes of swaps;
+‘‘(3) the extent to which bank regulators of participants 
+in the foreign exchange market provide adequate supervision, 
+including capital and margin requirements;
+‘‘(4) the extent of adequate payment and settlement sys-
+tems; and

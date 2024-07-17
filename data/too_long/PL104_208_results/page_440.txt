@@ -1,0 +1,50 @@
+110 STAT. 3009-439    PUBLIC LAW 104-208—SEPT. 30, 1996
+
+of the Fair Credit Reporting Act, for the purpose of maximizing the comprehensibility and standardization of such disclosures.
+(3) GOALS.—The Federal Trade Commission shall take appropriate action to assure that the goals of comprehensibility and standardization are achieved in accordance with paragraph (2).
+
+15 USC 1681g note.
+
+(4) DEFAMATION.—Section 610(e) of the Fair Credit Reporting Act (15 U.S.C. 1681h(e)) is amended by inserting “or based on information disclosed by a user of a consumer report to or for a consumer against whom the user has taken adverse action, based in whole or in part on the report” before “except”.
+
+15 USC 1681h.
+
+(5) CONFORMING AMENDMENTS.—The Fair Credit Reporting Act (15 U.S C. 1681 et seq.) is amended—
+(A) in section 609(a), in the matter preceding paragraph (1), by striking “and proper identification of any consumer” and inserting “, and subject to section 610(a)(1)”;
+(B) in section 610, in the section heading, by inserting “AND FORM” after “CONDITIONS”; and
+(C) in the table of sections at the beginning of that Act, in the item relating to section 610, by inserting “and form” after “conditions”.
+
+SEC. 2409. PROCEDURES IN CASE OF THE DISPUTE ACCURACY OF
+     ANY INFORMATION IN A CONSUMER’S FILE.
+ (a) IN GENERAL.—Section 611(a) of the Fair Credit Reporting
+Act (15 U.S.C. 1681i(a)) is amended to read as follows:
+  “(a) REINVESTIGATION OF DISPUTED INFORMATION.—
+   “(1) REINVESTIGATION REQUIRED.—
+    “(A) IN GENERAL.—If the completeness or accuracy of
+any item of information contained in a consumer’s file
+at a consumer reporting agency is disputed by the consumer
+and the consumer notifies the agency directly of such dispute,
+the agency shall reinvestigate free of charge and
+record the current status of the disputed information, or
+delete the item from the file in accordance with paragraph
+(5), before the end of the 30-day period beginning on the
+date on which the agency receives the notice of the dispute
+from the consumer.
+    “(B) EXTENSION OF PERIOD TO REINVESTIGATE.—Except
+as provided in subparagraph (C), the 30-day period described
+in subparagraph (A) may be extended for not
+more than 15 additional days if the consumer reporting
+agency receives information from the consumer during that
+30-day period that is relevant to the reinvestigation.
+    “(C) LIMITATIONS ON EXTENSION OF PERIOD TO REINVES-
+TIGATE.—Subparagraph (B) shall not apply to any reinves-
+tigation in which, during the 30-day period described in
+subparagraph (A), the information that is the subject of
+the reinvestigation is found to be inaccurate or incomplete
+or the consumer reporting agency determines that the
+information cannot be verified.
+   “(2) PROMPT NOTICE OF DISPUTE TO FURNISHER OF INFORMA-
+TION.—
+    “(A) IN GENERAL.—Before the expiration of the 5 business-day period beginning on the date on which a consumer
+reporting agency receives notice of a dispute from any
+consumer in accordance with paragraph (1), the agency

@@ -1,0 +1,16 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+134 STAT. 4569
+
+SEC. 6204. STREAMLINING REQUIREMENTS FOR CURRENCY TRANSACTION REPORTS AND SUSPICIOUS ACTIVITY REPORTS.
+(a) REVIEW.—The Secretary, in consultation with the Attorney General, Federal law enforcement agencies, the Secretary of Homeland Security, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other relevant stakeholders, shall undertake a formal review of the financial institution reporting requirements relating to currency transaction reports and suspicious activity reports, as in effect on the date of enactment of this Act, including the processes used to submit reports under the Bank Secrecy Act, regulations implementing the Bank Secrecy Act, and related guidance, and propose changes to those reports to reduce any unneccessarily burdensome regulatory requirements and ensure that the information provided fulfills the purposes described in section 5311 of title 31, United States Code, as amended by section 6101(a) of this division.
+(b) CONTENTS.—The review required under subsection (a) shall—
+    (1) rely substantially on information obtained through the BSA Data Value Analysis Project conducted by FinCEN; and
+    (2) include a review of—
+        (A) whether the circumstances under which a financial institution determines whether to file a continuing suspicious activity report, including insider abuse, or the processes followed by a financial institution is determining whether to file a continuing suspicious activity report, or both, should be adjusted;
+        (B) whether different thresholds should apply to different categories of activities;
+        (C) the fields designated as critical on the suspicious activity report form, the fields on the currency transaction report form, and whether the number or nature of the fields on those forms should be adjusted;
+        (D) the categories, types, and characteristics of suspicious activity reports and currency transaction reports that are of the greatest value to, and that best support, investigative priorities of law enforcement and national security agencies;
+        (E) the increased use or expansion of exemption provisions to reduce currency transaction reports that may be of little or no value to the efforts of law enforcement agencies;
+        (F) the most appropriate ways to promote financial inclusion and address the adverse consequences of financial institutions de-risking entire categories of relationships, including charities, embassy accounts, and money service businesses (as defined in section 1010.100(ff) of title 31, Code of Federal Regulations), and certain groups of correspondent banks without conducting a proper assessment of the specific risk of each indivudual member of these populations;
+        (G) the current financial institution reporting requirements under the Bank Secrecy Act and regulations and guidance implementing the Bank Secrecy Act;
+        (H) whether the process for the electronic submission of reports could be improved for both financial institutions and law enforcement agencies, including by allowing

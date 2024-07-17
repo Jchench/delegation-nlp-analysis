@@ -1,0 +1,23 @@
+124 STAT. 1616          PUBLIC LAW 111–203—JULY 21, 2010
+
+by an insured depository institution increases in times of economic expansion and decreases in times of economic contraction, consistent with the safety and soundness of the insured depository institution.”
+(d) SOURCE OF STRENGTH.—The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by inserting after section 38 (12 U.S.C. 1831o) the following:
+
+“SEC. 38A. SOURCE OF STRENGTH.
+“(a) HOLDING COMPANIES.——The appropriate Federal banking
+agency for a bank holding company or savings and loan holding company shall require the bank holding company or savings and loan holding company to serve as a source of financial strength for any subsidiary of the bank holding company or savings and loan holding company that is a depository institution.
+“(b) OTHER COMPANIES.—If an insured depository institution is not the subsidiary of a bank holding company or savings and loan holding company, the appropriate Federal banking agency for the insured depository institution shall require any company that directly or indirectly controls the insured depository institution to serve as a source of financial strength for such institution.
+“(c) REPORTS.—The appropriate Federal banking agency for an insured depository institution described in subsection (b) may, from time to time, require the company, or a company that directly or indirectly controls the insured depository institution, to submit a report, under oath, for the purposes of——
+“(1) assessing the ability of such company to comply with the requirement under subsection (b); and
+“(2) enforcing the compliance of such company with the requirement under subsection (b).
+“(d) RULES.—Not later than 1 year after the transfer date, as defined in section 311 of the Enhancing Financial Institution Safety and Soundness Act of 2010, the appropriate Federal banking agencies shall jointly issue final rules to carry out this section.
+“(e) DEFINITION.—In this section, the term ‘source of financial strength’ means the ability of a company that directly or indirectly owns or controls an insured depository institution to provide financial assistance to such insured depository institution in the event of the financial distress of the insured depository institution.”.
+(e) EFFECTIVE DATE.—The amendments made by this section shall take effect on the transfer date.
+SEC. 617. ELIMINATION OF ELECTIVE INVESTMENT BANK HOLDING COMPANY FRAMEWORK.
+(a) AMENDMENT.—Section 17 of the Securities Exchange Act of 1934 (15 U.S.C. 78q) is amended——
+(1) by striking subsection (i); and
+(2) by redesignating subsections (j) and (k) as subsections (i) and (j), respectively.
+(b) EFFECTIVE DATE.—The amendments made by this section shall take effect on the transfer date.
+SEC. 618. SECURITIES HOLDING COMPANIES.
+(a) DEFINITIONS.—In this section——
+(1) the term ‘‘associated person of a securities holding company’’ means a person directly or indirectly controlling, controlled by, or under common control with, a securities holding company;

@@ -1,0 +1,59 @@
+PUBLIC LAW 111-203—JULY 21, 2010        124 STAT. 2065
+
+‘‘(g) DEFINITIONS.—As used in this section—
+‘‘(1) the term ‘designated recipient’ means any person
+located in a foreign country and identified by the sender as
+the authorized recipient of a remittance transfer to be made
+by a remittance transfer provider, except that a designated
+recipient shall not be deemed to be a consumer for purposes
+of this Act;
+‘‘(2) the term ‘remittance transfer’—
+‘‘(A) means the electronic (as defined in section 106(2)
+of the Electronic Signatures in Global and National Com-
+merce Act (15 U.S.C. 7006(2))) transfer of funds requested
+by a sender located in any State to a designated recipient
+that is initiated by a remittance transfer provider, whether
+or not the sender holds an account with the remittance
+transfer provider or whether or not the remittance transfer
+is also an electronic fund transfer, as defined in section
+903; and
+‘‘(B) does not include a transfer described in subpara-
+graph (A) in an amount that is equal to or lesser than
+the amount of a small-value transaction determined, by
+rule, to be excluded from the requirements under section
+906(a);
+‘‘(3) the term ‘remittance transfer provider’ means any per-
+son or financial institution that provides remittance transfers
+for a consumer in the normal course of its business, whether
+or not the consumer holds an account with such person or
+financial institution; and
+‘‘(4) the term ‘sender’ means a consumer who requests
+a remittance provider to send a remittance transfer for the
+consumer to a designated recipient.’’.
+(b) AUTOMATED CLEARINGHOUSE SYSTEM.—
+(1) EXPANSION OF SYSTEM.—The Board of Governors shall
+work with the Federal reserve banks and the Department of
+the Treasury to expand the use of the automated clearinghouse
+system and other payment mechanisms for remittance transfers
+to foreign countries, with a focus on countries that receive
+significant remittance transfers from the United States, based
+on—
+(A) the number, volume, and size of such transfers;
+(B) the significance of the volume of such transfers
+relative to the external financial flows of the receiving
+country, including—
+(i) the total amount transferred; and
+(ii) the total volume of payments made by United
+States Government agencies to beneficiaries and
+retirees living abroad;
+(C) the feasibility of such an expansion; and
+(D) the ability of the Federal Reserve System to estab-
+lish payment gateways in different geographic regions and
+currency zones to receive remittance transfers and route
+them through the payments systems in the destination
+countries.
+(2) REPORT TO CONGRESS.—Not later than one calendar
+year after the date of enactment of this Act, and on April
+30 biennially thereafter during the 10-year period beginning
+on that date of enactment, the Board of Governors shall submit
+a report to the Committee on Banking, Housing, and Urban

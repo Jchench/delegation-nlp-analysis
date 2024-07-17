@@ -1,0 +1,27 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009-646
+
+(1) IN GENERAL.—There shall be four levels of pay for immigration judges, under the Immigration Judge Schedule (designated as IJ-1, 2, 3, and 4, respectively), and each such judge shall be paid at one of those levels, in accordance with the provisions of this subsection.
+(2) RATES OF PAY.—
+(A) The rates of basic pay for the levels established under paragraph (1) shall be as follows:
+IJ-1 ............................. 70% of the next to highest rate of basic pay for the Senior Executive Service
+IJ-2 ............................. 80% of the next to highest rate of basic pay for the Senior Executive Service
+IJ-3 ............................. 90% of the next to highest rate of basic pay for the Senior Executive Service
+IJ-4 ............................. 92% of the next to highest rate of basic pay for the Senior Executive Service.
+(B) Locality pay, where applicable, shall be calculated into the basic pay for immigration judges.
+(3) APPOINTMENT.—
+(A) Upon appointment, an immigration judge shall be paid at IJ-1, and shall be advanced to IJ-2 upon completion of 104 weeks of service, to IJ-3 upon completion of 104 weeks of service in the next lower rate, and to IJ-4 upon completion of 52 weeks of service in the next lower rate.
+(B) Notwithstanding subparagraph (A), the Attorney General may provide for appointment of an immigration judge at an advanced rate under such circumstances as the Attorney General may determine appropriate.
+(d) EFFECTIVE DATES—
+(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act.
+(2) Subsection (c) shall take effect 90 days after the date of the enactment of this Act.
+
+8 USC 1101 note.
+
+SEC. 372. DELEGATION OF IMMIGRATION ENFORCEMENT AUTHORITY.
+
+Section 103(a) (8 U.S.C. 1103(a)) is amended—
+(1) inserting “(1)” after “(a)”,
+(2) by designating each sentence (after the first sentence) as a separate paragraph with appropriate consecutive numbering and initial indentation,
+(3) by adding at the end the following new paragraph:
+
+“(8) In the event the Attorney General determines that an actual or imminent mass influx of aliens arriving off the coast of the United States, or near a land border, presents urgent circumstances requiring an immediate Federal response, the Attorney General may authorize any State or local law enforcement officer, with the consent of the head of the department, agency, or establishment under whose jurisdiction the individual is serving, to perform or exercise any of the powers, privileges, or duties conferred or imposed by this Act or regulations issued thereunder upon officers or employees of the Service.”.

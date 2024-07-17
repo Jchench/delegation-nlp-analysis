@@ -1,0 +1,20 @@
+124 STAT. 1574          PUBLIC LAW 111–203—JULY 21, 2010
+
+ascertained during an examination, as provided by section 210(b) of this title.
+    “(B) PROPRIETARY INFORMATION.—For purposes of this paragraph, proprietary information includes sensitive, non-public information regarding—
+        “(i) the investment or trading strategies of the investment adviser;
+        “(ii) analytical or research methodologies;
+        “(iii) trading data;
+        “(iv) computer hardware or software containing intellectual property; and
+        “(v) any additional information that the Commission determines to be proprietary.
+    “(11) ANNUAL REPORT TO CONGRESS.—The Commission shall report annually to Congress on how the Commission has used the data collected pursuant to this subsection to monitor the markets for the protection of investors and the integrity of the markets.”.
+SEC. 405. DISCLOSURE PROVISION AMENDMENT.
+    Section 210(c) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–10(c)) is amended by inserting before the period at the end the following: “or for purposes of assessment of potential systemic risk”.
+SEC. 406. CLARIFICATION OF RULEMAKING AUTHORITY.
+    Section 2111 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–11) is amended—
+        (1) in subsection (a), by inserting before the period at the end of the first sentence the following: “, including rules and regulations defining technical, trade, and other terms used in this title, except that the Commission may not define the term ‘client’ for purposes of paragraphs (1) and (2) of section 206 to include an investor in a private fund managed by an investment adviser, if such private fund has entered into an advisory contract with such adviser”; and
+        (2) by adding at the end the following:
+        “(e) DISCLOSURE RULES ON PRIVATE FUNDS.—The Commission and Commodity Futures Trading Commission shall, after consultation with the Council but not later than 12 months after the date of enactment of the Private Fund Investment Advisers Registration Act of 2010, jointly promulgate rules to establish the form and content of the reports required to be filed with the Commission under subsection 204(b) and with the Commodity Futures Trading Commission by investment advisers that are registered both under this title and the Commodity Exchange Act (7 U.S.C. 1a et seq.).”.
+SEC. 407. EXEMPTION OF AND REPORTING BY VENTURE CAPITAL FUND ADVISERS.
+    Section 203 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3) is amended by adding at the end the following:
+        “(I) EXEMPTION OF VENTURE CAPITAL FUND ADVISERS.—No investment adviser that acts as an investment adviser solely to 1 or more venture capital funds shall be subject to the registration requirements of this title with respect to the provision of investment advice relating to a venture capital fund. Not later than 1 year after the date of enactment of this subsection, the Commission

@@ -1,0 +1,23 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+124 STAT. 1461
+
+(D) ADDITIONAL POWERS AS RECEIVER.—The Corporation shall, as receiver for a covered financial company, and subject to all legally enforceable and perfected security interests and all legally enforceable security entitlements in respect of assets held by the covered financial company, liquidate, and wind up the affairs of a covered financial company, including taking steps to realize upon the assets of the covered financial company, in such manner as the Corporation deems appropriate, including through the sale of assets, the transfer of assets to a bridge financial company established under subsection (h), or the exercise of any other rights or privileges granted to the receiver under this section.
+
+(E) ADDITIONAL POWERS WITH RESPECT TO FAILING SUBSIDIARIES OF A COVERED FINANCIAL COMPANY.—
+
+(i) IN GENERAL.—In any case in which a receiver is appointed for a covered financial company under section 202, the Corporation may appoint itself as receiver of any covered subsidiary of the covered financial company that is organized under Federal law or the laws of any State, if the Corporation and the Secretary jointly determine that—
+(I) the covered subsidiary is in default or in danger of default;
+(II) such action would avoid or mitigate serious adverse effects on the financial stability or economic conditions of the United States; and
+(III) such action would facilitate the orderly liquidation of the covered financial company.
+
+(ii) TREATMENT AS COVERED FINANCIAL COMPANY.—If the Corporation is appointed as receiver of a covered subsidiary of a covered financial company under clause (i), the covered subsidiary shall thereafter be considered a covered financial company under this title, and the Corporation shall thereafter have all the powers and rights with respect to that covered subsidiary as it has with respect to a covered financial company under this title.
+
+(F) ORGANIZATION OF BRIDGE COMPANIES.—The Corporation, as receiver for a covered financial company, may organize a bridge financial company under subsection (h).
+
+(G) MERGER; TRANSFER OF ASSETS AND LIABILITIES.—
+(i) IN GENERAL.—Subject to clauses (ii) and (iii), the Corporation, as receiver for a covered financial company, may—
+(I) merge the covered financial company with another company; or
+(II) transfer any asset or liability of the covered financial company (including any assets and liabilities held by the covered financial company for security entitlement holders, any customer property, or any assets and liabilities associated with any trust or custody business) without obtaining any approval, assignment, or consent with respect to such transfer.
+
+(ii) FEDERAL AGENCY APPROVAL; ANTITRUST REVIEW.—With respect to a transaction described in

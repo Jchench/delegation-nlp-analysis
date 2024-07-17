@@ -1,0 +1,19 @@
+134 STAT. 4572       PUBLIC LAW 116–283—JAN. 1, 2021
+
+well as other reports filed by financial institutions under the Bank Secrecy Act.
+“(C) INCLUSION OF TYPOLOGIES.—In each publication published under subparagraph (B), the Director shall provide financial institutions and the Federal functional regulators with typologies, including data that can be adapted in algorithms if appropriate, relating to emerging money laundering and terrorist financing threat patterns and trends.
+“(7) RULES OF CONSTRUCTION.—Nothing in this subsection may be construed as precluding the Secretary of the Treasury from—
+“(A) requiring reporting as provided under subparagraphs (A) and (B) of paragraph (6); or
+“(B) notifying a Federal law enforcement agency with respect to any transaction that the Secretary has determined directly implicates a national priority established by the Secretary.”.
+
+
+SEC. 6207. SUBCOMMITTEE ON INNOVATION AND TECHNOLOGY.
+Section 1564 of the Annunzio-Wylie Anti-Money Laundering Act (31 U.S.C. 5311 note) is amended by adding at the end the following:
+“(d) SUBCOMMITTEE ON INNOVATION AND TECHNOLOGY.—
+“(1) DEFINITIONS.—In this subsection, the terms ‘Bank Secrecy Act’, ‘State bank supervisor’, and ‘State credit union supervisor’ have the meanings given the terms in section 6003 of the Anti-Money Laundering Act of 2020.
+“(2) ESTABLISHMENT.—There shall be within the Bank Secrecy Act Advisory Group a subcommittee to be known as the ‘Subcommittee on Innovation and Technology’ to—
+“(A) advise the Secretary of the Treasury regarding means by which the Department of the Treasury, FinCEN, the Federal functional regulators, State bank supervisors, and State credit union supervisors, as appropriate, can most effectively encourage and support technological innovation in the area of anti-money laundering and countering the financing of terrorism and proliferation; and
+“(B) reduce, to the extent practicable, obstacles to innovation that may arise from existing regulations, guidance, and examination practices related to compliance of financial institutions with the Bank Secrecy Act.
+“(3) MEMBERSHIP.—
+“(A) IN GENERAL.—The subcommittee established under paragraph (1) shall consist of the representatives of the heads of the Federal functional regulators, including, as appropriate, the Bank Secrecy Act Innovation Officers as established in section 6208 of the Anti-Money Laundering Act of 2020, a representative of State bank supervisors, a representative of State credit union supervisors, representatives of a cross-section of financial institutions subject to the Bank Secrecy Act, law enforcement, FinCEN, and any other representative as determined by the Secretary of the Treasury.
+“(B) REQUIREMENTS.—Each agency representative described in subparagraph (A) shall be an individual who

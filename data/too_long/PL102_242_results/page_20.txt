@@ -1,0 +1,20 @@
+PUBLIC LAW 102-242-DEC. 19, 1991								105 STAT. 2255
+
+		(ii) establish any additional relevant capital measures to carry out the purpose of this section; or
+		(ii) rescind any relevant capital measure required under subparagraph (A) upon determining (with the concurrences of the other Federal banking agencies) that the measure is no longer an appropriate means for carrying out the purpose of this section.
+	(2) CAPITAL CATEGORIES GENERALLY.-Each appropriate Federal banking agency shall, by regulation, specify for each relevant capital measure the levels at which an insured depository institution is well capitalized, adequately capitalized, undercapitalized, and significantly undercapitalized.
+	(3) CRITICAL CAPITAL-
+		(A) AGENCY TO SPECIFY LEVEL.-
+			(i) LEVERAGE LIMIT.-Each appropriate Federal banking agency shall, by regulation, in consultation with the Corporation, specify the ratio of tangible equity to total assets at which an insured depository institution is critically undercapitalized.
+			(ii) OTHER RELEVANT CAPITAL MEASURES.-The agency may, by regulation, specify for 1 or more other relevant capital measures, the level at which an insured depository institution is critically undercapitalized.
+		(B) LEVERAGE LIMIT RANGE.-The level specified under subparagraph (A)(i) shall require tangible equity in an amount-
+			(i) not less than 2 percent of total assets; and
+			(ii) except as provided in clause (i), not more than 65 percent of the required minimum level of capital under the leverage limit.
+		(C) FDIC'S CONCURRENCE REQUIRED.-The appropriate Federal banking agency shall not, without the concurrence of the Corporation, specify a level under subparagraph (A)(i) lower than that specified by the Corporation for State nonmember insured banks.
+	(d) PROVISIONS APPLICABLE TO ALL INSTITUTIONS.-
+		(1) CAPITAL DISTRIBUTIONS RESTRICTED.-
+			(A) IN GENERAL.-An insured depository institution shall make no capital distribution if, after making the distribution, the institution would be undercapitalized.
+			(B) EXCEPTION.-Notwithstanding subparagraph (A), the appropriate Federal banking agency may permit, after consultation with the Corporation, an insured depository institution to repurchase, redeem, retire, or otherwise acquire shares or ownership interests if the repurchase, redemption, retirement, or other acquisition-
+				(i) is made in connection with the issuance of additional shares or obligations of the institution in at least an equivalent amount; and
+				(ii) will reduce the institution's financial obligations or otherwise improve the institution's financial condition.
+		(2) MANAGEMENT FEES RESTRICTED.-An insured depository institution shall pay no management fee to any person having control of that institution if, after making the payment, the institution would be undercapitalized.

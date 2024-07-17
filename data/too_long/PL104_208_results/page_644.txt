@@ -1,0 +1,19 @@
+110 STAT. 3009–643         PUBLIC LAW 104–208—SEPT. 30, 1996
+
+		“(A) IN GENERAL.—Unless the alien waives the right to a review under this paragraph, in any case involving an alien lawfully admitted for permanent residence who is denied a written summary of classified information under section 504(e)(3) and with respect to which the procedures described in section 504(e)(3)(F) apply, any order issued by the judge shall be reviewed by the Court of Appeals for the District of Columbia Circuit.
+		“(B) USE OF SPECIAL ATTORNEY.—With respect to any issue relating to classified information that arises in such review, the alien shall be represented only by the special attorney designated under section 504(e)(3)(F)(i) on behalf of the alien.”.
+	(4) ESTABLISHMENT OF PANEL OF SPECIAL ATTORNEYS.—Section 502 (8 U.S.C. 1532) is amended by adding at the end the following new subsection:
+		“(c) ESTABLISHMENT OF PANEL OF SPECIAL ATTORNEYS.—The removal court shall provide for the designation of a panel of attorneys each of whom—
+		“(1) has a security clearance which affords the attorney access to classified information, and
+		“(2) has agreed to represent permanent resident aliens with respect to classified information under section 504(e)(3) in accordance with (and subject to the penalties of) this title.”.
+	(5) DEFINITION OF SPECIAL ATTORNEY.—Section 501 (8 U.S.C. 1531) is amended—
+		(A) by striking “and” at the end of paragraph (5),
+		(B) by striking the period at the end of paragraph (6) and inserting “; and”, and
+		(C) by adding at the end the following new paragraph:
+		“(7) the term ‘special attorney’ means an attorney who is on the panel established under section 502(c).”.
+	(b) OTHER PROVISIONS RELATING TO CLASSIFIED INFORMA- TION.—
+		(1) INTRODUCTION OF CLASSIFIED INFORMATION.—Section 504(e) (8 U.S.C. 1534(e)) is amended—
+		(A) in paragraph (1)—
+			(i) by inserting after “(A)” the following: “the Government is authorized to use in a removal proceedings the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act and”, and
+			(ii) by striking “the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.)” and inserting “such Act”; and
+		(B) by striking the period at the end of paragraph (3)(A) and inserting the following: “and neither the alien nor the public shall be informed of such evidence or its sources other than through reference to the summary provided pursuant to this paragraph. Notwithstanding the previous sentence, the Department of Justice may, in its discretion and, in the case of classified information, after coordination with the originating agency, elect to introduce such evidence in open session.”.

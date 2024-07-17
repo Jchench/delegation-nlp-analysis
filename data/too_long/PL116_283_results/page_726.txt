@@ -1,0 +1,20 @@
+134 STAT. 4112           PUBLIC LAW 116–283—JAN. 1, 2021
+
+          (4) The Department of Defense Chief Information Officer’s policies and programs for cybersecurity standards and integrating cybersecurity threat intelligence-sharing activities and enhancing Department of Defense and defense industrial base cyber situational awareness.
+          (5) The Under Secretary of Defense for Research and Engineering’s policies and programs germane to protection planning requirements of emerging technologies as such relate to cybersecurity assessment and assistance, and industrial base health and security.
+          (6) Other Department of Defense components’ policies and programs germane to the cybersecurity of the defense industrial base, including the policies and programs of the military services and the combatant commands.
+     (d) ADDITIONAL FUNCTIONS.—In carrying out this section, the Principal Cyber Advisor of the Department of Defense shall—
+          (1) coordinate or facilitate coordination with relevant Federal departments and agencies, defense industrial base entities, independent regulatory agencies, and with State, local, territorial, and Tribal entities, as appropriate;
+          (2) facilitate or coordinate the provision of incident management support to defense industrial base entities, as appropriate;
+          (3) facilitate or coordinate the provision of technical assistance to and consultations with defense industrial base entities to identify cyber or cyber-physical vulnerabilities and minimize the damage of potential incidents, as appropriate; and
+          (4) support or facilitate the support of the statutory required reporting requirements of such relevant Federal departments and agencies by providing or facilitating the provision to such departments and agencies on an annual basis relevant critical infrastructure information, as appropriate.
+     (e) DEPARTMENT OF DEFENSE ROLES AND RESPONSIBILITIES.—
+No later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall brief the Committees on Armed Services of the Senate and the House of Representatives on the following issues:
+          (1) A plan for implementation of this section, including an assessment of the roles and responsibilities of entities across the Department of Defense and mechanisms and processes for coordination of policy and programs germane to defense industrial base cybersecurity.
+          (2) An analysis of the feasibility and advisability of separating cybersecurity Sector Specific Agency functions under Presidential Policy Directive–21 from non-cybersecurity Sector Specific Agency functions.
+          (3) Regarding the non-cybersecurity Sector Specific Agency functions the Department has assigned to the Under Secretary of Defense for Policy for implementation, the implications of reassigning such responsibilities to the Under Secretary of Defense for Acquisition and Sustainment.
+
+
+32 USC 901 note. SEC. 1725. PILOT PROGRAM ON REMOTE PROVISION BY NATIONAL GUARD TO NATIONAL GUARDS OF OTHER STATES OF CYBERSECURITY TECHNICAL ASSISTANCE IN TRAINING, PREPARATION, AND RESPONSE TO CYBER INCIDENTS.
+
+(a) PILOT PROGRAM AUTHORIZED.—

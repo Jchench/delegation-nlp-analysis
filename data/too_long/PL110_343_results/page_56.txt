@@ -1,0 +1,25 @@
+122 STAT. 3820
+
+Applicability.
+26 USC 45.
+
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+byproducts of the coking process, including such materials that have been stored in ground, in tanks and in lagoons, that have been treated as hazardous wastes under applicable Federal environmental rules absent liquefaction and processing with coal into a feedstock for the manufacture of coke.”.
+
+(b) CREDIT AMOUNT.—
+(1) IN GENERAL.—Paragraph (8) of section 45(e) of the Internal Revenue Code of 1986 (relating to refined coal production facilities) is amended by adding at the end the following new subparagraph:
+“(D) SPECIAL RULE FOR STEEL INDUSTRY FUEL.—
+“(i) IN GENERAL.—In the case of a taxpayer who produces steel industry fuel—
+“(I) this paragraph shall be applied separately with respect to steel industry fuel and other refined coal, and
+“(II) in applying this paragraph to steel industry fuel, the modifications in clause (ii) shall apply.
+“(ii) MODIFICATIONS.—
+“(I) CREDIT AMOUNT.—Subparagraph (A) shall be applied by substituting ‘$2 per barrel-of-oil equivalent’ for ‘$4.375 per ton’.
+“(II) CREDIT PERIOD.—In lieu of the 10-year period referred to in clauses (i) and (ii)(II) of subparagraph (A), the credit period shall be the period beginning on the later of the date such facility was originally placed in service, the date the modifications described in clause (iii) were placed in service, or October 1, 2008, and ending on the later of December 31, 2009, or the date which is 1 year after the date such facility or the modifications described in clause (iii) were placed in service.
+“(III) NO PHASEOUT.—Subparagraph (B) shall not apply.
+“(iii) MODIFICATIONS.—The modifications described in this clause are modifications to an existing facility which allow such facility to produce steel industry fuel.
+“(iv) BARREL-OF-OIL EQUIVALENT.—For purposes of this subparagraph, a barrel-of-oil equivalent is the amount of steel industry fuel that has a Btu content of 5,800,000 Btus.”.
+(2) INFLATION ADJUSTMENT.—Paragraph (2) of section 45(b) of such Code is amended by inserting “the $3 amount in subsection (e)(8)(D)(ii)(I),” after “subsection (a)(8)(A),”.
+(c) TERMINATION.—Paragraph (8) of section 45(d) of the Internal Revenue Code of 1986 (relating to refined coal production facility), as amended by this Act, is amended to read as follows:
+“(8) REFINED COAL PRODUCTION FACILITY.—In the case of a facility that produces refined coal, the term ‘refined coal production facility’ means—
+“(A) with respect to a facility producing steel industry fuel, any facility (or any modification to a facility) which is placed in service before January 1, 2010, and

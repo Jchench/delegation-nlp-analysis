@@ -1,0 +1,26 @@
+PUBLIC LAW 110–343—OCT. 3, 2008
+122 STAT. 3841
+by striking the period at the end of subparagraph (B) and inserting ‘‘, and’’, and by adding at the end the following new subparagraph:
+‘‘(C) the applicable annual limitation in the case of any qualified bicycle commuting reimbursement.’’.
+
+(c) DEFINITIONS.—Paragraph (5) of section 132(f) is amended by adding at the end the following:
+‘‘(F) DEFINITIONS RELATED TO BICYCLE COMMUTING REIMBURSEMENT.—
+‘‘(i) QUALIFIED BICYCLE COMMUTING REIMBURSEMENT.—The term ‘qualified bicycle commuting reimbursement’ means, with respect to any calendar year, any employer reimbursement during the 15-month period beginning with the first day of such calendar year for reasonable expenses incurred by the employee during such calendar year for the purchase of a bicycle and bicycle improvements, repair, and storage, if such bicycle is regularly used for travel between the employee’s residence and place of employment.
+‘‘(ii) APPLICABLE ANNUAL LIMITATION.—The term ‘applicable annual limitation’ means, with respect to any employee for any calendar year, the product of $20 multiplied by the number of qualified bicycle commuting months during such year.
+‘‘(iii) QUALIFIED BICYCLE COMMUTING MONTH.—The term ‘qualified bicycle commuting month’ means, with respect to any employee, any month during which such employee—
+‘‘(I) regularly uses the bicycle for a substantial portion of the travel between the employee’s residence and place of employment, and
+‘‘(II) does not receive any benefit described in subparagraph (A), (B), or (C) of paragraph (1).’’.
+
+(d) CONSTRUCTIVE RECEIPT OF BENEFIT.—Paragraph (4) of section 132(f) is amended by inserting ‘‘(other than a qualified bicycle commuting reimbursement)’’ after ‘‘qualified transportation fringe’’.
+
+(e) EFFECTIVE DATE.—The amendments made by this section shall apply to taxable years beginning after December 31, 2008.
+
+TITLE III—ENERGY CONSERVATION AND EFFICIENCY PROVISIONS
+SEC. 301. QUALIFIED ENERGY CONSERVATION BONDS.
+
+(a) IN GENERAL.—Subpart I of part IV of subchapter A of chapter 1, as amended by section 107, is amended by adding at the end the following new section:
+‘‘SEC. 54D. QUALIFIED ENERGY CONSERVATION BONDS.
+
+‘‘(a) QUALIFIED ENERGY CONSERVATION BOND.—For purposes of this subchapter, the term ‘qualified energy conservation bond’ means any bond issued as part of an issue if—
+‘‘(1) 100 percent of the available project proceeds of such issue are to be used for one or more qualified conservation purposes,
+‘‘(2) the bond is issued by a State or local government, and

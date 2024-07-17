@@ -1,0 +1,22 @@
+124 STAT. 1896                PUBLIC LAW 111–203—JULY 21, 2010
+
+“(ii) EFFECTIVE DATE OF REGULATIONS.—The regulations issued under this section shall become effective—
+“(1) with respect to securitizers and originators of asset-backed securities backed by residential mortgages, 1 year after the date on which final rules under this section are published in the Federal Register; and
+“(2) with respect to securitizers and originators of all other classes of asset-backed securities, 2 years after the date on which final rules under this section are published in the Federal Register.”.
+(c) STUDY ON RISK RETENTION.—
+(1) STUDY.—The Board of Governors of the Federal Reserve System, in coordination and consultation with the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Chairperson of the Federal Deposit Insurance Corporation, and the Securities and Exchange Commission shall conduct a study of the combined impact on each individual class of asset-backed security established under section 15G(c)(2) of the Securities Exchange Act of 1934, as added by subsection (b), of—
+(A) the new credit risk retention requirements contained in the amendment made by subsection (b), including the effect credit risk retention requirements have on increasing the market for Federally subsidized loans; and
+(B) the Financial Accounting Statements 166 and 167 issued by the Financial Accounting Standards Board.
+(2) REPORT.—Not later than 90 days after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall submit to Congress a report on the study conducted under paragraph (1). Such report shall include statutory and regulatory recommendations for eliminating any negative impacts on the continued viability of the asset-backed securitization markets and on the availability of credit for new lending identified by the study conducted under paragraph (1).
+
+SEC. 942. DISCLOSURES AND REPORTING FOR ASSET-BACKED SECURITIES.
+
+(a) SECURITIES EXCHANGE ACT OF 1934.—Section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 780(d)) is amended—
+(1) by striking “(d) Each” and inserting the following:
+“(d) SUPPLEMENTARY AND PERIODIC INFORMATION.—
+“(1) IN GENERAL.—Each”;
+(2) in the third sentence, by inserting after “securities of each class” the following: “, other than any class of asset-backed securities,”; and
+(3) by adding at the end the following:
+“(2) ASSET-BACKED SECURITIES.—
+“(A) SUSPENSION OF DUTY TO FILE.—The Commission may, by rule or regulation, provide for the suspension or termination of the duty to file under this subsection for any class of asset-backed security, on such terms and conditions and for such period or periods as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
+“(B) CLASSIFICATION OF ISSUERS.—The Commission may, for purposes of this subsection, classify issuers and

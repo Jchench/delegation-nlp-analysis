@@ -1,0 +1,59 @@
+134 STAT. 4606           PUBLIC LAW 116-283 — JAN. 1, 2021
+
+“(A) files an application to form a corporation, limited
+liability company, or other similar entity under the laws
+of a State or Indian Tribe; or
+“(B) registers or files an application to register a cor-
+poration, limited liability company, or other similar entity
+formed under the laws of a foreign country to do business
+in the United States by filing a document with the secretary
+of state or similar office under the laws of a State or
+Indian Tribe.
+“(3) BENEFICIAL OWNER.—The term ‘beneficial owner’—
+“(A) means, with respect to an entity, an individual
+who, directly or indirectly, through any contract, arrange-
+ment, understanding, relationship, or otherwise—
+“(i) exercises substantial control over the entity;
+or
+“(ii) owns or controls not less than 25 percent
+of the ownership interests of the entity; and
+“(B) does not include—
+“(i) a minor child, as defined in the State in which
+the entity is formed, if the information of the parent
+or guardian of the minor child is reported in accordance
+with this section;
+“(ii) an individual acting as a nominee, inter-
+mediary, custodian, or agent on behalf of another indi-
+vidual;
+“(iii) an individual acting solely as an employee
+of a corporation, limited liability company, or other
+similar entity and whose control over or economic bene-
+fits from such entity is derived solely from the employ-
+ment status of the person;
+“(iv) an individual whose only interest in a corpora-
+tion, limited liability company, or other similar entity
+is through a right of inheritance; or
+“(v) a creditor of a corporation, limited liability
+company, or other similar entity, unless the creditor
+meets the requirements of subparagraph (A).
+“(4) DIRECTOR.—The term ‘Director’ means the Director
+of FinCEN.
+“(5) FinCEN.—The term ‘FinCEN’ means the Financial
+Crimes Enforcement Network of the Department of the
+Treasury.
+“(6) FinCEN IDENTIFIER.—The term ‘FinCEN identifier’
+means the unique identifying number assigned by FinCEN
+to a person under this section.
+“(7) FOREIGN PERSON.—The term ‘foreign person’ means
+a person who is not a United States person, as defined in
+section 7701(a) of the Internal Revenue Code of 1986.
+“(8) INDIAN TRIBE.—The term ‘Indian Tribe’ has the
+meaning given the term ‘Indian tribe’ in section 102 of the
+Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C.
+5130).
+“(9) LAWFULLY ADMITTED FOR PERMANENT RESIDENCE.—The
+term ‘lawfully admitted for permanent residence’ has the
+meaning given the term in section 101(a) of the Immigration
+and Nationality Act (8 U.S.C. 1101(a)).
+“(10) POOLED INVESTMENT VEHICLE.—The term ‘pooled
+investment vehicle’ means—

@@ -1,0 +1,30 @@
+PUBLIC LAW 101-73—AUG. 9, 1989 103 STAT. 503
+
+that has been furnished to the grand jury in response to that subpoena, shall be fined under this title or imprisoned not more than 5 years, or both.
+"(2) Whoever, being an officer of a financial institution, directly or indirectly notifies—
+"(A) a customer of that financial institution whose records are sought by a grand jury subpoena; or
+"(B) any other person named in that subpoena;
+about the existence or contents of that subpoena or information that has been furnished to the grand jury in response to that subpoena, shall be fined under this title or imprisoned not more than one year, or both.
+"(3) As used in this subsection—
+"(A) the term 'an officer of a financial institution' means an officer, director, partner, employee, agent, or attorney of or for a financial institution; and
+"(B) the term 'subpoena for records' means a Federal grand jury subpoena for customer records that has been served relating to a violation of, or a conspiracy to violate—
+"(i) section 215, 656, 657, 1005, 1006, 1007, 1014, or 1344; or
+(ii) section 1341 or 1343 affecting a financial institution.".
+(d) CONFORMING TERMINOLOGY IN BANK ROBBERY SECTION.—Section 2113 of title 18, United States Code, is amended—
+(1) in subsection (f), by striking "any bank the deposits of which" and inserting "any institution the deposits of which";
+(2) by adding before the period at the end of subsection (h) "; and any Federal credit union' as defined in section 2 of the Federal Credit Union Act"; and
+(3) by striking subsection (g) and redesignating subsection (h) as subsection (g).
+(e) CREATION OF GENERAL DEFINITION OF FINANCIAL INSTITUTION FOR TITLE 18.—
+(1) IN GENERAL.—Subsection (b) of section 215 of title 18, United States Code, is transferred to the end of chapter 1 of such title.
+(2) UPDATING AND TECHNICAL AMENDMENTS.—Such subsection (b), as so transferred, is amended—
+(A) by inserting at the beginning the following section heading:
+"820. Financial institution defined"
+(B) by striking (b)';
+(C) by striking "this section" and inserting "this title";
+(D) so that paragraph (1) reads as follows:
+"(1) an insured depository institution (as defined in section 3(c)(2) of the Federal Deposit Insurance Act);",
+(E) by striking paragraphs (2) and (8);
+(F) so that paragraph (5) reads as follows:
+"(5) a System institution of the Farm Credit System, as defined in section 5.35(3) of the Farm Credit Act of 1971;",
+(G) so that paragraph (7) reads as follows:
+"(7) a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act."; and

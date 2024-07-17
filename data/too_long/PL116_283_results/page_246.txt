@@ -1,0 +1,19 @@
+134 STAT. 3632        PUBLIC LAW 116–283—JAN. 1, 2021
+
+     (1) UNITED STATES MILITARY ACADEMY.—Section 7461(c) of title 10, United States Code, is amended by adding at the end the following new paragraph:
+           ‘‘(3)(A) The Secretary of Defense may postpone the conduct 
+     of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable due to a war or national emergency declared by the President or Congress.
+           ‘‘(B) The Secretary of Defense shall ensure that an assessment postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+           ‘‘(C) The Secretary of Defense shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.’’.
+    (2) UNITED STATES NAVAL ACADEMY.—Section 8480(c) of such title is amended by adding at the end the following new paragraph:
+          ‘‘(3)(A) The Secretary of Defense may postpone the conduct of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable due to a war or national emergency declared by the President or Congress.
+          ‘‘(B) The Secretary of Defense shall ensure that an assessment postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+          ‘‘(C) The Secretary of Defense shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.’’.
+     (3) UNITED STATES AIR FORCE ACADEMY.—Section 9461(c) of such title is amended by adding at the end the following new paragraph:
+          ‘‘(3)(A) The Secretary of Defense may postpone the conduct of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable due to a war or national emergency declared by the President or Congress.
+          ‘‘(B) The Secretary of Defense shall ensure that an assessment postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+          ‘‘(C) The Secretary of Defense shall notify Congress of a determination under subparagraph (A) not later than 30 days after the date on which the Secretary makes such determination.’’.
+      (c) DEPARTMENT OF DEFENSE CIVILIAN EMPLOYEES.—Section 481a of title 10, United States Code, is amended by adding at the end the following new subsection:
+        ‘‘(d) POSTPONEMENT.—(1) The Secretary of Defense may postpone the conduct of a survey under this section if the Secretary determines that conducting such survey is not practicable due to a war or national emergency declared by the President or Congress.
+        ‘‘(2) The Secretary shall ensure that a survey postponed under paragraph (1) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
+        ‘‘(3) The Secretary shall notify Congress of a determination under paragraph (1) not later than 30 days after the date on which the Secretary makes such determination.’’.

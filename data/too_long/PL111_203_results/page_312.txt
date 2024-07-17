@@ -1,0 +1,17 @@
+124 STAT. 1686        PUBLIC LAW 111–203—JULY 21, 2010
+
+be cleared under this Act may register with the Commission as a derivatives clearing organization.”.
+    (b) REGISTRATION FOR DEPOSITORY INSTITUTIONS AND CLEARING AGENCIES; EXEMPTIONS; COMPLIANCE OFFICER; ANNUAL REPORTS.— Section 5b of the Commodity Exchange Act (7 U.S.C. 7a–1) is amended by adding at the end the following:
+    “(g) EXISTING DEPOSITORY INSTITUTIONS AND CLEARING AGENCIES.—
+    “(1) IN GENERAL.—A depository institution or clearing agency registered with the Securities and Exchange Commis- sion under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) that is required to be registered as a derivatives clearing organization under this section is deemed to be reg- istered under this section to the extent that, before the date of enactment of this subsection—
+    “(A) the depository institution cleared swaps as a multi- lateral clearing organization; or
+    “(B) the clearing agency cleared swaps.
+    “(2) CONVERSION OF DEPOSITORY INSTITUTIONS.—A deposi- tory institution to which this subsection applies may, by the vote of the shareholders owning not less than 51 percent of the voting interests of the depository institution, be converted into a State corporation, partnership, limited liability company, or similar legal form pursuant to a plan of conversion, if the conversion is not in contravention of applicable State law.
+    “(3) SHARING OF INFORMATION.—The Securities and Exchange Commission shall make available to the Commission, upon request, all information determined to be relevant by the Securities and Exchange Commission regarding a clearing agency deemed to be registered with the Commission under paragraph (1).
+    “(h) EXEMPTIONS.—The Commission may exempt, conditionally or unconditionally, a derivatives clearing organization from registra- tion under this section for the clearing of swaps if the Commission determines that the derivatives clearing organization is subject to comparable, comprehensive supervision and regulation by the Securities and Exchange Commission or the appropriate govern- ment authorities in the home country of the organization. Such conditions may include, but are not limited to, requiring that the derivatives clearing organization be available for inspection by the Commission and make available all information requested by the Commission.
+    “(i) DESIGNATION OF CHIEF COMPLIANCE OFFICER.—
+    “(1) IN GENERAL.—Each derivatives clearing organization shall designate an individual to serve as a chief compliance officer.
+    “(2) DUTIES.—The chief compliance officer shall—
+    “(A) report directly to the board or to the senior officer of the derivatives clearing organization;
+    “(B) review the compliance of the derivatives clearing organization with respect to the core principles described in subsection (c)(2);
+    “(C) in consultation with the board of the derivatives clearing organization, a body performing a function similar to the board of the derivatives clearing organization, or the senior officer of the derivatives clearing organization, resolve any conflicts of interest that may arise;

@@ -1,0 +1,33 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4538
+
+“(D) descriptive characteristics of the data, including what populations are included and excluded from the datasets; and
+“(E) any other properties as determined by the Director; and
+“(2) standards for privacy and security of datasets with human characteristics.
+
+“(g) AUTHORIZATION OF APPROPRIATIONS.—There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this section—
+“(1) $64,000,000 for fiscal year 2021;
+“(2) $70,400,000 for fiscal year 2022;
+“(3) $77,440,000 for fiscal year 2023;
+“(4) $85,184,000 for fiscal year 2024; and
+“(5) $93,700,000 for fiscal year 2025.”.
+SEC. 5302. STAKEHOLDER OUTREACH. 15 USC 9441.
+In carrying out the activities under section 22A of the National Institute of Standards and Technology Act (15 U.S.C. 271 et seq.) as amended by title III of this Act, the Director shall—
+(1) solicit input from university researchers, private sector experts, relevant Federal agencies, Federal laboratories, State, Tribal, and local governments, civil society groups, and other relevant stakeholders;
+(2) solicit input from experts in relevant fields of social science, technology ethics, and law; and
+(3) provide opportunity for public comment on guidelines and best practices developed as part of the Initiative, as appropriate.
+
+SEC. 5303. NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION ARTIFICIAL INTELLIGENCE CENTER. 15 USC 9442.
+
+(a) IN GENERAL.—The Administrator of the National Oceanic and Atmospheric Administration (hereafter referred to as “the Administrator”) shall establish, a Center for Artificial Intelligence (hereafter referred to as “the Center”).
+
+(b) CENTER GOALS.—The goals of the Center shall be to—
+(1) coordinate and facilitate the scientific and technological efforts related to artificial intelligence across the National Oceanic and Atmospheric Administration; and
+(2) expand external partnerships, and build workforce proficiency to effectively transition artificial intelligence research and applications to operations.
+(c) COMPREHENSIVE PROGRAM.—Through the Center, the Administrator shall implement a comprehensive program to improve the use of artificial intelligence systems across the agency in support of the mission of the National Oceanic and Atmospheric Administration.
+
+(d) CENTER PRIORITIES.—The priorities of the Center shall be to—
+
+(1) coordinate and facilitate artificial intelligence research and innovation, tools, systems, and capabilities across the National Oceanic and Atmospheric Administration;
+(2) establish data standards and develop and maintain a central repository for agency-wide artificial intelligence applications;

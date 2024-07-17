@@ -1,0 +1,28 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 4603
+
+“(III) any appropriate State regulatory authority; and
+“(IV) a foreign law enforcement authority.
+“(ii) CONFIDENTIALITY.—
+“(I) IN GENERAL.—Each of the entities described in subclauses (I) through (III) of clause (i) shall maintain such information as confidential in accordance with the requirements established under subparagraph (A).
+“(II) FOREIGN AUTHORITIES.—Each entity described in clause (i)(IV) shall maintain such information in accordance with such assurances of confidentiality as determined by the Secretary or Attorney General, as applicable.
+“(5) RIGHTS RETAINED.—Nothing in this section shall
+be deemed to diminish the rights, privileges, or remedies of any whistleblower under any Federal or State law or under any collective bargaining agreement.
+“(6) COORDINATION WITH OTHER PROVISIONS OF LAW.—This subsection shall not apply with respect to any employer that is subject to section 33 of the Federal Deposit Insurance Act (12 U.S.C. 1831j) or section 213 or 214 of the Federal Credit Union Act (12 U.S.C. 1790b, 1790c).
+“(h) PROVISION OF FALSE INFORMATION.—A whistleblower shall
+not be entitled to an award under this section if the whistleblower—
+“(1) knowingly and willfully makes any false, fictitious,
+or fraudulent statement or representation; or
+“(2) uses any false writing or document knowing the writing or document contains any false, fictitious, or fraudulent statement or entry.
+“(i) RULEMAKING AUTHORITY.—The Secretary, in consultation with the Attorney General, shall have the authority to issue such rules and regulations as may be necessary or appropriate to implement the provisions of this section consistent with the purposes of this section.
+“(j) NONENFORCEABILITY OF CERTAIN PROVISIONS WAIVING
+RIGHTS AND REMEDIES OR REQUIRING ARBITRATION OF DISPUTES.—
+“(1) WAIVER OF RIGHTS AND REMEDIES.—The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
+“(2) PREDISPUTE ARBITRATION AGREEMENTS.—No predispute arbitration agreement shall be valid or enforceable, to the extent the agreement requires arbitration of a dispute arising under this section.”
+(b) REPEAL OF SECTION 5328 OF TITLE 31.—Section 5328 of title 31, United States Code, is repealed.
+(c) TECHNICAL AND CONFORMING AMENDMENTS.—The table of sections for subchapter II of chapter 53 of title 31, United 
+States Code, is amended 
+(1) by striking the item relating to section 5323 and inserting the following:
+
+”5323. Whistleblower incentives and protections.”; and
+
+(2) by striking the item relating to section 5328.

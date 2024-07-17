@@ -1,0 +1,41 @@
+124 STAT. 1702          PUBLIC LAW 111–203—JULY 21, 2010
+
+respect to a swap in which 1 counterparty is a swap dealer and the other a major swap participant, the swap dealer shall report the swap as required under paragraphs (1) and (2).
+
+‘‘(C) OTHER SWAPS.—With respect to any other swap not described in subparagraph (A) or (B), the counterparties to the swap shall select a counterparty to report the swap as required under paragraphs (1) and (2).
+
+‘‘(b) DUTIES OF CERTAIN INDIVIDUALS.—Any individual or entity that enters into a swap shall meet each requirement described in subsection (c) if the individual or entity did not— 
+
+‘‘(1) clear the swap in accordance with section 2(h)(1); or ‘‘(2) have the data regarding the swap accepted by a swap data repository in accordance with rules (including timeframes) adopted by the Commission under section 21. ‘‘(c) REQUIREMENTS.—An individual or entity described in subsection (b) shall— 
+
+‘‘(1) upon written request from the Commission, provide reports regarding the swaps held by the individual or entity to the Commission in such form and in such manner as the Commission may request; and 
+
+‘‘(2) maintain books and records pertaining to the swaps held by the individual or entity in such form, in such manner, and for such period as the Commission may require, which shall be open to inspection by— 
+
+‘‘(A) any representative of the Commission; 
+
+‘‘(B) an appropriate prudential regulator; 
+
+‘‘(C) the Securities and Exchange Commission; 
+
+‘‘(D) the Financial Stability Oversight Council; and 
+
+‘‘(E) the Department of Justice. ‘‘(d) IDENTICAL DATA.—In prescribing rules under this section, the Commission shall require individuals and entities described in subsection (b) to submit to the Commission a report that contains data that is not less comprehensive than the data required to be collected by swap data repositories under section 21.’’.
+
+SEC. 730. LARGE SWAP TRADER REPORTING. 
+
+The Commodity Exchange Act (7 U.S.C. 1 et seq.) is amended by adding after section 4s (as added by section 731) the following: 
+
+‘‘SEC. 4t. LARGE SWAP TRADER REPORTING. 
+
+‘‘(a) PROHIBITION.— 
+
+‘‘(1) IN GENERAL.—Except as provided in paragraph (2), it shall be unlawful for any person to enter into any swap that the Commission determines to perform a significant price discovery function with respect to registered entities if the person— 
+
+‘‘(A) the person directly or indirectly enters into the swap during any 1 day in an amount equal to or in excess of such amount as shall be established periodically by the Commission; and 
+
+‘‘(B) the person directly or indirectly has or obtains a position in the swap equal to or in excess of such amount as shall be established periodically by the Commission. 
+
+‘‘(2) EXCEPTION.—Paragraph (1) shall not apply if— 
+
+‘‘(A) the person files or causes to be filed with the properly designated officer of the Commission such reports

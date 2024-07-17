@@ -1,0 +1,24 @@
+134 STAT. 4384             PUBLIC LAW 116–283—JAN. 1, 2021
+
+
+for covered networks to be subject to the procedures for reporting penetrations under subsection (a).
+
+“(2) OFFICIALS SPECIFIED.—The officials specified in this paragraph are the following officials of the Administration:
+“(A) The Deputy Administrator for Defense Programs.
+“(B) The Associate Administrator for Acquisition and Project Management.
+“(C) The Chief Information Officer.
+“(D) Any other official of the Administration the Administrator considers necessary.
+“(c) PROCEDURE REQUIREMENTS.—
+“(1) RAPID REPORTING.—
+“(A) IN GENERAL.—The procedures established pursuant to subsection (a) shall require each contractor or subcontractor to submit to the Chief Information Officer a report on each successful penetration of a covered network of the contractor or subcontractor that meets the criteria established pursuant to subsection (b) not later than 60 days after the discovery of the successful penetration.
+“(B) ELEMENTS.—Subject to subparagraph (C), each report required by subparagraph (A) with respect to a successful penetration of a covered network of a contractor or subcontractor shall include the following:
+“(i) A description of the technique or method used in such penetration.
+“(ii) A sample of the malicious software, if discovered and isolated by the contractor or subcontractor, involved in such penetration.
+“(iii) A summary of information created by or for the Administration in connection with any program of the Administration that has been potentially compromised as a result of such penetration.
+“(C) AVOIDANCE OF DELAYS IN REPORTING.—If a contractor or subcontractor is not able to obtain all the information required by subparagraph (B) to be included in a report required by subparagraph (A) by the date that is 60 days after the discovery of a successful penetration of a covered network of the contractor of subcontractor, the contractor or subcontractor shall—
+“(i) include in the report all information available as of that date; and
+“(ii) provide to the Chief Information Officer the additional information required by subparagraph (B) as the information becomes available.
+“(2) ACCESS TO EQUIPMENT AND INFORMATION BY ADMINISTRATION PERSONNEL.—Concurrent with the establishment of the procedures pursuant to subsection (a), the Administrator shall establish procedures to be used if information owned by the Administration was in use during or at risk as a result of the successful penetration of a covered network—
+“(A) in order to—
+“(i) in the case of a penetration of a covered network of a management and operating contractor, enhance the access of personnel of the Administration to Government-owned equipment and information; and
+“(ii) in the case of a penetration of a covered network of a contractor or subcontractor that is not a

@@ -1,0 +1,25 @@
+124 STAT. 2028		PUBLIC LAW 111–203—JULY 21, 2010
+
+	(i) the cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
+	(ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (b)(1).
+	(B) EFFECTIVE PERIOD.—Any temporary order issued under subparagraph (A)—
+		(i) shall become effective upon service; and
+		(ii) unless set aside, limited, or suspended by a court in proceedings under paragraph (2), shall remain in effect and enforceable until the earlier of—
+			(I) the completion of the proceeding initiated under subsection (b) in connection with the notice of charges; or
+			(II) the date the Bureau determines, by examination or otherwise, that the books and records of the covered person or service provider are accurate and reflect the financial condition thereof.
+(d) SPECIAL RULES FOR ENFORCEMENT OF ORDERS.—
+	(1) IN GENERAL.—The Bureau may in its discretion apply to the United States district court within the jurisdiction of which the principal office or place of business of the person is located, for the enforcement of any effective and outstanding notice or order issued under this section, and such court shall have jurisdiction and power to order and require compliance herewith.
+	(2) EXCEPTION.—Except as otherwise provided in this subsection, no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order or to review, modify, suspend, terminate, or set aside any such notice or order.
+(e) RULES.—The Bureau shall prescribe rules establishing such procedures as may be necessary to carry out this section.
+
+12 USC 5564.			SEC. 1054. LITIGATION AUTHORITY.
+(a) IN GENERAL.—If any person violates a Federal consumer financial law, the Bureau may, subject to sections 1024, 1025, and 1026, commence a civil action against such person to impose a civil penalty or to seek all appropriate legal and equitable relief including a permanent or temporary injunction as permitted by law.
+
+(b) REPRESENTATION.—The Bureau may act in its own name and through its own attorneys in enforcing any provision of this title, rules thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Bureau is a party.
+
+(c) COMPROMISE OF ACTIONS.—The Bureau may compromise or settle any action if such compromise is approved by the court.
+
+(d) NOTICE TO THE ATTORNEY GENERAL.—
+	(1) IN GENERAL.—When commencing a civil action under Federal consumer financial law, or any rule thereunder, the Bureau shall notify the Attorney General and, with respect to a civil action against an insured depository institution or insured credit union, the appropriate prudential regulator.
+	(2) NOTICE AND COORDINATION.—
+		(A) NOTICE OF OTHER ACTIONS.—In addition to any notice required under paragraph (1), the Bureau shall

@@ -1,0 +1,25 @@
+110 STAT. 3009-469	 PUBLIC LAW 104-208—SEPT. 30, 1996
+
+Liability Act of 1980 (42 U.S.C. 9613(a)), no court shall have juris- diction to review the portion of the final rule issued by the Adminis- trator of the Environmental Protection Agency on April 29, 1992 (57 Fed. Reg. 18,344) that prescribed section 300.1105 of title 40, Code of Federal Regulations.
+    (c) AMENDMENT.—No provision of this section shall be construed as limiting the authority of the President or a delegate of the President to amend the portion of the final rule issued by the Administrator of the Environmental Protection Agency on April 29, 1992 (57 Fed. Reg. 18,344), prescribing section 300.1105 of title 40, Code of Federal Regulations, consistent with the amend- ments made by this subtitle and other applicable law.
+    (d) JUDICIAL REVIEW.—No provision of this section shall be construed as precluding judicial review of any amendment of section 300.1105 of title 40, Code of Federal Regulations, made after the date of enactment of this Act.
+
+42 USC 6991b SEC. 2505. EFFECTIVE DATE.
+note.	The amendments made by this subtitle shall be applicable with respect to any claim that has not been finally adjudicated as of the date of enactment of this Act.
+
+Subtitle F—Miscellaneous
+
+SEC. 2601. FEDERAL RESERVE BOARD STUDY.
+
+    (a) STUDY OF ELECTRONIC STORED VALUE PRODUCTS.—
+        (1) STUDY.—The Board shall conduct a study of electronic stored value products which evaluates whether provisions of the Electronic Fund Transfer Act could be applied to such products without adversely impacting the cost, development, and operation of such products.
+        (2) CONSIDERATIONS.—In conducting its study under para- graph (1), the Board shall consider whether alternatives to regulation under the Electronic Fund Transfer Act, such as allowing competitive market forces to shape the development and operation of electronic stored value products, could more efficiently achieve the objectives embodied in that Act.
+    (b) REPORT.—The Board shall submit a report of its study under subsection (a) to the Congress not later than 6 months after the date of enactment of this Act.
+    (c) ACTION TO FINALIZE.—The Board shall take no action to finalize any amendments to regulations under the Electronic Fund Transfer Act that would regulate electronic stored value products until the later of—
+        (1) 3 months after the date on which the report is submitted to the Congress under subsection (b); or
+        (2) 9 months after the date of enactment of this Act.
+
+SEC. 2602. TREATMENT OF CLAIMS ARISING FROM BREACH OF CON- TRACTS EXECUTED BY THE RECEIVER OR CONSERVA- TOR.
+
+	Section 11(d) of the Federal Deposit Insurance Act (12 U.S.C. 1821(d)) is amended by adding at the end the following new para- graph:
+        “(20) TREATMENT OF CLAIMS ARISING FROM BREACH OF CON- TRACTS EXECUTED BY THE RECEIVER OR CONSERVATOR—Not- withstanding any other provision of this subsection, any final

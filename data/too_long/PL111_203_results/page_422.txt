@@ -1,0 +1,16 @@
+124 STAT. 1796            PUBLIC LAW 111-203—JULY 21, 2010
+
+on behalf of such security-based swap dealer or major security-based swap participant, the Commission, by order, shall censure, place limitations on the activities or functions of such person, or suspend for a period not exceeding 12 months, or bar such person from being associated with a security-based swap dealer or major security-based swap participant, if the Commission finds, on the record after notice and opportunity for a hearing, that such censure, placing of limitations, suspension, or bar is in the public interest and that such person—
+    “(A) has committed or omitted any act, or is subject to an order or finding, enumerated in subparagraph (A), (D), or (E) of paragraph (4) of section 15(b);
+    “(B) has been convicted of any offense specified in subparagraph (B) of such paragraph (4) within 10 years of the commencement of the proceedings under this subsection;
+    “(C) is enjoined from any action, conduct, or practice specified in subparagraph (C) of such paragraph (4);
+    “(D) is subject to an order or a final order specified in subparagraph (F) or (H), respectively, of such paragraph (4); or
+    “(E) has been found by a foreign financial regulatory authority to have committed or omitted any act, or violated any foreign statute or regulation, enumerated in subparagraph (G) of such paragraph (4).
+ “(4) UNLAWFUL CONDUCT.—It shall be unlawful—
+    “(A) for any person as to whom an order under paragraph (3) is in effect, without the consent of the Commission, willfully to become, or to be, associated with a security-based swap dealer or major security-based swap participant in contravention of such order; or
+    “(B) for any security-based swap dealer or major security-based swap participant to permit such a person, without the consent of the Commission, to become or remain a person associated with the security-based swap dealer or major security-based swap participant in contravention of such order, if such security-based swap dealer or major security-based swap participant knew, or in the exercise of reasonable care should have known, of such order.”.
+15 USC 8342.  (b) SAVINGS CLAUSE.—Notwithstanding any other provision of this title, nothing in this subtitle shall be construed as divesting any appropriate Federal banking agency of any authority it may have to establish or enforce, with respect to a person for which such agency is the appropriate Federal banking agency, prudential or other standards pursuant to authority by Federal law other than this title.
+Deadline.          15 USC 8343. 
+                    SEC. 765. RULEMAKING ON CONFLICT OF INTEREST.
+
+    (a) IN GENERAL.—In order to mitigate conflicts of interest, not later than 180 days after the date of enactment of the Wall Street Transparency and Accountability Act of 2010, the Securities and Exchange Commission shall adopt rules which may include numerical limits on the control of, or the voting rights with respect to, any clearing agency that clears security-based swaps, or on the control of any security-based swap execution facility or national securities exchange that posts or makes available for trading security-based swaps, by a bank holding company (as defined in section

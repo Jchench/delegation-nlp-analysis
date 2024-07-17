@@ -1,0 +1,63 @@
+124 STAT. 1712         PUBLIC LAW 111-203—JULY 21, 2010
+
+    "(G) establish and follow appropriate procedures for 
+        the handling, management response, remediation, re-
+        testing, and closing of noncompliance issues. 
+    "(3) ANNUAL REPORTS.— 
+        "(A) IN GENERAL.—In accordance with rules prescribed 
+            by the Commission, the chief compliance officer shall 
+            annually prepare and sign a report that contains a descrip- 
+            tion of— 
+                "(i) the compliance of the swap dealer or major 
+                    swap participant with respect to this Act (including 
+                    regulations); and 
+                "(ii) each policy and procedure of the swap dealer 
+                    or major swap participant of the chief compliance 
+                    officer (including the code of ethics and conflict of 
+                    interest policies). 
+            "(B) REQUIREMENTS.—A compliance report under 
+                subparagraph (A) shall— 
+                "(i) accompany each appropriate financial report 
+                    of the swap dealer or major swap participant that 
+                    is required to be furnished to the Commission pursuant 
+                    to this section; and 
+                "(ii) include a certification that, under penalty of 
+                    law, the compliance report is accurate and complete.".
+        
+SEC. 732. CONFLICTS OF INTEREST.
+
+Section 4d of the Commodity Exchange Act (7 U.S.C. 6d) is 
+amended— 
+    (1) by redesignating subsection (c) as subsection (e); and 
+    (2) by inserting after subsection (b) the following: 
+    "(c) CONFLICTS OF INTEREST.—The Commission shall require 
+that futures commission merchants and introducing brokers imple- 
+ment conflict-of-interest systems and procedures that— 
+        "(1) establish structural and institutional safeguards to 
+            ensure that the activities of any person within the firm relating 
+            to research or analysis of the price or market for any commodity 
+            are separated by appropriate informational partitions within  
+            the firm from the review, pressure, or oversight of persons 
+            whose involvement in trading or clearing activities might poten- 
+            tially bias the judgment or supervision of the persons; and 
+        "(2) address such other issues as the Commission deter- 
+            mines to be appropriate. 
+    "(d) DESIGNATION OF CHIEF COMPLIANCE OFFICER.—Each 
+future commission merchant shall designate an individual to serve 
+as its Chief Compliance Officer and perform such duties and respon- 
+sibilities as shall be set forth in regulations to be adopted by 
+the Commission or rules to be adopted by a futures association 
+registred under section 17.".
+
+SEC. 733. SWAP EXECUTION FACILITIES.
+
+The Commodity Exchange Act is amended by inserting after 
+section 5g (7 U.S.C. 7b-2) the following:
+
+"SEC. 5h. SWAP EXECUTION FACILITIES.
+
+    "(a) REGISTRATION.— 
+        "(1) IN GENERAL.—No person may operate a facility for 
+            the trading or processing of swaps unless the facility is reg- 
+            istered as a swap execution facility or as a designated contract 
+            market under this section.

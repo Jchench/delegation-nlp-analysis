@@ -1,0 +1,19 @@
+105 STAT. 2304
+PUBLIC LAW 102-242—DEC. 19, 1991
+
+accept or maintain deposit accounts having balances of less than $100,000, a foreign bank shall—
+                           "(A) establish 1 or more banking subsidiaries in the United
+                           States for that purpose; and
+                           "(B) obtain Federal deposit insurance for any such
+                           subsidiary in accordance with the Federal Deposit Insurance Act.
+          “(2) EXCEPTION.—Deposit accounts with balances of less than $100,000 may be accepted or maintained in a branch of a foreign bank only if such branch was an insured branch on the date of the enactment of this subsection.".
+          (b) SECTION 7.—Section 7 of the International Banking Act of 1978 (12 U.S.C. 3105) is amended by adding at the end the following new subsection:
+Reports.              "(i) STUDY ON EQUIVALENCE OF FOREIGN BANK CAPITAL.—Not later than 180 days after enactment of this subsection, the Board and the Secretary of the Treasury shall jointly submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a report—
+                           "(1) analyzing the capital standards contained in the framework for measurement of capital adequacy established by the Supervisory committee of the Bank for International Settlements, foreign regulatory capital standards that apply to foreign banks conducting banking operations in the United States, and the relationship of the Basle and foreign standards to risk-based capital and leverage requirements for United States banks; and
+                           "(2) establishing guidelines for the adjustments to be used by the Board in converting data on the capital of such foreign banks to the equivalent risk-based capital and leverage requirements for United States banks for purposes of determining whether a foreign bank's capital level is equivalent to that imposed on United States banks for purposes of determinations under section 7 of the International Banking Act of 1978 and sections 3 and 4 of the Bank Holding Company Act of 1956. An update shall be prepared annually explaining any changes in the analysis under paragraph (1) and resulting changes in the guidelines pursuant to paragraph (2).
+12 USC 3102 note.          SEC. 215. STUDY AND REPORT ON SUBSIDIARY REQUIREMENTS FOR FOREIGN BANKS.
+           (a) IN GENERAL.—The Secretary of the Treasury (hereafter referred to as the "Secretary"), jointly with the Board of Governors of the Federal Reserve System and in consultation with the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Attorney General, shall conduct a study of whether foreign banks should be required to conduct banking operations in the United States through subsidiaries rather than branches. In conducting the study, the Secretary shall take into account—
+                 (1) differences in accounting and regulatory practices abroad and the difficulty of assuring that the foreign bank meets United States capital and management standards and is adequately supervised;
+                 (2) implications for the deposit insurance system;
+                 (3) competitive equity considerations;
+                 (4) national treatment of foreign financial institutions;

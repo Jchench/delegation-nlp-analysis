@@ -1,0 +1,24 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 3755
+
+roles, and responsibilities for implementing the program, and the monitoring and evaluation approach that will be used for the program. 
+
+(2) PROGRESS REPORT.—Not later than October 15, 2021, the Secretary of Defense shall submit to the congressional defense committees a report on the progress of the initiatives selected for the pilot program. 
+
+(3) FINAL REPORT.—Not later than 3 years after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the cost, schedule, and performance outcomes of the initiatives carried out under the pilot program. The report shall include lessons learned about the use of consumption-based solutions for software-intensive capabilities and any recommendations for statutory or regulatory changes to facilitate the use of such solutions.
+
+(h) CONSUMPTION-BASED SOLUTION DEFINED.—In this section, the term “consumption-based solution” means any combination of software, hardware or equipment, and labor or services that provides a seamless capability that is metered and billed based on actual usage and predetermined pricing per resource unit, and includes the ability to rapidly scale capacity up or down.
+
+SEC. 835. BALANCING SECURITY AND INNOVATION IN SOFTWARE DEVELOPMENT AND ACQUISITION.
+
+(a) REQUIREMENTS FOR SOLICITATIONS OF COMMERCIAL AND DEVELOPMENTAL SOLUTIONS.—The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Chief Information Officer of the Department of Defense, shall develop requirements for appropriate software security criteria to be included in solicitations for commercial and developmental solutions and the evaluation of bids submitted in response to such solicitations, including a delineation of what processes were or will be used for a secure software development life cycle. Such requirements shall include—
+
+(1) establishment and enforcement of secure coding practices; 
+(2) management of supply chain risks and third-party software sources and component risks; 
+(3) security of the software development environment; 
+(4) secure deployment, configuration, and installation processes; and 
+(5) an associated vulnerability management plan and identification of tools that will be applied to achieve an appropriate level of security. 
+(b) SECURITY REVIEW OF CODE.—The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Chief Information Officer of the Department of Defense, shall develop— 
+
+(1) procedures for the security review of code; and 
+(2) other procedures necessary to fully implement the pilot program required under section 875 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115-91; 10 U.S.C. 2223 note). 
+(c) COORDINATION WITH CYBERSECURITY ACQUISITION POLICY EFFORTS.—The Under Secretary of Defense for Acquisition and Sustainment shall develop the requirements and procedures

@@ -1,0 +1,35 @@
+124 STAT. 1614
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+after the proposed conversion in writing of any ongoing supervisory or investigative proceedings that the appropriate Federal banking agency for the institution proposing to convert believes is likely to result, in the near term and absent the proposed conversion, in a cease and desist order (or other formal enforcement order) or memorandum of understanding with respect to a significant supervisory matter; and 
+
+(B) provide the Federal banking agency that would be the appropriate Federal banking agency for the institution after the proposed conversion access to all investigative and supervisory information relating to the proceedings described in subparagraph (A). 
+
+SEC. 613. DE NOVO BRANCHING INTO STATES.
+
+(a) NATIONAL BANKS.—Section 5155(g)(1)(A) of the Revised Statutes of the United States (12 U.S.C. 36(g)(1)(A)) is amended to read as follows: 
+
+“(A) the law of the State in which the branch is located, or is to be located, would permit establishment of the branch if the national bank were a State bank chartered by such State; and”.
+
+(b) STATE INSURED BANKS.—Section 18(d)(4)(A)(i) of the Federal Deposit Insurance Act (12 U.S.C. 1828(d)(4)(A)(i)) is amended to read as follows: 
+
+“(i) the law of the State in which the branch is located, or is to be located, would permit establishment of the branch if the bank were a State bank chartered by such State; and”.
+
+SEC. 614. LENDING LIMITS TO INSIDERS.
+
+(a) EXTENSIONS OF CREDIT.—Section 22(h)(9)(D)(i) of the Federal Reserve Act (12 U.S.C. 375b(9)(D)(i)) is amended— 
+(1) by striking the period at the end and inserting “; or”; 
+(2) by striking “a person” and inserting “the person”; 
+(3) by striking “extends credit by making” and inserting the following: “extended credit to a person by— 
+“(I) making; and 
+(4) by adding at the end the following: 
+“(II) having credit exposure to the person arising from a derivative transaction (as defined in section 5200(b) of the Revised Statutes of the United States (12 U.S.C. 84(b)), repurchase agreement, reverse repurchase agreement, securities lending transaction, or securities borrowing transaction between the member bank and the person.”. 
+
+(b) EFFECTIVE DATE.—The amendments made by this section shall take effect 1 year after the transfer date.
+
+SEC. 615. LIMITATIONS ON PURCHASES OF ASSETS FROM INSIDERS.
+
+(a) AMENDMENT TO THE FEDERAL DEPOSIT INSURANCE ACT.— Section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828) is amended by adding at the end the following: 
+“(z) GENERAL PROHIBITION ON SALE OF ASSETS.— 
+“(1) IN GENERAL.—An insured depository institution may not purchase an asset from, or sell an asset to, an executive officer, director, or principal shareholder of the insured depository institution, or any related interest of such person (as

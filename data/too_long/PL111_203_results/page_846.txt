@@ -1,0 +1,33 @@
+124 STAT. 2220            PUBLIC LAW 111–203—JULY 21, 2010
+
+(3) the term ‘‘operator’’ has the meaning given the term in section 3 of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 802).
+
+(f) EFFECTIVE DATE.—This section shall take effect on the day that is 30 days after the date of enactment of this Act.
+
+SEC. 1504. DISCLOSURE OF PAYMENTS BY RESOURCE EXTRACTION 
+                        ISSUERS.
+    Section 13 of the Securities Exchange Act of 1934 (15 U.S.C.
+78m), as amended by this Act, is amended by adding at the end the following:
+     ‘‘(q) DISCLOSURE OF PAYMENTS BY RESOURCE EXTRACTION 
+            ISSUERS.—
+         ‘‘(1) DEFINITIONS.—In this subsection—
+           ‘‘(A) the term ‘commercial development of oil, natural gas, or minerals’ includes exploration, extraction, processing, export, and other significant actions relating to oil, natural gas, or minerals, or the acquisition of a license for any such activity, as determined by the Commission;
+           ‘‘(B) the term ‘foreign government’ means a foreign government, a department, agency, or instrumentality of a foreign government, or a company owned by a foreign government, as determined by the Commission;
+           ‘‘(C) the term ‘payment’—
+                  ‘‘(i) means a payment that is—
+                      ‘‘(I) made to further the commercial development of oil, natural gas, or minerals; and
+                      ‘‘(II) not de minimis; and
+                  ‘‘(ii) includes taxes, royalties, fees (including license fees), production entitlements, bonuses, and other material benefits, that the Commission, con-
+    sistent with the guidelines of the Extractive Industries Transparency Initiative (to the extent practicable), determines are part of the commonly recognized revenue stream for the commercial development of oil, natural gas, or minerals;
+           ‘‘(D) the term ‘resource extraction issuer’ means an issuer that—
+                  ‘‘(i) is required to file an annual report with the Commission; and
+                  ‘‘(ii) engages in the commercial development of oil, natural gas, or minerals;
+           ‘‘(E) the term ‘interactive data format’ means an electronic data format in which pieces of information are identi-
+    fied using an interactive data standard; and
+           ‘‘(F) the term ‘interactive data standard’ means standardized list of electronic tags that mark information included in the annual report of a resource extraction issuer.
+         ‘‘(2) DISCLOSURE.—
+           ‘‘(A) INFORMATION REQUIRED.—Not later than 270 days after the date of enactment of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the Commission shall issue final rules that require each resource extraction issuer to include in an annual report of the resource extrac- tion issuer information relating to any payment made by the resource extraction issuer, a subsidiary of the resource          
+               
+Deadline.
+Regulations.
+Reports.

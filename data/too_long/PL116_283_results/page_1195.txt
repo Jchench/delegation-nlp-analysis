@@ -1,0 +1,17 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+(A) rely substantially on information obtained through prior de-risking analyses conducted by the Comptroller General of the United States;
+(B) consider the many drivers of de-risking as identified by the Financial Action Task Force, including profitability, reputational risk, lower risk appetites of banks, regulatory burdens and unclear expectations, and sanctions regimes; and
+(C) identify options for financial institutions handling transactions or accounts for high-risk categories of clients and for minimizing the negative effects of anti-money laundering and countering the financing of terrorism requirements on such individuals and entities and on certain high-risk geographic jurisdictions, without compromising the effectiveness of Federal anti-money laundering and countering the financing of terrorism requirements.
+
+(c) REVIEW OF DE-RISKING.—
+(1) DEFINITION.—In this subsection, the term "de-risking" means actions taken by a financial institution to terminate, fail to initiate, or restrict a business relationship with a customer, or a category of customers, rather than manage the risk associated with that relationship consistent with risk-based supervisory or regulatory requirements, due to drivers such as profitability, reputational risk, lower risk appetites of banks, regulatory burdens or unclear expectations, and sanctions regimes.
+
+(2) REVIEW.—Upon completion of the analysis required under subsection (b), the Secretary, in consultation with the Federal functional regulators, State bank supervisors, State credit union supervisors, and appropriate public- and private-sector stakeholders shall—
+(A) undertake a formal review of the financial institution reporting requirements, as in effect on the date of enactment of this Act, including the processes used to submit reports under the Bank Secrecy Act, regulations implementing the Bank Secrecy Act, examination standards related to the Bank Secrecy Act, and related guidance; and
+(B) propose changes, as appropriate, to those requirements and examination standards described in paragraph (1) to reduce any unnecessarily burdensome regulatory requirements and ensure that the information provided fulfills the purpose described in section 5311 of title 31, United States Code, as amended by this division.
+
+(3) CONTENTS.—The review required under paragraph (2) shall—
+(A) rely substantially on information obtained through the de-risking analyses conducted by the Comptroller General of the United States; and
+(B) consider—
+(i) any adverse consequence of financial institutions de-risking entire categories of relationships, including charities, embassy accounts, money services businesses, as defined in section 1010.100 of title 31, Code of Federal Regulations, or a successor regulation, agents of the financial institutions, countries, international and domestic regions, and respondent banks;

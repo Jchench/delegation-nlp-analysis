@@ -1,0 +1,57 @@
+PUBLIC LAW 110–289—JULY 30, 2008
+
+SEC. 3025. MODIFICATION OF DEFINITION OF TAX-EXEMPT USE PROP-
+ERTY FOR PURPOSES OF THE REHABILITATION CREDIT.
+
+    (a) IN GENERAL.—Subclause (I) of section 47(c)(2)(B)(v) is 
+amended by striking ‘‘section 168(h)’’ and inserting ‘‘section 168(h), 
+except that ‘50 percent’ shall be substituted for ‘35 percent’ in 
+paragraph (1)(B)(ii) thereof’’.
+    (b) EFFECTIVE DATE.—The amendments made by this section 
+shall apply to expenditures properly taken into account for periods 
+after December 31, 2007.
+
+SEC. 3026. EXTENSION OF SPECIAL RULE FOR MORTGAGE REVENUE
+BONDS FOR RESIDENCES LOCATED IN DISASTER AREAS.
+ 
+    (a) IN GENERAL.—Paragraph (11) of section 143(k) is amended—
+        (1) by striking ‘‘December 31, 1996’’ and inserting ‘‘May 
+        1, 2008’’, and
+        (2) by striking ‘‘January 1, 1999’’ and inserting ‘‘January 
+        1, 2010’’.
+    (b) EFFECTIVE DATE.—The amendments made by this section 
+shall apply to bonds issued after May 1, 2008.
+
+SEC. 3027. TRANSFER OF FUNDS APPROPRIATED TO CARRY OUT 2008 
+RECOVERY REBATES FOR INDIVIDUALS.
+
+     Of the funds made available by section 101(e)(1)(A) of the 
+Economic Stimulus Act of 2008 (Public Law 110-185), the Secretary 
+of the Treasury may transfer funds among the accounts specified 
+in such section to carry out section 6428 of the Internal Revenue 
+Code of 1986. The Secretary shall provide notification of any such transfer to the Committees on Appropriations of the 
+House of Representatives and the Senate, and any transfer greater 
+than $5,000,000 shall be subject to the approval of such Committees.
+
+TITLE II—REFORMS RELATED TO REAL 
+            ESTATE INVESTMENT TRUSTS           
+Subtitle A—Foreign Currency and Other 
+            Qualified Activities
+
+SEC. 3031. REVISIONS TO REIT INCOME TESTS. 
+    (a) FOREIGN CURRENCY GAINS NOT GROSS INCOME IN APPLYING 
+REIT INCOME TESTS.—Section 856 (defining real estate investment 
+trust) is amended by adding at the end the following new subsection:
+    ‘‘(n) RULES REGARDING FOREIGN CURRENCY TRANSACTIONS.— 
+        ‘‘(1) IN GENERAL.—For purposes of this part—
+            ‘‘(A) passive foreign exchange gain for any taxable year 
+            shall not constitute gross income for purposes of subsection 
+            (c)(2), and
+            ‘‘(B) real estate foreign exchange gain for any taxable 
+            year shall not constitute gross income for purposes of sub-
+            section (c)(3).
+        ‘‘(2) REAL ESTATE FOREIGN EXCHANGE GAIN.—For purposes 
+        of this subsection, the term ‘real estate foreign exchange gain’ 
+        means—
+            ‘‘(A) foreign currency gain (as defined in section 
+            988(b)(1)) which is attributable to—

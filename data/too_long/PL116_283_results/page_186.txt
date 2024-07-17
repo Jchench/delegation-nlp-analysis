@@ -1,0 +1,21 @@
+134 STAT. 3572           PUBLIC LAW 116–283—JAN. 1, 2021
+
+
+                 after the item relating to section 14502 the following new item:
+                         “14502a. Special selection review boards.”.
+                     (3) DELAY IN PROMOTION.—Section 14311 of such title is amended—
+                         (A) in subsection (a)—
+                           (i) in paragraph (1), by adding at the end the following new subparagraph:
+                         Determination.      “(F) The Secretary of the military department concerned determines that credible information of adverse nature, including a substantiated adverse finding or conclusion described in section 14107(a)(3)(A) of this title, with respect to the officer will result in the convening of a special selection review board under section 14502a of this title to review the officer and recommend whether the recommendation for promotion of the officer should be sustained.”; and
+                           (ii) by adding at the end the following new paragraph:
+                           “(3) In the case of an officer whose promotion is delayed pursuant to paragraph (1)(F) and whose recommendation for promotion is sustained, authorities for the promotion of the officer are specified in section 14502a(f) of this title.”; and
+                         (B) in subsection (c), by adding at the end the following new paragraph:
+                         “(3) Notwithstanding paragraphs (1) and (2), in the case of an officer whose promotion is delayed pursuant to subsection (a)(1)(F), requirements applicable to notice and opportunity in response to such delay are specified in section 14502a(c)(3) of this title.”.
+                 (c) REQUIREMENTS FOR FURNISHING ADVERSE INFORMATION ON REGULAR OFFICERS TO PROMOTION SELECTION BOARDS.—
+                     (1) EXTENSION OF REQUIREMENTS TO SPACE FORCE OFFICERS.—Subparagraph (B)(i) of section 615(a)(3) of title 10, United States Code, is amended by striking “or, in the case of the Navy, lieutenant” and inserting “, in the case of the Navy, lieutenant, or in the case of the Space Force, the equivalent grade”.
+                     (2) SATISFACTION OF REQUIREMENTS THROUGH SPECIAL SELECTION REVIEW BOARDS.—Such section is further amended by adding at the end the following new subparagraph:
+                         “(D) With respect to the consideration of an officer for promotion to a grade at or below major general, in the case of the Navy, rear admiral, or, in the case of the Space Force, the equivalent grade, the requirements in subparagraphs (A) and (C) may be met through the convening and actions of a special selection review board with respect to the officer under section 628a of this title.”.
+                     (3) DELAYED APPLICABILITY OF REQUIREMENTS TO BOARDS FOR PROMOTION OF OFFICERS TO NON-GENERAL AND FLAG OFFICER GRADES.—Subsection (c) of section 502 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1341) is amended to read as follows:
+                 10 USC 615 note.  “(c) EFFECTIVE DATE AND APPLICABILITY.—
+                         “(1) EFFECTIVE DATE.—The amendments made by this section shall take effect on December 20, 2019, and shall, except as provided in paragraph (2), apply with respect to the proceedings of promotion selection boards convened under section 611(a) of title 10, United States Code, after that date.
+

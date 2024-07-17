@@ -1,0 +1,17 @@
+PUBLIC LAW 116-283-JAN. 1, 2021            134 STAT. 4535
+
+	(D) supports interdisciplinary research and development across multiple institutions of higher education and organizations;
+	(E) supports interdisciplinary education activities, including curriculum development, research experiences, and faculty professional development across undergraduate, graduate, and professional academic programs; and
+	(F) supports workforce development in artificial intelligence related disciplines in the United States, including increasing participation of historically underrepresented communities.
+	(3) USE OF FUNDS.-Financial assistance awarded under paragraph (1) may be used by an Institute for—
+		(A) managing and making available to researchers accessible, curated, standardized, secure, and privacy protected data sets from the public and private sectors for the purposes of training and testing artificial intelligence systems and for research using artificial intelligence systems, pursuant to subsections (c), (e), and (f) of section 22A the National Institute of Standards and Technology Act (as added by section 5301 of this division);
+		(B) developing and managing testbeds for artificial intelligence systems, including sector-specific test beds, designed to enable users to evaluate artificial intelligence systems prior to deployment;
+		(C) conducting research and education activities involving artificial intelligence systems to solve challenges with social, economic, health, scientific, and national security implications;
+		(D) providing or brokering access to computing resources, networking, and data facilities for artificial intelligence research and development relevant to the Institute's research goals;
+		(E) providing technical assistance to users, including software engineering support, for artificial intelligence research and development relevant to the Institute's research goals;
+		(F) engaging in outreach and engagement to broaden participation in artificial intelligence research and the artificial intelligence workforce; and
+		(G) such other activities that an agency head, whose agency's missions contribute to or are affected by artificial intelligence, considers consistent with the purposes described in section 5101(a).
+	(4) DURATION.-
+		(A) INITIAL PERIODS.-An award of financial assistance under paragraph (1) shall be awarded for an initial period of 5 years.
+		(B) EXTENSION.-An established Institute may apply for, and the agency head may grant, extended funding for periods of 5 years on a merit-reviewed basis using the merit review criteria of the sponsoring agency.
+	(5) APPLICATION FOR FINANCIAL ASSISTANCE.-A person seeking financial assistance under paragraph (1) shall submit to an agency head an application at such time, in such manner,

@@ -1,0 +1,69 @@
+134 STAT. 4618             PUBLIC LAW 116–283—JAN. 1, 2021
+
+                               “(B) incorporate Federal information system security
+       controls for high-impact systems, excluding national secu-
+       rity systems, consistent with applicable law to prevent
+       the loss of confidentiality, integrity, or availability of
+       information that may have a severe or catastrophic adverse
+       effect.
+
+                      “(9) REPORT BY THE SECRETARY.—Not later than 1 year
+       Time period.
+          after the effective date of the regulations prescribed under
+          this subsection, and annually thereafter for 5 years, the Sec-
+          retary of the Treasury shall submit to the Committee on
+          Banking, Housing, and Urban Affairs of the Senate and the
+          Committee on Financial Services of the House of Representa-
+          tives a report, which—
+
+                               “(A) may include a classified annex; and
+       Classified
+       information.
+                               “(B) shall, with respect to each request submitted
+             under paragraph (2)(B)(ii)(II) during the period covered by
+             the report, and consistent with protocols established by
+             the Secretary that are necessary to protect law enforcement
+             sensitive, tax-related, or classified information, include—
+                                       “(i) the date on which the request was submitted;
+                                       “(ii) the source of the request;
+                                       “(iii) whether the request was accepted or rejected
+                 or is pending; and
+                                       “(iv) a general description of the basis for rejecting
+                 the such request, if applicable.
+          Deadline.
+                      “(10) AUDIT BY THE COMPTROLLER GENERAL.—Not later than
+       Time period.
+          1 year after the effective date of the regulations prescribed
+          under this subsection, and annually thereafter for 6 years,
+          the Comptroller General of the United States shall—
+
+                               “(A) audit the procedures and safeguards established
+             by the Secretary of the Treasury under those regulations,
+             including duties for verification of requestor agencies sys-
+             tems and adherence to the protocols established under
+             this subsection, to determine whether such safeguards and
+             procedures meet the requirements of this subsection and
+             that the Department of the Treasury is using beneficial
+             ownership information appropriately in a manner con-
+             sistent with this subsection; and
+                               “(B) submit to the Secretary of the Treasury, the Com-
+             mittee on Banking, Housing, and Urban Affairs of the
+             Senate, and the Committee on Financial Services of the
+             House of Representatives a report that contains the
+             findings and determinations with respect to any audit con-
+             ducted under this paragraph.
+          Deadlines.
+                      “(11) DEPARTMENT OF THE TREASURY TESTIMONY.—
+       Time period.
+                               “(A) IN GENERAL.—Not later than March 31 of each
+             year for 5 years beginning in 2022, the Director shall
+             be made available to testify before the Committee on
+             Banking, Housing, and Urban Affairs of the Senate and
+             the Committee on Financial Services of the House of Rep-
+             resentatives, or an appropriate subcommittee thereof,
+             regarding FinCEN issues, including, specifically, issues
+             relating to—
+                                       “(i) anticipated plans, goals, and resources nec-
+                 essary for operations of FinCEN in implementing the
+                 requirements of the Anti-Money Laundering Act of
+                 2020 and the amendments made by that Act;

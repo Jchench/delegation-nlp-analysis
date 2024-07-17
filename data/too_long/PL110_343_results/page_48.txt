@@ -1,0 +1,19 @@
+122 STAT. 3812
+
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+“(I) at least 20 percent of its total useful energy in the form of thermal energy which is not used to produce electrical or mechanical power (or combination thereof), and
+“(II) at least 20 percent of its total useful energy in the form of electrical or mechanical power (or combination thereof),
+“(iii) the energy efficiency percentage of which exceeds 60 percent, and
+“(iv) which is placed in service before January 1, 2017.
+“(B) LIMITATION.—
+“(i) IN GENERAL.—In the case of combined heat and power system property with an electrical capacity in excess of the applicable capacity placed in service during the taxable year, the credit under subsection (a)(1) (determined without regard to this paragraph) for such year shall be equal to the amount which bears the same ratio to such credit as the applicable capacity bears to the capacity of such property.
+“(ii) APPLICABLE CAPACITY.—For purposes of clause (i), the term ‘applicable capacity’ means 15 megawatts or a mechanical energy capacity of more than 20,000 horsepower or an equivalent combination of electrical and mechanical energy capacities.
+“(iii) MAXIMUM CAPACITY.—The term ‘combined heat and power system property’ shall not include any property comprising a system if such system has a capacity in excess of 50 megawatts or a mechanical energy capacity in excess of 67,000 horsepower or an equivalent combination of electrical and mechanical energy capacities.
+“(C) SPECIAL RULES.—
+“(i) ENERGY EFFICIENCY PERCENTAGE.—For purposes of this paragraph, the energy efficiency percentage of a system is the fraction—
+“(I) the numerator of which is the total useful electrical, thermal, and mechanical power produced by the system at normal operating rates, and expected to be consumed in its normal application, and
+“(II) the denominator of which is the lower heating value of the fuel sources for the system.
+“(ii) DETERMINATIONS MADE ON BTU BASIS.—The energy efficiency percentage and the percentages under subparagraph (A)(ii) shall be determined on a Btu basis.
+“(iii) INPUT AND OUTPUT PROPERTY NOT INCLUDED.—The term ‘combined heat and power system property’ does not include property used to transport the energy source to the facility or to distribute energy produced by the facility.
+“(D) SYSTEMS USING BIOMASS.—If a system is designed to use biomass (within the meaning of paragraphs (2) and (3) of section 45(c) without regard to the last sentence of paragraph (3)(A)) for at least 90 percent of the energy source—

@@ -1,0 +1,29 @@
+§ 640.5  
+
+consumer within the applicable time periods. If the person arranges to have the auto dealer or other party provide a notice described in §640.5(e), the person’s obligation is satisfied if the consumer receives a notice containing a credit score obtained by the dealer or other party, even if a different credit score is obtained and used by the person on whose behalf the notice is provided.
+  
+(3) Timing requirements for contemporaneous purchase credit. When credit under an open-end credit plan is granted, extended, or provided to a consumer in person or by telephone for the purpose of financing the contemporaneous purchase of goods or services, any risk-based pricing notice required to be provided pursuant to this part (or the disclosures permitted under §640.6(e) or (f)) may be provided at the earlier of:  
+  
+(i) The time of the first mailing by the person to the consumer after the decision is made to approve the grant, extension, or other provision of openend credit, such as in a mailing containing the account agreement or a credit card; or  
+  
+(ii) Within 30 days after the decision to approve the grant, extension, or other provision of credit.
+  
+§ 640.5 Exceptions.
+  
+(a) Application of specific terms—(1) In general. A person is not required to provide a risk-based pricing notice to the consumer under §640.3(a) or (c) if the consumer applies for specific material terms and is granted those terms, unless those terms were specified by the person using a consumer report after the consumer applied for or requested credit and after the person obtained the consumer report. For purposes of his section, “specific material terms” means a single material term, or set of material terms, such as an annual percentage rate of 10 percent, and not a range of alternatives, such as an annual percentage rate that may be 8, 10, or 12 percent, or between 8 and 12 percent.
+  
+(2) Example. A consumer receives a firm offer of credit from a credit issuer. The terms of the firm offer are based in whole or in part on information from a consumer report that the credit card issuer obtained under the FCRA’s firm offer of credit provisions. The solicitation offers the consumer a credit card with a single purchase annual percentage rate of 12 percent. The consumer applies for and receives a credit card with an annual percentage rate of 12 percent. Other customers with the same credit card have a purchase annual percentage rate of 10 percent. The exception applies because the consumer applied for specific material terms and was granted those terms. Although the credit card issuer specified the annual percentage rate in the firm offer of credit based in whole or in part on a consumer report, the credit card issuer specified that material term before, not after, the consumer applied for or requested credit.
+  
+(b) Adverse action notice. A person is not required to provide a risk-based pricing notice the consumer under §640.3(a), (c), or (d) if the person provides an adverse action notice to the consumer under section 615(a) of the FCRA.
+  
+(c) Prescreened solicitations—(1) In general. A person is not required to provide a risk-based pricing notice to the consumer under §640.3(a) or (c) if the person:  
+  
+(i) Obtains a consumer report that is a prescreened list as described in section 604(c)(2) of the FCRA; and  
+  
+(ii) Uses the consumer report for the purpose of making a firm offer of credit to the consumer.  
+  
+(2) More favorable material terms. This exception applies to any firm offer of credit offered by a person to a consumer, even if the person makes other firm offers of credit to other consumers on more favorable material terms.
+  
+(3) Example. A credit card issuer obtains two prescreened lists from a consumer reporting agency. One list includes consumers with high credit scores. The other list includes consumers with lower credit scores. The issuer mails a firm offer of credit to the high credit score consumers with a single purchase annual percentage rate of 10 percent. The issuer also mails a firm offer of credit to the low credit score consumers with a single purchase annual percentage rate of 14 percent. The credit card issuer is not required to provide a risk-based pricing notice to the low credit score consumers who
+
+592

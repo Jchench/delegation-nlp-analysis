@@ -1,0 +1,59 @@
+122 STAT. 3810                 PUBLIC LAW 110–343—OCT. 3, 2008
+Applicability. 26 USC 45 note.
+
+(f) EFFECTIVE DATE.—
+       (1) IN GENERAL.—Except as otherwise provided in this sub-
+section, the amendments made by this section shall apply to
+property originally placed in service after December 31, 2008.
+       (2) REFINED COAL.—The amendments made by subsection
+(b) shall apply to coal produced and sold from facilities placed
+in service after December 31, 2008.
+       (3) TRASH FACILITY CLARIFICATION.—The amendments
+made by subsection (c) shall apply to electricity produced and
+sold after the date of the enactment of this Act.
+       (4) EXPANSION OF BIOMASS FACILITIES.—The amendments
+made by subsection (d) shall apply to property placed in service
+after the date of the enactment of this Act.
+
+SEC. 102. PRODUCTION CREDIT FOR ELECTRICITY PRODUCED FROM
+             MARINE RENEWABLES.
+(a) IN GENERAL.—Paragraph (1) of section 45(c) is amended
+by striking ‘‘and’’ at the end of subparagraph (G), by striking
+the period at the end of subparagraph (H) and inserting ‘‘, and’’,
+and by adding at the end the following new subparagraph:
+        ‘‘(I) marine and hydrokinetic renewable energy.’’.
+(b) MARINE RENEWABLES.—Subsection (c) of section 45 is
+amended by adding at the end the following new paragraph:
+         ‘‘(10) MARINE AND HYDROKINETIC RENEWABLE ENERGY.—
+                ‘‘(A) IN GENERAL.—The term ‘marine and hydrokinetic
+renewable energy’ means energy derived from—
+                         ‘‘(i) waves, tides, and currents in oceans, estuaries,
+and tidal areas,
+                         ‘‘(ii) free flowing water in rivers, lakes, and streams,
+                         ‘‘(iii) free flowing water in an irrigation system,
+canal, or other man-made channel, including projects
+that utilize nonmechanical structures to accelerate the
+flow of water for electric power production purposes,
+or
+                         ‘‘(iv) differentials in ocean temperature (ocean
+thermal energy conversion).
+                ‘‘(B) EXCEPTIONS.—Such term shall not include any
+energy which is derived from any source which utilizes
+a dam, diversionary structure (except as provided in
+subparagraph (A)(iii)), or impoundment for electric power
+production purposes.’’.
+(c) DEFINITION OF FACILITY.—Subsection (d) of section 45 is
+amended by adding at the end the following new paragraph:
+        ‘‘(11) MARINE AND HYDROKINETIC RENEWABLE ENERGY
+FACILITIES.—In the case of a facility producing electricity from
+marine and hydrokinetic renewable energy, the term ‘qualified
+facility’ means any facility owned by the taxpayer—
+                ‘‘(A) which has a nameplate capacity rating of at least
+150 kilowatts, and
+                ‘‘(B) which is originally placed in service on or after
+the date of the enactment of this paragraph and before
+January 1, 2012.’’.
+(d) CREDIT RATE.—Subparagraph (A) of section 45(b)(4) is
+amended by striking ‘‘or (9)’’ and inserting ‘‘(9), or (11)’’.
+(e) COORDINATION WITH SMALL IRRIGATION POWER.—Paragraph
+(5) of section 45(d), as amended by section 101, is amended by

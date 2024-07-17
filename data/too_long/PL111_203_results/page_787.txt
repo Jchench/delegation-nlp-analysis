@@ -1,0 +1,21 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+
+124 STAT. 2161
+
+mortgage that refinances all or any portion of such existing loan or debt.
+
+‘‘(k) LATE FEES.—
+‘‘(1) IN GENERAL.—No creditor may impose a late payment charge or fee in connection with a high-cost mortgage—
+‘‘(A) in an amount in excess of 4 percent of the amount of the payment past due;
+‘‘(B) unless the loan documents specifically authorize the charge or fee;
+‘‘(C) before the end of the 15-day period beginning on the date the payment is due, or in the case of a loan on which interest on each installment is paid in advance, before the end of the 30-day period beginning on the date the payment is due; or
+‘‘(D) more than once with respect to a single late payment.
+‘‘(2) COORDINATION WITH SUBSEQUENT LATE FEES.—If a payment is otherwise a full payment for the applicable period and is paid on its due date or within an applicable grace period, and the only delinquency or insufficiency of payment is attributable to any late fee or delinquency charge assessed on any earlier payment, no late fee or delinquency charge may be imposed on such payment.
+‘‘(3) FAILURE TO MAKE INSTALLMENT PAYMENT.—If, in the case of a loan agreement the terms of which provide that any payment shall first be applied to any past due principal balance, the consumer fails to make an installment payment and the consumer subsequently resumes making installment payments but has not paid all past due installments, the creditor may impose a separate late payment charge or fee for any principal due (without deduction due to late fees or related fees) until the default is cured.
+‘‘(l) ACCELERATION OF DEBT.—No high-cost mortgage may contain a provision which permits the creditor to accelerate the indebtedness, except when repayment of the loan has been accelerated by default in payment, or pursuant to a due-on-sale provision, or pursuant to a material violation of some other provision of the loan document unrelated to payment schedule.
+‘‘(m) RESTRICTION ON FINANCING POINTS AND FEES.—No creditor may directly or indirectly finance, in connection with any high-cost mortgage, any of the following:
+‘‘(1) Any prepayment fee or penalty payable by the consumer in a refinancing transaction if the creditor or an affiliate of the creditor is the noteholder of the note being refinanced.
+‘‘(2) Any points or fees.’’.
+(b) PROHIBITIONS ON EVASIONS.—Section 129 of the Truth in Lending Act (15 U.S.C. 1639) is amended by inserting after subsection (a) (as so redesignated by subsection (a)(1)) the following new subsection:
+‘‘(r) PROHIBITIONS ON EVASIONS, STRUCTURING OF TRANSACTIONS, AND RECIPROCAL ARRANGEMENTS.—A creditor may not take any action in connection with a high-cost mortgage—
+‘‘(1) to structure a loan transaction as an open-end credit plan or another form of loan for the purpose and with the intent of evading the provisions of this title; or

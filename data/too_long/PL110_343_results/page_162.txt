@@ -1,0 +1,28 @@
+122 STAT. 3926
+
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+1, 2010, any owner-financing provided in connection with the repair or reconstruction of such residence shall be treated as a qualified rehabilitation loan.
+‘‘(ii) LIMITATION.—The aggregate owner-financing to which clause (i) applies shall not exceed the lesser of—
+‘‘(I) the cost of such repair or reconstruction, or
+‘‘(II) $150,000.
+‘‘(C) FEDERALLY DECLARED DISASTER.—For purposes of this paragraph, the term ‘federally declared disaster’ has the meaning given such term by section 165(h)(3)(C)(i).
+‘‘(D) ELECTION; DENIAL OF DOUBLE BENEFIT.—
+‘‘(i) ELECTION.—An election under this paragraph may not be revoked except with the consent of the Secretary.
+‘‘(ii) DENIAL OF DOUBLE BENEFIT.—If a taxpayer elects the application of this paragraph, paragraph (11) shall not apply with respect to the purchase or financing of any residence by such taxpayer.’’.
+(b) EFFECTIVE DATE.—The amendment made by subsection (a) shall apply to disasters occurring after December 31, 2007.
+
+SEC. 710. SPECIAL DEPRECIATION ALLOWANCE FOR QUALIFIED DISASTER PROPERTY.
+(a) IN GENERAL.—Section 168, as amended by this Act, is amended by adding at the end the following new subsection:
+‘‘(n) SPECIAL ALLOWANCE FOR QUALIFIED DISASTER ASSISTANCE PROPERTY.—
+‘‘(1) IN GENERAL.—In the case of any qualified disaster assistance property—
+‘‘(A) the depreciation deduction provided by section 167(a) for the taxable year in which such property is placed in service shall include an allowance equal to 50 percent of the adjusted basis of the qualified disaster assistance property, and
+‘‘(B) the adjusted basis of the qualified disaster assistance property shall be reduced by the amount of such deduction before computing the amount otherwise allowable as a depreciation deduction under this chapter for such taxable year and any subsequent taxable year.
+‘‘(2) QUALIFIED DISASTER ASSISTANCE PROPERTY.—For purposes of this subsection—
+‘‘(A) IN GENERAL.—The term ‘qualified disaster assistance property’ means any property—
+‘‘(i)(I) which is described in subsection (k)(2)(A)(i), or
+‘‘(II) which is nonresidential real property or residential rental property,
+‘‘(ii) substantially all of the use of which is—
+‘‘(I) in a disaster area with respect to a federally declared disaster occurring before January 1, 2010, and
+‘‘(II) in the active conduct of a trade or business by the taxpayer in such disaster area,
+‘‘(iii) which—

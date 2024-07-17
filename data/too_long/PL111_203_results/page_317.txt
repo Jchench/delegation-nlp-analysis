@@ -1,0 +1,26 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+124 STAT. 1691
+
+“(ii) establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allows for—
+“(I) the timely recovery and resumption of operations of the derivatives clearing organization; and
+“(II) the fulfillment of each obligation and responsibility of the derivatives clearing organization; and
+“(iii) periodically conduct tests to verify that the backup resources of the derivatives clearing organization are sufficient to ensure daily processing, clearing, and settlement.
+
+“(J) REPORTING.—Each derivatives clearing organization shall provide to the Commission all information that the Commission determines to be necessary to conduct oversight of the derivatives clearing organization.
+
+“(K) RECORDKEEPING.—Each derivatives clearing organization shall maintain records of all activities related to the business of the derivatives clearing organization as a derivatives clearing organization—
+“(i) in a form and manner that is acceptable to the Commission; and
+“(ii) for a period of not less than 5 years.
+
+“(L) PUBLIC INFORMATION.—
+“(i) IN GENERAL.—Each derivatives clearing organization shall provide to market participants sufficient information to enable the market participants to identify and evaluate accurately the risks and costs associated with using the services of the derivatives clearing organization.
+
+“(ii) AVAILABILITY OF INFORMATION.—Each derivatives clearing organization shall make information concerning the rules and operating and default procedures governing the clearing and settlement systems of the derivatives clearing organization available to market participants.
+
+“(iii) PUBLIC DISCLOSURE.—Each derivatives clearing organization shall disclose publicly and to the Commission information concerning—
+“(I) the terms and conditions of each contract, agreement, and transaction cleared and settled by the derivatives clearing organization;
+“(II) each clearing and other fee that the derivatives clearing organization charges the members and participants of the derivatives clearing organization;
+“(III) the margin-setting methodology, and the size and composition, of the financial resource package of the derivatives clearing organization;
+“(IV) daily settlement prices, volume, and open interest for each contract settled or cleared by the derivatives clearing organization; and
+“(V) any other matter relevant to participation in the settlement and clearing activities of the derivatives clearing organization.

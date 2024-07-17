@@ -1,0 +1,21 @@
+PUBLIC LAW 116–283—JAN. 1, 2021              134 STAT. 4795
+
+(E) an operations and maintenance plan with respect to the modernized infrastructure of the NTIA described in such paragraph;
+(F) a strategy for coordination between the covered agencies within the Policy and Plans Steering Group, which shall include—
+   (i) a description of—
+      (I) such coordination efforts, as in effect on the date on which such report is submitted; and
+      (II) a plan for coordination of such efforts after the date on which such report is submitted, including with respect to the efforts described in subsection (c);
+   (ii) a plan for standardizing—
+      (I) electromagnetic spectrum analysis tools;
+      (II) modeling and simulation processes and technologies; and
+      (III) databases to provide technical interference assessments that are usable across the Federal Government as part of a common spectrum management infrastructure for covered agencies; and
+   (iii) a plan for each covered agency to implement a modernization plan described in subsection (c)(1) that is tailored to the particular timeline of such agency;
+(G) identification of manually intensive processes involved in managing Federal spectrum and proposed enhancements to such processes;
+(H) metrics to evaluate the success of the modernization efforts described in such paragraph and any similar future efforts; and
+(I) an estimate of the cost of the modernization efforts described in such paragraph and any future maintenance with respect to the modernized infrastructure of the NTIA described in such paragraph, including the cost of any personnel and equipment relating to such maintenance.
+
+(c) COVERED AGENCY SPECTRUM INFORMATION TECHNOLOGY MODERNIZATION.—
+(1) IN GENERAL.—Not later than 1 year after the date of the enactment of this Act, the head of each covered agency shall submit to the Assistant Secretary of Commerce for Communications and Information and the Policy and Plans Steering Group a report that describes a plan for such agency to modernize the infrastructure of such agency with respect to the use of Federal spectrum by such agency so that such modernized infrastructure of such agency is interoperable with the modernized infrastructure of the NTIA, as described in subsection (b).
+(2) CONTENTS.—Each report submitted by the head of a covered agency under paragraph (1) shall—
+   (A) include—
+      (i) an assessment of the current, as of the date on which such report is submitted, management capabilities of such agency with respect to the use of frequencies that are assigned to such agency, which shall include a description of any challenges faced by such agency with respect to such management;

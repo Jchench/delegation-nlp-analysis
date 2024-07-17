@@ -1,0 +1,20 @@
+PUBLIC LAW 111–203—JULY 21, 2010	124 STAT. 1893
+
+“(i) a total or partial exemption of any securitization, as may be appropriate in the public interest and for the protection of investors;
+
+“(ii) a total or partial exemption for the securitization of an asset issued or guaranteed by the United States, or an agency of the United States, as the Federal banking agencies and the Commission jointly determine appropriate in the public interest and for the protection of investors, except that, for purposes of this clause, the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation are not agencies of the United States;
+
+“(iii) a total or partial exemption for any asset- backed security that is a security issued or guaranteed by any State of the United States, or by any political subdivision of a State or territory, or by any public instrumentality of a State or territory that is exempt from the registration requirements of the Securities Act of 1933 by reason of section 3(a)(2) of that Act (15 U.S.C. 77c(a)(2)), or a security defined as a qualified scholarship funding bond in section 150(d)(2) of the Internal Revenue Code of 1986, as may be appropriate in the public interest and for the protection of investors; and
+
+“(iv) the allocation of risk retention obligations between a securitizer and an originator in the case of a securitization that purchases assets from an originator, as the Federal banking agencies and the Commission jointly determine appropriate.
+“(2) ASSET CLASSES.—
+“(A) ASSET CLASSES.—The regulations prescribed under subsection (b) shall establish asset classes with separate rules for securitizers of different classes of assets, including residential mortgages, commercial mortgages, commercial loans, auto loans, and any other class of assets that the Federal banking agencies and the Commission deem appro priate.
+
+“(B) CONTENTS.—For each asset class established under subparagraph (A), the regulations prescribed under subsection (b) shall include underwriting standards established by the Federal banking agencies that specify the terms, conditions, and characteristics of a loan within the asset class that indicate a low credit risk with respect to the loan.
+“(d) ORIGINATORS.—In determining how to allocate risk reten tion obligations between a securitizer and an originator under sub section (c)(1)(E)(iv), the Federal banking agencies and the Commis sion shall—
+“(1) reduce the percentage of risk retention obligations required the securitizer by the percentage of risk retention obligations required of the originator; and
+
+“(2) consider—
+“(A) whether the assets sold to the securitizer have terms, conditions, and characteristics that reflect low credit risk;
+
+“(B) whether the form or volume of transactions in securitization markets creates incentives for imprudent

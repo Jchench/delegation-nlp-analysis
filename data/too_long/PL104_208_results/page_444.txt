@@ -1,0 +1,59 @@
+110 STAT. 3009–443        PUBLIC LAW 104–208—SEPT. 30, 1996
+
+    ‘‘(1) IN GENERAL.—Except as provided in subsections (b), 
+(c), and (d), a consumer reporting agency may impose a reason- 
+able charge on a consumer—
+           ‘‘(A) for making a disclosure to the consumer pursuant 
+    to section 609, which charge—
+                     ‘‘(i) shall not exceed $8; and
+                     ‘‘(ii) shall be indicated to the consumer before mak- 
+    ing the disclosure; and
+           ‘‘(B) for furnishing, pursuant to section 611(d), follow- 
+    ing a reinvestigation under section 611(a), a statement, 
+    codification, or summary to a person designated by the 
+    consumer under that section after the 30-day period begin- 
+    ning on the date of notification of the consumer under 
+    paragraph (6) or (8) of section 611(a) with respect to the 
+    reinvestigation, which charge—
+                     ‘‘(i) shall not exceed the charge that the agency 
+    would impose on each designated recipient for a 
+    consumer report; and
+                     ‘‘(ii) shall be indicated to the consumer before fur- 
+    nishing such information.
+    ‘‘(2) MODIFICATION OF AMOUNT.—The Federal Trade 
+Commission shall increase the amount referred to in paragraph 
+(1)(A)(i) on January 1 of each year, based proportionally on 
+changes in the Consumer Price Index, with fractional changes 
+rounded to the nearest fifty cents.
+‘‘(b) FREE DISCLOSURE AFTER ADVERSE NOTICE TO CONSUMER.— 
+Each consumer reporting agency that maintains a file on a 
+consumer shall make all disclosures pursuant to section 609 without 
+charge to the consumer if, not later than 60 days after receipt 
+by such consumer of a notification pursuant to section 615, or 
+of a notification from a debt collection agency affiliated with that 
+consumer reporting agency stating that the consumer’s credit rating 
+may be or has been adversely affected, the consumer makes a 
+request under section 609.
+‘‘(c) FREE DISCLOSURE UNDER CERTAIN OTHER CIR- 
+CUMSTANCES.—Upon the request of the consumer, a consumer 
+reporting agency shall make all disclosures pursuant to section 
+609 once during any 12-month period without charge to that 
+consumer if the consumer certifies in writing that the consumer—
+           ‘‘(1) is unemployed and intends to apply for employment 
+    in the 60-day period beginning on the date on which the certifi- 
+    cation is made;
+           ‘‘(2) is a recipient of public welfare assistance; or
+           ‘‘(3) has reason to believe that the file on the consumer 
+    at the agency contains inaccurate information due to fraud.
+‘‘(d) OTHER CHARGES PROHIBITED.—A consumer reporting 
+agency shall not impose any charge on a consumer for providing 
+any notification required by this title or making any disclosure 
+required by this title, except as authorized by subsection (a).’’.
+SEC. 2411. DUTIES OF USERS OF CONSUMER REPORTS.
+
+(a) DUTIES OF USERS TAKING ADVERSE ACTIONS.—Section 615(a) 
+of the Fair Credit Reporting Act (15 U.S.C. 1681m(a)) is amended 
+to read as follows:
+‘‘(a) DUTIES OF USERS TAKING ADVERSE ACTIONS ON THE BASIS 
+OF INFORMATION CONTAINED IN CONSUMER REPORTS.—If any person 
+takes any adverse action with respect to any consumer that is

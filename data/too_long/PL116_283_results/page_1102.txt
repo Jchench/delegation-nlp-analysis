@@ -1,0 +1,85 @@
+134 STAT. 4488             PUBLIC LAW 116−283—JAN. 1, 2021
+
+SEC. 4301. OPERATION AND MAINTENANCE
+(In Thousands of Dollars)
+
+Line Item FY 2021 Request Conference Authorized
+
+ADMINISTRATION AND SERVICEWIDE ACTIVITIES
+
+080 ADMINISTRATION ....................................................... 74,258 74,258
+
+090 RECRUITING AND ADVERTISING ............................ 23,121 23,121
+
+100 MILITARY MANPOWER AND PERS MGMT (ARPC) ...... 12,006 12,006
+
+110 OTHER PERS SUPPORT (DISABILITY COMP) ........... 6,165 6,165
+
+120 AUDIOVISUAL .............................................................        495             495
+
+SUBTOTAL ADMINISTRATION AND SERVICEWIDE ACTIVITIES ..................................... 116,045 116,045
+
+UNDISTRIBUTED
+
+130 UNDISTRIBUTED ..................................................... –30,300 
+COVID-related ops/training slowdown ................... [–30,300]
+
+SUBTOTAL UNDISTRIBUTED ................................ –30,300
+
+TOTAL OPERATION & MAINTENANCE, AF RESERVE ............. 3,350,284...................................................................................................... 3,308,184
+
+OPERATION & MAINTENANCE, ANG
+
+OPERATING FORCES
+
+010 AIRCRAFT OPERATIONS .......................................... 2,476,205 2,476,205
+
+020 MISSION SUPPORT OPERATIONS .......................... 611,325 611,325
+
+030 DEPOT PURCHASE EQUIPMENT MAINTENANCE ..... 1,138,919 1,138,919
+
+040 FACILITIES SUSTAINMENT, RESTORATION & MODERNIZATION  ................................................ 323,605 362,505
+
+Installation recovery ............................................... [30,000]
+
+Program increase for additional facility requirements ........................................................ [8,900]
+
+050 CONTRACTOR LOGISTICS SUPPORT AND SYSTEM SUPPORT ..................................................... 1,100,828 1,100,828
+
+060 BASE SUPPORT .......................................................... 962,438 962,438
+
+070 CYBERSPACE SUSTAINMENT ................................. 27,026 27,026
+
+080 CYBERSPACE ACTIVITIES ........................................ 16,380 16,380
+
+SUBTOTAL OPERATING FORCES ............................... 6,656,728 6,695,828
+
+ADMINISTRATION AND SERVICE-WIDE ACTIVITIES
+
+090 ADMINISTRATION ....................................................... 48,218 48,218
+
+100 RECRUITING AND ADVERTISING ............................ 48,696 45,696
+
+Insufficient justification ........................................... [–3,000]
+
+SUBTOTAL ADMINISTRATION AND SERVICE-WIDE ACTIVITIES .................................. 96,914 93,914
+
+UNDISTRIBUTED
+
+110 UNDISTRIBUTED ..................................................... –44,300 
+COVID-related ops/training slowdown ................... [–44,300]
+
+SUBTOTAL UNDISTRIBUTED ................................ –44,300
+
+TOTAL OPERATION & MAINTENANCE, ANG ........................ 6,753,642 6,745,242
+
+OPERATION AND MAINTENANCE, DEFENSE-WIDE
+
+OPERATING FORCES
+
+010 JOINT CHIEFS OF STAFF .......................................... 439,111 424,111 
+Insufficient justification ........................................... [–15,000]
+
+020 JOINT CHIEFS OF STAFF—CE2T2 .......................... 535,728 535,728
+
+030 JOINT CHIEFS OF STAFF—CYBER .......................... 24,728 24,728

@@ -1,0 +1,23 @@
+134 STAT. 4586                PUBLIC LAW 116–283—JAN. 1, 2021
+
+                (1) within each Federal functional regulator, by the head of the Federal functional regulator;
+                (2) within FinCEN, by the Director of FinCEN; and
+                (3) within the Internal Revenue Service, by the Secretary.
+        (b) DUTIES.—Each Bank Secrecy Act Information Security Officer shall, with respect to the applicable regulator, bureau, or Center within which the Officer is located—
+                (1) be consulted each time Bank Secrecy Act regulations affecting information security or disclosure of Bank Secrecy Act information are developed or reviewed;
+                (2) be consulted on information-sharing policies under the Bank Secrecy Act, including those that allow financial institutions to share information with each other and foreign affiliates, and those that allow Federal agencies to share with regulated entities;
+                (3) be consulted on coordination and clarity between proposed Bank Secrecy Act regulations and information security and confidentiality requirements, including with respect to the reporting of suspicious transactions under section 5318(g) of title 31, United States Code;
+                (4) be consulted on—
+                        (A) the development of new technologies that may strengthen information security and compliance with the Bank Secrecy Act; and
+                        (B) the protection of information collected by each Federal functional regulator under the Bank Secrecy Act; and
+                (5) develop metrics of program success.
+
+SEC. 6304. FINCEN ANALYTICAL HUB.
+Section 310 of title 31, United States Code, as amended by sections 6103, 6105, 6107, 6108, and 6109 of this division, is amended by inserting after subsection (i) the following:
+        “(j) ANALYTICAL EXPERTS.—
+                “(1) IN GENERAL.—FinCEN shall maintain financial experts capable of identifying, tracking, and tracing money laundering and terrorist-financing networks in order to conduct and support civil and criminal anti-money laundering and countering the financing of terrorism investigations conducted by the United States Government.
+                “(2) FINCEN ANALYTICAL HUB.—FinCEN, upon a reasonable request from a Federal agency, shall, in collaboration with the requesting agency and the appropriate Federal functional regulator, analyze the potential anti-money laundering and countering the financing of terrorism activity that prompted the request.
+        “(k) DEFINITIONS.—In this section:
+                “(1) BANK SECRECY ACT.—The term ‘Bank Secrecy Act’ has the meaning given the term in section 6003 of the Anti-Money Laundering Act of 2020.
+                “(2) FEDERAL FUNCTIONAL REGULATOR.—The term ‘Federal functional regulator’ has the meaning given the term in section 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6809).
+                “(3) FINANCIAL INSTITUTION.—The term ‘financial institution’ has the meaning given the term in section 5312 of this title.

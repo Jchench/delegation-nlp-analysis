@@ -1,0 +1,34 @@
+124 STAT. 1558
+
+PUBLIC LAW 111-203—JULY 21, 2010
+
+“(8) BOARD.—The term ‘Board’, other than in the context
+of the Board of Directors of the Corporation, means the Board of Governors of the Federal Reserve System.
+(9) COMPTROLLER.—The term ‘Comptroller’ means the Comptroller of the Currency.”;
+(3) in section 3 (12 U.S.C. 1462a)—
+(A) by striking the section heading and inserting the following:
+
+“SEC. 3. ADMINISTRATIVE PROVISIONS.”;
+(B) by striking subsections (a), (b), (c), (d), (g), (h),
+(i), and (j);
+(C) by redesignating subsections (e) and (f) as sub-sections (a) and (b), respectively;
+(D) in subsection (a), as so redesignated—
+(i) in the heading by striking ‘‘OF THE DIRECTOR’’; and
+(ii) in the matter preceding paragraph (1), by striking ‘‘The Director’’ and inserting ‘‘In accordance with subtitle A of title III of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the appropriate Federal banking agency’’;
+(E) in subsection (b), as so redesignated, by striking ‘‘Director’’ and inserting ‘‘appropriate Federal banking agency’’;
+(4) in section 4 (12 U.S.C. 1463)—
+(A) in subsection (a)—
+(i) in the subsection heading, by striking ‘‘FEDERAL’’;
+(ii) by striking paragraphs (1) and (2) and inserting the following:
+‘‘(1) EXAMINATION AND SAFE AND SOUND OPERATION.—
+‘‘(A) FEDERAL SAVINGS ASSOCIATIONS.—The Comptroller shall provide for the examination and safe and sound operation of Federal savings associations.
+‘‘(B) STATE SAVINGS ASSOCIATIONS.—The Corporation shall provide for the examination and safe and sound operation of State savings associations.
+‘‘(2) REGULATIONS FOR SAVINGS ASSOCIATIONS.—The Comptroller may prescribe regulations with respect to savings associations, as the Comptroller determines to be appropriate to carry out the purposes of this Act.’’; and
+(iii) in paragraph (3), by striking ‘Director’ each place that term appears and inserting ‘‘Comptroller and the Corporation’’;
+(B) in subsection (b)—
+(i) in paragraph (2)—
+(I) in subparagraph (A), by adding ‘‘and’’ at the end;
+(II) in subparagraph (B), by striking ‘‘; and’’ and inserting a period; and
+(III) by striking subparagraph (C); and
+(ii) by striking ‘‘Director’’ each place that term appears and inserting “Comptroller’’;
+(C) in subsection (c)—

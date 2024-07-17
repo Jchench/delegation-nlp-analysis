@@ -1,0 +1,23 @@
+122 STAT. 2894            PUBLIC LAW 110-289—JULY 30, 2008 
+
+The preceding sentence shall not apply to any refunding bond unless such preceding sentence applied to the refunded bond (or in the case of a series of refundings, the original bond).”.
+
+(2) NO ADJUSTMENT TO ADJUSTED CURRENT EARNINGS.—
+Subparagraph (B) of section 56(g)(4) is amended by adding at the end the following new clause:
+“(iii) TAX EXEMPT INTEREST ON CERTAIN HOUSING BONDS.—Clause (i) shall not apply in the case of any interest on a bond to which section 57(a)(5)(C)(iii) applies.”.
+
+(b) ALLOWANCE OF LOW-INCOME HOUSING CREDIT AGAINST ALTERNATIVE MINIMUM TAX.—Subparagraph (B) of section 38(c)(4) (relating to specified credits) is amended by redesignating clauses (ii) through (iv) as clauses (iii) through (v) and inserting after clause (i) the following new clause:
+“(ii) the credit determined under section 42 to the extent attributable to buildings placed in service after December 31, 2007,”.
+
+(c) ALLOWANCE OF REHABILITATION CREDIT AGAINST ALTERNATIVE MINIMUM TAX.—Subparagraph (B) of section 38(c)(4), as amended by subsection (b), is amended by striking “and” at the end of clause (iv), by redesignating clause (v) as clause (vi), and by inserting after clause (iv) the following new clause:
+“(v) the credit determined under section 47 to the extent attributable to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007, and”.
+
+(d) EFFECTIVE DATE.—
+(1) HOUSING BONDS.—The amendments made by subsection (a) shall apply to bonds issued after the date of the enactment of this Act.
+(2) LOW INCOME HOUSING CREDIT.—The amendments made by subsection (b) shall apply to credits determined under section 42 of the Internal Revenue Code of 1986 to the extent attributable to buildings placed in service after December 31, 2007.
+(3) REHABILITATION CREDIT.—The amendments made by subsection (c) shall apply to credits determined under section 47 of the Internal Revenue Code of 1986 to the extent attributable to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007.
+
+SEC. 3023. BONDS GUARANTEED BY FEDERAL HOME LOAN BANKS ELIGIBLE FOR TREATMENT AS TAX-EXEMPT BONDS.
+
+(a) IN GENERAL.—Subparagraph (A) of section 149(b)(3) (relating to exceptions for certain insurance programs) is amended by striking ‘‘or’’ at the end of clause (ii), by striking the period at the end of clause (iii) and inserting ‘‘, or’’ and by adding at the end the following new clause:
+‘‘(iv) subject to subparagraph (E), any guarantee by a Federal home loan bank made in connection with the original issuance of a bond during the period beginning on the date of the enactment of this clause and ending on December 31, 2010 (or a renewal or extension of a guarantee so made).”.

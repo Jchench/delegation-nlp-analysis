@@ -1,0 +1,19 @@
+105 STAT. 2280          PUBLIC LAW 102-242-DEC. 19, 1991
+
+"(ii) any such advance as an advance described in subparagraph (A)(i) of paragraph (3).
+"(3) ADVANCES TO CRITICALLY UNDERCAPITALIZED DEPOSITORY INSTITUTIONS.-
+"(A) LIABILITY FOR INCREASED LOSS.-Notwithstanding any other provision of this section, if-
+"(i) in the case of any critically undercapitalized depository institution-
+"(I) any advance under this section to such institution is outstanding without payment having been demanded as of the end of the 5-day period beginning on the date the institution becomes a critically undercapitalized depository institution; or 
+"(II) any new advance is made to such institution under this section after the end of such period; and
+"(ii) after the end of that 5-day period, any deposit insurance fund in the Federal Deposit Insurance Corporation incurs a loss exceeding the loss that the Corporation would have incurred if it had liquidated that institution as of the end of that period,
+the Board shall, subject to the limitations in subparagraph (B), be liable to the Federal Deposit Insurance Corporation for the excess loss, without regard to the terms of the advance or any collateral pledged to secure the advance.
+"(B) LIMITATION ON EXCESS LOSS.-The liability of the Board under subparagraph (A) shall not exceed the lesser of the following:
+"(i) The amount of the loss the Board or any Federal Reserve bank would have incurred on the increases in the amount of advances made after the 5-day period referred to in subparagraph (A) if those increased advances had been unsecured.
+"(ii) The interest received on the increases in the amount of advances made after the 5-day period referred to in subparagraph (A).
+"(C) FEDERAL RESERVE TO PAY OBLIGATION.-The Board shall pay the Federal Deposit Insurance Corporation the amount of any liability of the Board under subparagraph (A).
+"(D) REPORT.-The Board shall report to the Congress on any excess loss liability it incurs under subparagraph (A), as limited by subparagraph (B)(i), and the reasons therefore, not later than 6 months after incurring the liability.
+"(4) NO OBLIGATION TO MAKE ADVANCES.-A Federal Reserve bank shall have no obligation to make, increase, renew, or extend any advance or discount under this Act to any depository institution.
+"(5) DEFINITIONS.-
+"(A) APPROPRIATE FEDERAL BANKING AGENCY.-The term 'appropriate Federal banking agency' has the same meaning as in section 3 of the Federal Deposit Insurance Act.
+"(B) CRITICALLY UNDERCAPITALIZED.-The term 'critically undercapitalized' has the same meaning as in section 38 of Federal Deposit Insurance Act.

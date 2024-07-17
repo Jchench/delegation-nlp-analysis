@@ -1,0 +1,85 @@
+PUBLIC LAW 110–289—JULY 30, 2008
+
+122 STAT. 2689
+
+Subtitle B—Improvement of Mission Supervision
+
+SEC. 1121. TRANSFER OF PROGRAM APPROVAL AND HOUSING GOAL OVERSIGHT.
+
+Part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541 et seq.) is amended—
+(1) by striking the heading for the part and inserting the following:
+
+“PART 2—ADDITIONAL AUTHORITIES OF THE DIRECTOR”;
+
+and
+(2) by striking sections 1321 and 1322. 12 USC 4541, 4542.
+
+SEC. 1122. ASSUMPTION BY THE DIRECTOR OF CERTAIN OTHER HUD RESPONSIBILITIES.
+
+(a) IN GENERAL.—Part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541 et seq.) is amended—
+(1) by striking “Secretary”’ each place that term appears and inserting “Director” in each of sections 1323, 1326, 1327, 1328, and 1336; and 12 USC 4543, 4546–4548, 4566.
+(2) by striking sections 1338 and 1349 (12 U.S.C. 4562 note and 4589).
+
+(b) RETENTION OF FAIR HOUSING RESPONSIBILITIES.—Section 1325 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4545) is amended in the matter preceding paragraph (1), by inserting “of Housing and Urban Development” after “The Secretary”.
+
+SEC. 1123. REVIEW OF ENTERPRISE PRODUCTS.
+
+Part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541 et seq.) is amended by inserting before section 1323 the following:
+
+“SEC. 1321. PRIOR APPROVAL AUTHORITY FOR PRODUCTS.
+
+“(a) IN GENERAL.—The Director shall require each enterprise to obtain the approval of the Director for any product of the enterprise before initially offering the product.
+“(b) STANDARD FOR APPROVAL.—In considering any request for approval of a product pursuant to subsection (a), the Director shall make a determination that—
+“(1) in the case of a product of the Federal National Mortgage Association, the product is authorized under paragraph (2), (3), (4), or (5) of section 302(b) or section 304 of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717(b), 1719);
+“(2) in the case of a product of the Federal Home Loan Mortgage Corporation, the product is authorized under paragraph (1), (4), or (5) of section 305(a) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a));
+“(3) the product is in the public interest; and
+
+12 USC 4541.
+
+122 STAT. 2690
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+“(4) the product is consistent with the safety and soundness of the enterprise or the mortgage finance system.
+“(c) PROCEDURE FOR APPROVAL.—
+“(1) SUBMISSION OF REQUEST.—An enterprise shall submit to the Director a written request for approval of a product that describes the product in such form as prescribed by order or regulation of the Director.
+“(2) REQUEST FOR PUBLIC COMMENT.—Immediately upon receipt of a request for approval of a product, as required under paragraph (1), the Director shall publish notice of such request and of the period for public comment pursuant to paragraph (3) regarding the product, and a description of the product proposed by the request. The Director shall give interested parties the opportunity to respond in writing to the proposed product.
+“(3) PUBLIC COMMENT PERIOD.—During the 30-day period beginning on the date of publication pursuant to paragraph (2) of a request for approval of a product, the Director shall receive public comments regarding the proposed product.
+“(4) OFFERING OF PRODUCT.—
+“(A) IN GENERAL.—Not later than 30 days after the close of the public comment period described in paragraph (3), the Director shall approve or deny the product, specifying the grounds for such decision in writing.
+“(B) FAILURE TO ACT.—If the Director fails to act within the 30-day period described in subparagraph (A), then the enterprise may offer the product.
+“(C) TEMPORARY APPROVAL.—The Director may, subject to the rules of the Director, provide for temporary approval of the offering of a product without a public comment period, if the Director finds that the existence of exigent circumstances makes such delay contrary to the public interest.
+“(d) CONDITIONAL APPROVAL.—If the Director approves the offering of any product by an enterprise, the Director may establish terms, conditions, or limitations with respect to such product with which the enterprise must comply in order to offer such product.
+“(e) EXCLUSIONS.—
+“(1) IN GENERAL.—The requirements of subsections (a) through (d) do not apply with respect to—
+“(A) the automated loan underwriting system of an enterprise in existence as of the date of enactment of the Federal Housing Finance Regulatory Reform Act of 2008, including any upgrade to the technology, operating system, or software to operate the underwriting system;
+“(B) any modification to the mortgage terms and conditions or mortgage underwriting criteria relating to the mortgages that are purchased or guaranteed by an enterprise, provided that such modifications do not alter the underlying transaction so as to include services or financing other than residential mortgage financing; or
+“(C) any other activity that is substantially similar, as determined by rule of the Director to—
+“(i) the activities described in subparagraphs (A) and (B); and
+“(ii) other activities that have been approved by the Director in accordance with this section.
+
+122 STAT. 2691
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+“(2) EXPEDITED REVIEW.—
+“(A) ENTERPRISE NOTICE.—For any new activity that an enterprise considers not to be a product, the enterprise shall provide written notice to the Director of such activity, and may not commence such activity until the date of receipt of a notice under subparagraph (B) or the expiration of the period described in subparagraph (C). The Director shall establish, by regulation, the form and content of such written notice.
+“(B) DIRECTOR DETERMINATION.—Not later than 15 days after the date of receipt of a notice under subparagraph (A), the Director shall determine whether such activity is a product subject to approval under this section. The Director shall, immediately upon so determining, notify the enterprise.
+“(C) FAILURE TO ACT.—If the Director fails to determine whether such activity is a product within the 15-day period described in subparagraph (B), the enterprise may commence the new activity in accordance with subparagraph (A).
+“(f) NO LIMITATION.—Nothing in this section may be construed to restrict—
+“(1) the safety and soundness authority of the Director over all new and existing products or activities; or
+“(2) the authority of the Director to review all new and existing products or activities to determine that such products or activities are consistent with the statutory mission of an enterprise.”.
+
+SEC. 1124. CONFORMING LOAN LIMITS.
+
+(a) FANNIE MAE.—
+(1) GENERAL LIMIT.—Section 302(b)(2) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717(b)(2)) is amended by striking the 7th and 8th sentences and inserting the following new sentences: “Such limitations shall not exceed $417,000 for a mortgage secured by a single-family residence, $533,850 for a mortgage secured by a 2-family residence, $645,300 for a mortgage secured by a 3 family residence, and $801,950 for a mortgage secured by a 4-family residence, except that such maximum limitations shall be adjusted effective January 1 of each year beginning after the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, subject to the limitations in this paragraph. Each adjustment shall be made by adding to each such amount (as it may have been previously adjusted) a percentage thereof equal to the percentage increase, during the most recent 12-month or 4-quarter period ending before the time of determining such annual adjustment, in the housing price index maintained by the Director of the Federal Housing Finance Agency (pursuant to section 1322 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541)). If the change in such house price index during the most recent 12-month or 4-quarter period ending before the time of determining such annual adjustment is a decrease, then no adjustment shall be made for the next year, and the next adjustment shall take into account prior declines in the house price index so that any adjustment shall reflect the net change in the
+
+Effective dates.
+
+house price index since the last adjustment. Declines in the house price index shall be accumulated and then reduce increases until subsequent increases exceed prior declines.”.
+(2) HIGH-COST AREA LIMIT.—Section 302(b)(2) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1717(b)(2)) is amended by adding after the period at the end the following: “Such foregoing limitations shall also be increased, with respect to properties of a particular size located in any area for which 115 percent of the median house price for such size residence exceeds the foregoing limitation for such size residence, to the lesser of 150 percent of such limitation for such size residence or the amount that is equal to 115 percent of the median house price in such area for such size residence.”.
+(3) EFFECTIVE DATE.—The amendments made by paragraphs (1) and (2) of this subsection shall take effect upon the expiration of the date described in section 201(a) of the Economic Stimulus Act of 2008 (Public Law 110–185).
+(b) FREDDIE MAC.—
+(1) GENERAL LIMIT.—Section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) is amended by striking the 6th and 7th sentences and inserting the following new sentences: “Such limitations shall not exceed $417,000 for a mortgage secured by a single-family residence, $533,850 for a mortgage secured by a 2-family residence, $645,300 for a mortgage secured by a 3-family residence, and $801,950 for a mortgage secured by a 4-family residence, except that such maximum limitations shall be adjusted effective January 1 of each year beginning after the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, subject to the limitations in this paragraph. Each adjustment shall be made by adding to each such amount (as it may have been previously adjusted) a percentage thereof equal to the percentage increase, during the most recent 12-month or 4-quarter period ending before the time of determining such annual adjustment, in the housing price index maintained by the Director of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541). If the change in such house price index during the most recent 12-month or 4-quarter period ending before the time of determining such annual adjustment is a decrease, then no adjustment shall be made for the next year, and the next adjustment shall take into account prior declines in the house price index so that any adjustment shall reflect the net change in the house price index since the last adjustment. Declines in the house price index shall be accumulated and then reduce increases until subsequent increases exceed prior declines.”.
+(2) HIGH-COST AREA LIMIT.—Section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1454(a)(2)) is amended by adding after the period at the end the following: “Such foregoing limitations shall also be increased, with respect to properties of a particular size located in any area for which 115 percent of the median house price for such size residence exceeds the foregoing limitation for such size residence, to

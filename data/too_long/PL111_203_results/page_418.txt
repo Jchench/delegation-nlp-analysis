@@ -1,0 +1,62 @@
+124 STAT. 1792          PUBLIC LAW 111-203—JULY 21, 2010
+
+            “(7) APPLICABILITY.—This subsection shall not apply with
+        respect to a transaction that is—
+                “(A) initiated by a special entity on an exchange or
+            security-based swaps execution facility; and
+                “(B) the security-based swap dealer or major security-
+            based swap participant does not know the identity of the
+            counterparty to the transaction.”
+
+                “(i) DOCUMENTATION STANDARDS.—
+                “(1) IN GENERAL.—Each registered security-based swap
+            dealer and major security-based swap participant shall conform
+            with such standards as may be prescribed by the Commission,
+            by rule or regulation, that relate to timely and accurate con-
+            firmation, processing, netting, documentation, and valuation
+            of all security-based swaps.
+                “(2) RULES.—The Commission shall adopt rules governing
+            documentation standards for security-based swap dealers and
+            major security-based swap participants.
+            
+            
+                “(j) DUTIES.—Each registered security-based swap dealer and
+Compliance.         major security-based swap participant shall, at all times, comply
+            with the following requirements:
+                “(1) MONITORING OF TRADING.—The security-based swap
+            dealer or major security-based swap participant shall monitor
+            its trading in security-based swaps to prevent violations of
+            applicable position limits.
+                “(2) RISK MANAGEMENT PROCEDURES.—The security-based
+            swap dealer or major security-based swap participant shall
+            establish robust and professional risk management systems
+            adequate for managing the day-to-day business of the security-
+            based swap dealer or major security-based swap participant.
+                “(3) DISCLOSURE OF GENERAL INFORMATION.—The security-
+            based swap dealer or major security-based swap participant
+            shall disclose to the Commission and to the prudential regulator
+            for the security-based swap dealer or major security-based swap
+            participant, as applicable, information concerning—
+                    “(A) terms and conditions of its security-based swaps;
+                    “(B) security-based swap trading operations, mecha-
+                nisms, and practices;
+                    “(C) financial integrity protections relating to security-
+                based swaps; and
+                    “(D) other information relevant to its trading in secu-
+                rity-based swaps.
+                “(4) ABILITY TO OBTAIN INFORMATION.—The security-based
+Procedures.      swap dealer or major security-based swap participant shall—
+                    “(A) establish and enforce internal systems and proce-
+                dures to obtain any necessary information to perform any
+                of the functions described in this section; and
+                    “(B) provide the information to the Commission and
+                to the prudential regulator for the security-based swap
+                dealer or major security-based swap participant, as
+                applicable, on request.
+                “(5) CONFLICTS OF INTEREST.—The security-based swap
+            dealer and major security-based swap participant shall imple-
+            ment conflict-of-interest systems and procedures that—
+                    “(A) establish structural and institutional safeguards
+                to ensure that the activities of any person within the firm
+                relating to research or analysis of the price or market
+                for any security-based swap or acting in a role of providing

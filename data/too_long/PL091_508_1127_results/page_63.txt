@@ -1,0 +1,23 @@
+§ 680.21                                                              16 CFR Ch. I (1–1–11 Edition)
+
+equity loan products. The creditor does not have a pre-existing business relationship with the consumer and none of the other exceptions apply. The creditor is prohibited from using eligibility information received from its insurance affiliate to make solicitations to the consumer about its home equity loan products unless the consumer is given a notice and opportunity to opt out and the consumer does not opt out.
+(3) Affiliates who may provide the notice. The notice required by this paragraph (a) must be provided:
+    (i) By an affiliate that has or has previously had a pre-existing business relationship with the consumer; or
+    (ii) As part of a joint notice from two or more members of an affiliated group of companies, provided that at least one of the affiliates on the joint notice has or has previously had a pre-existing business relationship with the consumer.
+(b) Making solicitations—(1) In general. For purposes of this part, you make a solicitation for marketing purposes if—
+    (i) You receive eligibility information from an affiliate;
+    (ii) You use that eligibility information to do one or more of the following:
+        (A) Identify the consumer or type of consumer to receive a solicitation; or
+        (B) Establish criteria used to select the consumer to receive a solicitation; or
+        (C) Decide which of your products or services to market to the consumer or tailor your solicitation to that consumer; and
+    (iii) As a result of your use of the eligibility information, the consumer is provided a solicitation.
+(2) Receiving eligibility information from an affiliate, including through a common database. You may receive eligibility information from an affiliate in various ways, including when that affiliate places that information in a common database that you may access.
+(3) Receipt or use of eligibility information by your service provider. Except as provided in paragraph (b)(5) of this section, you receive or use an affiliate’s eligibility information if a service provider acting on your behalf (whether an affiliate or a nonaffiliated third party) receives or uses that information in the manner described in paragraphs (b)(1)(i) or (b)(1)(ii) of this section. All relevant facts and circumstances will determine whether a person is acting as your service provider when it receives or uses an affiliate’s eligibility information in connection with marketing your products and services.
+(4) Use by an affiliate of its own eligibility information. Unless you have used eligibility information that you receive from an affiliate in the manner described in paragraph (b)(1)(ii) of this section, you do not make a solicitation subject to this part if your affiliate:
+    (i) Uses its own eligibility information that it obtained in connection with a pre-existing business relationship it has or had with the consumer to market your products or services to the consumer; or
+    (ii) Directs its service provider to use the affiliate’s own eligibility information that it obtained in connection with a pre-existing business relationship it has or had with the consumer to market your products or services to the consumer, and you do not communicate directly with the service provider regarding that use.
+(5) Use of eligibility information by a service provider—(i) In general. You do not make a solicitation subject to this part if a service provider (including an affiliated or a third-party service provider that maintains or accesses a common database that you may access) receives eligibility information from your affiliate that your affiliate obtained in connection with a pre-existing business relationship it has or had with the consumer and uses that eligibility information to market your products or services to the consumer, so long as—
+    (A) Your affiliate controls access to and use of its eligibility information by the service provider (including the right to establish the specific terms and conditions under which the service provider may use such information to market your products or services);
+    (B) Your affiliate establishes specific terms and conditions under which the service provider may access and use the affiliate’s eligibility information to market your products and services (or those of affiliates generally) to the consumer, such as the identity of the affiliated companies whose products or
+
+                                                                  608

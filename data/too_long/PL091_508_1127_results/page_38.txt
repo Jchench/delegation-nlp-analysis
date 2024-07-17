@@ -1,0 +1,31 @@
+Federal Trade Commission
+
+PART 611—PROHIBITION AGAINST CIRCUMVENTING TREATMENT AS A NATIONWIDE CONSUMER REPORTING AGENCY
+
+Sec.
+
+611.1 Rule of construction
+
+611.2 General prohibition.
+
+611.3 Limitation on applicability.
+
+AUTHORITY: Pub. L. 108-159, sec. 211(b); 15 U.S.C. 1681x.
+
+SOURCE: 69 FR 29063, May 20, 2004, unless otherwise noted.
+
+§ 611.1 Rule of construction
+
+The examples in this part are illustrative and not exclusive. Compliance with an example, to the extent applicable, constitutes compliance with this part.
+
+§ 611.2 General prohibition.
+
+(a) A consumer reporting agency shall not circumvent or evade treatment as a ‘‘consumer reporting agency’’ that compiles and maintains files on consumers on a nationwide basis as defined under section 603(p) of the Fair Credit Reporting Act, 15 U.S.C. 1681a(p), by any means, including but not limited to:
+
+(1) Corporate organization, reorganization, structure, or restructuring, including merger, acquisition, dissolution, divestiture, or asset sale of a consumer reporting agency; or
+
+(2) Maintaining or merging public record and credit account information in a manner that is substantially equivalent to that described in paragraphs (1) and (2) of section 603(p) of the Fair Credit Reporting Act, 15 U.S.C. 1681a(p).
+
+(b) Examples
+
+(1) Circumvention through reorganization by data type. XYZ Inc. is a consumer reporting agency that compiles and maintains files on consumers on a nationwide basis. It restructures its operations so that public record information is assembled and maintained only in its corporate affiliate, ABC Inc. XYZ continues operating as a consumer reporting agency but ceases to comply with the FCRA obligations of a consumer reporting agency that compiles and maintains files on consumers on a nationwide basis, asserting that it

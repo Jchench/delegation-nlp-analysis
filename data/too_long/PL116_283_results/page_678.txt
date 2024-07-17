@@ -1,0 +1,20 @@
+134 STAT. 4064          PUBLIC LAW 116–283—JAN. 1, 2021
+
+section 221 of title 10, United States Code, includes estimated expenditures and proposed appropriations in amounts necessary to ensure the development and deployment of such space sensor payload as a component of the persistent space-based sensor architecture of the Space Development Agency and the Space Force; and
+    (2) the Vice Chairman of the Joint Chiefs of Staff, acting through the Joint Requirements Oversight Council, shall certify to the appropriate congressional committees that both the ballistic and hypersonic tracking requirements of, and the timeline to deploy, such space sensor payload have been validated.
+(e) LIMITATION.—Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2021 for operation and maintenance, Defense-wide, for the Office of Secretary of Defense for travel of persons assigned to the Office of the Under Secretary of Defense for Research and Engineering, not more than 50 percent may be obligated or expended until—
+    (1) the Secretary of Defense submits the certification under subsection (d)(1)(B);
+    (2) the Under Secretary of Defense (Comptroller) and the Director of Cost Assessment and Program Evaluation jointly submit the first certification under subsection (d)(1); and
+    (3) the Vice Chairman submits the first certification under subsection (d)(2).
+(f) APPROPRIATE CONGRESSIONAL COMMITTEES DEFINED.—In this section, the term ‘‘appropriate congressional committees’’ means—
+    (1) the congressional defense committees; and
+    (2) the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.
+(g) CONFORMING REPEAL.—Section 1683 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2431 note) is amended by striking subsection (d).
+
+SEC. 1646. GROUND-BASED MIDCOURSE DEFENSE INTERIM CAPABILITY.
+(a) INTERIM GROUND-BASED INTERCEPTOR.—
+    (1) DEVELOPMENT.—Subject to the availability of appropriations, not later than 30 days after the date of the enactment of this Act, the Secretary of Defense, acting through the Director of the Missile Defense Agency and in coordination with the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, the Commander of the United States Northern Command, and the Commander of the United States Strategic Command, shall commence carrying out a program to develop an interim ground-based interceptor capability that will—
+        (A) use sound acquisition practices;
+        (B) address the majority of current and near- to midterm projected ballistic missile threats to the United States homeland from rogue nations;
+        (C) at minimum, meet the proposed capabilities of the Redesigned Kill Vehicle program;
+        (D) leverage existing kill vehicle and booster technology; and

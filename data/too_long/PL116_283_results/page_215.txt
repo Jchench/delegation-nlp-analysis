@@ -1,0 +1,21 @@
+PUBLIC LAW 116-283—JAN. 1, 2021	134 STAT. 3601
+
+(c) PUBLICATION.—Not later than 90 days after the Secretary submits the report under this section, the Secretary shall publish the report on a publicly accessible website of the Department of Defense.
+
+Subtitle D—Prevention and Response To Sexual Assault, Harassment, and Related Misconduct
+
+SEC. 531. MODIFICATION OF TIME REQUIRED FOR EXPEDITED DECISIONS IN CONNECTION WITH APPLICATIONS FOR CHANGE OF STATION OR UNIT TRANSFER OF MEMBERS WHO ARE VICTIMS OF SEXUAL ASSAULT OR RELATED OFFENSES.
+(a) IN GENERAL.—Section 673(b) of title 10, United States Code, is amended by striking “72 hours” both places it appears and inserting “five calendar days”.
+(b) EFFECTIVE DATE.—The amendments made by subsection shall take effect on the date of the enactment of this Act, and shall apply to decisions on applications for permanent change of station or unit transfer made under section 673 of title 10, United States Code, on or after that date.
+SEC. 532. CONFIDENTIAL REPORTING OF SEXUAL HARASSMENT.
+(a) CONFIDENTIAL REPORTING.— 
+  (1) IN GENERAL.—Chapter 80 of title 10, United States Code, is amended by inserting after section 1561a the following new section:
+
+“§ 1561b. Confidential reporting of sexual harassment
+“(a) REPORTING PROCESS.—Notwithstanding section 1561 of this title, the Secretary of Defense shall prescribe in regulations a process by which a member of an armed force under the jurisdiction of the Secretary of a military department may confidentially allege a complaint of sexual harassment to an individual outside the immediate chain of command of the member.
+“(b) RECEIPT OF COMPLAINTS.—An individual designated and trained to receive complaints under the process under subsection (a) shall—
+  “(1) maintain the confidentiality of the member alleging the complaint;
+  “(2) explain to the member alleging the complaint the different avenues of redress available to resolve the complaint and the different consequences of each avenue on the manner in which the complaint will be investigated (if at all), including an explanation of the following:
+    “(A) The manner in which to file a complaint concerning alleged sexual harassment with the official or office designated for receipt of such complaint through such avenue of redress.
+    “(B) That confidentiality in connection with the complaint cannot be maintained when there is a clear and present risk to health or safety.
+    “(C) If the alleged sexual harassment also involves an allegation of sexual assault, including sexual contact—

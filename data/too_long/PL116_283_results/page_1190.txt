@@ -1,0 +1,24 @@
+134 STAT. 4576           PUBLIC LAW 116-283—JAN. 1, 2021
+
+ (e) IMPLEMENTATION AND REPORTS.—The Secretary shall, to the extent practicable and necessary, work to provide policy clarity, which may include providing reports or guidance to stakeholders, regarding innovative technologies and practices presented at each symposium convened under this section, to the extent that those technologies and practices further the purposes of this section.
+Deadline.
+(f) FINCEN BRIEFING.—Not later than 90 days after the date of enactment of this Act, the Director of FinCEN shall brief the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Represent­atives on the use of emerging technologies, including—
+(1) the status of implementation and internal use of emerging technologies, including artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies within FinCEN;
+(2) whether artificial intelligence, digital identity tech­nologies, distributed ledger technologies, and other innovative technologies can be further leveraged to make data analysis by FinCEN more efficient and effective;
+(3) whether FinCEN could better use artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies to—
+(A) more actively analyze and disseminate the informa­tion FinCEN collects and stores to provide investigative leads to Federal, State, Tribal, and local law enforcement agencies and other Federal agencies;
+(B) better support ongoing investigations by FinCEN when referring a case to the agencies described in subpara­graph (A);
+(4) with respect to each of paragraphs (1), (2), and (3), any best practices or significant concerns identified by the Director, and their applicability to artificial intelligence, digital identity technologies, distributed ledger technologies, and other innovative technologies with respect to United States efforts to combat money laundering and other forms of illicit finance;
+(5) any policy recommendations that could facilitate and improve communication and coordination between the private sector, FinCEN, and the agencies described in paragraph (3) through the implementation of innovative approaches to meet the obligations of the agencies under the Bank Secrecy Act and anti-money laundering compliance; and
+(6) any other matter the Director determines is appropriate.
+Recommendations.
+SEC. 6212. PILOT PROGRAM ON SHARING OF INFORMATION RELATED
+TO SUSPICIOUS ACTIVITY REPORTS WITHIN A FINANCIAL
+GROUP.
+(a) SHARING WITH FOREIGN BRANCHES AND AFFILIATES.—Sec­tion 5318(g) of title 31, United States Code, as amended by sections 6202 and 6206 of this division, is amended by adding at the end the following:
+‘‘(8) PILOT PROGRAM ON SHARING WITH FOREIGN BRANCHES, SUBSIDIARIES, AND AFFILIATES.—
+Deadline.
+Regulations.
+Coordination.
+‘‘(A) IN GENERAL.—
+‘‘(i) ISSUANCE OF RULES.—Not later than 1 year after the date of enactment of this paragraph, the

@@ -1,0 +1,38 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+134 STAT. 4253
+
+"SUBCHAPTER IV—ADDITIONAL PROVISIONS APPLICABLE SPECIFICALLY TO MAJOR DEFENSE ACQUISITION PROGRAMS
+"Sec.
+"4271. Program cost, fielding, and performance goals in planning major defense acquisition programs.
+"4272. Independent technical risk assessments.
+"4273. Performance assessments and root cause analyses.
+"4274. Acquisition-related functions of chiefs: adherence to requirements in major defense acquisition programs.
+"4275. [Reserved.]
+"4276. [Reserved.]"
+"Sec.
+"4291. [Reserved.]
+"4292. Contracts: limitations on lead system integrators.
+"4293. Major defense acquisition programs: incentive program for contractors to purchase capital assets manufactured in United States.".
+
+(b) SUBCHAPTER I (MANAGEMENT).—
+(1) TRANSFER OF SECTION 2431A.—
+(A) TRANSFER.—Section 2431a of 10, United States Code, is transferred to chapter 322, as added by subsection (a), inserted after the table of sections at the beginning of subchapter I, and redesignated as section 4211.
+(B) CONFORMING CROSS-REFERENCE AMENDMENTS.—
+Such section is amended—
+(i) in subsection (c)(2)—
+(I) in subparagraph (D), by striking "section 2337" and inserting "section 4324";
+(II) in subparagraph (F), by striking "section 2320" and inserting "sections 3771 through 3775";
+and
+(III) in subparagraph (H), by striking "section 2306b" and inserting "sections 3501 through 3511";
+and
+(ii) in subsection (e)—
+(I) in paragraph (4), by striking "section 2366(c)(7)" and inserting "section 4172(c)(7)";
+(II) in paragraph (7), by striking "section 2433a(a)(4)" and inserting "section 4371(a)(4)"; and
+(III) in paragraph (8), by striking "section 2433a(a)(5)" and inserting "section 4371(a)(3)".
+(C) DEFINITIONS.—Subsection (e) of such section is further amended—
+(i) by striking paragraphs (1) and (2); and
+(ii) redesignating paragraphs (3) through (10) (as amended by subparagraph (B)(ii)) as paragraphs (1) through (8), respectively;
+(2) TRANSFER OF SECTION 2440.—
+(A) TRANSFER.—The text of section 2440 of title 10, United States Code, is transferred to section 4211 of that title, as transferred and redesignated by paragraph (1), inserted at the end of subsection (c), designated as paragraph (3), and amended by striking "section 2501" and inserting "section 4811".
+(B) CROSS-REFERENCE.—Subsection (c)(2)(B) of such section 4211 is amended by striking "section 2440 of this title" and inserting "paragraph (3)";

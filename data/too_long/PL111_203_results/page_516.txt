@@ -1,0 +1,24 @@
+124 STAT. 1890        PUBLIC LAW 111–203—JULY 21, 2010
+
+for the assignment of nationally recognized statistical rating organizations to determine the initial credit ratings of structured finance products, in a manner that prevents the issuer, sponsor, or underwriter of the structured finance product from selecting the nationally recognized statistical rating organization that will determine the initial credit ratings and monitor such credit ratings. In issuing any rule under this paragraph, the Commission shall give thorough consideration to the provisions of section 15E(w) of the Securities Exchange Act of 1934, as that provision would have been added by section 939D of H.R. 4173 (111th Congress), as passed by the Senate on May 20, 2010, and shall implement the system described in such section 939D unless the Commission determines that an alternative system would better serve the public interest and the protection of investors.
+        (2) RULE OF CONSTRUCTION.—Nothing in this subsection 
+may be construed to limit or suspend any other rulemaking authority of the Commission.
+SEC. 939G. EFFECT OF RULE 436(G).
+        Rule 436(g), promulgated by the Securities and Exchange 
+Commission under the Securities Act of 1933, shall have no force or effect.
+SEC. 939H. SENSE OF CONGRESS.
+            It is the sense of Congress that the Securities and Exchange 
+Commission should exercise the rulemaking authority of the 
+Commission under section 15E(h)(2)(B) of the Securities Exchange Act of 1934 (15 U.S.C. 78o–7(h)(2)(B)) to prevent improper conflicts of interest arising from employees of nationally recognized statistical rating organizations providing services to issuers of securities that are unrelated to the issuance of credit ratings, including consulting, advisory, and other services.
+
+            Subtitle D—Improvements to the Asset-Backed Securitization Process
+
+SEC. 941. REGULATION OF CREDIT RISK RETENTION.
+            (a) DEFINITION OF ASSET-BACKED SECURITY.—Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended by adding at the end the following:
+            ‘‘(77) ASSET-BACKED SECURITY.—The term ‘asset-backed security’—
+                        ‘‘(A) means a fixed-income or other security collateralized by any type of self-liquidating financial asset (including a loan, a lease, a mortgage, or a secured or unsecured receivable) that allows the holder of the security to receive payments that depend primarily on cash flow from the asset, including—
+                        ‘‘(i) a collateralized mortgage obligation;
+                        ‘‘(ii) a collateralized debt obligation;
+                        ‘‘(iii) a collateralized bond obligation;
+                        ‘‘(iv) a collateralized debt obligation of asset-backed securities;
+                        ‘‘(v) a collateralized debt obligation of collateralized debt obligations; and

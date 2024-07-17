@@ -1,0 +1,50 @@
+124 STAT. 1660          PUBLIC LAW 111–203—JULY 21, 2010
+
+          ‘‘(IV) leverage transaction authorized under 
+          section 19; or
+(ii) who is registered with the Commission as a commodity pool operator.
+‘‘(B) FURTHER DEFINITION.—The Commission, by rule or regulation, may include within, or exclude from, the term ‘commodity pool operator’ any person engaged in a 
+business that is of the nature of a commodity pool, investment trust, syndicate, or similar form of enterprise if the 
+Commission determines that the rule or regulation will 
+effectuate the purposes of this Act.’’;
+(7) in paragraph (12) (as redesignated by paragraph (1)), 
+by subparagraph (A)—
+(A) in clause (i)—
+(i) in subclause (I), by striking ‘‘made or to be 
+made on or subject to the rules of a contract market 
+or derivatives transaction execution facility’’ and inserting ‘‘, security futures product, or swap’’;
+(ii) by redesignating subclauses (II) and (III) as 
+subclauses (III) and (IV);
+(iii) by inserting after subclause (I) the following:
+‘‘(II) any agreement, contract, or transaction described in section 2(c)(2)(C)(i) or section
+2(c)(2)(D)(i);’’; and
+(iv) in subclause (IV) (as so redesignated), by 
+striking ‘‘or’’;
+
+(B) in clause (ii), by striking the period at the end 
+and inserting a semicolon; and
+(C) by adding at the end the following:
+‘‘(iii) is registered with the Commission as a commodity trading advisor; or 
+‘‘(iv) the Commission, by rule or regulation, may 
+include if the Commission determines that the rule 
+or regulation will effectuate the purposes of this Act.’’;
+(8) in paragraph (17) (as redesignated by paragraph (1)), 
+in subparagraph (A), in the matter preceding clause (i), by 
+striking ‘‘paragraph (12)(A)’’ and inserting ‘‘paragraph (18)(A)’’;
+(9) in paragraph (18) (as redesignated by paragraph (1))—
+(A) in subparagraph (A)—
+(i) in the matter following clause (vi)(III)—
+(I) by striking ‘‘section 1a (11)(A)’’ and 
+inserting ‘‘paragraph (17)(A)’’; and 
+(II) by striking ‘‘$25,000,000’’ and inserting 
+‘‘$50,000,000’’; and
+(ii) in clause (xi), in the matter preceding subclause 
+(I), by striking ‘‘total assets in an amount’’ and 
+inserting ‘‘amounts invested on a discretionary basis,
+the aggregate of which is’’;
+(10) by striking paragraph (22) (as redesignated by paragraph (1)) and inserting the following:
+
+‘‘(22) FLOOR BROKER.—
+‘‘(A) IN GENERAL.—The term ‘floor broker’ means any person—
+‘‘(i) who, in or surrounding any pit, ring, post, or other place provided by a contract market for the meeting of persons similarly engaged, shall purchase 
+or sell for any other person—

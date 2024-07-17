@@ -1,0 +1,51 @@
+134 STAT. 3804          PUBLIC LAW 116–283—JAN. 1, 2021
+                           be consistent with the strategic metrics defined pursuant
+                           to subsection (b)(4) of such section 147; and
+                           (F) shall perform such additional duties and exercise
+                           such powers as the Secretary of the military department 
+                           concerned or the Commandant of the Coast Guard, as
+                           applicable, may prescribe.
+                           (c) EFFECTIVE DATE.—This section and the amendments made
+                       by this section shall take effect on February 1, 2021.
+10 USC 147 note.   SEC. 914. LIMITATION ON CONSOLIDATION OR TRANSITION TO ALTER-
+                              NATIVE CONTENT DELIVERY METHODS WITHIN THE 
+                              DEFENSE MEDIA ACTIVITY.
+                                 (a) IN GENERAL.—No consolidation or transition to alternative
+                             content delivery methods may occur within the Defense Media
+                             Activity until a period of 180 days has elapsed following the date 
+                             on which the Secretary of Defense submits to the Committees 
+                             on Armed Services of the Senate and the House of Representatives
+                             a report that identifies key aspects of the business case for alter-
+                             native content delivery, and actions to mitigate risks, relating to 
+                             the following:
+                                     (1) The safety and security of members of the Armed Forces 
+                                 and their families.
+                                     (2) The cybersecurity or security of content delivery to
+                                 members of the Armed Forces, whether through—
+                                        (A) vulnerabilities in the content delivery method con-
+                                     cerned;
+                                        (B) vulnerabilities in the personal devices used by
+                                     members; or
+                                        (C) vulnerabilities in the receivers or streaming devices
+                                     necessary to accommodate the alternative content delivery
+                                     method.
+                                     (3) Costs or personal financial liabilities to members of
+                                 the Armed Forces or their families, whether through monthly
+                                 subscription fees or other tolls required to access digital content.
+                                     (4) Access to content with respect to bandwidth or other
+                                 technical limitations where members of the Armed Forces
+                                 receive content.
+                                (b) DEFINITIONS.—In this section:
+                                        (1) The term “alternative content delivery” means any
+                                    method of the Defense Media Activity for the delivery of digital 
+                                    content that is different from a method used by the Activity 
+                                    as of the date of the enactment of this Act.
+                                        (2) The term “consolidation”, when used with respect to
+                                    the Defense Media Activity, means any action to reduce or 
+                                    limit the functions, personnel, facilities, or capabilities of the 
+                                    Activity, including entering into contracts or developing plans for such reduction or limitation.
+                                                                                        Subtitle C—Space Force Matters
+                   SEC. 921. OFFICE OF THE CHIEF OF SPACE OPERATIONS.
+                           (a) IN GENERAL—Chapter 908 of title 10, United States Code,
+                       is amended by striking section 9083 and inserting the following 
+                       new sections:

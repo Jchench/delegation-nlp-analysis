@@ -1,0 +1,22 @@
+124 STAT. 1864            PUBLIC LAW 111-203—JULY 21, 2010
+
+    “(A) IN GENERAL.—In any proceeding”; and
+    (E) by adding at the end the following:
+    “(B) CEASE-AND-DESIST PROCEEDINGS.—In any proceeding instituted pursuant to subsection (k) against any person, the Commission may impose a civil penalty if the Commission finds, on the record, after notice and opportunity for hearing, that such person—
+        “(i) is violating or has violated any provision of this title, or any rule or regulation issued under this title; or
+        “(ii) is or was a cause of the violation of any provision of this title, or any rule or regulation issued under this title.”.
+(4) UNDER THE INVESTMENT ADVISERS ACT OF 1940.—Section 203(i)(1) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(i)(1)) is amended—
+    (A) by striking the matter following subparagraph (D);
+    (B) in the matter preceding subparagraph (A), by inserting after “opportunity for hearing,” the following: “that such penalty is in the public interest and”;
+    (C) by redesignating subparagraphs (A) through (D) as clauses (i) through (iv), respectively, and adjusting the margins accordingly;
+    (D) by striking “In any proceeding” and inserting the following:
+        “(A) IN GENERAL.—In any proceeding”; and
+        (E) by adding at the end the following new subparagraph:
+        “(B) CEASE-AND-DESIST PROCEEDINGS.—In any proceeding instituted pursuant to subsection (k) against any person, the Commission may impose a civil penalty if the Commission finds, on the record, after notice and opportunity for hearing, that such person—
+            “(i) is violating or has violated any provision of this title, or any rule or regulation issued under this title; or
+            “(ii) is or was a cause of the violation of any provision of this title, or any rule or regulation issued under this title.”.
+(b) EXTRATERRITORIAL JURISDICTION OF THE ANTIFRAUD PROVISIONS OF THE FEDERAL SECURITIES LAWS.—
+    (1) UNDER THE SECURITIES ACT OF 1933.—Section 22 of the Securities Act of 1933 (15 U.S.C. 77v(a)) is amended by adding at the end the following new subsection:
+    “(c) EXTRATERRITORIAL JURISDICTION.—The district courts of the United States and the United States courts of any Territory shall have jurisdiction of an action or proceeding brought or instituted by the Commission or the United States alleging a violation of section 17(a) involving—
+        “(1) conduct within the United States that constitutes significant steps in furtherance of the violation, even if the securities transaction occurs outside the United States and involves only foreign investors; or
+        “(2) conduct occurring outside the United States that has a foreseeable substantial effect within the United States.”.

@@ -1,0 +1,24 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+124 STAT. 1927
+
+a foreign auditor oversight authority to inspect or otherwise enforce laws with respect to, may, at the discretion of the Board, be made available to the foreign auditor oversight authority, if—
+    “(i) the Board finds that it is necessary to accomplish the purposes of this Act or to protect investors;
+    “(ii) the foreign auditor oversight authority provides—
+        “(I) such assurances of confidentiality as the Board may request;
+        “(II) a description of the applicable information systems and controls of the foreign auditor oversight authority; and
+        “(III) a description of the laws and regulations of the foreign government of the foreign auditor oversight authority that are relevant to information access; and
+    “(iii) the Board determines that it is appropriate to share such information.”.
+(c) CONFORMING AMENDMENT.—Section 105(b)(5)(A) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5)(A)) is amended by striking “subparagraph (B)” and inserting “subparagraphs (B) and (C)”.
+
+SEC. 982. OVERSIGHT OF BROKERS AND DEALERS.
+(a) DEFINITIONS.—
+(1) DEFINITIONS AMENDED.—Title I of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201 et seq.) is amended by adding at the end the following new section:
+“SEC. 110. DEFINITIONS.
+“For the purposes of this title, the following definitions shall apply:
+    “(1) AUDIT.—The term ‘audit’ means an examination of the financial statements, reports, documents, procedures, controls, or records of any issuer, broker, or dealer by an independent public accounting firm in accordance with the rules of the Board or the Commission, for the purpose of expressing an opinion on the financial statements or providing an audit report.
+    “(2) AUDIT REPORT.—The term ‘audit report’ means a document, report, notice, or other record—
+        “(A) prepared following an audit performed for purposes of compliance by any issuer, broker, or dealer with the requirements of the securities laws; and
+        “(B) in which a public accounting firm either—
+            “(i) sets forth the opinion of that firm regarding a financial statement, report, notice, or other document, procedures, or controls; or
+            “(ii) asserts that no such opinion can be expressed.
+    “(3) BROKER.—The term ‘broker’ means a broker (as such term is defined in section 3(a)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(4))) that is required to file a balance sheet, income statement, or other financial statement under section 17(e)(1)(A) of such Act (15 U.S.C. 78q(e)(1)(A)), where such balance sheet, income statement, or financial statement is required to be certified by a registered public accounting firm.

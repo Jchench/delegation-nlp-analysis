@@ -1,0 +1,20 @@
+PUBLIC LAW 102-242—DEC. 19, 1991	105 STAT. 2237
+
+	"(iii) any amount borrowed pursuant to section 14; and
+	"(iii) any other obligation for which the Corporation has a direct or contingent liability to pay any amount.
+	"(B) VALUATION OF CONTINGENT LIABILITIES.—The Corporation shall value any contingent liability at its expected cost to the Corporation.".
+(b) GAO REPORTS.—
+	(1) QUARTERLY REPORTING.—The Comptroller General of the United States shall submit a report each calendar quarter on the Federal Deposit Insurance Corporation's compliance with section 15(c)(5) of the Federal Deposit Insurance Act for the preceding quarter to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+	(2) ANALYSES TO BE INCLUDED.—Each report submitted under paragraph (1) shall include—
+		(A) an analysis of the performance of the Federal Deposit Insurance Corporation in meeting any repayment schedule under section 14(c) of the Federal Deposit Insurance Act (as added by section 103 of this Act); and
+		(B) an analysis of the actual recovery on asset sales compared to the estimated fair market value of the assets as determined for the purposes of section 15(c)(5)(B) of such Act.
+
+(c) TECHNICAL AND CONFORMING AMENDMENT.—Section 15(c) of the Federal Deposit Insurance Act (12 U.S.C. 1825(c)) is amended by striking paragraph (7).
+
+SEC. 103. REPAYMENT SCHEDULE.
+
+(a) IN GENERAL.—Section 14 of the Federal Deposit Insurance Act (12 U.S.C. 1824) is amended by adding at the end the following new subsection:
+	"(c) REPAYMENT SCHEDULES REQUIRED FOR ANY BORROWING.—
+		"(1) IN GENERAL.—No amount may be provided by the Secretary of the Treasury to the Corporation under subsection (a) unless an agreement is in effect between the Secretary and the Corporation which—
+			"(A) provides a schedule for the repayment of the outstanding amount of any borrowing under such subsection; and
+			"(B) demonstrates that income to the Corporation from assessments under this Act will be sufficient to amortize the outstanding

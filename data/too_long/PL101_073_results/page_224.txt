@@ -1,0 +1,21 @@
+103 STAT. 406		PUBLIC LAW 101-73-AUG. 9, 1989
+
+"(10) UNDIVIDED PROFITS. - The term ‘undivided profits' means earnings retained after dividends have been paid minus the sum of- 
+"(A) that portion required to be added to reserves maintained pursuant to the first 2 sentences of section 16; and 
+"(B) the dollar amounts held by the respective Federal Home Loan Banks in special dividend stabilization reserves on December 31, 1985, as determined by the table set forth in section 21(d)(7).
+"(J) REGULATIONS. - The Oversight Board may prescribe any regulations necessary to carry out this section.”.
+(b) FUNDING CORPORATION AS MIXED-OWNERSHIP GOVERNMENT 
+CORPORATION.-
+(1) IN GENERAL. - Section 9101 (2) of title 31, United States Code, is amended by adding at the end the following new subparagraph:
+"(M) the Resolution Funding Corporation.”. 
+(2) ANNUAL GAO AUDIT.-
+(A) IN GENERAL. - Section 9105(a)(2) of title 31, United States Code, is amended by adding at the end the following new sentence: “The Comptroller General shall audit the Resolution Funding Corporation annually.”.
+(B) CONFORMING AMENDMENT. - Section 9105(a)(2) of title 31, United States Code, is amended by striking “Federal Savings and Loan Insurance Corporation and”.
+SEC. 512. FINANCING CORPORATION.
+Section 21 of the Federal Home Loan Bank Act (12 U.S.C. 1441) is amended-
+(1) by striking “insured institution” each place it appears and inserting “Savings Association Insurance Fund member”;
+(2) by striking Federal Home Loan Bank Board” and “Board” each place they appear and inserting “Federal Housing Finance Board”;
+(3) in subsection (c)(2), by inserting before the period the following: “prior to the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 and thereafter to transfer the proceeds of any obligation issued by the Financing Corporation to the FSLIC Resolution Fund”;
+(4) in subsection (c)(9) by striking “or section 402(b) of the National Housing Act”;
+(5) by amending the portion of subsection (d)(4) appearing before the table to read as follows: “Of the first $1,000,000,000 in the aggregate which the Oversight Board pursuant to section 21B or the Federal Housing Finance Board under this section (as the case may be) may require the Federal Home Loan Banks collectively to invest in the stock of the Funding Corporation or invest in the capital stock of the Financing Corporation, respectively, the amount which each Federal Home Loan Bank (or any successor to such Bank) shall invest shall be determined by the Oversight Board or the Federal Housing Finance Board (as the case may be) by multiplying the aggregate amount of such payment or investment by all Banks by the percentage appearing in the following table for each such Bank:”;
+(6) in subsection (d)(5), by striking “$1,000,000,000 which the Board” and inserting “the $1,000,000,000 amount referred to in paragraph (4) which the Federal Housing Finance Board”;

@@ -1,0 +1,73 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 3409
+
+Sec. 1749. Implementation of information operations matters.
+Sec. 1750. Report on use of encryption by Department of Defense national security systems.
+Sec. 1751. Guidance and direction on use of direct hiring processes for artificial intelligence professionals and other data science and software development personnel.
+Sec. 1752. National Cyber Director.
+
+TITLE XVIII—TRANSFER AND REORGANIZATION OF DEFENSE ACQUISITION STATUTES
+Sec. 1801. Transfer and reorganization of defense acquisition statutes.
+
+Subtitle A—Definitions
+
+Sec. 1806. Definitions.
+Sec. 1807. General matters.
+Sec. 1808. Defense acquisition system.
+Sec. 1809. Budgeting and appropriations.
+Sec. 1810. Operational contract support.
+
+Subtitle B—Acquisition Planning
+
+Sec. 1811. Planning and solicitation generally.
+Sec. 1812. Independent cost estimation and cost analysis.
+Sec. 1813. Other provisions relating to planning and solicitation generally.
+
+Subtitle C—Contracting Methods and Contract Types
+
+Sec. 1816. Awarding of contracts.
+Sec. 1817. Specific types of contracts.
+Sec. 1818. Other matters relating to awarding of contracts.
+Sec. 1819. Undefinitized contractual actions.
+Sec. 1820. Task and delivery order contracts.
+Sec. 1821. Acquisition of commercial products and commercial services.
+Sec. 1822. Multiyear contracts.
+Sec. 1823. Simplified acquisition procedures.
+Sec. 1824. Rapid acquisition procedures.
+Sec. 1825. Contracts for long-term lease or charter of vessels, aircraft, and combat vehicles.
+
+Subtitle D—General Contracting Provisions
+
+Sec. 1831. Cost or pricing data.
+Sec. 1832. Allowable costs.
+Sec. 1833. Proprietary contractor data and rights in technical data.
+Sec. 1834. Contract financing.
+Sec. 1835. Contractor audits and accounting.
+Sec. 1836. Claims and disputes.
+Sec. 1837. Foreign acquisitions.
+Sec. 1838. Socioeconomic programs.
+
+Subtitle E—Research and Engineering
+
+Sec. 1841. Research and engineering generally.
+Sec. 1842. Innovation.
+Sec. 1843. Department of Defense laboratories.
+Sec. 1844. Research and development centers and facilities.
+Sec. 1845. Test and evaluation.
+
+Subtitle F—Major Systems, Major Defense Acquisition Programs, and Weapon Systems Development
+
+Sec. 1846. General matters.
+Sec. 1847. Major systems and major defense acquisition programs generally.
+Sec. 1848. Life-cycle and sustainment.
+Sec. 1849. Program status-selected acquisition reports.
+Sec. 1850. Cost growth—unit cost reports (Nunn-McCurdy).
+Sec. 1851. Weapon systems development and related matters.
+
+Subtitle G—Other Special Categories of Contracting
+
+Sec. 1856. Acquisition of services generally.
+Sec. 1857. Acquisition of information technology.
+
+Subtitle H—Contract Management
+
+Sec. 1861. Contract administration.

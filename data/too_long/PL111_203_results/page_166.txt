@@ -1,0 +1,57 @@
+124 STAT. 1540         PUBLIC LAW 111-203—JULY 21, 2010
+
+SEC. 335. PERMANENT INCREASE IN DEPOSIT AND SHARE INSURANCE.
+(a) PERMANENT INCREASE IN DEPOSIT INSURANCE.—Section 
+    11(a)(1)(E) of the Federal Deposit Insurance Act (12 U.S.C.
+    1821(a)(1)(E)) is amended—
+        (1) by striking ‘‘$100,000’’ and inserting ‘‘$250,000’’; and
+        (2) by adding at the end the following new sentences:
+‘‘Notwithstanding any other provision of law, the increase in 
+the standard maximum deposit insurance amount to $250,000 
+shall apply to depositors in any institution for which the Cor-
+poration was appointed as receiver or conservator on or after 
+January 1, 2008, and before October 3, 2008. The Corporation 
+shall take such actions as are necessary to carry out the require-
+ments of this section with respect to such depositors, without 
+regard to any time limitations under this Act. In implementing 
+this and the preceding 2 sentences, any payment on a deposit 
+claim made by the Corporation as receiver or conservator to 
+a depositor above the standard maximum deposit insurance 
+amount in effect at the time of the appointment of the Corpora-
+tion as receiver or conservator shall be deemed to be part 
+of the net amount due to the depositor under subparagraph 
+(B).’’
+(b) PERMANENT INCREASE IN SHARE INSURANCE.—Section 
+    207(k)(5) of the Federal Credit Union Act (12 U.S.C. 1787(k)(5)) 
+    is amended by striking ‘‘$100,000’’ and inserting ‘‘$250,000’’.
+
+SEC. 336. MANAGEMENT OF THE FEDERAL DEPOSIT INSURANCE COR-
+    PORATION.
+(a) IN GENERAL.—Section 2 of the Federal Deposit Insurance 
+    Act (12 U.S.C. 1812) is amended—
+        (1) in subsection (a)(1)(B), by striking ‘‘Director of the Office 
+        of Thrift Supervision’’ and inserting ‘‘Director of the Consumer 
+        Financial Protection Bureau’’;
+        (2) by amending subsection (d)(2) to read as follows:
+        ‘‘(2) ACTING OFFICIALS MAY SERVE.—In the event of a 
+        vacancy in the office of the Comptroller of the Currency or 
+        the office of Director of the Consumer Financial Protection 
+        Bureau and pending the appointment of a successor, or during 
+        the absence or disability of the Comptroller of the Currency 
+        or the Director of the Consumer Financial Protection Bureau, 
+        the acting Comptroller of the Currency or the acting Director 
+        of the Consumer Financial Protection Bureau, as the case may 
+        be, shall be a member of the Board of Directors in the place 
+        of the Comptroller or Director.’’; and
+        (3) in subsection (f)(2), by striking ‘‘Office of Thrift Super-
+        vision’’ and inserting ‘‘Consumer Financial Protection Bureau’’.
+(b) EFFECTIVE DATE.—This section, and the amendments made 
+    by this section, shall take effect on the transfer date.
+
+Subtitle D—Other Matters
+
+SEC. 341. BRANCHING.
+Notwithstanding the Federal Deposit Insurance Act (12 U.S.C. 
+    1811 et seq.), the Bank Holding Company Act of 1956 (12 U.S.C. 
+    1841 et seq.), or any other provision of Federal or State law, 
+    a savings association that becomes a bank may—

@@ -1,0 +1,17 @@
+PUBLIC LAW 102-242—DEC. 19, 1991 
+
+institution's officers and employees) are owned only by the institution.
+"(4) Transition period for common and preferred stock investments.—
+"(A) In general.—During each year in the 3-year period beginning on the date of the enactment of the Federal Deposit Insurance Corporation Improvement Act of 1991, each insured State bank shall reduce by not less than 1/3 of its shares (as of such date of enactment) the bank's ownership of securities in excess of the amount equal to 100 percent of the capital of such bank.
+"(B) Compliance at end of period.—By the end of the 3-year period referred to in subparagraph (A), each insured State bank and each subsidiary of a State bank shall be in compliance with the maximum amount limitations on investments referred to in paragraph (1).
+"(5) Loss of exception upon acquisition,—Any exception applicable under paragraph (2) with respect to any insured State bank shall cease to apply with respect to such bank upon any change in control of such bank or any conversion of the charter of such bank.
+"(6) Notice and approval.—An insured State bank may only engage in any investment pursuant to paragraph (2) if—
+"(A) the bank has filed a 1-time notice of the bank's intention to acquire and retain investments described in paragraph (1); and
+"(B) the Corporation has determined, within 60 days of receiving such notice, that acquiring or retaining such investments does not pose a significant risk to the insurance fund of which such bank is a member.
+"(7) Divestiture.—
+"(A) In general.—The Corporation may require divestiture by an insured State bank of any investment permitted under this subsection if the Corporation determines that such investment will have an adverse effect on the safety and soundness of the bank.
+"(B) Reasonable standard.—The Corporation shall not require divestiture by any bank pursuant to subparagraph (A) without reason to believe that such investment will have an adverse effect on the safety and soundness of the bank.
+"(g) Determinations,—The Corporation shall make determinations under this section by regulation or order.
+"(h) Activity defined.—For purposes of this section, the term 'activity' includes acquiring or retaining any investment.
+"(i) Other authority not affected,—This section shall not be construed as limiting the authority of any appropriate Federal banking agency or any State supervisory authority to impose more stringent restrictions."
+(b) Technical and conforming amendment.—The 13th undesignated paragraph of section 9 of the Federal Reserve Act (12 U.S.C. 330) is amended by striking ". Provided, however, That no Federal reserve bank" and inserting ", except that the Board of Governors of the Federal Reserve System may limit the activities of State member banks and subsidiaries of State member banks in a manner consistent with section 24 of the Federal Deposit Insurance Act. No Federal reserve bank".

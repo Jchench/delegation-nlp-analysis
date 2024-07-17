@@ -1,0 +1,19 @@
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+122 STAT. 3837
+
+“(1) BUSINESS CREDIT TREATED AS PART OF GENERAL BUSINESS CREDIT.—So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section 38(b) for such taxable year (and not allowed under subsection (a)).
+
+“(2) PERSONAL CREDIT.—
+“(A) IN GENERAL.—For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
+“(B) LIMITATION BASED ON AMOUNT OF TAX.—In the case of a taxable year to which section 26(a)(2) does not apply, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall not exceed the excess of—
+“(i) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over 
+“(ii) the sum of the credits allowable under subpart A (other than this section and sections 23 and 25D) and section 27 for the taxable year.
+“(e) OTHER DEFINITIONS AND SPECIAL RULES.—For purposes of this section—
+“(1) MOTOR VEHICLE.—The term ‘motor vehicle’ has the meaning given such term by section 30(c)(2).
+“(2) OTHER TERMS.—The terms ‘passenger automobile’, ‘light truck’, and ‘manufacturer’ have the meanings given such terms in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.).
+“(3) TRACTION BATTERY CAPACITY.—Traction battery capacity shall be measured in kilowatt hours from a 100 percent state of charge to a zero percent state of charge.
+“(4) REDUCTION IN BASIS.—For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed.
+“(5) NO DOUBLE BENEFIT.—The amount of any deduction or other credit allowable under this chapter for a new qualified plug-in electric drive motor vehicle shall be reduced by the amount of credit allowed under subsection (a) for such vehicle for the taxable year.
+“(6) PROPERTY USED BY TAX-EXEMPT ENTITY.—In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (b)(2)).
+“(7) PROPERTY USED OUTSIDE UNITED STATES, ETC., NOT QUALIFIED.—No credit shall be allowable under subsection (a)

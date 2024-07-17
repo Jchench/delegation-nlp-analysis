@@ -1,0 +1,31 @@
+PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 2017
+
+the State consumer financial law applies to any person, corporation, or other entity subject to such State law.
+ 
+“(f) PRESERVATION OF POWERS RELATED TO CHARGING INTEREST.—No provision of this title shall be construed as altering or otherwise affecting the authority conferred by section 5197 of the Revised Statutes of the United States (12 U.S.C. 85) for the charging of interest by a national bank at the rate allowed by the laws of the State, territory, or district where the bank is located, including with respect to the meaning of ‘interest’ under such provision.
+ 
+“(g) TRANSPARENCY OF OCC PREEMPTION DETERMINATIONS.—The Comptroller of the Currency shall publish and update no less frequently than quarterly, a list of preemption determinations by the Comptroller of the Currency then in effect that identifies the activities and practices covered by each determination and the requirements and constraints determined to be preempted.”.
+ 
+(b) CLERICAL AMENDMENT.—The table of sections for chapter one of title LXII of the Revised Statutes of the United States is amended by inserting after the item relating to section 5136B the following new item:
+ 
+“Sec. 5136C. State law preemption standards for national banks and subsidiaries clarified.”.
+ 
+SEC. 1045. CLARIFICATION OF LAW APPLICABLE TO NONDEPOSITORY INSTITUTION SUBSIDIARIES.
+ 
+Section 5136C of the Revised Statutes of the United States (as added by this subtitle) is amended by adding at the end the following:
+ 
+“(h) CLARIFICATION OF LAW APPLICABLE TO NONDEPOSITORY INSTITUTION SUBSIDIARIES AND AFFILIATES OF NATIONAL BANKS.—
+
+“(1) DEFINITIONS.—For purposes of this subsection, the terms ‘depository institution’, ‘subsidiary’, and ‘affiliate’ have the same meanings as in section 3 of the Federal Deposit Insurance Act.
+ 
+“(2) RULE OF CONSTRUCTION.—No provision of this title or section 24 of the Federal Reserve Act (12 U.S.C. 371) shall be construed as preempting, annulling, or affecting the applicability of State law to any subsidiary, affiliate, or agent of a national bank (other than a subsidiary, affiliate, or agent that is chartered as a national bank).”.
+ 
+SEC. 1046. STATE LAW PREEMPTION STANDARDS FOR FEDERAL SAVINGS ASSOCIATIONS AND SUBSIDIARIES CLARIFIED.
+ 
+(a) IN GENERAL.—The Home Owners’ Loan Act (12 U.S.C. 1461 et seq.) is amended by inserting after section 5 the following new section:
+ 
+“SEC. 6. STATE LAW PREEMPTION STANDARDS FOR FEDERAL SAVINGS ASSOCIATIONS CLARIFIED.
+ 
+“(a) IN GENERAL.—Any determination by a court or by the Director or any successor officer or agency regarding the relation of State law to a provision of this Act or any regulation or order prescribed under this Act shall be made in accordance with the laws and legal standards applicable to national banks regarding the preemption of State law.
+ 
+“(b) PRINCIPLES OF CONFLICT PREEMPTION APPLICABLE.—Notwithstanding other authorities granted under sections 4 and 5, this Act does not occupy the field in any area of State law.”.

@@ -1,0 +1,57 @@
+PUBLIC LAW 101-73—AUG. 9, 1989                                103 STAT. 493
+
+Subtitle C—Improving Early Detection of
+Misconduct and Encouraging Informants
+
+
+SEC. 931. INFORMATION REQUIRED TO BE MADE AVAILABLE TO OUTSIDE
+     AUDITORS.
+   (a) DEPOSITORY INSTITUTIONS INSURED BY THE FDIC.—Section 7(a)
+of the Federal Deposit Insurance Act (12 U.S.C. 1817(a)) is amended
+by adding at the end thereof the following new paragraph:
+     "(8) REPORT TO INDEPENDENT AUDITOR.—
+          "(A) IN GENERAL.—Each insured depository institution
+        which has engaged the services of an independent auditor
+        to audit such depository institution within the past 2 years
+        shall transmit to such auditor a copy of the the most recent
+        report of condition made by such depository institution
+        (pursuant to this Act or any other provision of law) and a
+        copy of the most recent report of examination received by
+        such depository institution.
+          "(B) ADDITIONAL INFORMATION.—In addition to the copies
+        of the reports required to be provided to an auditor under
+        subparagraph (A), each insured depository institution shall
+        provide such auditor with—
+             "(i) a copy of any supervisory memorandum of
+           standing with such depository institution and any writ
+           ten agreement between a Federal or State banking
+           agency and the depository institution which is in effect
+           during the period covered by the audit; and
+             "(ii) a report of any action initiated or taken by a
+           Federal banking agency during such period under
+           subsection (a), (b), (c), (e), (g), (i), or (s) of section 8, or of
+           any similar action taken by a State banking agency
+           under State law, or any other civil money penalty
+           assessed under any other provision of law with respect
+           to—
+                   "(I) the depository institution; or
+                   "(II) any institution-affiliated party.''.
+   (b) INSTITUTIONS INSURED BY THE NCUA.—Section 202(a) of the
+Federal Credit Union Act (12 U.S.C. 1782(a)) is amended by adding
+after the paragraph added by section 922 of this Act the following
+new paragraph:
+     "(7) REPORT TO INDEPENDENT AUDITOR.—
+          "(A) IN GENERAL.—Each insured credit union which has
+        engaged the services of an independent auditor to audit
+        such depository institution within the past 2 years shall
+        transmit to such auditor a copy of the most recent report of
+        condition made by such credit union (pursuant to this Act
+        or any other provision of law) and a copy of the most recent 
+        report of examination received by such credit union.
+          "(B) ADDITIONAL INFORMATION.—In addition to the copies
+        of the reports required to be provided to an auditor under
+        subparagraph (A), each insured credit union shall provide
+        such auditor with—
+             "(i) a copy of any supervisory memorandum of under
+           standing with such credit union and any written agree
+           ment between the Board or a State regulatory agency

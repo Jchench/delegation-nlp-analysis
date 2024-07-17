@@ -1,0 +1,32 @@
+134 STAT. 3870
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+(B) the feasibility of the Department of Defense, the Government Publishing Office, or another Federal Government entity maintaining a consolidated online public database for unclassified reports submitted after the date of the enactment of this Act pursuant to a congressional reporting requirement that includes, for each report in the database—
+    (i) a copy of the report;
+    (ii) the deadline on which the report was required to be submitted to Congress;
+    (iii) the date on which the report was transmitted;
+    (iv) the total cost associated with the report; and
+    (v) a brief summary of the report, including a citation to the legislative text requiring the report.
+
+(d) CONGRESSIONAL REPORTING REQUIREMENT DEFINED.—In this section, the term ‘‘congressional reporting requirement’’ means a requirement that the Secretary of Defense, or any element or official of the Department of Defense, submit to Congress, or to a committee of Congress, an unclassified report or briefing by reason of—
+    (1) any provision of title 10, United States Code;
+    (2) a provision of any National Defense Authorization Act;
+    (3) a provision of a statement of managers that accompanied the conference report for any National Defense Authorization Act; or
+    (4) a provision of a committee report that accompanied a version of any National Defense Authorization Act, as reported by the Committee on Armed Services of the Senate or the Committee on Armed Services of the House of Representatives.
+
+Subtitle G—Other Matters
+SEC. 1081. TECHNICAL, CONFORMING, AND CLERICAL AMENDMENTS.
+(a) TITLE 10, UNITED STATES CODE.—Title 10, United States Code, is amended as follows:
+    (1) The table of chapters at the beginning of subtitle A of title 10, United States Code, and at the beginning of part I of such subtitle, are each amended by inserting before the item relating to chapter 20 the following new item:
+10 USC 101 prec.
+    ‘‘19. Cyber Matters .................................................................................391.’’.
+    (2) The table of chapters at the beginning of subtitle A of title 10, United States Code, and at the beginning of part IV of such subtitle, are each amended by inserting after the item relating to chapter 1112 the following new item:
+10 USC 101 prec., 2001 prec.
+    ‘‘113. Defense Civilian Training Corps .........................................2200g.’’.
+    (3) The table of chapters at the beginning of subtitle A of title 10, United States Code, and at the beginning of part IV of such subtitle, are each amended by striking the item relating to chapter 140 and inserting the following new item:
+10 USC 101 prec., 2201 prec.
+    ‘‘140. Procurement of Commercial Products and Commercial Services ................................................................................2375.’’.
+    (4)(A) The section designation of each section in chapter 113 of title 10, United States Code, is amended by striking ‘‘Sec.’’ and inserting ‘‘§’’.
+10 USC 2200g, 2200h, 2200i, 2200j.
+    (B) Each corresponding item in the table of sections at the beginning of such chapter is amended by striking ‘‘Sec.’’, and inserting ‘‘§’’.

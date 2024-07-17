@@ -1,0 +1,22 @@
+134 STAT. 3472	                                                                                                PUBLIC LAW 116–283—JAN. 1, 2021
+
+	(B) is designated as a covered individual by the Federal research agency concerned.
+	(2) The term ‘‘current and pending research support’’—
+    (A) means all resources made available, or expected to be made available, to an individual in support of the individual’s research and development efforts, regardless of—
+        (i) whether the source of the resource is foreign or domestic;
+	(ii) whether the resource is made available through the entity applying for a research and development award or directly to the individual; or
+        (iii) whether the resource has monetary value; and
+    (B) includes in-kind contributions requiring a commitment of time and directly supporting the individual’s research and development efforts, such as the provision of office or laboratory space, equipment, supplies, employees, or students.
+	(3) The term ‘‘entity’’ means an entity that has applied for or received a research and development award from a Federal research agency.
+	(4) The term ‘‘Federal research agency’’ means any Federal agency with an annual extramural research expenditure of over $100,000,000.
+	(5) The term ‘‘research and development award’’ means support provided to an individual or entity by a Federal research agency to carry out research and development activities, which may include support in the form of a grant, contract, cooperative agreement, or other such transaction. The term does not include a grant, contract, agreement or other transaction for the procurement of goods or services to meet the administrative needs of a Federal research agency.
+
+10 USC 4571 note.	
+SEC. 224.  GOVERNANCE OF FIFTH-GENERATION WIRELESS 	NETWORKING IN THE DEPARTMENT OF DEFENSE.
+
+(a) TRANSITION OF 5G WIRELESS NETWORKING TO OPERATIONAL USE.—	
+	(1) TRANSITION PLAN REQUIRED.—The Under Secretary of 		defense for Research and Engineering, in consultation with 	the cross functional team established under subsection (c), shall 	develop a plan to transition fifth-generation (commonly known 	as ‘‘5G’’) wireless technology to operational use within the 	Department of Defense.
+	(2) ELEMENTS.—The transition plan under paragraph (1) 	shall include the following:
+    (A) A timeline for the transition of responsibility for 5G wireless networking to the Chief Information Officer, as required under subsection (b)(1).
+    (B) A description of the roles and responsibilities of the organizations and elements of the Department of Defense with respect to the acquisition, sustainment, and operation of 5G wireless networking for the Department, as determined by the Secretary of Defense in accordance with subsection (d).
+	(3) INTERIM BRIEFING.—Not later than March 31, 2021 	the Secretary of Defense shall provide to the congressional

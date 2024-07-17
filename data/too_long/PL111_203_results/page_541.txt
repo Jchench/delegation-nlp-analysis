@@ -1,0 +1,57 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+124 STAT. 1915
+
+Subtitle G—Strengthening Corporate Governance
+
+SEC. 971. PROXY ACCESS.
+(a) PROXY ACCESS.—Section 14(a) of the Securities Exchange
+Act of 1934 (15 U.S.C. 78n(a)) is amended—
+(1) by inserting ‘‘(1)’’ after ‘‘(a)’’; and
+(2) by adding at the end the following:
+‘‘(2) The rules and regulations prescribed by the Commission
+under paragraph (1) may include—
+‘‘(A) a requirement that a solicitation of proxy, consent,
+or authorization by (or on behalf of) an issuer include a nominee
+submitted by a shareholder to serve on the board of directors
+of the issuer; and
+‘‘(B) a requirement that an issuer follow a certain procedure
+in relation to a solicitation described in subparagraph (A).’’.
+(b) REGULATIONS.—The Commission may issue rules permitting
+the use by a shareholder of proxy solicitation materials supplied
+by an issuer of securities for the purpose of nominating individuals
+to membership on the board of directors of the issuer, under such
+terms and conditions as the Commission determines are in the
+interests of shareholders and for the protection of investors.
+(c) EXEMPTIONS.—The Commission may, by rule or order,
+exempt an issuer or class of issuers from the requirement made
+by this section or an amendment made by this section. In deter-
+mining whether to make an exemption under this subsection, the
+Commission shall take into account, among other considerations,
+whether the requirement in the amendment made by subsection
+(a) disproportionately burdens small issuers.
+
+SEC. 972. DISCLOSURES REGARDING CHAIRMAN AND CEO STRUC-
+TURES.
+The Securities Exchange Act of 1934 (15 U.S. C. 78a et seq.)
+is amended by inserting after section 14A, as added by this title,
+the following:
+
+‘‘SEC. 14B. CORPORATE GOVERNANCE.
+‘‘Not later than 180 days after the date of enactment of this
+subsection, the Commission shall issue rules that require an issuer
+to disclose in the annual proxy sent to investors the reasons why
+the issuer has chosen—
+‘‘(1) the same person to serve as chairman of the board
+of directors and chief executive officer (or in equivalent posi-
+tions); or
+‘‘(2) different individuals to serve as chairman of the board
+of directors and chief executive officer (or in equivalent positions
+of the issuer).’’.
+
+Subtitle H—Municipal Securities
+
+SEC. 975. REGULATION OF MUNICIPAL SECURITIES AND CHANGES TO
+THE BOARD OF THE MSRB.
+(a) REGISTRATION OF MUNICIPAL SECURITIES DEALERS AND
+MUNICIPAL ADVISORS.—Section 15B(a) of the Securities Exchange
+Act of 1934 (15 U.S.C. 78o–4(a)) is amended—

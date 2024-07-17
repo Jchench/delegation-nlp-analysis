@@ -1,0 +1,17 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+124 STAT. 1809
+
+(2) WHEN NO HEARING REQUESTED.—If the Council does not receive a timely request for a hearing under subsection (c)(2), the Council shall notify the financial market utility or financial institutions of the final determination of the Council in writing not later than 30 days after the expiration of the date by which a financial market utility or a financial institution could have requested a hearing. All notices to financial institutions under this subsection shall be published in the Federal Register.
+(e) EXTENSION OF TIME PERIODS.—The Council may extend the time periods established in subsections (c) and (d) as the Council determines to be necessary or appropriate.
+SEC. 805. STANDARDS FOR SYSTEMICALLY IMPORTANT FINANCIAL 12 USC 5464. 
+MARKET UTILITIES AND PAYMENT, CLEARING, OR SETTLEMENT ACTIVITIES.
+(a) AUTHORITY TO PRESCRIBE STANDARDS.—
+(1) BOARD OF GOVERNORS.—Except as provided in paragraph (2), the Board of Governors, by rule or order, and in consultation with the Council and the Supervisory Agencies, shall prescribe risk management standards, taking into consideration relevant international standards and existing prudential requirements, governing—
+(A) the operations related to the payment, clearing, and settlement activities of designated financial market utilities; and
+(B) the conduct of designated activities by financial institutions.
+(2) SPECIAL PROCEDURES FOR DESIGNATED CLEARING ENTITIES AND DESIGNATED ACTIVITIES OF CERTAIN FINANCIAL INSTITUTIONS.—
+(A) CFTC AND COMMISSION.—The Commodity Futures Trading Commission and the Commission may each prescribe regulations, in consultation with the Council and with the Board of Governors, containing risk management standards, taking into consideration relevant international standards and existing prudential requirements, for those designated clearing entities and financial institutions engaged in designated activities for which each is the Supervisory Agency or the appropriate financial regulator, governing—
+(i) the operations related to payment, clearing, and settlement activities of such designated clearing entities; and
+(ii) the conduct of designated activities by such financial institutions.
+(B) REVIEW AND DETERMINATION.—The Board of Governors may determine that existing prudential requirements of the Commodity Futures Trading Commission, the Commission, or both (including requirements prescribed pursuant to subparagraph (A)) with respect to designated clearing entities and financial institutions engaged in designated activities for which the Commission or the Commodity Futures Trading Commission is the Supervisory Agency or the appropriate financial regulator are insufficient to prevent or mitigate significant liquidity, credit, 

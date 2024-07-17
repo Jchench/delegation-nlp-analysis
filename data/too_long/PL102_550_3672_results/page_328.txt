@@ -1,0 +1,33 @@
+PUBLIC LAW 102-550—OCT. 28, 1992	106 STAT. 3999
+
+section (1) (as added by subsection (n) of this section) the following new subsection:
+“(m)(1) The corporation shall collect, maintain, and provide to the Secretary, in a form determined by the Secretary, data relating to its mortgages on housing consisting of 1 to 4 dwelling units. Such data shall include—
+
+“(A) the income, census tract location, race, and gender of mortgagors under such mortgages;
+“(B) the loan-to-value ratios of purchased mortgages at the time of origination;
+“(C) whether a particular mortgage purchased is newly originated or seasoned;
+“(D) the number of units in the housing subject to the mortgage and whether the units are owner-occupied; and
+“(E) any other characteristics that the Secretary considers appropriate, to the extent practicable.
+
+“(2) The corporation shall collect, maintain, and provide to the Secretary, in a form determined by the Secretary, data relating to its mortgages on housing consisting of more than 4 dwelling units. Such data shall include—
+
+“(A) census tract location of the housing;
+“(B) income levels and characteristics of tenants of the housing (to the extent practicable);
+“(C) rent levels for units in the housing;
+“(D) mortgage characteristics (such as the number of units financed per mortgage and the amount of loans);
+“(E) mortgagor characteristics (such as nonprofit, for-profit, limited equity cooperatives);
+“(F) use of funds (such as new construction, rehabilitation, refinancing);
+“(G) type of originating institution; and 
+“(H) any other information that the Secretary considers appropriate, to the extent practicable. 
+
+“(3)(A) Except as provided in subparagraph (B), this subsection shall apply only to mortgages purchased by the corporation after December 31, 1992.
+
+“(B) This subsection shall apply to any mortgage purchased by the corporation after the date determined under subparagraph (A) if the mortgage was originated before such date, but only to the extent that the data referred in paragraph (1) or (2), as applicable, is available to the corporation.
+
+(p) REPORT ON HOUSING ACTIVITIES.- Section 309 of the Federal National Mortgage Association Charter Act (12 U.S.C. 1723a) is amended by adding after subsection (m) (as added by subsection (o) of this section) the following new subsection:
+
+“(n)(1) The corporation shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Secretary a report on its activities under subpart B of part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992.
+
+“(2) The report under this subsection shall—
+
+“(A) include, in aggregate form and by appropriate category, statements of the dollar volume and number of mortgages on owner-occupied and rental properties purchased which relate to each of the annual housing goals established under such subpart;

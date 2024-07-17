@@ -1,0 +1,32 @@
+134 STAT. 3806       PUBLIC LAW 116–283—JAN. 1, 2021
+
+congressional defense committees a report detailing the functions that the headquarters staff of the Department of the Air Force will continue to perform in support of the Space Force.
+
+(d) NO AUTHORIZATION OF ADDITIONAL MILITARY BILLETS.— The Secretary shall establish the Office of the Chief of Space Operations under section 9083 of title 10, United States Code, as amended by subsection (a), using military personnel otherwise authorized. Nothing in this section or the amendments made by this section shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Office of the Chief of Space Operations.
+
+SEC. 922. CLARIFICATION OF SPACE FORCE AND CHIEF OF SPACE OPERATIONS AUTHORITIES.
+
+(a) COMPOSITION OF SPACE FORCE.—Section 9081 of title 10, United States Code, is amended by striking subsection (b) and inserting the following new subsection (b):
+
+‘‘(b) COMPOSITION.—The Space Force consists of—
+‘‘(1) the Regular Space Force; 
+‘‘(2) all persons appointed or enlisted in, or conscripted into, the Space Force, including those not assigned to units, necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency; and
+‘‘(3) all Space Force units and other Space Force organizations. including installations and supporting and auxiliary combat, training, administrative, and logistics elements.’’.
+
+(b) FUNCTIONS.—Section 9081 of title 10, United States Code, is further amended—
+(1) by striking subsection (c) and inserting the following new subsection (c):
+‘‘(c) FUNCTIONS.—The Space Force shall be organized, trained, and equipped to—
+‘‘(1) provide freedom of operation for the United States in, from, and to space;
+‘‘(2) conduct space operations; and
+‘‘(3) protect the interests of the United States in space.’’; and
+
+(2) by striking subsection (d).
+
+(c) CLARIFICATION OF CHIEF OF SPACE OPERATIONS AUTHORITIES.—Section 9082 of title 10, United States Code, is amended—
+(1) in subsection (a)—
+(A) in paragraph (1), by striking ‘‘general officers of the Air Force’’ and inserting ‘‘general, flag, or equivalent officers of the Space Force’’; and
+(B) by adding at the end the following new paragraphs:
+‘‘(3) The President may appoint an officer as Chief of Space Operations only if—
+‘‘(A) the officer has had significant experience in joint duty assignments; and
+‘‘(B) such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(d) of this title) as a general, flag, or equivalent officer of the Space Force.
+‘‘(4) The President may waive paragraph (3) in the case of an officer if the President determines such action is necessary in the national interest.’’.

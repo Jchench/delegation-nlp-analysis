@@ -1,0 +1,20 @@
+124 STAT. 1818
+
+PUBLIC LAW 111-203—JULY 21, 2010
+
+(B) ENFORCEMENT.—The Board of Governors may exercise the authority described in paragraph (1)(B) only if the Board of Governors has—
+(i) reasonable cause to believe that a financial institution is not in compliance with this title or the rules or orders prescribed under this title with respect to a designated activity;
+(ii) notified, in writing, the appropriate financial regulator and the Council of its belief under clause (i) with supporting documentation included and with a recommendation that the appropriate financial regulator take 1 or more specific enforcement actions against the financial institution;
+(iii) either—
+(I) not been notified, in writing, by the appropriate financial regulator of the commencement of an enforcement action recommended by the Board of Governors against the financial institution within 60 days from the date of the notification under clause (ii); or
+(II) reasonable cause to believe that the financial institution’s noncompliance with this title or the rules or orders prescribed under this title pose significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States, subject to the Board of Governors notifying the appropriate financial regulator of the Board’s enforcement action; and
+(iv) obtained the approval of the Council upon an affirmative vote by a majority of the Council.
+(3) ENFORCEMENT PROVISIONS.—For purposes of taking enforcement action under paragraph (1), the financial institution shall be subject to, and the Board of Governors shall have authority under the provisions of subsections (b) through (n) of section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818) in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
+
+12 USC 5468.
+
+SEC. 809. REQUESTS FOR INFORMATION, REPORTS, OR RECORDS.
+
+(a) INFORMATION TO ASSESS SYSTEMIC IMPORTANCE.—
+(1) FINANCIAL MARKET UTILITIES.—The Council is authorized to require any financial market utility to submit such information as the Council may require for the sole purpose of assessing whether that financial market utility is systemically important, but only if the Council has reasonable cause to believe that the financial market utility meets the standards for systemic importance set forth in section 804.
+(2) FINANCIAL INSTITUTIONS ENGAGED IN PAYMENT, CLEARING, OR SETTLEMENT ACTIVITIES.—The Council is authorized to require any financial institution to submit such information as the Council may require for the sole purpose of assessing whether any payment, clearing, or settlement activity engaged in or supported by a financial institution is systemically important, but only if the Council has reasonable cause to believe

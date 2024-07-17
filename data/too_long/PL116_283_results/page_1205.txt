@@ -1,0 +1,29 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4591
+
+    ‘‘(I) any investigation of a violation of a criminal law of the United States;
+    ‘‘(II) any investigation of a violation of this subchapter;
+    ‘‘(III) a civil forfeiture action; or
+    ‘‘(IV) an investigation pursuant to section 5318A.
+    ‘‘(ii) PRODUCTION OF RECORDS.—The foreign bank on which a subpoena described in clause (i) is served shall produce all requested records and authenticate all requested records with testimony in the manner described in—
+           ‘‘(I) rule 902(12) of the Federal Rules of Evidence; or
+           ‘‘(II) section 3505 of title 18.
+    ‘‘(iii) ISSUANCE AND SERVICE OF SUBPOENA.—A subpoena described in clause (i)—
+           ‘‘(I) shall designate—
+                 ‘‘(aa) a return date; and
+                 ‘‘(bb) the judicial district in which the related investigation is proceeding; and
+           ‘‘(II) may be served—
+                 ‘‘(aa) in person;
+                 ‘‘(bb) by mail or fax in the United States
+           if the foreign bank has a representative in the United States; or
+                 ‘‘(cc) if applicable, in a foreign country under any mutual legal assistance treaty, multilateral agreement, or other request for international legal or law enforcement assistance.
+    ‘‘(iv) RELIEF FROM SUBPOENA.—
+           ‘‘(I) IN GENERAL.—At any time before the return date of a subpoena described in clause (i), the foreign bank on which the subpoena is served may petition the district court of the United States for the judicial district in which the related investigation is proceeding, as designated in the subpoena, to modify or quash—
+                 ‘‘(aa) the subpoena; or
+                 ‘‘(bb) the prohibition against disclosure described in subparagraph (C).
+           ‘‘(II) CONFLICT WITH FOREIGN SECRECY OR CONFIDENTIALITY.—An assertion that compliance with a subpoena described in clause (i) would conflict with a provision of foreign secrecy or confidentiality law shall not be a sole basis for quashing or modifying the subpoena.
+    ‘‘(B) ACCEPTANCE OF SERVICE.—
+    ‘‘(i) MAINTAINING RECORDS IN THE UNITED STATES.—Any covered financial institution that maintains a correspondent account in the United States for a foreign bank shall maintain records in the United States identifying—
+           ‘‘(I) the owners of record and the beneficial owners of the foreign bank; and
+           ‘‘(II) the name and address of a person who—

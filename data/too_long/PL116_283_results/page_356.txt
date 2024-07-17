@@ -1,0 +1,24 @@
+134 STAT. 3742
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+(3) The term ’’machine-readable format’’ means a format that can be easily processed by a computer without human intervention.
+(4) The terms ’’major system’’, ’’major system component’’, ’’modular open system approach’’, ’’modular system’’, ’’modular system interface’’, and ’’weapon system’’ have the meanings given such terms, respectively, in section 2446a of title 10, United States Code.
+SEC. 805. CONGRESSIONAL NOTIFICATION OF TERMINATION OF A MIDDLE TIER ACQUISITION PROGRAM.
+Section 804 of the National Defense Authorization Act for Fiscal Year 2016 (10 U.S.C 2302 note) is amended by adding at the end of the following subsection:
+“(e) REPORT.—Not later than 30 days after the date of termination of an acquisition program commenced using the authority under this section, the Secretary of Defense shall submit to Congress a notification of such termination. Such notice shall include—
+“(1) the initial amount of a contract awarded under such acquisition program;
+“(2) the aggregate amount of funds awarded under such contract; and
+“(3) written documentation of the reason for termination of such acquisition program.”.
+SEC. 806. DEFINITION OF MATERIAL WEAKNESS FOR CONTRACTOR BUSINESS SYSTEMS.
+Section 893 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 2302 note) is amended—
+(1) by striking ’’significant deficiencies’’ both places it appears and inserting ’’material weaknesses’’; 
+(2) by striking ’’significant deficiency’’ each place it appears and inserting ’’material weakness’’; and
+(3) by amending subsection (g)(4) to read as follows:
+“(4) The term ’’material weakness’’ means a deficiency or combination of deficiencies in the internal control over information in contractor business systems, such that there is a reasonable possibility that a material misstatement of such information will not be prevented, or detected and corrected, on a timely basis. For purposes of this paragraph, a reasonable possibility exists when the likelihood of an event occurring—
+“(A) is probable; or
+’“(B) is more than remote but less than likely.”.
+10 USC 9081 note.
+SEC. 807. SPACE SYSTEM ACQUISITION AND THE ADAPTIVE ACQUISITION FRAMEWORK.
+(a) SERVICE ACQUISITION EXECUTIVE FOR SPACE SYSTEMS AND PROGRAMS.—Before implementing the application of the adaptive acquisition framework to a Space Systems Acquisition pathway described in subsection (c), there shall be within the Department of the Air Force an individual serving as the Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs as required under section 957 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1566; 10 U.S.C. 9016 note).
+(b) MILESTONE DECISION AUTHORITY FOR UNITED STATES SPACE FORCE.—

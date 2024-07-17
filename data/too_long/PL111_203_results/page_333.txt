@@ -1,0 +1,35 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+“(A) shall make such reports as are required by the Commission by rule or regulation regarding the transactions and positions and financial condition of the registered swap dealer or major swap participant;
+
+“(B)(i) for which there is a prudential regulator, shall keep books and records of all activities related to the business as a swap dealer or major swap participant in such form and manner and for such period as may be prescribed by the Commission by rule or regulation; and
+
+“(ii) for which there is no prudential regulator, shall keep books and records in such form and manner and for such period as may be prescribed by the Commission by rule or regulation;
+
+“(C) shall keep books and records described in subparagraph (B) open to inspection and examination by any representative of the Commission; and
+
+“(D) shall keep any such books and records relating to swaps defined in section 1a(47)(A)(v) open to inspection and examination by the Securities and Exchange Commission.
+
+“(2) RULES.—The Commission shall adopt rules governing reporting and recordkeeping for swap dealers and major swap participants.
+
+“(g) DAILY TRADING RECORDS.—
+
+“(1) IN GENERAL.—Each registered swap dealer and major swap participant shall maintain daily trading records of the swaps of the registered swap dealer and major swap participant and all related records (including related cash or forward transactions) and recorded communications, including electronic mail, instant messages, and recordings of telephone calls, for such period as may be required by the Commission by rule or regulation.
+
+“(2) INFORMATION REQUIREMENTS.—The daily trading records shall include such information as the Commission shall require by rule or regulation.
+
+“(3) COUNTERPARTY RECORDS.—Each registered swap dealer and major swap participant shall maintain daily trading records for each counterparty in a manner and form that is identifiable with each swap transaction.
+
+“(4) AUDIT TRAIL.—Each registered swap dealer and major swap participant shall maintain a complete audit trail for conducting comprehensive and accurate trade reconstructions.
+
+“(5) RULES.—The Commission shall adopt rules governing daily trading records for swap dealers and major swap participants.
+
+“(h) BUSINESS CONDUCT STANDARDS.—
+
+“(1) IN GENERAL.—Each registered swap dealer and major swap participant shall conform with such business conduct standards as prescribed in paragraph (3) and as may be prescribed by the Commission by rule or regulation that relate to—
+
+“(A) fraud, manipulation, and other abusive practices involving swaps (including swaps that are offered but not entered into);
+
+“(B) diligent supervision of the business of the registered swap dealer and major swap participant;
+
+“(C) adherence to all applicable position limits; and

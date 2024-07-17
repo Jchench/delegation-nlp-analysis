@@ -1,0 +1,22 @@
+PUBLIC LAW 102-242-DEC. 19, 1991                                                 105 STAT. 2281
+
+''(C) DEPOSITORY INSTITUTION.-The term depository institution' has the same meaning as in section 3 of the Federal Deposit Insurance Act.
+''(D) UNDERCAPITALIZED DEPOSITORY INSTITUTION.-The term 'undercapitalized depository institution' means any depository institution which-
+''(i) is undercapitalized, as defined in section 38 of the Federal Deposit Insurance Act; or
+''(ii) has a composite CAMEL rating of 5 under the Uniform Financial Institutions Rating System (or an equivalent rating by any such agency under a comparable rating system) as of the most recent examination of such institution.
+''(E) VIABLE.-A depository institution is 'viable' if the Board or the appropriate Federal banking agency determines, giving due regard to the economic conditions and circumstances in the market in which the institution operates, that the institution-
+''(i) is not critically undercapitalized;
+''(ii) is not expected to become critically undercapitalized; and
+''(iii) is not expected to be placed in conservatorship or receivership.''.
+(c) BOARD'S AUTHORITY TO EXAMINE DEPOSITORY INSTITUTIONS AND AFFILIATES.-Section 11 of the Federal Reserve Act is amended by adding at the end the following:
+''(n) To examine, at the Board's discretion, any depository institution, and any affiliate of such depository institution, in connection with any advance to, any discount of any instrument for, or any request for any such advance or discount by, such depository institution under this Act.''.
+(d) EFFECTIVE DATE.-The amendment made by subsection (b) shall take effect at the end of the 2-year period beginning on the date of enactment of this Act.
+(e) CONFORMING AMENDMENTS REDESIGNATING SECTIONS 13a, 25(a), AND 25(b) OF THE FEDERAL RESERVE ACT.-The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended-
+(1) by redesignating section 13a as section 13A;
+(2) by redesignating section 25(a) as section 25A; and (3) by redesignating section 25(b) as section 25B.
+
+SEC. 143. EARLY RESOLUTION.
+(a) IN GENERAL.-It is the sense of the Congress that the Federal banking agencies should facilitate early resolution of troubled insured depository institutions whenever feasible if early resolution would have the least possible long-term cost to the deposit insurance fund, consistent with the least-cost and prompt corrective action provisions of the Federal Deposit Insurance Act.
+(b) GENERAL PRINCIPLES.-In encouraging the Federal banking agencies to pursue early resolution strategies, the Congress contemplates that any resolution transaction under section 13(c) of that Act would observe the following general principles:
+(1) COMPETITIVE NEGOTIATION.-The transaction should be negotiated competitively, taking into account the value of expediting the process.
+(2) RESULTING INSTITUTION ADEQUATELY CAPITALIZED.-Any in- sured depository institution created or assisted in the trans-

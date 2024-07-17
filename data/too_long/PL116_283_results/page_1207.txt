@@ -1,0 +1,18 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+134 STAT. 4593
+
+‘‘(i) TERMINATION UPON RECEIPT OF NOTICE.—A covered financial institution shall terminate any correspondent relationship with a foreign bank not later than 10 business days after the date on which the covered financial institution receives written notice from the Secretary of the Treasury or the Attorney General if, after consultation with the other, the Secretary of the Treasury or the Attorney General, as applicable, determines that the foreign bank has failed—
+    ‘‘(I) to comply with a subpoena issued under subparagraph (A)(i); or
+    ‘‘(II) to prevail in proceedings before—
+        ‘‘(aa) the appropriate district court of the United States after challenging a subpoena described in subclause (I) under subparagraph (A)(iv)(I); or
+        ‘‘(bb) a court of appeals of the United States after appealing a decision of a district court of the United States under item (aa).
+‘‘(ii) LIMITATION ON LIABILITY.—A covered financial institution shall not be liable to any person in any court or arbitration proceeding for—
+    ‘‘(I) terminating a correspondent relationship under this subparagraph; or
+    ‘‘(II) complying with a nondisclosure order under subparagraph (C).
+‘‘(iii) FAILURE TO TERMINATE RELATIONSHIP OR FAILURE TO COMPLY WITH A SUBPOENA.—
+    ‘‘(I) FAILURE TO TERMINATE RELATIONSHIP.— A covered financial institution that fails to terminate a correspondent relationship under clause (i) shall be liable for a civil penalty in an amount that is not more than $25,000 for each day that the covered financial institution fails to terminate the relationship.
+    ‘‘(II) FAILURE TO COMPLY WITH A SUBPOENA.—
+        ‘‘(aa) IN GENERAL.—Upon failure to comply with a subpoena under subparagraph (A)(i), a foreign bank may be liable for a civil penalty assessed by the issuing agency in an amount that is not more than $50,000 for each day that the foreign bank fails to comply with the terms of a subpoena.
+        ‘‘(bb) ADDITIONAL PENALTIES.—Beginning after the date that is 60 days after a foreign bank fails to comply with a subpoena under subparagraph (A)(i), the Secretary of the Treasury or the Attorney General may seek additional penalties and compel compliance with the subpoena in the appropriate district court of the United States.
+    ‘‘(c) VENUE FOR RELIEF.—A foreign bank may seek review in the appropriate district court of the United States of any penalty assessed under this clause and the issuance of a subpoena under subparagraph (A)(i).

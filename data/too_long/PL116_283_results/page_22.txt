@@ -1,0 +1,48 @@
+134 STAT. 3408         PUBLIC LAW 116–283—JAN. 1, 2021
+
+Sec. 1703. Modification of requirements for quarterly Department of Defense cyber operations briefings for Congress.
+Sec. 1704. Clarification relating to protection from liability of operationally critical contractors.
+Sec. 1705. Strengthening Federal networks; CISA cybersecurity support to agencies.
+Sec. 1706. Improvements relating to the quadrennial cyber posture review.
+Sec. 1707. Modification of authority to use operation and maintenance funds for cyber operations–peculiar capability development projects.
+Sec. 1708. Personnel management authority for Commander of United States Cyber Command and development program for offensive cyber operations.
+Sec. 1709. Applicability of reorientation of Big Data Platform program to Department of Navy.
+Sec. 1710. Report on Cyber Institutes program.
+Sec. 1711. Modification of acquisition authority of Commander of United States Cyber Command.
+Sec. 1712. Modification of requirements relating to the Strategic Cybersecurity Program and the evaluation of cyber vulnerabilities of major weapon systems of the Department of Defense.
+Sec. 1713. Modification of position of Principal Cyber Advisor.
+Sec. 1714. Cyberspace Solarium Commission.
+Sec. 1715. Establishment in Department of Homeland Security of joint cyber planning office.
+Sec. 1716. Subpoena authority.
+Sec. 1717. Cybersecurity State Coordinator.
+Sec. 1718. Cybersecurity Advisory Committee.
+Sec. 1719. Cybersecurity education and training assistance program.
+Sec. 1720. Framework for cyber hunt forward operations.
+Sec. 1721. Rationalization and integration of parallel cybersecurity architectures and operations.
+Sec. 1722. Assessing risks to national security of quantum computing.
+Sec. 1723. Tailored cyberspace operations organizations.
+Sec. 1724. Responsibilities for cybersecurity program; Executive protection of leadership and industrial base.
+Sec. 1725. Pilot program on remote provision by National Guard to National Guard units of other States of cybersecurity technical assistance in training, preparation, and response to cyber incidents.
+Sec. 1726. Department of Defense cyber workforce efforts.
+Sec. 1727. Reporting requirements for cross domain incidents and exemptions to policies for information technology.
+Sec. 1728. Assessing private-public collaboration in cybersecurity.
+Sec. 1729. Cyber capabilities and interoperability of the National Guard.
+Sec. 1730. Evaluation of non-traditional cyber support to the Department of Defense.
+Sec. 1731. Integrated cybersecurity center plan.
+Sec. 1732. Assessment of cyber operational planning and deconfliction policies and processes.
+Sec. 1733. Pilot program on cybersecurity capability metrics.
+Sec. 1734. Assessment of effect of inconsistent timing and use of Network Address Translation in Department of Defense networks.
+Sec. 1735. Integration of Department of Defense user activity monitoring and cybersecurity.
+Sec. 1736. Defense industrial base cybersecurity sensor architecture plan.
+Sec. 1737. Assessment on defense industrial base participation in a threat information sharing program.
+Sec. 1738. Assistance for small manufacturers in the defense industrial supply chain on matters relating to cybersecurity.
+Sec. 1739. Assessment on defense industrial base cybersecurity threat hunting program.
+Sec. 1740. Defense Digital Service.
+Sec. 1741. Matters concerning the College of Information and Cyberspace and limitation of funding for National Defense University.
+Sec. 1742. Department of Defense cyber hygiene and Cybersecurity Maturity Model Certification framework.
+Sec. 1743. Extension of sunset for pilot program on regional cybersecurity training center for the Army National Guard.
+Sec. 1744. National cyber exercises.
+Sec. 1745. Cybersecurity and Infrastructure Security Agency review.
+Sec. 1746. Report on enabling United States Cyber Command resource allocation.
+Sec. 1747. Ensuring cyber resiliency of nuclear command and control system.
+Sec. 1748. Requirements for review of and limitations on the Joint Regional Security Stacks activity.

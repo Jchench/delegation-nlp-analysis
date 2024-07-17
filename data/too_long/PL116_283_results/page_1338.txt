@@ -1,0 +1,31 @@
+134 STAT. 4724           PUBLIC LAW 116-283—JAN. 1, 2021
+
+(v) in-service legacy cutters, including the 210- and 270-foot medium endurance cutters and 225-foot Buoy Tenders.
+    (c) DEFINITFIONS.—In this section:
+        (1) UNMANNED MARITIME SYSTEMS.—
+            (A) IN GENERAL.—The term “unmanned maritime systems” means—
+                (i) remotely operated or autonomous vehicles produced by the commercial sector designed to travel in the air, on or under the ocean surface, on land, or any combination thereof, and that function without an on-board human presence; and
+                (ii) associated components of such vehicles, including control and communications systems, data transmission systems, and processing systems.
+            (B) EXAMPLES.—Such term includes the following:
+                (i) Unmanned undersea vehicles.
+                (ii) Unmanned surface vehicles.
+                (iii) Unmanned aerial vehicles.
+                (iv) Autonomous underwater vehicles.
+                (v) Autonomous surface vehicles.
+                (vi) Autonomous aerial vehicles.
+        (2) AVAILABLE UNMANNED MARITIME SYSTEMS.—The term “available unmanned maritime systems” includes systems that can be purchased commercially or are in use by the Department of Defense or other Federal agencies.
+       (3) SATELLITE VESSEL TRACKING TECHNOLOGIES.—The term “satellite vessel tracking technologies” means shipboard broadcast systems that use satellites and terrestrial receivers to continually track vessels.
+ 
+    14 USC 319 note. SEC. 8412. UNMANNED AIRCRAFT SYSTEMS TESTING.
+    (a) TRAINING AREA.—The Commandant shall carry out and update, as appropriate, a program for the use of one or more training areas to facilitate the use of unmanned aircraft systems and small unmanned aircraft to support missions of the Coast Guard.
+    (b) DESIGNATION OF AREA.—
+        (1) IN GENERAL.—Not later than 180 days after the date of enactment of this Act, the Commandant shall, as part of the program under subsection (a), designate an area for the training, testing, and development of unmanned aircraft systems and small unmanned aircraft.
+        (2) CONSIDERATIONS.—In designating a training area under paragraph (1), the Commandant shall—
+            (A) ensure that such training area has or receives all necessary Federal Aviation Administration flight authorization; and
+            (B) take into consideration all of the following attributes of the training area:
+                (i) Direct over-water maritime access from the site.
+                (ii) The availability of existing Coast Guard support facilities, including pier and dock space.
+                (iii) Proximity to existing and available offshore Warning Area airspace for test and training.
+                (iv) Existing facilities and infrastructure to support unmanned aircraft system-augmented, and small
+
+Deadline

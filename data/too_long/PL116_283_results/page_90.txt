@@ -1,0 +1,20 @@
+134 STAT. 3476        PUBLIC LAW 116-283—JAN. 1, 2021
+
+where the Secretary plans to deploy a fifth-generation wireless network.
+(c) COORDINATION.—The Secretary shall carry out the demonstration project under subsection (a) in coordination with at least one major wireless network service provider based in the United States.
+(d) COVERED TECHNOLOGIES DEFINED.—In this section, the term "covered technologies" means—
+    (1) a disaggregated or virtualized radio access network and core in which components can be provided by different vendors and interoperate through open protocols and interfaces, including those protocols and interfaces utilizing the Open Radio Access Network (commonly known as "Open RAN" or "oRAN") approach; and
+    (2) one or more massive multiple-input, multiple-output radio arrays, provided by one or more companies based in the United States, that have the potential to compete favorably with radios produced by foreign companies in terms of cost, performance, and efficiency.
+
+SEC. 226. RESEARCH, DEVELOPMENT, AND DEPLOYMENT OF TECHNOLOGIES TO SUPPORT WATER SUSTAINMENT
+(a) IN GENERAL.—The Secretary of Defense shall research, develop, and deploy advanced water harvesting technologies to support and improve water sustainment within the Department of Defense and in geographic regions where the Department operates.
+(b) REQUIRED ACTIVITIES.—In carrying out subsection (a), the Secretary shall—
+    (1) develop advanced water harvesting systems that reduce weight and logistics support needs compared to conventional water supply systems, including—
+        (A) modular water harvesting systems that are easily transportable; and
+        (B) trailer mounted water harvesting systems that reduce resupply needs;
+    (2) develop and implement storage requirements for water harvesting systems at forward operating bases; and
+    (3) establish cross functional teams to identify geographic regions where the deployment of water harvesting systems could reduce conflict and potentially eliminate the need for the presence of the Armed Forces.
+(c) ADDITIONAL ACTIVITIES.—In addition to the activities required under subsection (b), the Secretary shall—
+    (1) seek to leverage existing water harvesting techniques and technologies and apply such techniques and technologies to military operations carried out by the United States;
+    (2) consider using commercially available off-the-shelf items (as defined in section 104 of title 41, United States Code) and near-ready deployment technologies to achieve cost savings and improve the self sufficiency of warfighters; and
+    (3) seek to enter into information sharing arrangements with foreign militaries and other organizations that have the proven ability to operate in water constrained areas for the purpose of sharing lessons learned and best practices relating to water harvesting.

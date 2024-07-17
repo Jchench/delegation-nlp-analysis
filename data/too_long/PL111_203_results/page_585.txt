@@ -1,0 +1,22 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+
+124 STAT. 1959
+
+(I) is a merchant, retailer, or seller of any nonfinancial good or service who engages in financial data processing by transmitting or storing payments data about a consumer exclusively for purposes of initiating payments instructions by the consumer to pay such person for the purchase of, or to complete a commercial transaction for, such nonfinancial good or service sold directly by such person to the consumer; or
+
+(II) provides access to a host server to a person for purposes of enabling that person to establish and maintain a website;
+
+(viii) providing financial advisory services (other than services relating to securities provided by a person regulated by the Commission or a person regulated by a State securities Commission, but only to the extent that such person acts in a regulated capacity) to consumers on individual financial matters or relating to proprietary financial products or services (other than by publishing any bona fide newspaper, news magazine, or business or financial publication of general and regular circulation, including publishing market data, news, or data analytics or investment information or recommendations that are not tailored to the individual needs of a particular consumer), including—
+
+(I) providing credit counseling to any consumer; and
+
+(II) providing services to assist a consumer with debt management or debt settlement, modifying the terms of any extension of credit, or avoiding foreclosure;
+
+(ix) collecting, analyzing, maintaining, or providing consumer report information or other account information, including information relating to the credit history of consumers, used or expected to be used in connection with any decision regarding the offering or provision of a consumer financial product or service, except to the extent that—
+
+(I) a person—
+(aa) collects, analyzes, or maintains information that relates solely to the transactions between a consumer and such person;
+(bb) provides the information described in item (aa) to an affiliate of such person; or
+(cc) provides information that is used or expected to be used solely in any decision regarding the offering or provision of a product or service that is not a consumer financial product or service, including a decision for employment, government licensing, or a residential lease or tenancy involving a consumer; and
+
+(II) the information described in subclause (I)(aa) is not used by such person or affiliate in connection with any decision regarding the offering or provision of a consumer financial product or

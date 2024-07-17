@@ -1,0 +1,20 @@
+PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 1659
+
+(3) by inserting after paragraph (6) (as redesignated by paragraph (1)) the following:
+‘‘(7) CLEARED SWAP.—The term ‘cleared swap’ means any swap that is, directly or indirectly, submitted to and cleared by a derivatives clearing organization registered with the Commission.’’;
+(4) in paragraph (9) (as redesignated by paragraph (1)), by striking ‘‘except onions’’ and all that follows through the period at the end and inserting the following: ‘‘except onions (as provided by the first section of Public Law 85–839 (7 U.S.C. 13–1)) and motion picture box office receipts (or any index, measure, value, or data related to such receipts), and all services, rights, and interests (except motion picture box office receipts, or any index, measure, value or data related to such receipts) in which contracts for future delivery are presently or in the future dealt in.’’;
+(5) by inserting after paragraph (9) (as redesignated by paragraph (1)) the following:
+‘‘(10) COMMODITY POOL.—
+‘‘(A) IN GENERAL.—The term ‘commodity pool’ means any investment trust, syndicate, or similar form of enterprise operated for the purpose of trading in commodity interests, including any—
+‘‘(i) commodity for future delivery, security futures product, or swap;
+‘‘(ii) agreement, contract, or transaction described in section 2(c)(2)(C)(i) or section 2(c)(2)(D)(i);
+‘‘(iii) commodity option authorized under section 4c; or
+‘‘(iv) leverage transaction authorized under section 19.
+ ‘‘(B) FURTHER DEFINITION.—The Commission, by rule or regulation, may include within, or exclude from, the term ‘commodity pool’ any investment trust, syndicate, or similar form of enterprise if the Commission determines that the rule or regulation will effectuate the purposes of this Act.’’;
+(6) by striking paragraph (11) (as redesignated by paragraph (1)) and inserting the following:
+‘‘(11) COMMODITY POOL OPERATOR.—
+‘‘(A) IN GENERAL.—The term ‘commodity pool operator’ means any person—
+‘‘(i) engaged in a business that is of the nature of a commodity pool, investment trust, syndicate, or similar form of enterprise, and who, in connection therewith, solicits, accepts, or receives from others, funds, securities, or property, either directly or through capital contributions, the sale of stock or other forms of securities, or otherwise, for the purpose of trading in commodity interests, including any—
+‘‘(I) commodity for future delivery, security futures product, or swap;
+‘‘(II) agreement, contract, or transaction described in section 2(c)(2)(C)(i) or section 2(c)(2)(D)(i);
+‘‘(III) commodity option authorized under section 4c; or

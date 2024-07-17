@@ -1,0 +1,49 @@
+Federal Trade Commission
+
+(a)(4), and the reporting of other delinquent accounts is governed by subsection (a)(6). Any such item, even if discharged in bankruptcy, may be reported separately for the applicable seven year period, while the existence of the bankruptcy filing may be reported for ten years.
+
+2. Wage Earner Plans
+
+Wage earner plans may be reported for ten years, because they are covered by Title 11 of the United States Code.
+
+3. Date for Filing
+
+A voluntary bankruptcy petition may be reported for ten years from the date that it is filed, because the filing of the petition constitutes the entry of an “order for relief” under this subsection, just like a filing under the Bankruptcy Act (11 U.S.C. 301).
+
+Section 605(a)(2)—“Suits and judgments which, from date of entry, antedate the report by more than seven years or until the governing statute of limitations has expired, whichever is the longer period.” 
+
+1. Operative Date
+
+For a suit, the term date of entry means the date the suit was initiated. A protracted suit may be reported for more than seven years from the date it was entered, if the governing statute of limitations has not expired. For a judgment, the term “date of entry” means the date the judgment was rendered.
+
+2. Paid Judgments
+
+Paid judgments cannot be reported for more than seven years after the judgment was rendered, because payment of the judgment eliminates any “ governing statute of limitations and the “is business-need” that might otherwise lengthen the period.
+
+Section 605(a)(3)—“Paid tax liens which, from date of payment, antedate the report by more than seven years.”
+
+1. Unpaid Liens
+
+If a tax lien (or other lien) remains unsatisfied, it may be reported as long as it remains filed against the consumer, without limitation, because this subsection addresses only paid tax liens. Section 605(a)(4)—“Accounts placed for collection or charged to profit and loss which antedate the report by more than seven years.”
+
+1. Placement for Collection
+
+The term placed for collection means internal collection activity by the creditor, as well as placement with an outside collector, whichever occurs first. Sending of the initial past due notices does not constitute placement for collection. Placement for collection occurs when dunning notices or other collection efforts are initiated. The reporting period is not extended by assignment to another entity for further collection, or by a partial or full payment of the account. However, where a borrower brings his delinquent account to date and returns to his regular payment schedule, and later defaults again, a consumer reporting agency may disregard any collection activity with respect to the first delinquency and measure the reporting period from the date the account was placed for collection as a result of the borrower’s ultimate default. A consumer’s repayment agreement with a collection agency can be treated as a new account that has its own seven year period.
+
+2. Charge to Profit and Loss 
+
+The term charged to profit and loss means action taken by the creditor to write off the account, and the applicable time period is measured from that event. In an account that was charged off is later paid in part or paid in full by the consumer, the reporting period of seven years from the charge-off is not extended.
+
+3. Reporting of a Delinquent Account That is Later Placed for Collection or Charged to Profit and Loss
+
+The fact that an account has been placed for collection or charged to profit and loss may be reported for seven years from the date that either of those events occurs, regardless of the date the account became delinquent. The fact of delinquency may also be reported for seven years from the date the account became delinquent, as above. Section 605(a)(5)—“Records of arrest, indictment, or conviction of crime which, from date of disposition, release, or parole, antedate the report by more than seven years.”
+
+1. Records
+
+The term records means any information a consumer reporting agency has in its files relating to arrest, indictment or conviction of a crime.
+
+2. Computation of Time Period
+
+The seven year reporting period runs from the date of disposition, release or parole, as applicable. For example, if charges are dismissed at or before trial, or the consumer is acquitted, the date of such dismissal or acquittal is the date of disposition. If the consumer is convicted of a crime and sentenced to confinement, the date of release or placement on parole controls. (Confinement, whether pending or resulting from revocation of parole, may be reported until seven years after the confinement is terminated.) The sentencing date controls for a convicted consumer whose sentence does not include confinement. The fact that information concerning the arrest, indictment, or conviction
+
+559

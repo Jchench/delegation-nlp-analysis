@@ -1,0 +1,24 @@
+134 STAT. 3832		134 STAT. 3832		PUBLIC LAW 116–283—JAN. 1, 2021
+
+(e) TITLE 41; HONORABLE DISCHARGE CERTIFICATE IN LIEU OF BIRTH CERTIFICATE.—Section 6309(a) of title 41, United States Code, is amended by inserting “Space Force,” after “Marine Corps,”.
+(f) TITLE 51; POWERS OF THE ADMINISTRATION IN PERFORMANCE OF FUNCTIONS.—Section 20113(l) of title 51, United States Code, is amended—
+(1) in the subsection heading, by striking “SERVICES” and inserting “FORCES”; and
+(2) by striking “and Marine Corps” and inserting “Marine Corps, and Space Force”.
+(g) PUBLIC LAW 79–72; BOARD OF NATIONAL AIR AND SPACE MUSEUM.—Section 1(a) of the Act of August 12, 1946 (60 Stat. 997, chapter 955; 20 U.S.C. 77(a)), is amended by inserting “the Chief of Space Operations, or the Chief’s designee,” after “the Chief of Staff of the Air Force, or his designee,”.
+
+SEC. 928. APPLICABILITY TO OTHER PROVISIONS OF LAW.
+
+Section 958(b)(1) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1567; 10 U.S.C. 9081 note) is amended—
+(1) in the matter preceding subparagraph (A), by striking “or the amendments made by this subtitle” and inserting “, the amendments made by this subtitle, or the amendments made by subtitle C of title IX of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021”;
+(2) in subparagraph (A), by striking “and” at the end;
+(3) in subparagraph (B), by striking the period at the end and inserting a semicolon; and
+(4) by adding at the end the following new subparagraphs:
+“(C) the authority of the Secretary of Defense with respect to the Air Force, members of the Air Force, or civilian employees of the Air Force may be exercised by the Secretary with respect to the Space Force, members of the Space Force, or civilian employees of the Space Force; and
+“(D) the authority of the Secretary of the Air Force with respect to the Air Force, members of the Air Force, or civilian employees of the Air Force may be exercised by the Secretary with respect to the Space Force, members of the Space Force, or civilian employees of the Space Force.”.
+SEC. 929. TEMPORARY EXEMPTION FROM AUTHORIZED DAILY AVER- AGE OF MEMBERS IN PAY GRADES E–8 AND E–9.
+
+Section 517 of title 10, United States Code, shall not apply to the Space Force until October 1, 2023.
+
+SEC. 930. LIMITATION ON TRANSFER OF MILITARY INSTALLATIONS TO THE JURISDICTION OF THE SPACE FORCE.
+
+(a) LIMITATION.—A military installation (whether or not under the jurisdiction of the Department of the Air Force) may not be transferred to the jurisdiction or command of the Space Force until the Secretary of the Air Force briefs the congressional defense committees on the results of a business case analysis, conducted by the Secretary in connection with the transfer, of the cost and efficacy of the transfer.

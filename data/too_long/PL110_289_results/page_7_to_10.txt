@@ -1,0 +1,127 @@
+PUBLIC LAW 110-289—JULY 30, 2008 
+                                                                                                                               122 STAT. 2659
+                                                            TITLE III—REVENUE PROVISIONS
+ 
+Subtitle A—General Provisions
+Sec. 3081. Election to accelerate the AMT and research credits in lieu of bonus depreciation.
+Sec. 3082. Certain GO Zone incentives. 
+Sec. 3083. Increase in statutory limit on the public debt. 
+ 
+Subtitle B—Revenue Offsets 
+Sec. 3091. Returns relating to payments made in settlement of payment card and third party network transactions.
+Sec. 3092. Gain from sale of principal residence allocated to nonqualified use not excluded from income.
+Sec. 3093. Delay in application of worldwide allocation of interest.
+Sec. 3094. Time for payment of corporate estimated taxes.
+ 
+                            DIVISION A—HOUSING FINANCE
+                                                              REFORM 
+ 
+SEC. 1001. SHORT TITLE.
+This division may be cited as the "Federal Housing Finance Regulatory Reform Act of 2008".
+  
+SEC. 1002. DEFINITIONS.
+(a) FEDERAL SAFETY AND SOUNDNESS ACT DEFINITIONS.—Section 1303 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4502) is amended— 
+(1) in each of paragraphs (8), (9), (10), and (19), by striking "Secretary" each place that term appears and inserting "Director";
+(2) by redesignating paragraphs (16) through (19) as paragraphs (21) through (24), respectively;
+(3) by striking paragraphs (13) through (15) and inserting the following:
+"(13) OFFICE OF FINANCE.—The term 'Office of Finance' means the Office of Finance of the Federal Home Loan Bank System (or any successor thereto).
+"(20) REGULATED ENTITY.—The term 'regulated entity' means—
+"(A) the Federal National Mortgage Association and any affiliate thereof;
+"(B) the Federal Home Loan Mortgage Corporation and any affiliate thereof; and
+"(C) any Federal Home Loan Bank.";
+(4) by redesignating paragraphs (11) and (12) as paragraphs (17) and (18), respectively;
+(5) by redesignating paragraph (7) as paragraph (12);
+(6) by redesignating paragraphs (8) through (10) as paragraphs (14) through (16), respectively; 
+(7) in paragraph (5)—
+(A) by striking "(5)" and inserting "(9)"; and 
+(B) by striking "Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development" and inserting "Federal Housing Finance Agency";
+(8) by redesignating paragraph (6) as paragraph (10);
+(9) by redesignating paragraphs (2) through (4) as paragraphs (5) through (7), respectively;
+ 
+ 
+122 STAT. 2660
+
+PUBLIC LAW 110-289—JULY 30, 2008
+
+(10) by inserting after paragraph (7), as redesignated, the following:
+
+"(8) DEFAULT; IN DANGER OF DEFAULT.— 
+"(A) DEFAULT.—The term 'default' means, with respect to a regulated entity, any adjudication or other official determination by any court of competent jurisdiction, or the Agency, pursuant to which a conservator, receiver, limited-life regulated entity, or legal custodian is appointed for a regulated entity.
+"(B) IN DANGER OF DEFAULT.—The term 'in danger of default' means a regulated entity with respect to which, in the opinion of the Agency—
+"(i) the regulated entity is not likely to be able to pay the obligations of the regulated entity in the normal course of business; or
+"(ii) the regulated entity—
+"(I) has incurred or is likely to incur losses that will deplete all or substantially all of its capital; and
+"(II) there is no reasonable prospect that the capital of the regulated entity will be replenished.";
+(11) by inserting after paragraph (1) the following:
+"(2) AGENCY.—The term 'Agency' means the Federal Housing Finance Agency established under section 1311.
+"(3) AUTHORIZING STATUTES.—The term 'authorizing statutes' means—
+"(A) the Federal National Mortgage Association Charter Act;
+"(B) the Federal Home Loan Mortgage Corporation Act; and
+"(C) the Federal Home Loan Bank Act.
+"(4) BOARD.—The term 'Board' means the Federal Housing Finance Oversight Board established under section 1313A."; 
+(12) by inserting after paragraph (10), as redesignated by this section, the following:
+"(11) ENTITY-AFFILIATED PARTY.—The term 'entity-affiliated party' means—
+"(A) any director, officer, employee, or controlling stockholder of, or agent for, a regulated entity;
+"(B) any shareholder, affiliate, consultant, or joint venture partner of a regulated entity, and any other person, as determined by the Director (by regulation or on a case-by-case basis) that participates in the conduct of the affairs of a regulated entity, provided that a member of a Federal Home Loan Bank shall not be deemed to have participated in the affairs of that Bank solely by virtue of being a shareholder of, and obtaining advances from, that Bank;
+"(C) any independent contractor for a regulated entity (including any attorney, appraiser, or accountant), if—
+"(i) the independent contractor knowingly or recklessly participates in—
+"(I) any violation of any law or regulation;
+"(II) any breach of fiduciary duty; or
+"(III) any unsafe or unsound practice; and
+"(ii) such violation, breach, or practice caused, or is likely to cause, more than a minimal financial loss 
+ 
+
+122 STAT. 2661
+
+PUBLIC LAW 110-289—JULY 30, 2008
+
+ 
+to, or a significant adverse effect on, the regulated entity;
+"(D) any not-for-profit corporation that receives its principal funding, on an ongoing basis, from any regulated entity; and
+"(E) the Office of Finance.";
+(13) by inserting after paragraph (12), as redesignated by this section, the following:
+"(13) LIMITED-LIFE REGULATED ENTITY.—The term 'limited-life regulated entity' means an entity established by the Agency under section 1367(i) with respect to a Federal Home Loan Bank in default or in danger of default or with respect to an enterprise in default or in danger of default."; and 
+(14) by adding at the end the following:
+"(25) VIOLATION.—The term 'violation' includes any action (alone or in combination with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.".
+(b) REFERENCES IN THIS ACT.—As used in this Act, unless otherwise specified—
+(1) the term "Agency" means the Federal Housing Finance Agency;
+(2) the term "Director" means the Director of the Agency; and
+(3) the terms "enterprise", "regulated entity", and "authorizing statutes" have the same meanings as in section 1303 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, as amended by this Act.
+ 
+                   TITLE I—REFORM OF REGULATION OF
+                                 ENTERPRISES
+ 
+                  Subtitle A—Improvement of Safety and
+                      Soundness Supervision
+ 
+SEC. 1101. ESTABLISHMENT OF THE FEDERAL HOUSING FINANCE
+                                AGENCY.
+ 
+The Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.) is amended by striking sections 1311 and 1312 and inserting the following:
+"SEC. 1311. ESTABLISHMENT OF THE FEDERAL HOUSING FINANCE 
+                                    AGENCY.
+"(a) ESTABLISHMENT.—There is established the Federal Housing Finance Agency, which shall be an independent agency of the Federal Government.
+"(b) GENERAL SUPERVISORY AND REGULATORY AUTHORITY.—
+"(1) IN GENERAL.—Each regulated entity shall, to the extent provided in this title, be subject to the supervision and regulation of the Agency.
+"(2) AUTHORITY OVER FANNIE MAE, FREDDIE MAC, THE FEDERAL HOME LOAN BANKS, AND THE OFFICE OF FINANCE.—The Director shall have general regulatory authority over each regulated entity and the Office of Finance, and shall exercise such
+ 
+ 
+122 STAT. 2662
+
+PUBLIC LAW 110-289—JULY 30, 2008
+
+general regulatory authority, including such duties and authorities set forth under section 1313, to ensure that the purposes of this Act, the authorizing statutes, and any other applicable law are carried out.
+"(c) SAVINGS PROVISION.—The authority of the Director to take actions under subtitles B and C shall not in any way limit the general supervisory and regulatory authority granted to the Director under subsection (b).
+ 
+SEC. 1312. DIRECTOR.
+"(a) ESTABLISHMENT OF POSITION.—There is established the position of the Director of the Agency, who shall be the head of the Agency.
+"(b) APPOINTMENT; TERM.—
+"(1) APPOINTMENT.—The Director shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals who are citizens of the United States, have a demonstrated understanding of financial management or oversight, and have a demonstrated understanding of capital markets, including the mortgage securities markets and housing finance.
+"(2) TERM.—The Director shall be appointed for a term of 5 years, unless removed before the end of such term for cause by the President.
+"(3) VACANCY.—A vacancy in the position of Director that occurs before the expiration of the term for which a Director was appointed shall be filled in the manner established under paragraph (1), and the Director appointed to fill such vacancy shall be appointed only for the remainder of such term.
+"(4) SERVICE AFTER END OF TERM.—An individual may serve as the Director after the expiration of the term for which appointed until a successor has been appointed.
+"(5) TRANSITIONAL PROVISION.—Notwithstanding paragraphs (1) and (2), during the period beginning on the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, and ending on the date on which the Director is appointed and confirmed, the person serving as the Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development on that effective date shall act for all purposes as, and with the full powers of, the Director.
+"(c) DEPUTY DIRECTOR OF THE DIVISION OF ENTERPRISE REGULATION. —
+"(1) IN GENERAL.—The Agency shall have a Deputy Director of the Division of Enterprise Regulation, who shall be designated by the Director from among individuals who are citizens of the United States, have a demonstrated understanding of financial management or oversight, and have a demonstrated understanding of mortgage securities markets and housing finance.
+"(2) FUNCTIONS.—The Deputy Director of the Division of Enterprise Regulation shall have such functions, powers, and duties with respect to the oversight of the enterprises as the Director shall prescribe.
+"(d) DEPUTY DIRECTOR OF THE DIVISION OF FEDERAL HOME LOAN BANK REGULATION.—

@@ -1,0 +1,26 @@
+110 STAT. 3009–445 PUBLIC LAW 104–208—SEPT. 30, 1996
+
+“(2) DISCLOSURE OF ADDRESS AND TELEPHONE NUMBER.— A statement under paragraph (1) shall include the address and toll-free telephone number of the appropriate notification system established under section 604(e).
+
+“(3) MAINTAINING CRITERIA ON FILE.—A person who makes an offer of credit or insurance to a consumer under a credit or insurance transaction described in paragraph (1) shall maintain on file the criteria used to select the consumer to receive the offer, all criteria bearing on credit worthiness or insurability, as applicable, that are the basis for determining whether or not to extend credit or insurance pursuant to the offer, and any requirement for the furnishing of collateral as a condition of the extension of credit or insurance, until the expiration of the 3-year period beginning on the date on which the offer is made to the consumer.
+
+“(4) AUTHORITY OF FEDERAL AGENCIES REGARDING UNFAIR OR DECEPTIVE ACTS OR PRACTICES NOT AFFECTED.—This section is not intended to affect the authority of any Federal or State agency to enforce a prohibition against unfair or deceptive acts or practices, including the making of false or misleading statements in connection with a credit or insurance transaction that is not initiated by the consumer.”
+
+(c) DUTIES OF USERS MAKING OTHER SOLICITATIONS.—Section 615 of the Fair Credit Reporting Act (15 U.S.C. 1681m) is amended by adding at the end the following new subsection:
+
+“(e)
+
+(d) CONFORMING AMENDMENT.—Section 615(c) of the Fair Credit Reporting Act (15 U.S.C. 1681m(c)) is amended by striking ‘subsections (a) and (b)’ and inserting ‘this section’.
+
+(e) DUTIES OF PERSON TAKING CERTAIN ACTIONS BASED ON INFORMATION PROVIDED BY AFFILIATE.—Section 615(b) of the Fair Credit Reporting Act (15 U.S.C. 1681m(b)) is amended—
+(1) by striking ‘(b) Whenever credit’ and inserting the following:
+“(b) ADVERSE ACTION BASED ON INFORMATION OBTAINED FROM THIRD PARTIES OTHER THAN CONSUMER REPORTING AGENCIES.—
+
+“(1) IN GENERAL.—Whenever credit’’;
+(2) by adding at the end the following new paragraph:
+“(2) DUTIES OF PERSON TAKING CERTAIN ACTIONS BASED ON INFORMATION PROVIDED BY AFFILIATE.—
+
+“(A) DUTIES, GENERALLY.—If a person takes an action described in subparagraph (B) with respect to a consumer, based in whole or in part on information described in subparagraph (C), the person shall—
+“(i) notify the consumer of the action, including a statement that the consumer may obtain the information in accordance with clause (ii); and
+“(ii) upon a written request from the consumer received within 60 days after transmittal of the notice required by clause (i), disclose to the consumer the nature of the information upon which the action is based by not later than 30 days after receipt of the request.
+“(B) ACTION DESCRIBED.—An action referred to in subparagraph (A) is an adverse action described in section

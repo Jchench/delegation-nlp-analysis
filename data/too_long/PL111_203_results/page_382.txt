@@ -1,0 +1,59 @@
+124 STAT. 1756             PUBLIC LAW 111-203—JULY 21, 2010 
+
+“(II) whose outstanding security-based swaps 
+ create substantial counterparty exposure that could 
+ have serious adverse effects on the financial stability 
+ of the United States banking system or financial mar- 
+ kets; or 
+ “(III) that is a financial entity that— 
+ “(aa) is highly leveraged relative to the amount 
+ of capital such entity holds and that is not subject 
+ to capital requirements established by an appro- 
+ priate Federal banking agency; and 
+ “(bb) maintains a substantial position in out- 
+ standing security-based swaps in any major secu- 
+ rity-based swap category, as such categories are 
+ determined by the Commission. 
+ “(B) DEFINITION OF SUBSTANTIAL POSITION.—For pur- 
+ poses of subparagraph (A), the Commission shall define, 
+ by rule or regulation, the term ‘substantial position’ at 
+ the threshold that the Commission determines to be pru- 
+ dent for the effective monitoring, management, and over- 
+ sight of entities that are systemically important or can 
+ significantly impact the financial system of the United 
+ States. In setting the definition under this subparagraph, 
+ the Commission shall consider the person’s relative position 
+ in uncleared as opposed to cleared security-based swaps 
+ and may take into consideration the value and quality 
+ of collateral held against counterparty exposures. 
+ “(C) SCOPE OF DESIGNATION.—For purposes of subpara- 
+ graph (A), a person may be designated as a major security- 
+ based swap participant for 1 or more categories of security- 
+ based swaps without being classified as a major security- 
+ based swap participant for all classes of security-based 
+ swaps. 
+ “(68) SECURITY-BASED SWAP.— 
+ “(A) IN GENERAL.—Except as provided in subparagraph 
+ (B), the term ‘security-based swap’ means any agreement, 
+ contract, or transaction that— 
+ “(i) is a swap, as that term is defined under section 
+ la of the Commodity Exchange Act (without regard 
+ to paragraph (47)(B)(x) of such section); and 
+ “(ii) is based on— 
+ “(I) an index that is a narrow-based 
+ index, including any interest therein or on the 
+ value thereof; 
+ “(II) a single security or loan, including any 
+ interest therein or on the value thereof; or 
+ “(III) the occurrence, nonoccurrence, or extent 
+ of the occurrence of an event relating to a single 
+ issuer of a security or the issuers of securities 
+ in a narrow-based security index, provided that 
+ such event directly affects the financial state- 
+ ments, financial condition, or financial obligations 
+ of the issuer. 
+ “(B) RULE OF CONSTRUCTION REGARDING MASTER 
+ AGREEMENTS.—The term ‘security-based swap’ shall be con- 
+ strued to include a master agreement that provides for 
+ an agreement, contract, or transaction that is a security- 
+ based swap pursuant to subparagraph (A), together with

@@ -1,0 +1,26 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 4571
+
+(A) the effects that adjusting the thresholds would have on law enforcement, intelligence, national security, and homeland security agencies;
+
+(B) the costs likely to be incurred or saved by financial institutions from any adjustment to the thresholds;
+
+(C) whether adjusting the thresholds would better conform the United States with international norms and standards to counter money laundering and the financing of terrorism;
+
+(D) whether currency transaction report thresholds should be tied to inflation or otherwise be adjusted based on other factors consistent with the purposes of the Bank Secrecy Act;
+
+(E) any other matter that the Secretary determines is appropriate.
+
+(c) REPORT AND RULEMAKINGS.—Not later than 1 year after the date of enactment of this Act, the Secretary, in consultation with the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other relevant stakeholders, shall—
+(1) publish a report of the findings from the review required under subsection (a); and
+(2) propose rulemakings, as appropriate, to implement the findings and determinations described in paragraph (1).
+(d) UPDATES.—Not less frequently than once every 5 years during the 10-year period beginning on the date of enactment of this Act, the Secretary shall—
+(1) evaluate findings and rulemakings described in subsection (c); and
+(2) transmit a written summary of the evaluation to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+(3) propose rulemakings, as appropriate, in response to the evaluation required under paragraph (1).
+SEC. 6206. SHARING OF THREAT PATTERN AND TREND INFORMATION.
+Section 5318(g) of title 31, United States Code, as amended by section 6202 of this division, is amended by adding at the end the following:
+‘(6) SHARING OF THREAT PATTERN AND TREND INFORMATION.—
+‘(A) DEFINITIONS.—In this paragraph—
+‘(i) the terms ‘Bank Secrecy Act’ and ‘Federal functional regulator’ have the meanings given the terms in section 6003 of the Anti-Money Laundering Act of 2020; and
+‘(ii) the term ‘typology’ means a technique to launder money or finance terrorism.
+‘(B) SUSPICIOUS ACTIVITY REPORT ACTIVITY REVIEW.—Not less frequently than semiannually, the Director of the Financial Crimes Enforcement Network shall publish threat pattern and trend information to provide meaningful information about the preparation, use, and value of reports filed under this subsection by financial institutions, as

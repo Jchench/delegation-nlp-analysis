@@ -1,0 +1,65 @@
+PUBLIC LAW 116–283—JAN. 1, 2021               134 STAT. 4177
+
+    (I) in the matter preceding subparagraph (A),
+        by striking ‘‘paragraph (4)’’ and inserting ‘‘para-
+        graph (1)’’;
+    (II) in subparagraph (A)(i), by striking ‘‘para-
+        graph (2)’’ and inserting ‘‘subsection (b)’’; and
+    (III) in subparagraph (A)(ii), by striking ‘‘sec-
+        tion 2308’’ and inserting ‘‘section 3069’’.
+
+(h) TRANSFER OF SUBSECTION (g) OF SECTION 2334.—
+
+    (1) TRANSFER.—Subsection (g) of section 2334 of title 10,
+United States Code, is transferred to section 3227 of such
+title, as added by subsection (a), inserted after the section
+heading, and redesignated as subsection (a).
+    (2) REVISIONS.—Section 3227, as amended by paragraph
+(1), is further amended—
+        (A) by striking ‘‘Guidelines and’’ and all that follows
+            through ‘‘(1) The Director of’’ and inserting ‘‘DIRECTOR OF
+            CAPE TO DEVELOP GUIDELINES AND COLLECTION METHOD.—
+            The Director of’’;
+        (B) by redesignating paragraph (2) as subsection (b)
+            and in that subsection—
+            (i) by inserting ‘‘APPLICABILITY TO ACQUISITION
+            PROGRAMS IN AMOUNT GREATER THAN SPECIFIED
+            THRESHOLD.—’’ before ‘‘The program manager’’; and
+            (ii) by striking ‘‘paragraph (1)’’ and inserting ‘‘sub-
+            section (a)’’; and
+        (C) by redesignating paragraph (3) as subsection (c)
+        and in that subsection—
+            (i) by inserting ‘‘LIMITATION ON WAIVER
+            AUTHORITY.—’’ before ‘‘The requirement’’; and
+            (ii) by striking ‘‘paragraph (1)’’ and inserting ‘‘sub-
+            section (a)’’.
+SEC. 1813. OTHER PROVISIONS RELATING TO PLANNING AND SOLICI-
+TATION GENERALLY.
+
+(a) NEW CHAPTER.—Part V of subtitle A of title 10, United
+States Code, as added by section 801 of the John S. McCain National
+Defense Authorization Act for Fiscal Year 2019 (Public Law 115—
+232), is amended by inserting after chapter 222, as added by the
+preceding section, the following new chapter:
+
+“CHAPTER 223—OTHER PROVISIONS RELATING TO 
+PLANNING AND SOLICITATION GENERALLY
+
+“Sec.
+“3241. Design-build selection procedures.
+“3242. Supplies: economic order quantities.
+“3243. Encouragement of new competitors: qualification requirement.
+“3244. [Reserved.]
+“3245. [Reserved.]
+“3246. [Reserved.]
+“3247. Contracts: regulations for bids.
+“3248. Matters relating to reverse auctions.
+“3249. Requests for competition.
+“3250. [Reserved.]
+“3251. [Reserved.]
+“3252. Requirements for information relating to supply chain risk.”.
+(b) TRANSFER OF SECTION 2305a OF TITLE 10.—Section 2305a
+of title 10, United States Code, is transferred to chapter 223 of
+such title, as added by subsection (a), inserted after the table
+of sections at the beginning, redesignated as section 3241, and
+amended as follows:

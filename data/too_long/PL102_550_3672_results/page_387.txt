@@ -1,0 +1,21 @@
+106 STAT. 4058            PUBLIC LAW 102-550—OCT. 28, 1992
+
+"(3) the term 'State' means any State of the United States, the District of Columbia, the Northern Mariana Islands, and any commonwealth, territory, or possession of the United States.".
+(b) CLERICAL AMENDMENT.—The table of sections for chapter 95 of title 18, United States Code, is amended by adding at the end the following item:
+"1960. Prohibition of illegal money transmitting businesses".
+(c) CRIMINAL FORFEITURE.—Section 982(a)(1) of title 18, United States Code, is amended by striking ", 1957 or inserting ", 1957, or 1960".
+SEC. 1513. COMPLIANCE PROCEDURES.
+Section 5318(a)(2) of title 31, United States Code, is amended by inserting "or to guard against money laundering" before the semicolon.
+SEC. 1514. NONDISCLOSURE OF ORDERS.
+Section 5326 of title 31, United States Code, is amended by adding at the end the following:
+"(c) NONDISCLOSURE OF ORDERS.—No financial institution or officer, director, employee or agent of a financial institution subject to an order under this section may disclose the existence of, or terms of, the order to any person except as prescribed by the Secretary.".
+SEC. 1515. PROVISIONS RELATING TO RECORDKEEPING WITH      RESPECT TO CERTAIN FUNDS TRANSFERS.
+(a) RECORDKEEPING REGULATIONS REQUIRED.—Section 21(b) of the Federal Deposit Insurance Act (12 U.S.C. 1829b(b)) is amended—
+(1) by striking "(b) Where" and inserting "(b) RECORD-KEEPING REGULATIONS.—
+(1) IN GENERAL.—'Where'; and
+(2) by adding at the end the following new paragraphs:
+"(2) DOMESTIC FUNDS TRANSFERS.—Whenever the Secretary and the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the 'Board') determine that the maintenance of records, by insured depository institutions, of payment orders which direct transfers of funds over wholesale funds transfer systems has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, the Secretary and the Board shall jointly prescribe regulations to carry out the purposes of this section with respect to the maintenance of such records.
+"(3) INTERNATIONAL FUNDS TRANSFERS.—
+"(A) IN GENERAL.—The Secretary and the Board shall jointly prescribe, after consultation with State banking supervisors, final regulations requiring that insured depository institutions, businesses that provide check cashing services, money transmitting businesses, and businesses that issue or redeem money orders, travellers' checks or other similar instruments maintain such records of payment orders which—
+"(i) involve international transactions; and
+"(ii) direct transfers of funds over wholesale funds transfer systems or on the books of any insured depository institution, or on the books of any business that  

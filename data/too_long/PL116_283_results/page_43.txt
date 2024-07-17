@@ -1,0 +1,16 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 3429
+a new procurement quantity in any budget of the President, as so submitted, for any fiscal year after such fiscal year.
+ 
+SEC. 127. EXTENSION OF PROHIBITION ON AVAILABILITY OF FUNDS FOR NAVY WATERBORNE SECURITY BARRIERS.
+Section 130(a) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1665), as amended by section 126 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1235), is further amended by striking “for fiscal year 2019 or fiscal year 2020’’ and inserting “for fiscal years 2019, 2020, or 2021’’.
+SEC. 128. REPORT ON STRATEGY TO USE ALQ–249 NEXT GENERATION JAMMER TO ENSURE FULL SPECTRUM ELECTROMAGNETIC SUPERIORITY.
+(a) REPORT.—Not later than July 30, 2021, the Secretary of the Navy, in consultation with the Vice Chairman of the Joint Chiefs, shall submit to the congressional defense committees a report with a strategy to ensure full spectrum electromagnetic superiority using the ALQ–249 Next Generation Jammer.
+(b) ELEMENTS.—The report required by subsection (a) shall include the following elements:
+(1) A description of the current procurement strategy for the ALQ–249, and the analysis of its capability to meet the radio frequency (RF) ranges required in highly contested and denied environment conflicts.
+(2) An assessment of the compatibility and ability of the ALQ–249 to synchronize non-kinetic fires using other Joint Electronic Warfare (EW) platforms.
+(3) A future model of an interlinked/interdependent electronic warfare menu of options for commanders at tactical, operational, and strategic levels.
+
+Subtitle D—Air Force Programs
+SEC. 131. MINIMUM OPERATIONAL SQUADRON LEVEL.
+(a) POLICY ON AIR FORCE AVIATION FORCE STRUCTURE.—As soon as practicable after the date of the enactment of this Act and subject to the availability of appropriations, the Secretary of the Air Force shall seek to achieve the capabilities provided by a minimum of 386 available operational squadrons, or equivalent organizational units. In addition, the Secretary shall seek to achieve not fewer than 3,850 combat coded aircraft within the Air Force.
+(b) EXCEPTION TO POLICY.—If, based on the fielding of new capabilities and formal force structure capability assessments supporting the most recent National Defense Strategy, the Secretary of the Air Force, in consultation with the Chief of Staff of the Air Force and the Chairman of the Joint Chiefs of Staff, makes a determination that a modification to the quantity of operational squadrons or combat-coded aircraft in subsection (a) is necessary, the Secretary shall submit a report at the earliest opportunity to the congressional defense committees describing the modifications of the revised force structure and how the quantity of combat coded aircraft and operational squadrons developed supports a moderate operational risk force structure in support of the National Defense Strategy.

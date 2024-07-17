@@ -1,0 +1,21 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009-742
+
+(ii) the general business reputation of the owners and management of the applicant; and
+(iii) the probability of successful operations of the applicant, including adequate profitability and financial soundness; and
+(C) shall not take into consideration any projected shortage or unavailability of leverage.
+(4) EXCEPTION.—
+(A) IN GENERAL.—Notwithstanding any other provision of this Act, the Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, approve an application and issue a license under this subsection with respect to any applicant that—
+(i) has private capital of not less than $3,000,000;
+(ii) would otherwise be issued a license under this subsection, except that the applicant does not satisfy the requirements of section 302(a); and
+(iii) has a viable business plan reasonably projecting profitable operations and a reasonable timetable for achieving a level of private capital that satisfies the requirements of section 302(a).
+(B) LEVERAGE.—An applicant licensed pursuant to the exception provided in this paragraph shall not be eligible to receive leverage as a licensee until the applicant satisfies the requirements of section 302(a).”.
+(3) SPECIALIZED SMALL BUSINESS INVESTMENT COMPANIES.—
+(A) REPEAL.—Section 301(d) (15 U.S.C. 681(d)) is repealed.
+(B) EFFECT ON EXISTING LICENSEES.—The repeal under subparagraph (A) shall not be construed to require the Administrator to cancel, revoke, withdraw, or modify any license issued under section 301(d) of the Small Business Investment Act of 1958 before the date of enactment of this Act.
+(c) CAPITAL REQUIREMENTS.—
+(1) INCREASED MINIMUM CAPITAL REQUIREMENTS.—Section 302(a) (15 U.S.C. 682(a)) is amended by striking “(a)” and all that follows through “The Administration shall also determine the ability of the company,” and inserting the following:
+(a) AMOUNT.—
+(1) IN GENERAL.—Except as provided in paragraph (2), the private capital of each licensee shall be not less than—
+(A) $5,000,000; or
+(B) $10,000,000, with respect to each licensee authorized or seeking authority to issue participating securities to be purchased or guaranteed by the Administration under this Act.
+(2) EXCEPTION.—The Administrator may, in the discretion of the Administrator and based on a showing of special circumstances and good cause, permit the private capital of a licensee authorized or seeking authorization to issue participating securities to be purchased or guaranteed by the Administration to be less than $10,000,000, but not less than $5,000,000, if the Administrator determines that such action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government.

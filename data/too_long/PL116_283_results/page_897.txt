@@ -1,0 +1,38 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 4283
+
+(c) CONFORMING CROSS-REFERENCE AMENDMENTS.—Sections of chapter 483 of such title, as transferred and redesignated by subsection (b), are amended as follows:
+(1) Section 4831 is amended—
+(A) in subsection (a), by striking “section 2501(a)” and “section 2371” and inserting “section 4811(a)” and “section 4002”, respectively; and
+(B) in subsection (e)(1), by striking “section 2501(a)” and inserting “section 4811(a)”.
+(2) Section 4832 is amended in subsection (a) by striking “section 2501(a)” and inserting “section 4811(a)”.
+(3) Section 4833 is amended—
+(A) in subsection (a), by striking “section 2501(a)” and inserting “section 4811(a)”;
+(B) in subsection (c)(1), by striking “section 2371” and inserting “section 4002”; 
+(C) in subsection (d)(2), by striking “section 2511(c)(2)” and inserting “section 4831(c)(2)”; and
+(D) in subsection (f), by striking “section 2511(e)” and inserting “section 4831(e)”.
+
+SEC. 1869. MANUFACTURING TECHNOLOGY.
+
+(a) NEW CHAPTER.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232), is amended by adding after chapter 383, as added by the preceding section, the following new chapter:
+
+“CHAPTER 384—MANUFACTURING TECHNOLOGY
+
+Sec.
+“4841. Manufacturing Technology Program.
+“4842. Joint Defense Manufacturing Technology Panel.
+“4843. Armament retooling and manufacturing.”.
+
+(b) TRANSFER AND REDESIGNATION OF SECTION 2521.—
+(1) TRANSFER AND REDESIGNATION.—Section 2521 of title
+10, United States Code, is transferred to chapter 384 of such
+title, as added by subsection (a), inserted after the table of
+sections at the beginning of such chapter, and redesignated
+as section 4841.
+(2) CONFORMING CROSS-REFERENCE AMENDMENTS.—Such section is amended—
+(A) in subsection (a), by striking “section 2501(a)” and inserting “section 4811(a)”; and
+(B) in subsection (d)(1), by striking “section 2374” and inserting “section 4008”.
+(c) DESIGNATION OF FORMER SECTION 2521(e) AS SECTION 4842.—
+(1) Such chapter is further amended—
+(A) by transferring subsection (f) of section 4841 within that section so as to appear after subsection (d) and redesignating that subsection as subsection (e); and
+(B) by redesignating as section 4842 the subsection (e) following the subsection transferred and redesignated 
+by subparagraph (A) and inserting at the beginning of such section 4842 the following section heading:

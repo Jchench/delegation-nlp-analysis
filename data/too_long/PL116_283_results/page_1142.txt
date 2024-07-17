@@ -1,0 +1,50 @@
+134 STAT. 4528          PUBLIC LAW 116-283—JAN. 1, 2021
+
+the Committee on Transportation and Infrastructure, the Committee on Armed Services, the House Permanent Select Committee on Intelligence, the Committee on the Judiciary, and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation, the Committee on Health, Education, Labor, and Pensions, the Committee on Energy and Natural Resources, the Committee on Homeland Security and Governmental Affairs, the Committee on Armed Services, the Senate Select Committee on Intelligence, the Committee on the Judiciary, and the Committee on Appropriations of the Senate a report that includes a summarized budget in support of the Initiative for such fiscal year and the preceding fiscal year, including a disaggregation of spending and a description of any Institutes established under section 5201 for the Department of Commerce, the Department of Defense, the Department of Energy, the Department of Agriculture, the Department of Health and Human Services, and the National Science Foundation.
+
+15 USC 9414.
+
+SEC. 5104. NATIONAL ARTIFICIAL INTELLIGENCE ADVISORY COM-
+          MITTEE.
+
+(a) IN GENERAL.—The Secretary of Commerce shall, in consulta-
+tion with the Director of the Office of Science and Technology
+Policy, the Secretary of Defense, the Secretary of Energy, the Sec-
+retary of State, the Attorney General, and the Director of National
+Intelligence establish an advisory committee to be known as the
+‘‘National Artificial Intelligence Advisory Committee’’.
+
+(b) QUALIFICATIONS.—The Advisory Committee shall consist of
+members, appointed by the Secretary of Commerce, who are rep-
+resenting broad and interdisciplinary expertise and perspectives,
+including from academic institutions, companies across diverse sec-
+tors, nonprofit and civil society entities, including civil rights and
+disability rights organizations, and Federal laboratories, who are
+representing geographic diversity, and who are qualified to provide
+advice and information on science and technology research, develop-
+ment, ethics, standards, education, technology transfer, commercial
+application, security, and economic competitiveness related to arti-
+ficial intelligence.
+
+(c) MEMBERSHIP CONSIDERATION.—In selecting the members
+of the Advisory Committee, the Secretary of Commerce shall seek
+and give consideration to recommendations from Congress, industry,
+nonprofit organizations, the scientific community (including the
+National Academies of Sciences, Engineering, and Medicine, sci-
+entific professional societies, and academic institutions), the defense
+and law enforcement communities, and other appropriate organiza-
+tions.
+
+(d) DUTIES.—The Advisory Committee shall advise the Presi-
+dent and the Initiative Office on matters related to the Initiative,
+including recommendations related to—
+
+          (1) the current state of United States competitiveness and
+          leadership in artificial intelligence, including the scope and
+          scale of United States investments in artificial intelligence
+          research and development in the international context;
+
+           (2) the progress made in implementing the Initiative,
+           including a review of the degree to which the Initiative has
+           achieved the goals according to the metrics established by the
+           Interagency Committee under section 5103(d)(2);

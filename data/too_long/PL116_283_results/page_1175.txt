@@ -1,0 +1,19 @@
+PUBLIC LAW 116-283—JAN. 1, 2021            134 STAT. 4561
+
+AND FOREIGN ANTI-MONEY LAUNDERING AND COUNTERING THE FINANCING OF TERRORISM AUTHORITIES.—
+‘‘(A) IN GENERAL.—The Department of the Treasury may not be compelled to search for or disclose information exchanged with a foreign law enforcement authority, foreign financial intelligence unit, or foreign anti-money laundering and countering the financing of terrorism authority.
+‘‘(B) INAPPLICABILITY OF FREEDOM OF INFORMATION ACT.—
+‘‘(i) IN GENERAL.—Section 552(a)(3) of title 5 (commonly known as the ‘Freedom of Information Act’) shall not apply to any request for records or information exchanged between the Department of the Treasury and a foreign law enforcement authority, foreign financial intelligence unit, or foreign anti-money laundering and countering the financing of terrorism authority.
+‘‘(ii) SPECIFICALLY EXEMPTED BY STATUTE.—For purposes of section 552 of title 5, this paragraph shall be considered a statute described in subsection (b)(3)(B) of that section.
+‘‘(C) CLARIFICATION ON INFORMATION LIMITATIONS AND PROTECTIONS.—
+‘‘(i) IN GENERAL.—The provisions of this paragraph shall apply only to information necessary to exercise the duties and powers described under subsection (b).
+‘‘(ii) APPROPRIATE CONFIDENTIALITY, CLASSIFICATION, AND DATA SECURITY REQUIREMENTS.—The Secretary, in consultation with the Director, shall ensure that information provided to a foreign law enforcement authority, foreign financial intelligence unit, or foreign anti-money laundering and countering the financing of terrorism authority, is subject to appropriate confidentiality, classification, and data security requirements.
+‘‘(3) SAVINGS PROVISION.—Nothing in this section shall authorize the Department of the Treasury to withhold information from Congress, decline to carry out a search for information requested by Congress, or prevent the Department of the Treasury from complying with an order of a court of the United States in an action commenced by the United States.”.
+(b) AVAILABILITY OF REPORTS.—Section 5319 of title 31, United States Code, is amended, in the fourth sentence, by inserting ‘‘search and’’ before ‘‘disclosure’’.
+
+SEC. 6110. BANK SECRECY ACT APPLICATION TO DEALERS IN ANTIQUITIES AND ASSESSMENT OF BANK SECRECY ACT APPLICATION TO DEALERS IN ARTS.
+(a) BANK SECRECY ACT AMENDMENT.—
+(1) IN GENERAL.—Section 5312(a)(2) of title 31, United States Code, is amended—
+(A) by redesignating subparagraphs (Y) and (Z) as subparagraphs (Z) and (AA), respectively; and
+(B) by inserting after subparagraph (X) the following:
+‘‘(Y) a person engaged in the trade of antiquities, including an advisor, consultant, or any other person who engages as a business in the solicitation or the sale of

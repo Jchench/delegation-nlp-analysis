@@ -1,0 +1,19 @@
+124 STAT. 1576              PUBLIC LAW 111–203—JULY 21, 2010
+
+(A) natural persons who, at the time of their applicable investment, are officers, directors, or employees of the family office who—
+Deadline.
+(i) have invested with the family office before January 1, 2010; and
+(ii) are accredited investors, as defined in Regulation D of the Commission (or any successor thereto) under the Securities Act of 1933, or, as the Commission may prescribe by rule, the successors-in-interest thereto;
+(B) any company owned exclusively and controlled by members of the family of the family office, or as the Commission may prescribe by rule;
+(C) any investment adviser registered under the Investment Advisers Act of 1940 that provides investment advice to the family office and who identifies investment opportunities to the family office, and invests in such transactions on substantially the same terms as the family office invests, but does not invest in other funds advised by the family office, and whose assets as to which the family office directly or indirectly provides investment advice represent, in the aggregate, not more than 5 percent of the value of the total assets as to which the family office provides investment advice.
+(c) ANTIFRAUD AUTHORITY.—A family office that would not be a family office, but for subsection (b)(3), shall be deemed to be an investment adviser for the purposes of paragraphs (1), (2) and (4) of section 206 of the Investment Advisers Act of 1940.
+
+SEC. 410. STATE AND FEDERAL RESPONSIBILITIES; ASSET THRESHOLD 
+                FOR FEDERAL REGISTRATION OF INVESTMENT ADVISERS.
+Section 203A(a) of the of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3a(a)) is amended—
+    (1) by redesignating paragraph (2) as paragraph (3); and
+    (2) by inserting after paragraph (1) the following:
+        ‘‘(2) TREATMENT OF MID-SIZED INVESTMENT ADVISERS.—
+            ‘‘(A) IN GENERAL.—No investment adviser described in subparagraph (B) shall register under section 203, unless the investment adviser is an adviser to an investment company registered under the Investment Company Act of 1940, or a company which has elected to be a business development company pursuant to section 54 of the Investment Company Act of 1940, and has not withdrawn the election, except that, if by effect of this paragraph an investment adviser would be required to register with 15 or more States, then the adviser may register under section 203.
+            ‘‘(B) COVERED PERSONS.—An investment adviser described in this subparagraph is an investment adviser that—
+                ‘‘(i) is required to be registered as an investment adviser with the securities commissioner (or any agency or office performing like functions) of the State in which it maintains its principal office and place of business and, if registered, would be subject to examination as an investment adviser by any such commissioner, agency, or office; and

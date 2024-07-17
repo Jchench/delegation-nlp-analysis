@@ -1,0 +1,40 @@
+134 STAT. 4276          PUBLIC LAW 116–283—JAN. 1, 2021
+
+is amended by striking “has the meaning given in section 2302(1) of this title, except that such term”.
+
+(j) PLACEHOLDER FOR CHAPTER FOR PROVISIONS RELATING TO ACQUISITION OF SERVICES OF CONTRACTORS PERFORMING PRIVATE SECURITY FUNCTIONS.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232), is amended by inserting after chapter 341, as added by this section, the following new chapter:
+
+10 USC 4571 prec.
+‘‘CHAPTER 343—ACQUISITION OF SERVICES OF CONTRACTORS PERFORMING PRIVATE SECURITY FUNCTIONS
+‘‘Subchapter
+I. Contractors Performing Private Security Functions in Areas of Combat Operations or Other Significant Military Operations .....................................
+II. Standards and Certification for Private Security ...........................................
+
+10 USC 4571 prec.
+‘‘Subchapter I—CONTRACTORS PERFORMING PRIVATE SECURITY FUNCTIONS IN AREAS OF COMBAT OPERATIONS OR OTHER SIGNIFICANT MILITARY OPERATIONS
+‘‘Sec.
+‘‘4541. [Reserved.].
+
+10 USC 4571 prec.
+‘‘Subchapter II—STANDARDS AND CERTIFICATION FOR PRIVATE SECURITY CONTRACTORS
+‘‘Sec.
+‘‘4551. [Reserved.].’’.
+
+SEC. 1857. ACQUISITION OF INFORMATION TECHNOLOGY.
+(a) NEW CHAPTER.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232), is amended by striking chapter 345 and inserting the following:
+
+10 USC 4571 prec.
+‘‘CHAPTER 345—ACQUISITION OF INFORMATION TECHNOLOGY
+‘‘Sec.
+‘‘4571. Information technology acquisition: planning and oversight processes.
+‘‘4572. [Reserved.].
+‘‘4573. [Reserved.].
+‘‘4574. [Reserved.].
+‘‘4575. [Reserved.].
+‘‘4576. Requirement for consideration of certain matters during acquisition of noncommercial computer software.’’.
+
+(b) TRANSFER OF SECTION 2223A.—
+(1) Section 2223a of title 10, United States Code, is transferred to chapter 345 of such title, as amended by subsection (a), inserted after the table of sections, and redesignated as section 4571.
+(2) The heading of such section is amended to read as follows:
+‘‘§ 4571. Information technology acquisition: planning and oversight processes’’.
+(c) TRANSFER OF SECTION 2322A.—Section 2322a of title 10, United States Code, is transferred to chapter 345 of such title,

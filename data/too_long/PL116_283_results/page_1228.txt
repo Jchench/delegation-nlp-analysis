@@ -1,0 +1,20 @@
+134 STAT. 4614             PUBLIC LAW 116–283—JAN. 1, 2021
+
+                      “(B) in promulgating the regulations under subparagraph (A) to the extent practicable, consistent with the purposes of this section—
+                            “(i) minimize burdens on reporting companies associated with the collection of beneficial ownership information, including by eliminating duplicative requirements; and
+                           “(ii) ensure the beneficial ownership information reported to FinCEN is accurate, complete, and highly useful.
+Deadline.        “(5)  EFFECTIVE DATE.—The requirements of this subsection shall take effect on the effective date of the regulations prescribed by the Secretary of the Treasury under this subsection, which shall be promulgated not later than 1 year after the date of enactment of this section.
+Time period.  “(6) REPORT.—Not later than 1 year after the effective date described in paragraph (5), and annually thereafter for 2 years, the Secretary of the Treasury shall submit to Congress a report describing the procedures and standards prescribed to carry out paragraph (2), which shall include an assessment of—
+                          “(A) the effectiveness of those procedures and standards in minimizing reporting burdens (including through the elimination of duplicative requirements) and strengthening the accuracy of reports submitted under paragraph (2); and
+                          “(B) any alternative procedures and standards prescribed to carry out paragraph (2).
+Time period.  “(c) RETENTION AND DISCLOSURE OF BENEFICIAL OWNERSHIP INFORMATION BY FINCEN.—
+                      “(1) RETENTION OF INFORMATION.—Beneficial ownership information required under subsection (b) relating to each reporting company shall be maintained by FinCEN for not fewer than 5 years after the date on which the reporting company terminates.
+                      “(2) DISCLOSURE.—
+                             “(A) PROHIBITION.—Except as authorized by this subsection and the protocols promulgated under this subsection, beneficial ownership information reported under this section shall be confidential and may not be disclosed by—
+                                        “(i) an officer or employee of the United States;
+                                       “(ii) an officer or employee of any State, local or Tribal agency; or 
+                                      “(iii) an officer or employee of any financial institution or regulatory agency receiving information under this subsection.
+                             “(B) SCOPE OF DISCLOSURE BY FINCEN.—FinCEN may disclose beneficial ownership information reported pursuant to this section only upon receipt of—
+                                       “(i) a request, through appropriate protocols—
+                                              “(I) from a Federal agency engaged in national security, intelligence, or law enforcement activity, for use in furtherance of such activity; or
+                                              “(II) from a State, local, or Tribal law enforcement agency, if a court of competent jurisdiction,

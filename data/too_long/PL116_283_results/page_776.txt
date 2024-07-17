@@ -1,0 +1,45 @@
+134 STAT. 4162          PUBLIC LAW 116–283—JAN. 1, 2021
+
+(1) TRANSFER.—Section 235 of title 10, United States Code, is transferred to chapter 207 of such title, as amended by subsection (a), added after section 3136, as transferred and redesignated by subsection (g), and redesignated as section 3137.
+    (2) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 9 of such title is amended by striking the item relating to section 235.
+(b) TRANSFER OF SECTION 2212.—
+    (1) TRANSFER.—Section 2212 of title 10, United States Code, is transferred to chapter 207 of such title, as amended by subsection (a), added after section 3137, as transferred and redesignated by subsection (h), and redesignated as section 3138.
+    (2) CLERICAL AMENDMENT.—The table of sections at the beginning of chapter 131 of such title is amended by striking the item relating to section 2212.
+
+SEC. 1810. OPERATIONAL CONTRACT SUPPORT.
+(a) NEW CHAPTER.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115– 232), is amended by striking chapter 209 and inserting the following:
+        
+“CHAPTER 209—OPERATIONAL CONTRACT SUPPORT
+“Subchapter                                                      Sec.
+“I. Joint Policies on Requirements Definition, Contingency Program Manage-
+     ment, and Contingency Contracting ........................................................... 3151
+“II. Other Provisions Relating to Operational Contract Support .................... 3171
+
+“SUBCHAPTER I—JOINT POLICIES ON REQUIREMENTS DEF- INITION, CONTINGENCY PROGRAM MANAGEMENT, AND CONTINGENCY CONTRACTING
+
+“Sec.
+“3151. Joint policy requirement.
+“3152. Requirements definition matters covered.
+“3153. Contingency program management matters covered.
+“3154. Contingency contracting matters covered.
+“3155. Training for personnel outside acquisition workforce.
+“3156. Mission readiness exercises.
+“3157. Definitions; applicability.
+
+“§ 3151. Joint policy requirement
+
+“§ 3152. Requirements definition matters covered
+
+“§ 3153. Contingency program management matters covered
+
+“§ 3154. Contingency contracting matters covered
+
+“§ 3155. Training for personnel outside acquisition workforce
+
+“§ 3156. Mission readiness exercises
+
+“§ 3157. Definitions; applicability
+
+“In this subchapter:”.
+
+(b) TRANSFER OF SECTION 2333.—Provisions of section 2333 of title 10, United States Code, are transferred to chapter 209 of such title, as amended by subsection (a), as follows:

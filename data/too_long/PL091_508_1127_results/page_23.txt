@@ -1,0 +1,35 @@
+Pt. 600, App. 16 CFR Ch. I (1-1-11 Edition)
+
+8. Dispute Conveyed to the Consumer Reporting Agency by a Party Other Than the Consumer
+
+A consumer reporting agency need not reinvestigate a dispute about a consumer’s file raised by any third party, because the obligation under the section arises only where an “item of information in his file is disputed by the consumer.”
+
+9. Consumer Disclosures and Adverse Action Not Prerequisites to Reinvestigation Duty
+
+A consumer reporting agency’s obligation to reinvestigate disputed items is not contingent upon the consumer’s having been denied a benefit or having asserted any rights under the FCRA other than disputing items of information.
+
+10. Reasonable Period of Time
+
+A consumer reporting agency is required to reinvestigate and record the current status of disputed information within a reasonable period of time after the consumer conveys the dispute to it. Although consumer reporting agencies are able to reinvestigate most disputes within 30 days, a “reasonable time” for reinvestigation may be shorter or longer depending on the circumstances of the dispute. For example, where the consumer provides documentary evidence (e.g., a certified copy of a court record) to show that a judgment has been dismissed or otherwise satisfied, the creditor may require a shorter time to reinvestigate. On the other hand, where the dispute concerns anecdotal information (e.g., the consumer alleges in good faith that a creditor has falsified its report of the consumer’s credit history because of a personal grudge), the “reasonable time” needed to conduct the reinvestigation may be longer.
+
+11. Frivolous or Irrelevant
+
+The mere presence of contradictory information in the file does not provide the consumer reporting agency “reasonable grounds to believe that the dispute” by the consumer “is frivolous or irrelevant.” A consumer reporting agency must assume a consumer’s dispute is bona fide, unless there is evidence to the contrary. Such evidence may constitute receipt of letters from consumers disputing all information in their own files or providing any allegations concerning the items in the file, or several letters in similar format that indicate that a particular third party (e.g., a “credit repair” operator) is counseling consumers to dispute all items in their files, regardless of whether the information is known to be accurate. The agency is not required to repeat a reinvestigation that it has previously conducted simply because the consumer reiterates a dispute about the same item of information, unless the consumer provides additional evidence that the item is inaccurate or incomplete, or alleges changed circumstances.
+
+12. Deletion of Accurate Information That has not Been Disputed
+
+The consumer reporting agency is not required to delete accurate information that could not be verified upon reinvestigation, if it has not been “disputed by a consumer.” For example, if a creditor deletes adverse information from its files with the result that information could not be reverified if disputed, it is still permissible for a consumer reporting agency to report it (subject to the obsolescence provisions of section 605) until it is disputed.
+
+13. Consumer Dispute Statements on Multiple Items
+
+A consumer who disputes multiple items of information in his file may submit a one hundred word statement as to each disputed item.
+
+14. Conveying Dispute Statements to Recipients of Subsequent Reports.
+
+A consumer reporting agency need only merely tell the recipient of a subsequent report containing disputed information that the consumer’s statement as to the item will be provided only if requested, because subsection (c) requires the agency to provide either the statement or a “clear and accurate codification or summary thereof.”
+
+Section 612—Charges for Certain Disclosures
+
+“A consumer reporting agency shall make all disclosures pursuant to section 609 and furnish all consumer reports pursuant to section 611(d) without charge to the consumer if, within thirty days after receipt by such consumer of a notification pursuant to section 615 or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer’s credit rating may be or has been adversely affected, the consumer makes a request under section 609 or 611(d).” Otherwise, the consumer reporting agency may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to section 609, the charge for which shall be indicated to the consumer prior to making disclosure; and for providing notifications, statements, summaries, or codifications to persons designated by the consumer pursuant to section 611(d), the charge for which shall be indicated to the consumer prior to furnishing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient for a consumer report except that no charge may be made for
+
+568

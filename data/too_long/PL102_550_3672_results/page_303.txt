@@ -1,0 +1,25 @@
+106 STAT. 3974	                                                  PUBLIC LAW 102-550—OCT. 28, 1992
+
+(D) EFFECTIVE DATE—The provisions of subparagraph (B) shall become effective 4 years after regulations are first issued under subsection (e).
+(4) OTHER ACTIVITIES—Losses or gains on other activities, including interest rate and foreign exchange hedging activities, shall be determined by the Director, on the basis of available information, to be consistent with the stress period.
+(b) CONSIDERATIONS.—
+(1) IN GENERAL—In establishing the risk-based capital test under subsection (a), the Director shall take into account appropriate distinctions among types of mortgage products, differences in seasoning of mortgages, and any other factors the Director considers appropriate.
+(2) CONSISTENCY—Characteristics of the stress period other than those specifically set forth in subsection (a), such as prepayment experience and dividend policies, will be those determined by the Director, on the basis of available information, to be most consistent with the stress period.
+(c) RISK-BASED CAPITAL LEVEL—For purposes of this subtitle, the risk-based capital level for an enterprise shall be equal to the sum of the following amounts:
+(1) CREDIT AND INTEREST RATE RISK—The amount of total capital determined by applying the risk-based capital test under subsection (a) to the enterprise.
+(2) MANAGEMENT AND OPERATIONS RISK—To provide for management and operations risk, 30 percent of the amount of total capital determined by applying the risk-based capital test under subsection (a) to the enterprise.
+(d) DEFINITIONS—For purposes of this section:
+(1) SEASONING—The term “seasoning” means the change over time in the ratio of the unpaid principal balance of a mortgage to the value of the property by which such mortgage loan is secured, determined on an annual basis by region, in accordance with the Constant Quality Home Price Index published by the Secretary of Commerce (or any index of similar quality, authority, and public availability that is regularly used by the Federal Government).
+(2) TYPE OF MORTGAGE PRODUCT—The term “type of mortgage product” means a classification of one or more mortgage products, as established by the Director, which have similar characteristics from each set of characteristics under the following subparagraphs:
+(A) The property securing the mortgage is—
+(i) a residential property consisting of 1 to 4 dwelling units; or 
+(ii) a residential property consisting of more than 4 dwelling units. 
+(B) The interest rate on the mortgage is—
+(i) fixed; or 
+(ii) adjustable. 
+(C) The priority of the lien securing the mortgage is—
+(i) first; or 
+(ii) second or other. 
+(D) The term of the mortgage is—
+(i) 1 to 15 years; 
+(ii) 16 to 30 years; or

@@ -1,0 +1,22 @@
+PUBLIC LAW 111–203—JULY 21, 2010 124 STAT. 2071
+
+‘‘(IV) used to transfer or debit funds, monetary value, or other assets; and
+‘‘(V) reloadable and not marketed or labeled as a gift card or gift certificate.
+‘‘(B) EXCEPTION.—Notwithstanding subparagraph (A), Applicability.
+after the end of the 1-year period beginning on the effective date provided in paragraph (9), this subsection shall apply to an interchange transaction fee charged or received with respect to an electronic debit transaction described in subparagraph (A)(i) in which a person uses a generaluse prepaid card, or an electronic debit transaction described in subparagraph (A)(ii), if any of the following fees may be charged to a person with respect to the card:
+‘‘(i) A fee for an overdraft, including a shortage of funds or a transaction processed for an amount exceeding the account balance.
+‘‘(ii) A fee imposed by the issuer for the first withdrawal per month from an automated teller machine that is part of the issuer’s designated automated teller machine network.
+‘‘(C) DEFINITION.—For purposes of subparagraph (B), the term ‘designated automated teller machine network’ means either—
+‘‘(i) all automated teller machines identified in the name of the issuer; or
+‘‘(ii) any network of automated teller machines identified by the issuer that provides reasonable and convenient access to the issuer’s customers.
+‘‘(D) REPORTING.—Beginning 12 months after the date Effective date.
+of enactment of the Consumer Financial Protection Act of 2010, the Board shall annually provide a report to the Congress regarding—
+‘‘(i) the prevalence of the use of general-use prepaid cards in Federal, State or local government-administered payment programs; and
+‘‘(ii) the interchange transaction fees and cardholder fees charged with respect to the use of such general-use prepaid cards.
+‘‘(8) REGULATORY AUTHORITY OVER NETWORK FEES.—
+‘‘(A) IN GENERAL.—The Board may prescribe regulations, pursuant to section 553 of title 5, United States Code, regarding any network fee.
+‘‘(B) LIMITATION.—The authority under subparagraph (A) to prescribe regulations shall be limited to regulations to ensure that—
+‘‘(i) a network fee is not used to directly or indirectly compensate an issuer with respect to an electronic debit transaction; and
+‘‘(ii) a network fee is not used to circumvent or evade the restrictions of this subsection and regulations prescribed under such subsection.
+‘‘(C) RULEMAKING REQUIRED.—The Board shall prescribe regulations in final form before the end of the 9-month period beginning on the date of the enactment of the Consumer Financial Protection Act of 2010, to carry Deadline.
+out the authorities provided under subparagraph (A).

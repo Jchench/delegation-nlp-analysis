@@ -1,0 +1,57 @@
+134 STAT. 4524                 PUBLIC LAW 116-283–JAN. 1, 2021
+
+(3) ARTIFICIAL INTELLIGENCE.—The term “artificial intel-
+ligence” means a machine-based system that can, for a given
+set of human-defined objectives, make predictions, recom-
+mendations or decisions influencing real or virtual environ-
+ments. Artificial intelligence systems use machine and human-
+based inputs to—
+(A) perceive real and virtual environments;
+(B) abstract such perceptions into models through anal-
+ysis in an automated manner; and
+(C) use model inference to formulate options for
+information or action.
+(4) COMMUNITY COLLEGE.—The term “community college”
+means a public institution of higher education at which the
+highest degree that is predominantly awarded to students is
+an associate’s degree, including 2-year Tribal Colleges or
+Universities under section 316 of the Higher Education Act
+of 1965 (20 U.S.C. 1059c) and public 2-year State institutions
+of higher education.
+(5) INITIATIVE.—The term “Initiative” means the National
+Artificial Intelligence Initiative established under section
+5101(a).
+(6) INITIATIVE OFFICE.—The term “Initiative Office” means
+the National Artificial Intelligence Initiative Office established
+under section 5102(a).
+(7) INSTITUTE.—The term “Institute” means an Artificial
+Intelligence Research Institute described in section 5201(b)(2).
+(8) INSTITUTION OF HIGHER EDUCATION.—The term “insti-
+tution of higher education” has the meaning given the term
+in section 101 and section 102(c) of the Higher Education Act
+of 1965 (20 U.S.C. 1001).
+(9) INTERAGENCY COMMITTEE.—The term “Interagency
+Committee” means the interagency committee established
+under section 5103(a).
+(10) K-12 EDUCATION.—The term “K-12 education” means
+elementary school and secondary school (as defined by
+local educational agencies, as such agencies are defined in
+section 8101 of the Elementary and Secondary Education Act
+of 1965 (20 U.S.C. 7801)).
+(11) MACHINE LEARNING.—The term “machine learning”
+means an application of artificial intelligence that is character-
+ized by providing systems the ability to automatically learn
+and improve on the basis of data or experience, without being
+explicitly programmed.
+                            TITLE LI—NATIONAL ARTIFICIAL
+                                INTELLIGENCE INITIATIVE
+Sec. 5101. National Artificial Intelligence Initiative.
+Sec. 5102. National Artificial Intelligence Initiative Office.
+Sec. 5103. Coordination by Interagency Committee.
+Sec. 5104. National Artificial Intelligence Advisory Committee.
+Sec. 5105. National Academies artificial intelligence impact study on workforce.
+Sec. 5106. National AI Research Resource Task Force.
+                    SEC 5101. NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE.
+(a) ESTABLISHMENT; PURPOSES.—The President shall establish
+and implement an initiative to be known as the “National Artificial
+Intelligence Initiative”. The purposes of the Initiative shall be to—

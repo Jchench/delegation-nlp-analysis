@@ -1,0 +1,34 @@
+134 STAT. 4280            PUBLIC LAW 116–283—JAN. 1, 2021
+- 
+(1) in the matter preceding paragraph (1), by striking “In this chapter” and inserting “In this subpart”;
+(2) in paragraph (8), by striking “section 2505” and “section 2501(a)” and inserting “section 4816” and “section 4811(a)”, respectively; and
+(3) by adding at the end the following new paragraph:
+“(16) The term ‘chapter 148 legacy provision’ means any of the following provisions of this subpart: sections 4801, 4811– 4819, 4831–4834, 4841–4843, 4851, 4852, 4861–4864, 4871, 4872, 4881–4884, 4891, and 4892, and chapter 839.”.
+(d) CONFORMING CROSS-REFERENCE AMENDMENTS.—
+(1) Section 843(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 2302 note) is amended—
+(A) in paragraph (4), by striking “section 2302(9)” and inserting “section 3021”; and
+(B) in paragraph (5), by striking “section 2505(5)” and inserting “section 4801(5)”.
+ (2) Section 2474(a)(2) of title 10, United States Code, is amended by striking “section 2500(1)” and inserting “section 4801(1)”.
+ (3) Section 881 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 2501 note) is amended—
+ (A) in subsection (a)— (i) in the matter preceding paragraph (1), by striking “section 2500” and inserting “section 4801”; and
+ (ii) in paragraph (4), by striking “section 2501(b)” and inserting “section 4811(b)”; and
+  (B) in subsection (c), by striking “section 2504” and inserting “section 4814”. 
+  (4) The National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136; 10 U.S.C. 2501 note) is amended—
+  (A) in section 812—
+  (i) in subsection (a)(1)(B), by striking “section 2501” and inserting “section 4811”; and
+  (ii) in subsection (b)(3), by striking “section 2507” and inserting “section 4817”; and
+    (B) in section 814(c), by striking “section 2534” and inserting “section 4864”.
+  (5) Section 1712(c)(2) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 10 U.S.C. 2536 note) is amended by striking “section 2500” and inserting “section 4801”.
+
+SEC. 1867. POLICIES AND PLANNING.
+(a) NEW CHAPTER.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115– 232), is amended by adding after chapter 381, as amended by the preceding section, the following new chapter:
+
+
+ “CHAPTER 382—POLICIES AND PLANNING
+
+10 USC 4811
+prec.
+
+“Sec.
+“4811. National security strategy for national technology and industrial base.
+“4812. National Defense Technology and Industrial Base Council.

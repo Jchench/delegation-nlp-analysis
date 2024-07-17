@@ -1,0 +1,43 @@
+134 STAT. 4604
+
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+TITLE LXIV—ESTABLISHING BENEFICIAL OWNERSHIP INFORMATION REPORTING REQUIREMENTS
+
+Sec. 6401. Short title. 
+Sec. 6402. Sense of Congress.
+Sec. 6403. Beneficial ownership information reporting requirements.
+
+31 USC 5301 note.
+
+
+SEC. 6401. SHORT TITLE.
+
+
+This title may be cited as the ‘‘Corporate Transparency Act’’.
+
+
+31 USC 5336 note.
+
+
+SEC. 6402. SENSE OF CONGRESS.
+
+
+It is the sense of Congress that—
+
+(1) more than 2,000,000 corporations and limited liability companies are being formed under the laws of the States each year;
+
+(2) most or all States do not require information about the beneficial owners of the corporations, limited liability companies, or other similar entities formed under the laws of the State;
+
+(3) malign actors seek to conceal their ownership of corporations, limited liability companies, or other similar entities in the United States to facilitate illicit activity, including money laundering, the financing of terrorism, proliferation financing, serious tax fraud, human and drug trafficking, counterfeiting, piracy, securities fraud, financial fraud, and acts of foreign corruption, harming the national security interests of the United States and allies of the United States;
+
+(4) money launderers and others involved in commercial activity intentionally conduct transactions through corporate structures in order to evade detection, and may layer such structures, much like Russian nesting ‘‘Matryoshka’’ dolls, across various secretive jurisdictions such that each time an investigator obtains ownership records for a domestic or foreign entity, the newly identified entity is yet another corporate entity, necessitating a repeat of the same process;
+
+(5) Federal legislation providing for the collection of beneficial ownership information for corporations, limited liability companies, or other similar entities formed under the laws of the States is needed to—
+    (A) set a clear, Federal standard for incorporation practices;
+    (B) protect vital Unites States national security interests;
+    (C) protect interstate and foreign commerce;
+    (D) better enable critical national security, intelligence, and law enforcement efforts to counter money laundering, the financing of terrorism, and other illicit activity; and
+    (E) bring the United States into compliance with international anti-money laundering and countering the financing of terrorism standards;
+
+(6) beneficial ownership information collected under the amendments made by this title is sensitive information and will be directly available only to authorized government authorities, subject to effective safeguards and controls, to—

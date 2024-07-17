@@ -1,0 +1,21 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+of Consumer Financial Protection for federally chartered housing creditors, in accordance with the rulemaking authority granted to the Bureau of Consumer Financial Protection with regard to federally chartered housing creditors under provisions of law other than this section.”;
+(B) by striking subsection (c) and inserting the following:
+“(c) PREEMPTION OF STATE LAW.—An alternative mortgage transaction may be made by a housing creditor in accordance with this section, notwithstanding any State constitution, law, or regulation that prohibits an alternative mortgage transaction. For purposes of this subsection, a State constitution, law, or regulation that prohibits an alternative mortgage transaction does not include any State constitution, law, or regulation that regulates mortgage transactions generally, including any restriction on prepayment penalties or late charges.”; and
+(C) by adding at the end the following:
+“(d) BUREAU ACTIONS.—The Bureau of Consumer Financial Protection shall—
+“(1) review the regulations identified by the Comptroller of the Currency and the National Credit Union Administration, (as those rules exist on the designated transfer date), as applicable under paragraphs (1) through (3) of subsection (a);
+“(2) determine whether such regulations are fair and not deceptive and otherwise meet the objectives of the Consumer Financial Protection Act of 2010; and
+“(3) promulgate regulations under subsection (a)(4) after the designated transfer date.
+“(e) DESIGNATED TRANSFER DATE.—As used in this section, the term ‘designated transfer date’ means the date determined under section 1062 of the Consumer Financial Protection Act of 2010.”;
+(b) EFFECTIVE DATE.—This section and the amendments made by this section shall become effective on the designated transfer date.
+(c) RULE OF CONSTRUCTION.—The amendments made by subsection (a) shall not affect any transaction covered by the Alternative Mortgage Transaction Parity Act of 1982 (12 U.S.C. 3801 et seq.) and entered into on or before the designated transfer date.
+SEC. 1084. AMENDMENTS TO THE ELECTRONIC FUND TRANSFER ACT.
+The Electronic Fund Transfer Act (15 U.S.C. 1693 et seq.) is amended—
+(1) by striking “Board” each place that term appears and inserting “Bureau”, except in subsections (a) and (e) of section 904 (as amended in paragraph (3) of this section) and in 918 (15 U.S.C. 1693o) (as so designated by the Credit Card Act of 2009) and section 920 (as added by section 1076);
+(2) in section 903 (15 U.S.C. 1693a)—
+(A) by redesignating paragraphs (3) through (11) as paragraphs (4) through (12), respectively; and
+(B) by inserting after paragraph (3) the following:
+“(4) the term ‘Bureau’ means the Bureau of Consumer Financial Protection;”;
+(3) in section 904 (15 U.S.C. 1693b)—

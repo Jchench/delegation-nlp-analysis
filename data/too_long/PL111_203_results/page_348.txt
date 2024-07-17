@@ -1,0 +1,58 @@
+124 STAT. 1722              PUBLIC LAW 111-203—JULY 21, 2010
+
+“(C) periodically conduct tests to verify that backup
+resources are sufficient to ensure continued order pro-
+cessing and trade matching, price reporting, market surveil-
+lance, and maintenance of a comprehensive and accurate
+audit trail.
+“(21) FINANCIAL RESOURCES.—
+“(A) IN GENERAL.—The board of trade shall have ade-
+quate financial, operational, and managerial resources to
+discharge each responsibility of the board of trade.
+“(B) DETERMINATION OF ADEQUACY.—The financial
+resources of the board of trade shall be considered to be
+adequate if the value of the financial resources exceeds
+the total amount that would enable the contract market
+to cover the operating costs of the contract market for
+a 1-year period, as calculated on a rolling basis.
+“(22) DIVERSITY OF BOARD OF DIRECTORS.—The board of
+trade, if a publicly traded company, shall endeavor to recruit
+individuals to serve on the board of directors and the other
+decision-making bodies (as determined by the Commission) of
+the board of trade from among, and to have the composition
+of the bodies reflect, a broad and culturally diverse pool of
+qualified candidates.
+“(23) SECURITIES AND EXCHANGE COMMISSION.—The board
+of trade shall keep any such records relating to swaps defined
+in section 1a(47)(A)(v) open to inspection and examination by
+the Securities and Exchange Commission.”.
+SEC. 736. MARGIN.
+Section 8a(7) of the Commodity Exchange Act (7 U.S.C. 12a(7))
+is amended—
+(1) in subparagraph (C), by striking “, excepting the setting
+of levels of margin”;
+(2) by redesignating subparagraphs (D) through (F) as sub-
+paragraphs (E) through (G), respectively; and
+(3) by inserting after subparagraph (C) the following:
+“(D) margin requirements, provided that the rules,
+regulations, or orders shall—
+“(i) be limited to protecting the financial integrity
+of the derivatives clearing organization;
+“(ii) be designed for risk management purposes
+to protect the financial integrity of transactions; and
+“(iii) not set specific margin amounts;”.
+SEC. 737. POSITION LIMITS.
+(a) AGGREGATE POSITION LIMITS.—Section 4a(a) of the Com-
+modity Exchange Act (7 U.S.C. 6a(a)) is amended—
+(1) by inserting after “4a”) the following:
+“(1) IN GENERAL—;
+(2) in the first sentence, by striking “on electronic trading
+facilities with respect to a significant price discovery contract”
+and inserting “swaps that perform or affect a significant price
+discovery function with respect to registered entities”;
+(3) in the second sentence—
+(A) by inserting “, including any group or class of
+traders,” after “held by any person”; and
+(B) by striking “on an electronic trading facility with
+respect to a significant price discovery contract,” and
+inserting “swaps traded on or subject to the rules of a

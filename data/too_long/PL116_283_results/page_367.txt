@@ -1,0 +1,29 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 3753
+
+"(A) with respect to a contract or group of contracts not described in subparagraph (B), at least 7 fiscal years before the current fiscal year; and
+"(B) with respect to a contract or group of contracts for military construction (as defined in section 2801 of title 10, United States Code) or shipbuilding, at least 10 fiscal years before the current fiscal year;"; and
+(2) by amending paragraph (2) to read as follows:
+"(2) the performance or delivery has been completed at least 4 years before the current fiscal year; and".
+
+SEC. 821. REVISION OF PROOF REQUIRED WHEN USING AN EVALUA-TION FACTOR FOR EMPLOYING OR SUBCONTRACTING WITH MEMBERS OF THE SELECTED RESERVE.
+Section 819 of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109-163; 119 Stat. 3385; 10 U.S.C. 2305 note) is amended—
+(1) by striking subsection (b); and
+(2) by redesignating subsection (c) as subsection (b).
+
+Subtitle C—Provisions Relating to Software and Technology
+
+SEC. 831. CONTRACT AUTHORITY FOR DEVELOPMENT AND DEM-ONSTRATION OF INITIAL OR ADDITIONAL PROTOTYPE UNITS.
+
+(a) IN GENERAL.—Section 2302e of title 10, United States Code, is amended—
+(1) in the heading, by striking "advanced development" and inserting "development and demonstration";
+(2) in subsection (a)(1), by striking "provision of advanced component development, prototype," and inserting "development and demonstration"; and
+(3) by adding at the end the following new subsection:
+"(c) PROCEDURES.—The Secretary of Defense shall establish procedures to collect and analyze information on the use and bene-fits of the authority under this section and related impacts on performance, affordability, and capability delivery.".
+(b) CLERICAL AMENDMENT.—The table of sections at the begin-ning of chapter 137 of title 10, United States Code, is amended by striking the item relating to section 2302e and inserting the following new item:
+"2302e. Contract authority for development and demonstration of initial or additional prototype units.".
+
+SEC. 832. EXTENSION OF PILOT PROGRAM FOR STREAMLINED AWARDS FOR INNOVATIVE TECHNOLOGY PROGRAMS.
+Section 873(f) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114-92; 10 U.S.C. 2302h note) is amended by striking "October 1, 2020" and inserting "October 1, 2022".
+
+SEC. 833. LISTING OF OTHER TRANSACTION AUTHORITY CONSORTIA.
+Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall maintain on the single Government-wide point of entry described under section 1708 of

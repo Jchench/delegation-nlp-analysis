@@ -1,0 +1,60 @@
+134 STAT. 4074            PUBLIC LAW 116–283—JAN. 1, 2021
+
+retrofit any Global Positioning System device or system, or network
+that uses the Global Positioning System, in order to mitigate harm-
+ful interference from commercial terrestrial operations using the
+1526–1536 megahertz band, the 1627.5–1637.5 megahertz band,
+or the 1646.5–1656.5 megahertz band.
+(6) ACTIONS NOT PROHIBITED.—The prohibition in subsection
+(a) shall not apply to any action taken by the Secretary of Defense
+relating to—
+    (1) conducting technical or information exchanges with the
+entity that operates the commercial terrestrial operations in
+the megahertz bands specified in such subsection;
+    (2) seeking compensation for harmful interference from
+such entity; or
+    (3) Global Positioning System receiver upgrades needed
+to address other resiliency requirements.
+
+                    SEC. 1662. LIMITATION ON AWARDING CONTRACTS TO ENTITIES OPER-
+                                    ATING COMMERCIAL TERRESTRIAL COMMUNICATION
+                                    NETWORKS THAT CAUSE HARMFUL INTERFERENCE WITH
+                                    THE GLOBAL POSITIONING SYSTEM.
+
+The Secretary of Defense may not enter into a contract, or
+extend or renew a contract, with an entity that engages in commer-
+cial terrestrial operations using the 1525–1559 megahertz band
+or the 1626.5–1660.5 megahertz band unless the Secretary has
+certified to the congressional defense committees that such oper-
+ations do not cause harmful interference to a Global Positioning
+System device of the Department of Defense.
+
+                    SEC. 1663. INDEPENDENT TECHNICAL REVIEW OF FEDERAL COMMU-
+                                    NICATIONS COMMISSION ORDER 20–48.
+
+(a) AGREEMENT.—
+    (1) IN GENERAL.—The Secretary of Defense shall seek to
+enter into an agreement with the National Academies of
+Sciences, Engineering, and Medicine for the National Acad-
+emies to perform the services covered by this section.
+    (2) TIMING.—The Secretary shall seek to enter into the
+agreement described in paragraph (1) not later than 30 days
+after the date of the enactment of this Act.
+(b) INDEPENDENT TECHNICAL REVIEW.—
+    (1) IN GENERAL.—Under an agreement between the Sec-
+retary and the National Academies under subsection (a), the
+National Academies shall carry out an independent technical
+review of the Order and Authorization adopted by the Federal
+Communications Commission on April 19, 2020 (FCC 20–48),
+to the extent that such Order and Authorization affects the
+devices, operations, or activities of the Department of Defense.
+    (2) ELEMENTS.—The independent technical review carried
+out under paragraph (1) shall include the following:
+        (A) Comparison of the two different approaches on
+     which the Commission relied for the Order and Authoriza-
+     tion described in paragraph (1) to evaluate the potential
+     harmful interference concerns relating to Global Positioning System devices, with a recommendation on which
+     method most effectively mitigates risks of harmful inter-
+     ference with Global Positioning System devices of the
+     Department, or relating to or with the potential to affect
+     the operations and activities of the Department.

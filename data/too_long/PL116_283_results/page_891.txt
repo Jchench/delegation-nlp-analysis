@@ -1,0 +1,39 @@
+PUBLIC LAW 116-283—JAN. 1, 2021      134 STAT. 4277
+
+as amended by subsection (a), inserted after section 4571, as added by subsection (b), and redesignated as section 4576.
+
+Subtitle H—Contract Management
+
+SEC. 1861. CONTRACT ADMINISTRATION.
+    
+(a) New Chapter.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232), is amended by striking chapter 361 and inserting the following:
+
+"Chapter 361—Contract Administration
+"Sec.
+"4601. Electronic submission and processing of claims for contract payments.
+"4602. Contracted property and services: prompt payment of vouchers.
+"4603. Advance notification of contract performance outside the United States.".
+
+(b) Transfer of Title 10 sections.—Sections 2227, 2226, and 2410g of title 10, United States Code, are transferred to chapter 361 of such title, as amended by subsection (a), inserted (in that order) after the table of sections at the beginning of such chapter, and redesignated as section 4601, 4602, and 4603, respectively.
+
+SEC. 1862. PROHIBITIONS AND PENALTIES.
+
+(a) New CHAPTER.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232), is amended by striking chapter 363 and inserting the following:
+
+"Chapter 363—Prohibition and Penalties
+"Sec.
+"4651. Expenditure of appropriations: limitation.
+"4652. Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs.
+"4653. Prohibition on use of funds to relieve economic dislocations.
+"4654. Prohibition on doing business with certain offerors or contractors.
+"4655. Prohibition of contractors limiting subcontractor sales directly to the United States.
+"4656. Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors.
+"4657. Prohibition on criminal history inquiries by contractors prior to conditional offer.
+"4658. Debarment of persons convicted of fraudulent use of ‘Made in America'” labels.
+"4659. Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel.
+"4660. Prohibition on collection of political information.".
+
+(b) Transfer and Redesignation of Title 10 Sections.— The sections of title 10, United States Code, specified in the left-hand column of the following table are transferred to chapter 363 of such title, as amended by subsection (a), inserted (in the order shown in the following table) after the table of sections at the beginning of such chapter, and redesignated in accordance with the section numbers in the right-hand column, as follows:
+
+Section                    Redesignated Section
+2207                         4651

@@ -1,0 +1,23 @@
+PUBLIC LAW 102-242 - DEC. 19, 1991 105 STAT. 2363
+
+(c) EFFECTIVE DATE.-The amendment made by this section shall become effective 1 year after the date of enactment of this Act. 12 USC 371b-2 note. 
+          Subtitle B-Coverage
+SEC. 311. DEPOSIT AND PASS-THROUGH INSURANCE.
+            (a) EXCLUSION OF CERTAIN OBLIGATIONS FROM DEPOSIT INSURANCE COVERAGE.- 
+                 (1) IN GENERAL.-Section 11(a) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)) is amended by adding at the end the following new paragraph:
+                   "(8) CERTAIN INVESTMENT CONTRACTS NOT TREATED AS INSURED DEPOSITS.- 
+                       "(A) IN GENERAL.-A liability of an insured depository institution shall not be treated as an insured deposit if the liability arises under any insured depository institution investment contract between any insured depository institution and any employee benefit plan which expressly permits benefit-responsive withdrawals or transfers.
+                       "(B) DEFINITIONS.-For purposes of subparagraph (A)-
+                            "(i) BENEFIT-RESPONSIVE WITHDRAWALS OR TRANSFERS.-The term 'benefit-responsive withdrawals or transfers' means any withdrawal or transfer of funds (consisting of any portion of the principal and any interest credited at a rate guaranteed by the insured depository institution investment contract) during the period in which any guaranteed rate is in effect, without substantial penalty or adjustment, to pay benefits provided by the employee benefit plan or to permit a plan participant or beneficiary to redirect the investment of his or her account balance.
+                            "(ii) EMPLOYEE BENEFIT PLAN.-The term 'employee benefit plan'-
+                                 "(I) has the meaning given to such term in section 3(3) of the Employee Retirement Income Security Act of 1974; and
+                                 "(II) includes any plan described in section 401(d) of the Internal Revenue Code of 1986.".
+                                      (2) EXCLUSION OF OBLIGATIONS FROM TREATMENT AS DEPOSITS FOR OTHER PURPOSES.-Section 7(b)(6) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(6)) is amended­
+                                             (A) by striking "and" at the end of subparagraph (B);
+                                             (B) by striking the period at the end of subparagraph (C) and inserting ", and"; and 
+                                             (C) by adding at the end the following new subparagraph:
+                                                       "(D) any liability of the insured depository institution which is not treated as an insured deposit pursuant to section 11(a)(8).".
+            ( b) INSURANCE OF DEPOSITS.-
+                  (1) INSURED AMOUNTS PAYABLE.-Section 11(a) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)) (as amended by subsection (a)(l) of this section) is amended by striking "(a)(l)" and all that follows through paragraph (1) and inserting the following : 
+                                  "(a) DEPOSIT INSURANCE.-
+                                       "(1) INSURED AMOUNTS PAYABLE.-

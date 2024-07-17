@@ -1,0 +1,25 @@
+124 STAT. 2068
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+(b) REPORT AND RECOMMENDATIONS.—Not later than January 31, 2011, the Secretary of the Treasury shall submit the report and recommendations required under subsection (a) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+SEC. 1075. REASONABLE FEES AND RULES FOR PAYMENT CARD TRANSACTIONS.
+(a) IN GENERAL.—The Electronic Fund Transfer Act (15 U.S.C.  1693 et seq.) is amended—
+ (1) by redesignating sections 920 and 921 as sections 921 and 922, respectively; and
+ (2) by inserting after section 919 the following:
+“SEC. 920. REASONABLE FEES AND RULES FOR PAYMENT CARD TRANSACTIONS.
+ “(a) REASONABLE INTERCHANGE TRANSACTION FEES FOR ELECTRONIC DEBIT TRANSACTIONS.—
+  “(1) REGULATORY AUTHORITY OVER INTERCHANGE TRANSACTION FEES.—The Board may prescribe regulations, pursuant to section 553 of title 5, United States Code, regarding any interchange transaction fee that an issuer may receive or charge with respect to an electronic debit transaction, to implement this subsection (including related definitions), and to prevent circumvention or evasion of this subsection.
+ “(2) REASONABLE INTERCHANGE TRANSACTION FEES.—The amount of any interchange transaction fee that an issuer may receive or charge with respect to an electronic debit transaction shall be reasonable and proportional to the cost incurred by the issuer with respect to the transaction.
+  “(3) RULEMAKING REQUIRED.—
+   “(A) IN GENERAL.—The Board shall prescribe regulations in final form not later than 9 months after the date of enactment of the Consumer Financial Protection Act of 2010, to establish standards for assessing whether the amount of any interchange transaction fee described in paragraph (2) is reasonable and proportional to the cost incurred by the issuer with respect to the transaction.
+   “(B) INFORMATION COLLECTION.—The Board may require any issuer (or agent of an issuer) or payment card network to provide the Board with such information as may be necessary to carry out the provisions of this subsection and the Board, in issuing rules under subparagraph (A) and on at least a bi-annual basis thereafter, shall disclose such aggregate or summary information concerning the costs incurred, and interchange transaction fees charged or received, by issuers or payment card networks in connection with the authorization, clearance or settlement of electronic debit transactions as the Board considers appropriate and in the public interest.
+ “(4) CONSIDERATIONS; CONSULTATION.—In prescribing regulations under paragraph (3)(A), the Board shall—
+  “(A) consider the functional similarity between—
+   “(i) electronic debit transactions; and
+   “(ii) checking transactions that are required within the Federal Reserve bank system to clear at par;
+  “(B) distinguish between—
+
+Deadline.
+Standards.

@@ -1,0 +1,16 @@
+PUBLIC LAW 111–203—JULY 21, 2010           124 STAT. 1477
+
+(iv) to minimize the amount of any loss realized upon the sale or other disposition of the assets of the covered financial company; and 
+(B) all claimants that are similarly situated under paragraph (1) receive not less than the amount provided in paragraphs (2) and (3) of subsection (d). 
+(5) SECURED CLAIMS UNAFFECTED.—This section shall not affect secured claims or security entitlements in respect of assets or property held by the covered financial company, except to the extent that the security is insufficient to satisfy the claim, and then only with regard to the difference between the claim and the amount realized from the security. 
+(6) PRIORITY OF EXPENSES AND UNSECURED CLAIMS IN THE ORDERLY LIQUIDATION OF SIPC MEMBER.—Where the Corporation is appointed as receiver for a covered broker or dealer, unsecured claims against such covered broker or dealer, or the Corporation as receiver for such covered broker or dealer under this section, that are proven to the satisfaction of the receiver under section 205(e), shall have the priority prescribed in paragraph (1), except that—
+(A) SIPC shall be entitled to recover administrative expenses incurred in performing its responsibilities under section 205 on an equal basis with the Corporation, in accordance with paragraph (1)(A);
+(B) the Corporation shall be entitled to recover any amounts paid to customers or to SIPC pursuant to section 205(f), in accordance with paragraph (1)(B);
+(C) SIPC shall be entitled to recover any amounts paid out of the SIPC Fund to meet its obligations under section 205 and under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), which claim shall be subordinate to the claims payable under subparagraphs (A) and (B) of paragraph (1), but senior to all other claims; and 
+(D) the Corporation may, after paying any proven claims to customers under section 205 and the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), and as provided above, pay dividends on other proven claims, in its discretion, and to the extent that funds are available, in accordance with the priorities set forth in paragraph (1). 
+(c) PROVISIONS RELATING TO CONTRACTS ENTERED INTO BEFORE APPOINTMENT OF RECEIVER.— 
+(1) AUTHORITY TO REPUDIATE CONTRACTS.—In addition to any other rights that a receiver may have, the Corporation as receiver for any covered financial company may disaffirm or repudiate any contract or lease—
+(A) to which the covered financial company is a party;
+(B) the performance of which the Corporation as receiver, in the discretion of the Corporation, determines to be burdensome; and 
+(C) the disaffirmance or repudiation of which the Corporation as receiver determines, in the discretion of the Corporation, will promote the orderly administration of the affairs of the covered financial company. 
+(2) TIMING OF REPUDIATION.—The Corporation, as receiver for any covered financial company, shall determine whether

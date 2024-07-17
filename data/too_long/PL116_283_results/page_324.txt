@@ -1,0 +1,31 @@
+134 STAT. 3710      PUBLIC LAW 116–283—JAN. 1, 2021
+
+ 10 USC 1071 note. 
+
+SEC. 745. WOUNDED WARRIOR SERVICE DOG PROGRAM. 
+(a) PROGRAM.—The Secretary of Defense shall establish a program, to be known as the ‘‘Wounded Warrior Service Dog Program’’, to provide assistance dogs to covered members and covered veterans.
+(b) DEFINITIONS.—In this section:
+(1) The term ‘‘assistance dog’’ means a dog specifically trained to perform physical tasks to mitigate the effects of a covered disability, except that the term does not include a dog specifically trained for comfort or personal defense.
+(2) The term ‘‘covered disability’’ means any of the following:
+(A) Blindness or visual impairment.
+(B) Loss of use of a limb, paralysis, or other significant mobility issues.
+(C) Loss of hearing.
+(D) Traumatic brain injury.
+(E) Post-traumatic stress disorder.
+(F) Any other disability that the Secretary of Defense considers appropriate.
+(3) The term ‘‘covered member’’ means a member of the Armed Forces who is—
+(A) receiving medical treatment, recuperation, or therapy under chapter 55 of title 10, United States Code;
+(B) in medical hold or medical holdover status; or
+(C) covered under section 1202 or 1205 of title 10, United States Code.
+(4) The term ‘‘covered veteran’’ means a veteran who is enrolled in the health care system established under section 1705(a) of title 38, United States Code.
+
+10 USC 1073 note. 
+
+SEC. 746. EXTRAMEDICAL MATERNAL HEALTH PROVIDERS DEMONSTRATION PROJECT.
+(a) DEMONSTRATION PROJECT REQUIRED.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall commence carrying out a demonstration project designed to evaluate the cost, quality of care, and impact on maternal and fetal outcomes of using extramedical maternal health providers under the TRICARE program to determine the appropriateness of making coverage of such providers under the TRICARE program permanent.
+(b) ELEMENTS OF DEMONSTRATION PROJECT.—The demonstration project under subsection (a) shall include, for participants in the demonstration project, the following:
+(1) Access to doulas.
+(2) Access to lactation consultants or lactation counselors who are not otherwise authorized to provide services under the TRICARE program.
+(c) PARTICIPATING.—The Secretary shall establish a process under which covered beneficiaries may enroll in the demonstration project to receive the services provided under the demonstration project.
+(d) DURATION.—The Secretary shall carry out the demonstration project for a period of five years beginning on the date on which notification of the commencement of the demonstration project is published in the Federal Register.
+(e) SURVEYS.—

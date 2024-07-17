@@ -1,0 +1,29 @@
+124 STAT. 1716
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+“(B) REQUIREMENTS.—The Commission shall adopt data collection and reporting requirements for swap execution facilities that are comparable to corresponding requirements for derivatives clearing organizations and swap data repositories.
+“(11) ANTITRUST CONSIDERATIONS.—Unless necessary or appropriate to achieve the purposes of this Act, the swap execution facility shall not—
+“(A) adopt any rules or taking any actions that result in any unreasonable restraint of trade; or
+“(B) impose any material anticompetitive burden on trading or clearing.
+“(12) CONFLICTS OF INTEREST.—The swap execution facility shall—
+“(A) establish and enforce rules to minimize conflicts of interest in its decision-making process; and
+“(B) establish a process for resolving the conflicts of interest.
+“(13) FINANCIAL RESOURCES.—
+“(A) IN GENERAL.—The swap execution facility shall have adequate financial, operational, and managerial resources to discharge each responsibility of the swap execution facility.
+Time period.
+“(B) DETERMINATION OF RESOURCE ADEQUACY.—The financial resources of a swap execution facility shall be considered to be adequate if the value of the financial resources exceeds the total amount that would enable the swap execution facility to cover the operating costs of the swap execution facility for a 1-year period, as calculated on a rolling basis.
+“(14) SYSTEM SAFEGUARDS.—The swap execution facility shall—
+“(A) establish and maintain a program of risk analysis and oversight to identify and minimize sources of operational risk, through the development of appropriate controls and procedures, and automated systems, that—
+“(i) are reliable and secure; and
+“(ii) have adequate scalable capacity;
+“(B) establish and maintain emergency procedures, backup facilities, and a plan for disaster recovery that allow for—
+“(i) the timely recovery and resumption of operations; and
+“(ii) the fulfillment of the responsibilities and obligations of the swap execution facility; and
+“(C) periodically conduct tests to verify that the backup resources of the swap execution facility are sufficient to ensure continued—
+“(i) order processing and trade matching;
+“(ii) price reporting;
+“(iii) market surveillance and
+“(iv) maintenance of a comprehensive and accurate audit trail.
+“(15) DESIGNATION OF CHIEF COMPLIANCE OFFICER.—
+“(A) IN GENERAL.—Each swap execution facility shall designate an individual to serve as a chief compliance officer.

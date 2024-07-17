@@ -1,0 +1,71 @@
+134 STAT. 4626           PUBLIC LAW 116-283—JAN. 1, 2021
+
+                        
+
+(2) in paragraph (4), by inserting “under paragraph (7)” after “funds disgorged”; and
+(3) by adding at the end the following:
+        “(7) DISGORGEMENT.—In any action or proceeding brought 
+        by the Commission under any provision of the securities laws,     
+        the Commission may seek, and any Federal court may order,     
+        disgorgement.
+
+Deadlines.
+
+
+        “(8) LIMITATIONS PERIODS.—
+                “(A) DISGORGEMENT.—The Commission may bring a         
+                claim for disgorgement under paragraph (7)—
+                        “(i) not later than 5 years after the latest date       
+                        of the violation that gives rise to the action or pro-     
+                        ceeding in which the Commission seeks the claim         
+                        occurs; or
+                        “(ii) not later than 10 years after the latest date            
+                        of the violation that gives rise to the action or pro-     
+                        ceeding in which the Commission seeks the claim if     
+                        the violation involves conduct that violates—
+                                 “(I) section 10(b);
+                                 “(II) section 17(a)(1) of the Securities Act of 
+                                 1933 (15 U.S.C. 77q(a)(1));
+                                 “(III) section 206(1) of the Investment Advisers 
+                                 Act of 1940 (15 U.S.C. 80b–6(1)); or 
+                                 “(IV) any other provision of the securities laws      
+                                 for which scienter must be established.
+                “(B) EQUITABLE REMEDIES.—The Commission may seek         
+                a claim for any equitable remedy, including for an injunc-     
+                tion or for a bar, suspension, or cease and desist order,                    
+                not later than 10 years after the latest date on which    
+                a violation that gives rise to the claim occurs.
+                “(C) CALCULATION.—For the purposes of calculating 
+                any limitations period under this paragraph with respect         
+                to an action or claim, any time in which the person against            
+                which the action or claim, as applicable, is brought is    
+                outside of the United States shall not count towards the         
+                accrual of that period.
+        “(9) RULE OF CONSTRUCTION.—Nothing in paragraph (7)     
+        may be construed as altering any right that any private party        
+        may have to maintain a suit for a violation of this Act.”.
+        
+Effective date.         
+15 USC 78u note.
+
+
+        (b) APPLICABILITY.—The amendments made by subsection (a)     
+        shall apply with respect to any action or proceeding that is pending     
+        on, or commenced on or after, the date of enactment of this Act.
+
+SEC. 6502. GAO AND TREASURY STUDIES ON BENEFICIAL OWNERSHIP 
+               INFORMATION REPORTING REQUIREMENTS.
+
+Assessments.
+
+        (a) EFFECTIVENESS OF INCORPORATION PRACTICES STUDY.—Not     
+        later than 2 years after the effective date of the regulations promul-       
+        gated under section 5336(b)(4) of title 31, United States Code,     
+        as added by section 6403(a) of this division, the Comptroller General    
+        of the United States shall conduct a study and submit to Congress     
+        a report assessing the effectiveness of incorporation practices imple-     
+        mented under this division, and the amendments made by this       
+        division, in—
+                (1) providing national security, intelligence, and law     
+                enforcement agencies with prompt access to reliable, useful,     
+                and complete beneficial ownership information; and

@@ -1,0 +1,18 @@
+104 STAT. 4882	                                                          PUBLIC LAW 101-647-NOV. 29, 1990
+
+Federal agency to provide or receive assistance or information to or from any foreign authority with respect to any matter.'".
+(d) FOREIGN INVESTIGATIONS BY BOARD AS CONSERVATOR OR LIQUIDATING AGENT.-Section 207 of the Federal Credit Union Act (12 U.S.C. 1787) is amended by inserting after subsection (q) (as added by section 2526(b) of this Act) the following new subsection:
+"(r) FOREIGN INVESTIGATIONS.-The Board, as conservator or liquidating agent of any insured credit union and for purposes of carrying out any power, authority, or duty with respect to an insured credit union- 
+"(1) may request the assistance of any foreign banking authority and provide assistance to any foreign banking authority in accordance with section 206(u); and 
+"(2) may maintain an office to coordinate foreign investigations or investigations on behalf of foreign banking authorities.".
+
+SEC. 2533. EXTENSION OF STATUTE OF LIMITATIONS FOR CIVIL PENALTIES.
+Section 951 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1833a) is amended by adding at the end the following:
+"(g) STATUTE OF LIMITATIONS.-A civil action under this section may not be commenced later than 10 years after the cause of action accrues.".
+
+SEC. 2534. CLARIFICATION OF SUBPOENA AUTHORITY FOR FDIC, RTC, AND NCUA ACTING AS CONSERVATOR, RECEIVER, OR LIQUIDATING AGENT.
+(a) FDIC AND RTC AUTHORITY.-Section 11(d)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1821(d)(2)) is amended by redesignating subparagraph (I) as subparagraph (J) and by inserting after subparagraph (H) the following new subparagraph:
+"(I) SUBPOENA AUTHORITY.- 
+"(i) IN GENERAL.-The Corporation may, as conservator, receiver, or exclusive manager and for purposes of carrying out any power, authority, or duty with respect to an insured depository institution (including determining any claim against the institution and determining and realizing upon any asset of any person in the course of collecting money due the institution), exercise any power established under section 8(n), and the provisions of such section shall apply with respect to the exercise of any such power under this subparagraph in the same manner as such provisions apply under such section.
+"(ii) AUTHORITY OF BOARD OF DIRECTORS.-A subpoena or subpoena duces tecum may be issued under clause (i) only by, or with the written approval of, the Board of Directors or their designees (or, in the case of a subpoena or subpoena duces tecum issued by the Resolution Trust Corporation under this subparagraph and section 21A(b)(4), only by, or with the written approval of, the Board of Directors of such Corporation or their designees).
+"(iii) RULE OF CONSTRUCTION.-This subsection shall not be construed as limiting any rights that the Cor

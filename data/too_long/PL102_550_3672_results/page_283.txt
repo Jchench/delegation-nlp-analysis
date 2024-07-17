@@ -1,0 +1,25 @@
+106 STAT. 3954		PUBLIC LAW 102-550--OCT. 28, 1992
+
+(B) NEW PROGRAMS NOT IN PUBLIC INTEREST.--If the Secretary submits a report under paragraph (2) of this subsection disapproving a request for approval on the grounds under subsection (b)(1)(C) or (b)(2)(B), the Secretary shall provide the enterprise submitting the request notice of, and opportunity for, a hearing on the record regarding such disapproval.
+
+12 USC 4543. SEC. 1323. PUBLIC ACCESS TO MORTGAGE INFORMATION.
+
+(a) IN GENERAL.--The Secretary shall make available to the public, in forms useful to the public (including forms accessible by computers), the data submitted by the enterprises in the reports required under section 309(m) of the Federal National Mortgage Association Charter Act or section 307(e) of the Federal Home Loan Mortgage Corporation Act.
+
+(b) ACCESS.--
+(1) PROPRIETARY DATA.--Except as provided in paragraph (2), the Secretary may not make available to the public data that the Secretary determines pursuant to section 1326 are proprietary information.
+(2) EXCEPTION.--The Secretary shall not restrict access to the data provided in accordance with section 309(m)(1)(A) of the Federal National Mortgage Association Charter Act or section 307(e)(1)(A) of the Federal Home Loan Mortgage Corporation Act.
+
+(c) FEES.--The Secretary may charge reasonable fees to cover the cost of making data available under this section to the public.
+
+12 USC 4544. SEC. 1324. ANNUAL HOUSING REPORT.
+
+(a) IN GENERAL.--After reviewing and analyzing the reports submitted under section 309(n) of the Federal National Mortgage Association Charter Act and section 307(f) of the Federal Home Loan Mortgage Corporation Act, the Secretary shall submit a report, as part of the annual report under section 1328(a) of this title, on the extent to which each enterprise is achieving the annual housing goals established under subpart B of this part and the purposes of the enterprise established by law.
+
+(b) CONTENTS.--The report shall--
+(1) aggregate and analyze census tract data to assess the compliance of each enterprise with the central cities, rural areas, and other underserved areas housing goal and to determine levels of business in central cities, rural areas, underserved areas, low- and moderate-income census tracts, minority census tracts, and other geographical areas deemed appropriate by the Secretary;
+(2) aggregate and analyze data on income to assess the compliance of each enterprise with the low- and moderate-income and special affordable housing goals;
+(3) aggregate and analyze data on income, race, and gender by census tract and compare such data with larger demographic, housing, and economic trends;
+(4) examine actions that each enterprise has undertaken or could undertake to promote and expand the annual goals established under sections 1332, 1333, and 1334, and the purposes of the enterprise established by law;
+(5) examine the primary and secondary multifamily housing mortgage markets and describe--
+(A) the availability and liquidity of mortgage credit;

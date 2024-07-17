@@ -1,0 +1,19 @@
+134 STAT. 4628           PUBLIC LAW 116–283—JAN. 1, 2021
+
+5336(b)(4) of title 31, United States Code, as added by section 6403(a) of this division, the Comptroller General of the United States shall conduct a study and submit to Congress a report—
+(1) identifying each State that has procedures that enable persons to form or register under the laws of the State partnerships, trusts, or other legal entities, and the nature of those procedures;
+(2) identifying each State that requires persons seeking to form or register partnerships, trusts, or other legal entities under the laws of the State to provide beneficial owners (as defined in section 5336(a) of title 31, United States Code, as added by section 6403 of this division) or beneficiaries of those entities, and the nature of the required information;
+(3) evaluating whether the lack of available beneficial ownership information for partnerships, trusts, or other legal entities—
+(A) raises concerns about the involvement of those entities in terrorism, money laundering, tax evasion, securities fraud, or other misconduct; and
+(B) has impeded investigations into entities suspected of the misconduct described in subparagraph (A);
+(4) evaluating whether the failure of the United States to require beneficial ownership information for partnerships and trusts formed or registered in the United States has elicited international criticism; and
+(5) including what steps, if any, the United States has taken, is planning to take, or should be taken in response to the criticism described in paragraph (4).
+
+SEC. 6503. GAO STUDY ON FEEDBACK LOOPS.
+(a) DEFINITION.—In this section, the term ‘‘feedback loop’’ means feedback provided by the United States Government to relevant parties.
+(b) STUDY.—The Comptroller General of the United States shall conduct a study on—
+(1) best practices within the United States Government for feedback loops, including regulated private entities, on the usage and usefulness of personally identifiable information, sensitive-but-unclassified data, or similar information provided by the parties to United States Government users of the information and data, including law enforcement agencies and regulators; and
+(2) any practice or standard inside or outside the United States for providing feedback through sensitive information and public-private partnership information-sharing efforts, specifically related to efforts to combat money laundering and other forms of illicit finance.
+(c) REPORT.—Not later than 18 months after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report containing—
+(1) all findings and determinations made in carrying out the study required under subsection (b);
+(2) with respect to each of paragraphs (1) and (2) of subsection (b), any best practice or significant concern identified by the Comptroller General, and the applicability to public-

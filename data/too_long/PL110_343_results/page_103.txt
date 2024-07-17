@@ -1,0 +1,42 @@
+PUBLIC LAW 110-343—OCT. 3, 2008
+122 STAT. 3867
+
+SEC. 304. EXTENSION OF LOOK–THRU RULE FOR RELATED CON- TROLLED FOREIGN CORPORATIONS.
+
+(a)  IN GENERAL.—Subparagraph (C) of section 954(c)(6) (relating to application) is amended by striking “January 1, 2009” and inserting “January 1, 2010”.
+
+(b)  EFFECTIVE DATE.—The amendment made by this section shall apply to taxable years of foreign corporations beginning after December 31, 2007, and to taxable years of United States share-holders with or within which such taxable years of foreign corpora-tions end.
+
+SEC. 305. EXTENSION OF 15-YEAR STRAIGHT-LINE COST RECOVERY FOR QUALIFIED LEASEHOLD IMPROVEMENTS AND QUALI-FIED RESTAURANT IMPROVEMENTS; 15-YEAR STRAIGHT-LINE COST RECOVERY FOR CERTAIN IMPROVEMENTS TO RETAIL SPACE.
+
+(a)  EXTENSION OF LEASEHOLD AND RESTAURANT IMPROVE-MENTS.—
+
+(1)  IN GENERAL.—Clauses (iv) and (v) of section 168(e)(3)(E) (relating to 15-year property) are each amended by striking “January 1, 2008” and inserting “January 1, 2010”.
+
+(2)  EFFECTIVE DATE.—The amendments made by this sub-section shall apply to property placed in service after December 31, 2007.
+
+(b)  TREATMENT TO INCLUDE NEW CONSTRUCTION.—
+
+(1)  IN GENERAL.—Paragraph (7) of section 168(e) (relating to classification of property) is amended to read as follows:
+
+“(7) QUALIFIED RESTAURANT PROPERTY.—
+
+“(A)  IN GENERAL.—The term ‘qualified restaurant prop-erty’ means any section 1250 property which is—
+
+“(i)  a building, if such building is placed in service after December 31, 2008, and before January 1, 2010, or
+
+“(ii)  an improvement to a building, if more than 50 percent of the building’s square footage is devoted to preparation of, and seating for on-premises consumption of, prepared meals.
+
+“(B)  EXCLUSION FROM BONUS DEPRECIATION.—Property described in this paragraph shall not be considered quali-fied property for purposes of subsection (k).”.
+
+(2)  EFFECTIVE DATE.—The amendment made by this sub-section shall apply to property placed in service after December 31, 2008.
+
+(c)  RECOVERY PERIOD FOR DEPRECIATION OF CERTAIN IMPROVE-MENTS TO RETAIL SPACE.—
+
+(1)  15-YEAR RECOVERY PERIOD.—Section 168(e)(3)(E) (relating to 15-year property) is amended by striking “and” at the end of clause (vii), by striking the period at the end of clause (viii) and inserting “, and”, and by adding at the end the following new clause:
+
+“(ix)  any qualified retail improvement property placed in service after December 31, 2008, and before January 1, 2010.”.
+
+(2)  QUALIFIED RETAIL IMPROVEMENT PROPERTY.—Section 168(e) is amended by adding at the end the following new paragraph:
+
+“(8) QUALIFIED RETAIL IMPROVEMENT PROPERTY.—

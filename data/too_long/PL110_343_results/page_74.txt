@@ -1,0 +1,21 @@
+122 STAT. 3838   PUBLIC LAW 110–343—OCT. 3, 2008
+
+with respect to any property referred to in section 50(b)(1) or with respect to the portion of the cost of any property taken into account under section 179.
+      ‘‘(8) RECAPTURE.—The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle).
+      ‘‘(9) ELECTION TO NOT TAKE CREDIT.—No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects not to have this section apply to such vehicle.
+      ‘‘(10) INTERACTION WITH AIR QUALITY AND MOTOR VEHICLE SAFETY STANDARDS .—Unless otherwise provided in this section, a motor vehicle shall not be considered eligible for a credit under this section unless such vehicle is in compliance with—
+            ‘‘(A) the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and
+            ‘‘(B) the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
+    ‘‘(f) REGULATIONS.—
+            ‘‘(1) IN GENERAL .—Except as provided in paragraph (2), the Secretary shall promulgate such regulations as necessary to carry out the provisions of this section.
+            ‘‘(2) COORDINATION IN PRESCRIPTION OF CERTAIN REGULATIONS .—The Secretary of the Treasury, in coordination with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall prescribe such regulations as necessary to determine whether a motor vehicle meets the requirements to be eligible for a credit under this section.
+    ‘‘(g) TERMINATION .—This section shall not apply to property purchased after December 31, 2014.’’.
+    (b) COORDINATION WITH ALTERNATIVE MOTOR VEHICLE CREDIT.—Section 30B(d)(3) is amended by adding at the end the following new subparagraph:
+            ‘‘(D) EXCLUSION OF PLUG-IN VEHICLES.—Any vehicle with respect to which a credit is allowable under section 30D (determined without regard to subsection (d) thereof) shall not be taken into account under this section.’’.
+
+(c) CREDIT MADE PART OF GENERAL BUSINESS CREDIT .—Section 38(b), as amended by this Act, is amended by striking ‘‘plus’’ at the end of paragraph (33), by striking the period at the end of paragraph (34) and inserting ‘‘plus’’, and by adding at the end the following new paragraph:
+            ‘‘(35) the portion of the new qualified plug-in electric drive motor vehicle credit to which section 30D(d)(1) applies.’’.
+(d) CONFORMING AMENDMENTS .—
+            (1)(A) Section 24(b)(3)(B), as amended by section 106, is amended by striking ‘‘and 25D’’ and inserting ‘‘25D, and 30D,’’.
+            (B) Section 25(e)(1)(C)(ii) is amended by inserting ‘‘30D,’’ after ‘‘25D,’’.
+            (C) Section 25B(g)(2), as amended by section 106, is amended by striking ‘‘and 25D’’ and inserting ‘‘, 25D, and 30D’’.

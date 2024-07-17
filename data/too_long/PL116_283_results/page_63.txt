@@ -1,0 +1,70 @@
+PUBLIC LAW 116-283—JAN. 1, 2021                                                            134 STAT. 3449
+
+(A) A report on the results of the realistic survivability
+testing of the F–35 aircraft, as described in section 2366(d)
+of title 10, United States Code.
+
+(B) A report on the results of the initial operational
+test and evaluation conducted for program, as described
+in section 2399(b)(2) of such title.
+
+(8) A mitigation strategy and implementation plan to
+address each critical deficiency in the F–35 aircraft autonomic
+logistics information system that has been identified as of the
+date of enactment of this Act.                                                                 Mitigation
+                                                                                                                strategy.
+                                                                                                                Implementation
+                                                                                                                plan. 
+(9) A certification that the F–35A aircraft meets required 
+mission reliability performance using an average sortie duration
+of 2 hours and 30 minutes.                                                               Certification. 
+
+(10) A certification that the Secretary has developed and                           Certification.  
+validated a fully integrated and realistic schedule for the
+development, production and integration of Block 4 Technical
+Refresh 3 capabilities for the F–35 aircraft, that includes a
+strategy for resloving all software technical debt that has
+accumulated within the F–35 operational flight program source
+code during development, production, and integration of Technical Refresh 1 and Technical Refresh 2 capabilities.
+
+(11) The following:
+   (A) A complete list of hardware modifications that will                                     List.
+       be required to integrate Block 4 capabilities into lot 16
+       and lot 17 production F–35 aircraft.
+   (B) An estimate of the costs of any engineering changes              Cost estimate.
+        required as a result of such modifications.
+   (C) A comparison of those engineering changes and
+       costs with the engineering changes and costs for lot 15 
+       production F–35 aircraft.
+
+                SEC.160. F–35 AIRCRAFT MUNITIONS.
+
+Subject to the availability of appropriations, the Secretary of
+the Air Force and the Secretary of the Navy shall, in coordination
+with the Director of F–35 Joint Program Office, certify for
+use by the Armed Forces under the jurisdiction of such Secretary
+munitions for F–35 aircraft that are qualified on F–35 partner
+aircraft or North Atlantic Treaty Organization (NATO) member
+nations as of the date of the enactment of this Act.                              Coordination.
+                                                                                                               Certification.
+
+                SEC.161. REDESIGN STRATEGY FOR THE AUTONOMIC LOGISTICS 
+                               INFORMATION SYSTEM FOR THE F–35 FIGHTER AIRCRAFT.
+
+(a) IN GENERAL—Not later than March 1, 2021, the Under                       Deadline.
+Secretary of Defense for Acquisition and Sustainment shall, in             Consultation.
+consultation with the Director of the F–35 Aircraft Joint Program 
+Office, submit to the congressional defense committees the following:
+    (1) A report describing a program-wide process for meas-
+       uring, collecting, and tracking information on the manner in
+       which the F–35 Autonomic Logistics Information System (ALIS)
+       is affecting the performance of the F–35 aircraft fleet, including
+       its effects on aircraft availability and mission capability and
+       effectiveness rates.                                                                                Reports.
+    (2) A strategy and implementation plan for the F–35 Oper-
+       ational Data Integrated Network (ODIN) system that is being
+       developed to replace the F–35 Autonomic Logistics Information
+       System, including an identification and assessment of goals,
+       key risks or uncertainties, system performance metrics, and                       Implementation
+       effectiveness.                                                                                    plan.
+                                                                                                               Assessment.

@@ -1,0 +1,28 @@
+PUBLIC LAW 101-647—NOV. 29, 1990                   104 STAT. 4939
+
+“(2) Hearing.—The United States or the debtor, by application to the court in which an action or proceeding under this chapter is pending, may request a hearing on the applicability of any exemption claimed by the debtor. The court shall determine the extent (if any) to which the exemption applies. Unless it is reasonably evident that the exemption applies, the debtor shall bear the burden of persuasion.
+“(3) Stay of disposition.—Assertion of an exemption shall prevent the United States from selling or otherwise disposing of the property for which such exemption is claimed until the court determines whether the debtor has a substantial nonexempt interest in such property. The United States may not take possession of, dispose of, sell, or otherwise interfere with the debtor's normal use and enjoyment of an interest in property the United States knows or has reason to know is exempt.
+“(c) Debtors in joint cases.—Subject to the limitation in subsection (a), this section shall apply separately with respect to each debtor in a joint case.
+
+“§ 3015. Discovery as to debtor’s financial condition
+“(a) In general.—Except as provided in subsection (b), in an action or proceeding under subchapter B or C, the United States may have discovery regarding the financial condition of the debtor in the manner in which discovery is authorized by the Federal Rules of Civil Procedure in an action on a claim for a debt.
+“(b) Limitation.—Subsection (a) shall not apply with respect to an action or proceeding under subchapter B unless there is a reasonable likelihood that the debt involved exceeds $50,000.
+
+“SUBCHAPTER B—PREJUDGMENT REMEDIES
+
+“Sec.
+
+“3101. Prejudgment remedies.
+“3102. Attachment.
+“3103. Receivership.
+“3104. Garnishment.
+“3105. Sequestration.
+  
+“§ 3101. Prejudgment remedies
+“(a) Application.—(1) The United States may, in a proceeding in conjunction with the complaint or at any time after the filing of a civil action on a claim for a debt, make application under oath to a court to issue any prejudgment remedy.
+“(2) Such application shall be filed with the court and shall set forth the factual and legal basis for each prejudgment remedy sought.
+“(3) Such application shall—
+“(A) state that the debtor against whom the prejudgment remedy is sought shall be afforded an opportunity for a hearing; and
+“(B) set forth with particularity that all statutory requirements under this chapter for the issuance of the prejudgment remedy sought have been satisfied.
+“(b) Grounds.—Subject to section 3102, 3103, 3104, or 3105, a prejudgment remedy may be granted by any court if the United States shows reasonable cause to believe that—
+“(1) the debtor—

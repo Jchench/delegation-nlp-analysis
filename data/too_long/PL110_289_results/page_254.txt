@@ -1,0 +1,23 @@
+122 STAT. 2906
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+year of the partnership in the amount determined under paragraph (3),
+(B) in the case of any eligible qualified property placed in service by the partnership during any applicable taxable year—
+(i) section 168(k) of such Code shall not apply in determining the amount of the deduction allowable with respect to such property under section 168 of such Code,
+(ii) the applicable depreciation method used with respect to such property shall be the straight line method, and
+(C) the amount of the credit determined under section 41 of such Code for any applicable taxable year with respect to the partnership shall be reduced by the amount of the deemed payment under subparagraph (A) for the taxable year.
+(2) TREATMENT OF DEEMED PAYMENT.—
+(A) IN GENERAL.—Notwithstanding any other provision of the Internal Revenue Code of 1986, the Secretary of the Treasury or his delegate shall not use the payment of tax described in paragraph (1) as an offset or credit against any tax liability of the applicable partnership or any partner but shall refund such payment to the applicable partnership.
+(B) NO INTEREST.—The payment described in paragraph (1) shall not be taken into account in determining any amount of interest under such Code.
+(3) AMOUNT OF DEEMED PAYMENT.—The amount determined under this paragraph for any applicable taxable year shall be the least of the following:
+(A) The amount which would be determined for the taxable year under section 168(k)(4)(C)(i) of the Internal Revenue Code of 1986 (as added by the amendments made by this section) if an election under section 168(k)(4)(D) of such Code were in effect with respect to the partnership.
+(B) The amount of the credit determined under section 41 of such Code for the taxable year with respect to the partnership.
+(C) $30,000,000, reduced by the amount of any payment under this subsection for any preceding taxable year.
+(4) DEFINITIONS.—For purposes of this subsection—
+(A) APPLICABLE PARTNERSHIP.—The term ‘‘applicable partnership’’ means a domestic partnership that—
+(i) was formed effective on August 3, 2007, and
+(ii) will produce in excess of 675,000 automobiles during the period beginning on January 1, 2008, and ending on June 30, 2008.
+(B) APPLICABLE TAXABLE YEAR.—The term ‘‘applicable taxable year’’ means any taxable year during which eligible qualified property is placed in service.
+(C) ELIGIBLE QUALIFIED PROPERTY.—The term ‘‘eligible qualified property’’ has the meaning given such term by section 168(k)(4)(D) of the Internal Revenue Code of 1986 (as added by the amendments made by this section).
+(c) CONFORMING AMENDMENT.—Section 1324(b)(2) of title 31, United States Code, as amended by this Act, is amended—

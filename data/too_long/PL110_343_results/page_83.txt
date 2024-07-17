@@ -1,0 +1,32 @@
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+(c) TYPES OF ENERGY EFFICIENT APPLIANCES.—Subsection (d) of section 45M is amended to read as follows:
+‘‘(d) TYPES OF ENERGY EFFICIENT APPLIANCE.—For purposes of this section, the types of energy efficient appliances are—
+‘‘(1) dishwashers described in subsection (b)(1),
+‘‘(2) clothes washers described in subsection (b)(2), and
+‘‘(3) refrigerators described in subsection (b)(3).’’.
+
+(d) AGGREGATE CREDIT AMOUNT ALLOWED.—
+(1) INCREASE IN LIMIT.—Paragraph (1) of section 45M(e) is amended to read as follows:
+‘‘(1) AGGREGATE CREDIT AMOUNT ALLOWED.—The aggregate amount of credit allowed under subsection (a) with respect to a taxpayer for any taxable year shall not exceed $75,000,000 reduced by the amount of the credit allowed under subsection (a) to the taxpayer (or any predecessor) for all prior taxable years beginning after December 31, 2007.’’.
+
+(2) EXCEPTION FOR CERTAIN REFRIGERATOR AND CLOTHES WASHERS.—Paragraph (2) of section 45M(e) is amended to read as follows:
+‘‘(2) AMOUNT ALLOWED FOR CERTAIN REFRIGERATORS AND CLOTHES WASHERS.—Refrigerators described in subsection (b)(3)(D) and clothes washers described in subsection (b)(2)(D) shall not be taken into account under paragraph (1).’’.
+
+(e) QUALIFIED ENERGY EFFICIENT APPLIANCES.—
+(1) IN GENERAL.—Paragraph (1) of section 45M(f) is amended to read as follows:
+‘‘(1) QUALIFIED ENERGY EFFICIENT APPLIANCE.—The term ‘qualified energy efficient appliance’ means—
+‘‘(A) any dishwasher described in subsection (b)(1),
+‘‘(B) any clothes washer described in subsection (b)(2), and
+‘‘(C) any refrigerator described in subsection (b)(3).’’.
+
+(2) CLOTHES WASHER.—Section 45M(f)(3) is amended by inserting ‘‘commercial’’ before ‘‘residential’’ the second place it appears.
+
+(3) TOP-LOADING CLOTHES WASHER.—Subsection (f) of section 45M is amended by redesignating paragraphs (4), (5), (6), and (7) as paragraphs (5), (6), (7), and (8), respectively, and by inserting after paragraph (3) the following new paragraph:
+‘‘(4) TOP-LOADING CLOTHES WASHER.—The term ‘top-loading clothes washer’ means a clothes washer which has the clothes container compartment access located on the top of the machine and which operates on a vertical axis.’’.
+
+(4) REPLACEMENT OF ENERGY FACTOR.—Section 45M(f)(6), as redesignated by paragraph (3), is amended to read as follows:
+‘‘(6) MODIFIED ENERGY FACTOR.—The term ‘modified energy factor’ means the modified energy factor established by the Department of Energy for compliance with the Federal energy conservation standard.’’.
+
+(5) GALLONS PER CYCLE; WATER CONSUMPTION FACTOR.—Section 45M(f), as amended by paragraph (3), is amended by adding at the end the following:
+‘‘(9) GALLONS PER CYCLE.—The term ‘gallons per cycle’ means, with respect to a dishwasher, the amount of water, expressed in gallons, required to complete a normal cycle of a dishwasher.

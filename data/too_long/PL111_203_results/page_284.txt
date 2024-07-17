@@ -1,0 +1,59 @@
+124 STAT. 1658            PUBLIC LAW 111-203—JULY 21, 2010
+
+
+                             (2) Such memorandum and any subsequent amendments to
+                        the memorandum shall be promptly submitted to the appropriate
+                        committees of Congress.
+                                (b) The Commodity Futures Trading Commission and the Fed-
+                        eral Energy Regulatory Commission shall, not later than 180 days
+Deadline.       after the date of the enactment of this section, negotiate a memo-
+                        randum of understanding to share information that may be
+                        requested where either Commission is conducting an investigation
+                        into potential manipulation, fraud, or market power abuse in mar-
+                        kets subject to such Commission’s regulation or oversight. Shared
+                        information shall remain subject to the same restrictions on disclo-
+                        sure applicable to the Commission initially holding the information.
+                                    
+                                           PART II—REGULATION OF SWAP MARKETS
+
+                               SEC. 721. DEFINITIONS.
+                                     (a) IN GENERAL.—Section 1a of the Commodity Exchange Act
+                          (7 U.S.C. 1a) is amended—
+                                      (1) by redesignating paragraphs (2), (3) and (4), (5) through
+                               (17), (18) through (23), (24) through (28), (29), (30), (31) through
+                               (33), and (34) as paragraphs (6), (8) and (9), (11) through 
+                               (23), (26) through (31), (34) through (38), (40), (41), (44) through
+                               (46), and (51), respectively;
+                                      (2) by inserting after paragraph (1) the following:
+                                             “(2) APPROPRIATE FEDERAL BANKING AGENCY.—The term
+                                      ‘appropriate Federal banking agency’—
+                                                     “(A) has the meaning given the term in section 3 of
+                                             the Federal Deposit Insurance Act (12 U.S.C. 1813);
+                                                     “(B) means the Board in the case of a noninsured
+                                             State bank; and
+                                                     “(C) is the Farm Credit Administration for farm credit
+                                             system institutions.
+                                             “(3) ASSOCIATED PERSON OF A SECURITY-BASED SWAP DEALER
+                                      OR MAJOR SECURITY-BASED SWAP PARTICIPANT.—The term ‘asso-
+                                      ciated person of a security-based swap dealer or major security-
+                                      based swap participant’ has the meaning given the term in
+                                      section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C.
+                                      78c(a)).
+                                             “(4) ASSOCIATED PERSON OF A SWAP DEALER OR MAJOR SWAP
+                                      PARTICIPANT.—
+                                                     “(A) IN GENERAL.—The term ‘associated person of a
+                                             swap dealer or major swap participant’ means a person
+                                             who is associated with a swap dealer or major swap partici-
+                                             pant as a partner, officer, employee, or agent (or any person
+                                             occupying a similar status or performing similar functions),
+                                             in any capacity that involves—
+                                                              “(i) the solicitation or acceptance of swaps; or
+                                                             “(ii) the supervision of any person or persons so
+                                                        engaged.
+                                                     “(B) EXCLUSION.—Other than for purposes of section
+                                             4s(b)(6), the term ‘associated person of a swap dealer or
+                                             major swap participant’ does not include any person associ-
+                                             ated with a swap dealer or major swap participant the
+                                             functions of which are solely clerical or ministerial.
+                                             “(5) BOARD.—The term ‘Board’ means the Board of Gov-
+                                      ernors of the Federal Reserve System.”;

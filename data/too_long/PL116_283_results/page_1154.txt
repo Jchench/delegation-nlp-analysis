@@ -1,0 +1,27 @@
+134 STAT. 4540          PUBLIC LAW 116–283—JAN. 1, 2021
+
+                               (3) accelerate the transition of artificial intelligence research to applications in support of the mission of the National Oceanic and Atmospheric Administration;
+                               (4) develop and conduct training for the workforce of the National Oceanic and Atmospheric Administration related to artificial intelligence research and application of artificial intelligence for such agency;
+                               (5) facilitate partnerships between the National Oceanic and Atmospheric Administration and other public sector organizations, private sector organizations, and institutions of higher education for research, personnel exchange, and workforce development with respect to artificial intelligence systems; and
+                               (6) make data of the National Oceanic and Atmospheric Administration accessible, available, and ready for artificial intelligence applications.
+
+                          (e) STAKEHOLDER ENGAGEMENT.—In carrying out the activities authorized in this section, the Administrator shall—
+                               (1) collaborate with a diverse set of stakeholders including private sector entities and institutions of higher education;
+                               (2) leverage the collective body of research on artificial intelligence and machine learning; and
+                               (3) engage with relevant Federal agencies, research communities, and potential users of data and methods made available through the Center.
+
+                          (f) AUTHORIZATION OF APPROPRIATIONS.—There are authorized to be appropriated to the Administrator to carry out this section $10,000,000 for fiscal year 2021.
+
+        Consultation.      (g) PROTECTION OF NATIONAL SECURITY INTERESTS.—
+        Determination.          (1) IN GENERAL.—Notwithstanding any other provision of this section, the Administrator, in consultation with the Secretary of Defense as appropriate, may withhold models or data used by the Center if the Administrator determines doing so to be necessary to protect the national security interests of the United States.
+                               (2) RULE OF CONSTRUCTION.—Nothing in this section shall be construed to supersede any other provision of law governing the protection of the national security interests of the United States.
+
+        TITLE LIV—NATIONAL SCIENCE FOUNDATION ARTIFICIAL INTELLIGENCE ACTIVITIES
+
+15 USC 9451.                   Sec. 5401. Artificial intelligence research and education.
+
+        SEC. 5401. ARTIFICIAL INTELLIGENCE RESEARCH AND EDUCATION.
+
+                          (a) IN GENERAL.—The Director of the National Science Foundation shall fund research and education activities in artificial intelligence systems and related fields, including competitive awards or grants to institutions of higher education or eligible nonprofit organizations (or consortia thereof).
+                          (b) USES OF FUNDS.—In carrying out the activities under subsection (a), the Director of the National Science Foundation shall—
+                               (1) support research, including interdisciplinary research, on artificial intelligence systems and related areas, including

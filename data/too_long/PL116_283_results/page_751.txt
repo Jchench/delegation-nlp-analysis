@@ -1,0 +1,56 @@
+PUBLIC LAW 116–283—JAN. 1, 2021                                                                                        134 STAT. 4137
+
+(2) CONTENTS.—Each briefing required under paragraph
+      (1) shall include—
+              (A) an assessment of the decision and response gaps
+                   observed in the exercise at issue;
+              (B) proposed recommendations to improve the resil-                          Recommendations.
+                   ience, response, and recovery of the United States to a            
+                   significant cyber attack against critical infrastructure; and
+              (C) appropriate plans to address the recommendations                          Plans
+                   proposed under subparagraph (B).
+(h) REPEAL.—Subsection (b) of section 1648 of the National
+Defense Authorization Act for Fiscal Year 2016 (Public Law 114–
+92; 129 Stat. 1119) is repealed.
+(i) DEFINITIONS.—In this section:
+         (1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term
+              ‘‘appropriate congressional committees’’ means—
+                   (A) the Committee on Armed Services of the Senate;
+                   (B) the Committee on Armed Services of the House 
+                         of Representatives;
+                   (C) the Committee on Homeland Security and Govern-
+                         mental Affairs of the Senate;
+                   (D) the Committee on Homeland Security of the House
+                         of Representatives;
+                   (E) the Select Committee on Intelligence of the Senate;
+                   (F) the Permanent Select Committee on Intelligence
+                         of the House of Representatives;
+                   (G) the Committee on the Judiciary of the Senate;
+                   (H) the Committee on the Judiciary of the House of
+                         Representatives;
+                   (I) the Committee on Commerce, Science, and 
+                         Transportation of the Senate;
+                   (J) the Committee on Science, Space, and Technology
+                         of the House of Representatives;
+                   (K) the Committee on Foreign Relations of the Senate;
+                         and
+                   (L) the Committee on Foreign Affairs of the House
+                         of Representatives.
+          (2) ELEMENT OF THE INTELLIGENCE COMMUNITY.—The term
+               ‘‘element of the intelligence community’’ means an element   
+               specified or designated under section 3 of the National Security
+               Act of 1947 (50 U.S.C. 3003).
+          (3) PRIVATE ENTITY.—The term ‘‘private entity’’ has the
+               meaning given the term in section 102 of the Cybersecurity
+               Information Sharing Act of 2015 (6 U.S.C. 1501).
+          (4) SECRETARY.—The term ‘‘Secretary’’ means the Secretary
+               of Homeland Security.
+          (5) SECTOR-SPECIFIC AGENCY.—The term ‘‘sector-specific
+               agency’’ has the meaning given the term ‘‘Sector-Specific
+               Agency’’ in section 2201 of the Homeland Security Act of 2002
+               (6 U.S.C. 651).
+          (6) STATE.—The term ‘‘State’’ means any State of the
+               United States, the District of Columbia, the Commonwealth
+               of Puerto Rico, the Northern Mariana Islands, the United States
+               Virgin Islands, Guam, American Samoa, and any other territory
+               or possession of the United States.

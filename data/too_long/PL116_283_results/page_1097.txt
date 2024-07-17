@@ -1,0 +1,68 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4483
+
+SEC. 4301. OPERATION AND MAINTENANCE
+    (In Thousands of Dollars)
+
+Line  Item                       FY 2021         Conference
+                                Request         Authorized
+
+        Acquisition and conversion of additional used ves-
+          sels ........................................................ [60,000]
+        Realignment to National Defense Sealift Fund .. [–120,000]
+310     SHIP ACTIVATIONS/INACTIVATIONS ....................  286,416          258,416
+          Restoration of Congressional mark .................. [–28,000]
+320     EXPEDITIONARY HEALTH SERVICES SYSTEMS ..      99,402            99,402
+330     COAST GUARD SUPPORT ..................................   25,235            25,235
+        SUBTOTAL MOBILIZATION ................................. 1,697,075      1,416,982
+
+        TRAINING AND RECRUITING
+340     OFFICER ACQUISITION ........................................  186,117         186,117
+350     RECRUIT TRAINING ...........................................    13,206           13,206
+360     RESERVE OFFICERS TRAINING CORPS .................. 163,683         163,683
+370     SPECIALIZED SKILL TRAINING ..........................  947,841         930,841
+          Restoration of Congressional mark .................. [–17,000]
+380     PROFESSIONAL DEVELOPMENT EDUCATION ........  367,647         369,147
+          Sea Cadets ......................................................  [1,500]
+390     TRAINING SUPPORT ............................................  254,928          254,928
+400     RECRUITING AND ADVERTISING .......................   206,305          206,305
+410     OFF-DUTY AND VOLUNTARY EDUCATION ..............  103,799          103,799
+420     CIVILIAN EDUCATION AND TRAINING ...................   66,060            66,060
+430     JUNIOR ROTC ......................................................   56,276            56,276
+        SUBTOTAL TRAINING AND RECRUITING ...........   2,365,862       2,350,362
+
+        ADMIN & SRWD ACTIVITIES
+440     ADMINISTRATION ...............................................  1,249,410       1,203,410
+          Program decrease .......................................... [–13,000]
+          Restoration of Congressional mark .................. [–33,000]
+450     CIVILIAN MANPOWER AND PERSONNEL MAN-
+          AGEMENT ..........................................................  189,625          189,625
+460     MILITARY MANPOWER AND PERSONNEL MAN-
+          AGEMENT ..........................................................  499,904          499,904
+470     MEDICAL ACTIVITIES .........................................   196,747         196,747
+480     SERVICEWIDE TRANSPORTATION .......................  165,708          162,410
+          Unjustified funding for Dynamic Force Employ-
+          ment ............................................................  [–3,298]
+500     PLANNING, ENGINEERING, AND PROGRAM SUP-
+          PORT ...............................................................  519,716          519,716
+510     ACQUISITION, LOGISTICS, AND OVERSIGHT .........  751,184          749,184
+          Program decrease unaccounted for .................. [–11,000]
+520     INVESTIGATIVE AND SECURITY SERVICES ..........  747,519          747,519
+625     CLASSIFIED PROGRAMS .....................................  608,670          608,670
+        SUBTOTAL ADMIN & SRWD ACTIVITIES .........   4,928,483        4,686,185
+
+        UNDISTRIBUTED
+770     UNDISTRIBUTED ................................................  –126,000         –126,000
+          COVID-related ops/training slowdown ............. [–77,500]
+          Foreign Currency adjustments .......................... [–48,500]
+        SUBTOTAL UNDISTRIBUTED ..........................  –126,000        –126,000
+
+        TOTAL OPERATION & MAINTENANCE,
+          NAVY .............................................................   49,692,742     48,107,745
+
+        OPERATION & MAINTENANCE, MARINE
+          CORPS
+010     OPERATING FORCES ........................................... 941,143          517,464
+          Deactivation of 2X companies ........................... [–1,761]
+          Insufficient justification .................................... [–10,300]

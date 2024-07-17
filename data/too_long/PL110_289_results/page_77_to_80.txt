@@ -1,0 +1,169 @@
+PUBLIC LAW 110–289—JULY 30, 2008
+  
+122 STAT. 2729
+
+Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4561 et seq.) shall be transferred to the Federal Housing Finance Agency for employment, not later than the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, and such transfer shall be deemed a transfer of function for purposes of section 3503 of title 5, United States Code. 
+
+(b) GUARANTEED POSITIONS.— 
+
+(1) IN GENERAL.—Each employee transferred under subsection (a) shall be guaranteed a position with the same status, tenure, grade, and pay as that held on the day immediately preceding the transfer. 
+
+(2) NO INVOLUNTARY SEPARATION OR REDUCTION.—An employee transferred under subsection (a) holding a permanent position on the day immediately preceding the transfer may not be involuntarily separated or reduced in grade or compensation during the 12-month period beginning on the date of transfer, except for cause, or, in the case of a temporary employee, separated in accordance with the terms of the appointment of the employee. 
+
+(c) APPOINTMENT AUTHORITY FOR EXCEPTED AND SENIOR EXECUTIVE SERVICE EMPLOYEES.— 
+
+(1) IN GENERAL.—In the case of an employee occupying a position in the excepted service or the Senior Executive Service, any appointment authority established under law or by regulations of the Office of Personnel Management for filling such position shall be transferred, subject to paragraph (2). 
+
+(2) DECLINE OF TRANSFER.—The Director may decline a transfer of authority under paragraph (1) to the extent that such authority relates to— (A) a position excepted from the competitive service because of its confidential, policymaking, policy-determining, or policy-advocating character; or (B) a noncareer position in the Senior Executive Service (within the meaning of section 3132(a)(7) of title 5, United States Code. 
+
+(d) REORGANIZATION.—If the Director determines, after the end of the 1-year period beginning on the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, that a reorganization of the combined workforce is required, that reorganization shall be deemed a major reorganization for purposes of affording affected employee retirement under section 8336(d)(2) or 8414(b)(1)(D) of title 5, United States Code.
+
+(e) EMPLOYEE BENEFIT PROGRAMS.—
+
+(1) IN GENERAL.—Any employee described under subsection (a) accepting employment with the Agency as a result of a transfer under subsection (a) may retain, for 12 months after the date on which such transfer occurs, membership in any employee benefit program of the Agency or the Department of Housing and Urban Development, as applicable, including insurance, to which such employee belongs on such effective date, if— 
+
+(A) the employee does not elect to give up the benefit or membership in the program; and 
+
+(B) the benefit of program is continued by the Director of the Federal Housing Finance Agency. 
+
+(2) COST DIFFERENTIAL.— 
+
+122 STAT. 2730 
+
+PUBLIC LAW 110–289—JULY 30, 2008 
+
+(A) IN GENERAL.—The difference in the costs between the benefits which would have been provided by the Department of Housing and Urban Development and those provided by this section shall be paid by the Director.
+
+(B) HEALTH INSURANCE.—If any employee elects to give up membership in a health insurance program or if such insurance program is not continued by the Director, the employee shall be permitted to select an alternate Federal health insurance program not later than 30 days after the date of such election or notice, without regard to any other regularly scheduled open season. 
+
+Subtitle C—Prompt Corrective Action 
+
+SEC. 1141. CRITICAL CAPITAL LEVELS.
+
+(a) IN GENERAL.—Section 1363 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4613) is amended— 
+
+(1) by striking “For” and inserting “(a) ENTERPRISES.— For”; and 
+
+(2) by adding at the end the following new subsection: 
+
+“(b) FEDERAL HOME LOAN BANKS.— 
+
+“(1) IN GENERAL.—For purposes of this subtitle, the critical capital level for each Federal Home Loan Bank shall be such amount of capital as the Director shall, by regulation, require. 
+
+“(2) CONSIDERATION OF OTHER CRITICAL CAPITAL LEVELS.— In establishing the critical capital level under paragraph (1) for the Federal Home Loan Banks, the Director shall take due consideration of the critical capital level established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises.”. 
+
+(b) REGULATIONS.—Not later than the expiration of the 180- day period beginning on the date of enactment of this Act, the Director of the Federal Housing Finance Agency shall issue regulations pursuant to section 1363(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (as added by this section) establishing the critical capital level under such section. 
+
+SEC. 1142. CAPITAL CLASSIFICATIONS. 
+
+(a) IN GENERAL.—Section 1364 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4614) is amended— 
+
+(1) in the heading for subsection (a) by striking “In General” and inserting “Enterprises”; 
+
+(2) in subsection (c)— (A) by striking “subsection (b)” and inserting “subsection (c)”; 
+
+(B) by striking “enterprises” and inserting “regulated entities”; and 
+
+(C) by striking the last sentence; 
+
+(3) by redesignating subsections (c) (as so amended by paragraph (2) of this subsection) and (d) as subsections (d) and (f), respectively; 
+
+(4) by striking subsection (b) and inserting the following: 
+
+“(b) FEDERAL HOME LOAN BANKS.— 
+
+122 STAT. 2731 
+
+PUBLIC LAW 110–289—JULY 30, 2008 
+
+“(1) ESTABLISHMENT AND CRITERIA.—For purposes of this subtitle, the Director shall, by regulation— 
+
+(A) establish the capital classifications specified under paragraph (2) for the Federal Home Loan Banks; 
+
+(B) establish criteria for each such capital classification based on the amount and types of capital held by a bank and the risk-based, minimum, and critical capital levels for the banks and taking due consideration of the capital classifications established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises; and 
+
+(C) shall classify the Federal Home Loan Banks according to such capital classifications. 
+
+(2) CLASSIFICATIONS.—The capital classifications specified under this paragraph are— 
+
+(A) adequately capitalized; 
+
+(B) undercapitalized; 
+
+(C) significantly undercapitalized; and 
+
+(D) critically undercapitalized.”. 
+
+(c) DISCRETIONARY CLASSIFICATION.— 
+
+(1) GROUNDS FOR RECLASSIFICATION.—The Director may reclassify a regulated entity under paragraph (2) if—
+
+(A) at any time, the Director determines in writing that the regulated entity is engaging in conduct that could result in a rapid depletion of core or total capital or that the value of collateral pledged as security has decreased significantly or that the value of the property subject to mortgages held by the regulated entity (or securitized in the case of an enterprise) has decreased significantly; 
+
+(B) after notice and an opportunity for hearing, the Director determines that the regulated entity is in an unsafe or unsound condition; or 
+
+(C) pursuant to section 1371(b), the Director deems the regulated entity to be engaging in an unsafe or unsound practice. 
+
+(2) RECLASSIFICATION.—In addition to any other action authorized under this title, including the reclassification of a regulated entity for any reason not specified in this subsection, if the Director takes any action described in paragraph (1), the Director may classify a regulated entity— 
+
+(A) as undercapitalized, if the regulated entity is otherwise classified as adequately capitalized; 
+
+(B) as significantly undercapitalized, if the regulated entity is otherwise classified as undercapitalized; and 
+
+(C) as critically undercapitalized, if the regulated entity is otherwise classified as significantly undercapitalized.” ; and 
+
+(5) by inserting after subsection (d) (as so redesignated by paragraph (3) of this subsection), the following new subsection: 
+
+“(e) RESTRICTION ON CAPITAL DISTRIBUTIONS.— 
+
+(1) IN GENERAL.—A regulated entity shall make no capital distribution if, after making the distribution, the regulated entity would be undercapitalized. 
+
+122 STAT. 2732 
+
+PUBLIC LAW 110–289—JULY 30, 2008 
+
+“(2) EXCEPTION.—Notwithstanding paragraph (1), the Director may permit a regulated entity, to the extent appropriate or applicable, to repurchase, redeem, retire, or otherwise acquire shares or ownership interests if the repurchase, redemption, retirement, or other acquisition— 
+
+(A) is made in connection with the issuance of additional shares or obligations of the regulated entity in at least an equivalent amount; and 
+
+(B) will reduce the financial obligations of the regulated entity or otherwise improve the financial condition of the entity.” . 
+
+(b) REGULATIONS.—Not later than the expiration of the 180- day period beginning on the date of enactment of this Act, the Director of the Federal Housing Finance Agency shall issue regulations to carry out section 1364(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (as added by this section), relating to capital classifications for the Federal Home Loan Banks. 
+
+SEC. 1143. SUPERVISORY ACTIONS APPLICABLE TO UNDERCAPITALIZED REGULATED ENTITIES. 
+
+Section 1365 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4615) is amended— 
+
+(1) by striking “the enterprise” each place that term appears and inserting “the regulated entity”; 
+
+(2) by striking “an enterprise” each place that term appears and inserting “a regulated entity”; 
+
+(3) by striking “an enterprise” each place that term appears and inserting “a regulated entity”; 
+
+(4) in subsection (a)— 
+
+(A) by redesignating paragraphs (1) and (2) as paragraphs (2) and (3), respectively; 
+
+(B) by inserting before paragraph (2), as redesignated, the following: 
+
+“(1) REQUIRED MONITORING.—The Director shall— 
+
+(A) closely monitor the condition of any undercapitalized regulated entity;
+ 
+(B) closely monitor compliance with the capital restoration plan, restrictions, and requirements imposed on an undercapitalized regulated entity under this section; and 
+
+(C) periodically review the plan, restrictions, and requirements applicable to an undercapitalized regulated entity to determine whether the plan, restrictions, and requirements are achieving the purpose of this section.” ; and 
+
+(C) by adding at the end the following: “(4) RESTRICTION OF ASSET GROWTH.—An undercapitalized regulated entity shall not permit its average total assets during any calendar quarter to exceed its average total assets during the preceding calendar quarter, unless— 
+
+(A) the Director has accepted the capital restoration plan of the regulated entity; 
+
+(B) any increase in total assets is consistent with the capital restoration plan; and 
+
+(C) the ratio of tangible equity to assets of the regulated entity increases during the calendar quarter at a 
+
+122 STAT. 2733
+
+PUBLIC LAW 110–289—JULY 30, 2008 
+
+rate sufficient to enable the regulated entity to become adequately capitalized within a reasonable time.” .

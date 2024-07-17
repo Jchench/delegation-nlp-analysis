@@ -1,0 +1,25 @@
+124 STAT. 1734          PUBLIC LAW 111-203—JULY 21, 2010
+
+(2) Section 2(c)(2) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)) (as amended by subsection (a)(2)) is amended by adding at the end the following:
+      “(E) PROHIBITION.—
+            “(i)  DEFINITION  OF  FEDERAL  REGULATORY AGENCY.—In this subparagraph, the term ‘Federal regulatory agency’ means—
+            ‘‘(I) the Commission;
+            ‘‘(II) the Securities and Exchange Commission;
+            ‘‘(III) an appropriate Federal banking agency;
+            ‘‘(IV) the National Credit Union Association; and
+            ‘‘(V) the Farm Credit Administration.
+Contracts.
+            ‘‘(ii) PROHIBITION.—
+                  ‘‘(I) IN GENERAL.—Except as provided in subclause (III), a person described in subparagraph (B)(i)(II) for which there is a Federal regulatory agency shall not offer to, or enter into with, a person that is not an eligible contract participant, any agreement, contract, or transaction in foreign currency described in subparagraph (B)(i)(I) except pursuant to a rule or regulation of a Federal regulatory agency allowing the agreement, contract, or transaction under such terms and conditions as the Federal regulatory agency shall prescribe.
+                       ‘‘(II) EFFECTIVE DATE.—With regard to persons described in subparagraph (B)(i)(II) for which a Federal regulatory agency has issued a proposed rule concerning agreements, contracts, or transactions in foreign currency described in subparagraph (B)(i)(I) prior to the date of enactment of this subclause, subclause (I) shall take effect 90 days after the date of enactment of this subclause.
+                  ‘‘(iii) REQUIREMENTS OF RULES AND REGULATIONS.—
+                        ‘‘(I) IN GENERAL.—The rules and regulations described in clause (ii) shall prescribe appropriate requirements with respect to—
+                              ‘‘(aa) disclosure;
+                              ‘‘(bb) recordkeeping;
+                              ‘‘(cc) capital and margin;
+                              ‘‘(dd) reporting;
+                              ‘‘(ee) business conduct;
+                              ‘‘(ff) documentation; and
+Determination.
+                              ‘‘(gg) such other standards or requirements as the Federal regulatory agency shall determine to be necessary.
+                        ‘‘(II) TREATMENT.—The rules or regulations described in clause (ii) shall treat all agreements, contracts, and transactions in foreign currency described in subparagraph (B)(i)(I), and all agreements, contracts, and transactions in foreign currency that are functionally or economically similar to agreements, contracts, or transactions described in subparagraph (B)(i)(I), similarly.’’.

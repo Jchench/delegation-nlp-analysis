@@ -1,0 +1,21 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 4127
+
+and the Committee on Armed Services of the House of Representatives on the assessment.
+
+SEC. 1737. ASSESSMENT ON DEFENSE INDUSTRIAL BASE PARTICIPATION IN A THREAT INFORMATION SHARING PROGRAM.
+
+(a) DEFENSE INDUSTRIAL BASE THREAT INFORMATION PROGRAM ASSESSMENT.—Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall complete an assessment of the feasibility, suitability, and definition of, and resourcing required to establish, a defense industrial base threat information sharing program to collaborate and share threat information with, and obtain threat information from, the defense industrial base.
+
+(b) ELEMENTS.—The assessment regarding the establishment of a defense industrial base threat information sharing program under subsection (a) shall include evaluation of the following:
+	(1) The feasibility and suitability of, and requirements for, the establishment of a defense industrial base threat information sharing program, including cybersecurity incident reporting requirements applicable to the defense industrial base that—
+	(A) extend beyond mandatory cybersecurity incident	reporting requirements as in effect on the day before the date of the enactment of this Act;
+	(B) set specific, consistent timeframes for all categories of cybersecurity incident reporting;
+	(C) establish a single clearinghouse for all mandatory cybersecurity incident reporting to the Department of Defense, including incidents involving covered unclassified information, and classified information; and
+	(D) provide that, unless authorized or required by another provision of law or the element of the defense industrial base making the report consents, nonpublic information of which the Department becomes aware only because of a report provided pursuant to the program shall be disseminated and used only for a cybersecurity purpose (as such term is defined in section 102 of the Cybersecurity Information Sharing Act of 2015 (6 U.S.C. 1501)) and in support of national defense activities.
+ 	(2) A mechanism for developing a shared and real-time picture of the threat environment.
+ 	(3) Options for joint, collaborative, and co-located analytics.
+ 	(4) Possible investments in technology and capabilities to support automated detection and analysis across the defense industrial base.
+ 	(5) Coordinated information tipping, sharing, and deconfliction, as necessary, with relevant Federal Government agencies with similar information sharing programs.
+ 	(6) Processes for direct sharing of threat information related to a specific defense industrial base entity with such entity.
+ 	(7) Mechanisms for providing defense industrial base entities with clearances for national security information access, as appropriate.
+ 	(8) Requirements to consent to queries of foreign intelligence collection databases related to a specific defense industrial base entity as a condition of participation in the threat information sharing program.

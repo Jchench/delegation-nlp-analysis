@@ -1,0 +1,29 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 3765
+
+Defense, describing challenges, gaps, and vulnerabilities in the defense industrial base and commercial sector relevant to execution of defense missions, and describing initiatives to address such challenges.
+
+“(2) Each briefing under paragraph (1) shall include an update on the progress of addressing such gaps or vulnerabilities by the Updates. Secretary, the Secretary of the military department concerned, or the appropriate head of a Defense Agency, including an update on—
+
+“(A) actions taken to address such gaps or vulnerabilities; “(B) policy changes necessary to address such gaps or vulnerabilities; and
+“(C) the proposed timeline for action and resources required to address such gaps or vulnerabilities.”.
+(b) CONFORMING AND CLERICAL AMENDMENTS.—
+(1) HEADING AMENDMENT.—The heading of section 2504 of title 10, United States Code, is amended to read as follows:
+
+“§ 2504. National technology and industrial base: annual report and quarterly briefings”.
+(2) CLERICAL AMENDMENT.—The table of sections for subchapter II of chapter 148 of such title is amended by striking the item relating to section 2504 and inserting the following new item:
+
+“2504. National technology and industrial base: annual report and quarterly briefings.”.
+
+SEC. 843. MODIFICATION OF FRAMEWORK FOR MODERNIZING ACQUISITION PROCESSES TO ENSURE INTEGRITY OF INDUSTRIAL BASE AND INCLUSION OF OPTICAL TRANS- 10 USC 2501 MISSION COMPONENTS. prec.
+
+(a) IN GENERAL.—Section 2509 of title 10, United States Code, is amended—
+(1) in subsection (b)(2)—
+(A) in subparagraph (A)—
+(i) in the matter preceding clause (i), by inserting“such as those identified through the supply chain risk management process of the Department and by the Federal Acquisition Security Council, and” after “supply chain risks;” and
+(ii) in clause (ii), by striking “(other than optical transmission components)”; (B) in subparagraph (C)—
+
+(i) in clause (x), by striking “; and” and inserting a semicolon;
+(ii) by redesignating clause (xi) as clause (xii); and (iii) by inserting after clause (x) the following new clause:
+“(xi) processes and procedures related to supply chain risk management and processes and procedures implemented pursuant to section 2339a of this title; and”; and
+(C) by adding at the end the following new subparagraph:
+“(E) Characterization and assessment of industrial base support policies, programs, and procedures, including—

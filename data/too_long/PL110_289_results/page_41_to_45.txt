@@ -1,0 +1,141 @@
+PUBLIC LAW 110–289—JULY 30, 2008
+
+the lesser of 150 percent of such limitation for such size residence or the amount that is equal to 115 percent of the median house price in such area for such size residence.’’.
+
+(3) EFFECTIVE DATE.—The amendments made by paragraphs (1) and (2) of this subsection shall take effect upon the expiration of the date described in section 201(a) of the Economic Stimulus Act of 2008 (Public Law 110–185).
+
+(c) SENSE OF CONGRESS.—It is the sense of the Congress that the securitization of mortgages by the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation plays an important role in providing liquidity to the United States housing markets. Therefore, the Congress encourages the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation to securitize mortgages acquired under the increased conforming loan limits established under this Act.
+
+(d) HOUSING PRICE INDEX.—Part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541 et seq.) is amended by inserting after section 1321 (as added by section 1123 of this Act) the following new section:
+
+
+‘‘SEC. 1322. HOUSING PRICE INDEX.
+
+‘‘The Director shall establish and maintain a method of assessing the national average 1-family house price for use for adjusting the conforming loan limitations of the enterprises. In establishing such method, the Director shall take into consideration any survey of all major lenders conducted by the Federal Housing Finance Agency to determine the national average 1-family house price, the House Price Index maintained by the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development before the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, any appropriate house price indexes of the Bureau of the Census of the Department of Commerce, and any other indexes or measures that the Director considers appropriate.’’.
+
+SEC. 1125. ANNUAL HOUSING REPORT.
+
+(a) REPEAL.—Section 1324 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4544) is hereby repealed.
+
+(b) ANNUAL HOUSING REPORT.—The Federal Housing Enterprises Financial Safety and Soundness Act of 1992 is amended by inserting after section 1323 the following:
+
+‘‘SEC. 1324. ANNUAL HOUSING REPORT.
+
+‘‘(a) IN GENERAL.—After reviewing and analyzing the reports submitted under section 309(n) of the Federal National Mortgage Association Charter Act and section 307(e) of the Federal Home Loan Mortgage Corporation Act, the Director shall submit a report, not later than October 30 of each year, to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, on the activities of each enterprise.
+‘‘(b) CONTENTS.—The report required under subsection (a) shall—
+
+‘‘(1) discuss—
+‘‘(A) the extent to and manner in which—
+
+122 STAT. 2694
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+‘‘(i) each enterprise is achieving the annual housing goals established under subpart B;
+‘‘(ii) each enterprise is complying with its duty to serve underserved markets, as established under section 1335;
+‘‘(iii) each enterprise is complying with section 1337;
+‘‘(iv) each enterprise received credit towards achieving each of its goals resulting from a transaction or activity pursuant to section 1331(b)(2); and
+‘‘(v) each enterprise is achieving the purposes of the enterprise established by law; and
+‘‘(B) the actions that each enterprise could undertake to promote and expand the purposes of the enterprise;
+‘‘(2) aggregate and analyze relevant data on income to assess the compliance of each enterprise with the housing goals established under subpart B;
+‘‘(3) aggregate and analyze data on income, race, and gender by census tract and other relevant classifications, and compare such data with larger demographic, housing, and economic trends;
+‘‘(4) identify the extent to which each enterprise is involved in mortgage purchases and secondary market activities involving subprime and nontraditional loans;
+‘‘(5) compare the characteristics of subprime and nontraditional loans both purchased and securitized by each enterprise to other loans purchased and securitized by each enterprise; and
+‘‘(6) compare the characteristics of high-cost loans purchased and securitized, where such securities are not held on portfolio to loans purchased and securitized, where such securities are either retained on portfolio or repurchased by the enterprise, including such characteristics as—
+‘‘(A) the purchase price of the property that secures the mortgage;
+‘‘(B) the loan-to-value ratio of the mortgage, which shall reflect any secondary liens on the relevant property;
+‘‘(C) the terms of the mortgage;
+‘‘(D) the creditworthiness of the borrower; and
+‘‘(E) any other relevant data, as determined by the Director.
+
+‘‘(c) DATA COLLECTION AND REPORTING.—
+
+‘‘(1) IN GENERAL.—To assist the Director in analyzing the matters described in subsection (b), the Director shall conduct, on a monthly basis, a survey of mortgage markets in accordance with this subsection.
+‘‘(2) DATA POINTS.—Each monthly survey conducted by the Director under paragraph (1) shall collect data on—
+‘‘(A) the characteristics of individual mortgages that are eligible for purchase by the enterprises and the characteristics of individual mortgages that are not eligible for purchase by the enterprises including, in both cases, information concerning—
+
+122 STAT. 2695
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+‘‘(i) the price of the house that secures the mortgage;
+‘‘(ii) the loan-to-value ratio of the mortgage, which shall reflect any secondary liens on the relevant property;
+‘‘(iii) the terms of the mortgage;
+‘‘(iv) the creditworthiness of the borrower or borrowers; and
+‘‘(v) whether the mortgage, in the case of a conforming mortgage, was purchased by an enterprise;
+‘‘(B) the characteristics of individual subprime and nontraditional mortgages that are eligible for purchase by the enterprises and the characteristics of borrowers under such mortgages, including the creditworthiness of such borrowers and determination whether such borrowers would qualify for prime lending; and
+‘‘(C) such other matters as the Director determines to be appropriate.
+‘‘(3) PUBLIC AVAILABILITY.—The Director shall make any data collected by the Director in connection with the conduct of a monthly survey available to the public in a timely manner, provided that the Director may modify the data released to the public to ensure that the data—
+‘‘(A) is not released in an identifiable form; and
+‘‘(B) is not otherwise obtainable from other publicly available data sets.
+‘‘(4) DEFINITION.—For purposes of this subsection, the term ‘identifiable form’ means any representation of information that permits the identity of a borrower to which the information relates to be reasonably inferred by either direct or indirect means.’’.
+
+SEC. 1126. PUBLIC USE DATABASE.
+
+Section 1323 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (42 U.S.C. 4543) is amended—
+(1) in subsection (a)—
+(A) by striking ‘‘(a) IN GENERAL.—The Secretary’’ and inserting the following:
+‘‘(a) AVAILABILITY.—
+‘‘(1) IN GENERAL.—The Director’’; and
+(B) by adding at the end the following new paragraph:
+‘‘(2) CENSUS TRACT LEVEL REPORTING.—Such data shall include the data elements required to be reported under the Home Mortgage Disclosure Act of 1975, at the census tract level.’’;
+(2) in subsection (b)(2), by inserting before the period at the end the following: ‘‘or with subsection (a)(2)’’; and
+(3) by adding at the end the following new subsection:
+‘‘(d) TIMING.—Data submitted under this section by an enterprise in connection with a provision referred to in subsection (a) shall be made publicly available in accordance with this section not later than September 30 of the year following the year to which the data relates.’’.
+
+SEC. 1127. REPORTING OF MORTGAGE DATA.
+
+Section 1326 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4546) is amended—
+(1) in subsection (a), by striking ‘‘The Director’’ and inserting ‘‘Subject to subsection (d), the Director’’; and
+(2) by adding at the end the following:
+
+122 STAT. 2696
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+‘‘(d) MORTGAGE INFORMATION.—Subject to privacy considerations, as described in section 304(j) of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803(j)), the Director shall, by regulation or order, provide that certain information relating to single family mortgage data of the enterprises shall be disclosed to the public in order to make available to the public—
+‘‘(1) the same data from the enterprises that is required of insured depository institutions under the Home Mortgage Disclosure Act of 1975; and
+‘‘(2) information collected by the Director under section 1324(b)(6).’’.
+
+SEC. 1128. REVISION OF HOUSING GOALS.
+
+(a) REPEAL.—Sections 1331 through 1334 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4561 through 4564) are hereby repealed.
+(b) HOUSING GOALS.—The Federal Housing Enterprises Financial Safety and Soundness Act of 1992 is amended by inserting before section 1335 the following:
+
+‘‘SEC. 1331. ESTABLISHMENT OF HOUSING GOALS.
+
+‘‘(a) IN GENERAL.—The Director shall, by regulation, establish effective for 2010 and each year thereafter, annual housing goals, with respect to the mortgage purchases by the enterprises, as follows:
+‘‘(1) SINGLE-FAMILY HOUSING GOALS.—Four single-family housing goals under section 1332.
+‘‘(2) MULTIFAMILY SPECIAL AFFORDABLE HOUSING GOAL.— One multifamily special affordable housing goal under section 1333.
+
+122 STAT. 2697
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+Deadline.
+
+‘‘(b) TIMING.—The Director shall, by regulation, establish an annual deadline by which the Director shall establish the annual housing goals under this subpart for each year, taking into consideration the need for the enterprises to reasonably and sufficiently plan their operations and activities in advance, including operations and activities necessary to meet such annual goals.
+‘‘(c) TRANSITION.—The annual housing goals effective for 2008 pursuant to this subpart, as in effect before the enactment of the Federal Housing Finance Regulatory Reform Act of 2008, shall remain in effect for 2009, except that not later than the expiration of the 270-day period beginning on the date of the enactment of such Act, the Director shall review such goals applicable for 2009 to determine the feasibility of such goals given the market conditions current at such time and, after seeking public comment for a period not to exceed 30 days, may make appropriate adjustments consistent with such market conditions.
+‘‘(d) ELIMINATING INTEREST RATE DISPARITIES.—
+
+Records.
+
+‘‘(1) IN GENERAL.—Upon request by the Director, an enterprise shall provide to the Director, in a form determined by the Director, data the Director may review to determine whether there exist disparities in interest rates charged on mortgages to borrowers who are minorities as compared with comparable mortgages to borrowers of similar creditworthiness who are not minorities.
+‘‘(2) REMEDIAL ACTIONS UPON PRELIMINARY FINDING.—Upon a preliminary finding by the Director that a pattern of disparities in interest rates with respect to any lender or lenders
+exists pursuant to the data provided by an enterprise in paragraph (1), the Director shall—
+‘‘(A) refer the preliminary finding to the appropriate regulatory or enforcement agency for further review;
+‘‘(B) require the enterprise to submit additional data with respect to any lender or lenders, as appropriate and to the extent practicable, to the Director who shall submit any such additional data to the regulatory or enforcement agency for appropriate action.
+‘‘(3) ANNUAL REPORT TO CONGRESS.—The Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the actions taken, and being taken, by the Director to carry out this subsection. No such report shall identify any lender or lenders who have not been found to have engaged in discriminatory lending practices pursuant to a final adjudication on the record, and after opportunity for an administrative hearing, in accordance with subchapter II of chapter 5 of title 5, United States Code.
+‘‘(4) PROTECTION OF IDENTITY OF INDIVIDUALS.—In carrying out this subsection, the Director shall ensure that no property-related or financial information that would enable a borrower to be identified shall be made public.
+
+‘‘SEC. 1332. SINGLE-FAMILY HOUSING GOALS.
+
+‘‘(a) IN GENERAL.—The Director shall, by regulation, establish annual goals for the purchase by each enterprise of the following types of mortgages for the following categories of families:
+‘‘(1) PURCHASE-MONEY MORTGAGES.—A goal for purchase of conventional, conforming, single-family, purchase money mortgages financing owner-occupied housing for each of the following categories of families:
+‘‘(A) Low-income families.
+‘‘(B) Families that reside in low-income areas.
+‘‘(C) Very low-income families.
+‘‘(2) REFINANCING MORTGAGES.—A goal for purchase of conventional, conforming mortgages on owner-occupied, single-family housing for low-income families that are given to pay off or prepay an existing loan secured by the same property.
+‘‘(b) GOALS AS A PERCENTAGE OF TOTAL MORTGAGE PURCHASES.—The goals established under paragraphs (1) and (2) of subsection (a) shall be established as a percentage of the total number of conventional, conforming, single-family, owner-occupied, purchase money mortgages purchased by the enterprise, or as a percentage of the total number of conventional, conforming, single-family, owner-occupied refinance mortgages purchased by the enterprise, as appropriate, that are mortgages for the types of families specified in paragraphs (1) and (2) of subsection (a).
+‘‘(c) SINGLE-FAMILY, OWNER-OCCUPIED RENTAL HOUSING UNITS.—The Director shall require each enterprise to report the number of rental housing units affordable to low-income families each year which are contained in mortgages purchased by the enterprise financing 2- to 4-unit single-family, owner-occupied properties and may, by regulation, establish additional requirements relating to such units.
+‘‘(d) DETERMINATION OF COMPLIANCE.—

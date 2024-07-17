@@ -1,0 +1,34 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4687
+
+“(d) MILITARY ACTIVITIES PRIOR TO OFFICER CANDIDATE SCHOOL.—Individuals enrolled in the Program shall participate in military activities each month, as required by the Commandant, prior to attending Officer Candidate School.
+“(e) PARTICIPATION IN OFFICER CANDIDATE SCHOOL.—Each graduate of the Program shall attend the first enrollment of Officer Candidate School that commences after the date of such graduate’s graduation.
+“(f) COMMISSIONING.—Upon graduation from Officer Candidate School, Program graduates shall be discharged from enlisted status and commissioned as an O–1 with an initial 3-year duty obligation.
+“(g) BRIEFING.—
+“(1) IN GENERAL.—Not later than August 15 of each year, the Commandant shall provide a briefing to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the Program.
+“(2) CONTENTS.—The briefing required under paragraph (1) shall describe—
+“(A) outreach and recruitment efforts over the previous year; and
+“(B) demographic information of enrollees including—
+“(i) race;
+“(ii) ethnicity;
+“(iii) gender;
+“(iv) geographic origin; and
+“(v) educational institution.”.
+(b) CLERICAL AMENDMENT.—The analysis chapter 21 of title 14, United States Code, is amended by inserting after the item relating to section 2130 (as added by this division) the following:
+“2131. College student pre-commissioning initiative.”.
+
+SEC. 8277. ANNUAL BOARD OF VISITORS.
+
+Section 1903(d) of title 14, United States Code, is amended—
+(1) by redesignating paragraphs (2) through (6) as paragraphs (3) through (7), respectively; and
+(2) by inserting after paragraph (1) the following:
+“(2) recruitment and retention, including diversity, inclusion, and issues regarding women specifically;”.
+
+SEC. 8278. HOMELAND SECURITY ROTATIONAL CYBERSECURITY RESEARCH PROGRAM AT COAST GUARD ACADEMY.
+
+(a) IN GENERAL.—Subtitle E of title VIII of the Homeland Security Act of 2002 (6 U.S.C. 411 et seq.) is amended by adding at the end the following: “SEC. 846. ROTATIONAL CYBERSECURITY RESEARCH PROGRAM.
+“To enhance the Department’s cybersecurity capacity, the Secretary may establish a rotational research, development, and training program for—
+“(1) detail to the Cybersecurity and Infrastructure Security Agency (including the national cybersecurity and communications integration center authorized by section 2209) of Coast Guard Academy graduates and faculty; and
+“(2) detail to the Coast Guard Academy, as faculty, of individuals with expertise and experience in cybersecurity who are employed by—
+“(A) the Agency (including the center);

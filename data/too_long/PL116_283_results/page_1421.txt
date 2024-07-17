@@ -1,0 +1,28 @@
+PUBLIC LAW 116-283-JAN. 1, 2021
+
+134 STAT. 4807
+
+Director of the National Institute of Standards and Technology shall, in coordination with the Secretary of Defense, the Secretary of Homeland Security, and the heads of other appropriate agencies—
+“(1) in carrying out subsection (a) of such section, assess the scope and sufficiency of efforts to measure an individual’s capability to perform specific tasks found in the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800-181) at all proficiency levels; and
+
+“(2) submit to Congress a report—
+“(A) on the findings of the Director with respect to the assessment carried out under paragraph (1); and
+“(B) with recommendations for effective methods for measuring the cybersecurity proficiency of learners.
+
+(c) CYBERSECURITY METRICS.—Such section is further amended by adding at the end the following:
+
+“(e) CYBERSECURITY METRICS.—In carrying out subsection (a), the Director of the Office of Management and Budget may seek input from the Director of the National Institute of Standards and Technology, in coordination with the Department of Homeland Security, the Department of Defense, the Office of Personnel Management, and such agencies as the Director of the National Institute of Standards and Technology considers relevant, to develop quantifiable metrics for evaluating Federally funded cybersecurity workforce programs and initiatives based on the outcomes of such programs and initiatives.’’.
+
+(f) REGIONAL ALLIANCES AND MULTISTAKEHOLDER PARTNERSHIPS.—Such section is further amended by adding at the end the following:
+(f) REGIONAL ALLIANCES AND MULTISTAKEHOLDER PARTNERSHIPS.—
+
+“(1) IN GENERAL.—Pursuant to section 2(b)(4) of the National Institute of Standards and Technology Act (15 U.S.C. 272(b)(4)), the Director shall establish cooperative agreements between the National Initiative for Cybersecurity Education (NICE) of the Institute and regional alliances or partnerships for cybersecurity education and workforce.
+
+“(2) AGREEMENTS.—The cooperative agreements established under paragraph (1) shall advance the goals of the National Initiative for Cybersecurity Education Cybersecurity Workforce Framework (NIST Special Publication 800-181), or successor framework, by facilitating local and regional partnerships to—
+“(A) identify the workforce needs of the local economy and classify such workforce in accordance with such framework;
+“(B) identify the education, training, apprenticeship, and other opportunities available in the local economy; and
+“(C) support opportunities to meet the needs of the local economy.
+
+“(3) FINANCIAL ASSISTANCE.—
+
+“(A) FINANCIAL ASSISTANCE AUTHORIZED.—The Director may award financial assistance to a regional alliance or partnership with whom the Director enters into a cooperative agreement under paragraph (1) in order to assist the regional alliance or partnership in carrying out the terms of the cooperative agreement.

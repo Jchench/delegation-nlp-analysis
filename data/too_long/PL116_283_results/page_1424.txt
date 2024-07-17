@@ -1,0 +1,65 @@
+134 STAT. 4810
+
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+inserting “under section 303 of the Cybersecurity Enhancement Act of 2014 (Public Law 113–274)”.
+
+(C) Section 302(f) of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7442(f)) is amended by striking “under section 401” and inserting “under section 303”.
+
+SEC. 9402. DEVELOPMENT OF STANDARDS AND GUIDELINES FOR 
+IMPROVING CYBERSECURITY WORKFORCE OF FEDERAL 
+AGENCIES.
+
+(a) IN GENERAL.—Section 20(a) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3(a)) is amended—
+(1) in paragraph (3), by striking “; and” and inserting 
+a semicolon;
+(2) in paragraph (4), by striking the period at the end 
+and inserting “; and”; and
+(3) by adding at the end the following:
+“(5) identify and develop standards and guidelines for 
+improving the cybersecurity workforce for an agency as part 
+of the National Initiative for Cybersecurity Education (NICE 
+Cybersecurity Workforce Framework (NIST Special Publication 
+800–181), or successor framework.”.
+(b) PUBLICATION OF STANDARDS AND GUIDELINES ON CYBERSE- 
+CURITY AWARENESS.—Not later than three years after the date 
+of the enactment of this Act and pursuant to section 20 of the 
+National Institute of Standards and Technology Act (15 U.S.C. 
+278g–3), the Director of the National Institute of Standards and 
+Technology shall publish standards and guidelines for improving 
+cybersecurity awareness of employees and contractors of Federal 
+agencies.
+
+SEC. 9403. MODIFICATIONS TO FEDERAL CYBER SCHOLARSHIP-FOR- 
+SERVICE PROGRAM. 
+
+Section 302 of the Cybersecurity Enhancement Act of 2014 
+(15 U.S.C. 7442) is amended—
+(1) in subsection (b)—
+(A) in paragraph (2), by striking “information tech-
+nology” and inserting “information technology and cyber- 
+security”;
+(B) by amending paragraph (3) to read as follows:
+“(3) prioritize the placement of scholarship recipients ful-
+filling the post-award employment obligation under this section 
+to ensure that—
+“(A) not less than 70 percent of such recipients are 
+placed in an executive agency (as defined in section 105 
+of title 5, United States Code);
+“(B) not more than 10 percent of such recipients are 
+placed as educators in the field of cybersecurity at qualified 
+institutions of higher education that provide scholarships 
+under this section; and
+“(C) not more than 20 percent of such recipients are 
+placed in positions described in paragraphs (2) through 
+(5) of subsection (d); and”; and
+(C) in paragraph (4), in the matter preceding subpara- 
+graph (A), by inserting “, including by seeking to provide 
+awards in coordination with other relevant agencies for 
+summer cybersecurity camp or other experiences, including 
+teacher training, in each of the 50 States,” after “cybersecu- 
+rity education”;
+
+Deadline.
+15 USC 278g–3 
+note.

@@ -1,0 +1,59 @@
+PUBLIC LAW 116–283—JAN. 1, 2021                    134 STAT. 4451
+
+                       SEC. 4201. RESEARCH, DEVELOPMENT, TEST, AND EVALUATION
+                                            (In Thousands of Dollars)
+
+ Line Program                         Item                                                                  FY 2021                                                       Conference
+Element                                                                                              Request                    Authorized
+  
+105 0604119A           ARMY ADVANCED COMPONENT DEVELOPMENT & PROTOTYPING..................... 120,490                    120,490 
+106 0604120A           ASSURED POSITIONING, NAVIGATION AND TIMING (APNT)....................................  128,125                    128,125 
+107 0604121A           SYNTHETIC TRAINING ENVIRONMENT REFINEMENT & PROTOTYPING................ 129,547                    129,547 
+108 0604134A           COUNTER IMPROVISED-THREAT DEMONSTRATION, PROTOTYPE DEVELOPMENT, AND TESTING.. 13,831                    13,831 
+109 0604182A           HYPERSONICS..................................................................................................
+                                                          Program increase.................................................................................... 80,417                    811,417
+                                                                                                                                            110,000
+111 0604403A           FUTURE INTERCEPTOR.................................................................................                  7,992                       7,992 
+112 0604514A           UNIFIED NETWORK TRANSPORT........................................................................ 60,477                    60,477 
+115 0305251A           CYBERSPACE OPERATIONS FORCES AND FORCE SUPPORT.................................... 50,525                    50,525 
+              SUBTOTAL ADVANCED COMPONENT DEVELOPMENT & PROTOTYPES............................ 3,421,608                 3,401,584 
+  
+          SYSTEM DEVELOPMENT & DEMONSTRATION ........................... 
+118 0604201A          AIRCRAFT AVIONICS................................................................................................ 2,764                       2,764 
+119 0604270A          ELECTRONIC WARFARE DEVELOPMENT.............................................................. 62,846                      59,066 
+                              MEDEV development test flight ahead of need.............................................................................................                                                                                                                     [–3,780] 
+121 0604601A          INFANTRY SUPPORT WEAPONS......................................................................... 91,574                      85,770 
+                             Advanced gunner protection kit development.................................. ...........................................                                                                                                                           [–2,800] 
+                              MK234 special purpose projectile development delay....................................................................                                                                                                                        [–5,004] 
+
+122 0604604A          MEDIUM TRACKED VEHICLES......................................................................                     8,523                       8,523 
+123 0604611A          JAVELIN .......................................................................................................................... 7,493                        7,493 
+124 0604622A          FAMILY OF HEAVY TACTICAL VEHICLES....................................................... 24,792                     24,792 
+125 0604633A          AIR TRAFFIC CONTROL......................................................................................                     3,611                       3,611 
+126 0604642A          LIGHT TACTICAL WHEELED VEHICLES.............................................................                     1,976                       1,976 
+127 0604654A          ARMORED SYSTEMS MODERNIZATION (ASM).......................................... 135,488                 135,488
+                             Abrams cost development exceeds to need......................................................................................                                                                                                               [–5,500]
+                             Heads up display-product development previously funded.......................................................................                                                                                                                 [–1,158] 
+
+128 0604710A          NIGHT VISION SYSTEMS—ENG DEV................................................................ 61,445                     55,277 
+                             Cost growth.......................................................................................................                                                                                                                     [–6,168] 
+  
+129 0604713A          COMBAT FEEDING, CLOTHING, AND EQUIPMENT.............................................. 2,814                     2,814 
+130 0604715A           NON-SYSTEM TRAINING DEVICES—ENG DEV ............................. 28,066                 28,066
+131 0604714A           AIR DEFENSE COMMAND, CONTROL AND INTELLIGENCE—ENG DEV............... 43,651                    56,151
+                             Joint Counter-UAS Ofce acceleration...................................................................                                                                                                                                  [17,500] 
+                             Joint Counter-UAS Office SOCOM cUAS capabilities for austere locations abroad.......................                                                                                                                   [25,000] 
+
+132 0604742A            CONSTRUCTIVE SIMULATION SYSTEMS DEVELOPMENT.............. 10,150                 10,150 
+133 0604746A            AUTOMATIC TEST EQUIPMENT DEVELOPMENT............................................... 5,578                      5,578 
+134 0604706A            DISTRIBUTIVE INTERACTIVE SIMULATIONS (DIS)—ENG DEV.................................... 7,892                      7,892 
+135 0604768A            BRILLIANT ANTI-ARMOR SUBMUNITION (BAT)............................................ 24,975                    24,975 
+136 0604780A            COMBINED ARMS TACTICAL TRAINER (CATT)—ENG DEV����������3,585                      3,585 
+137 0604789A            BRIGADE ANALYSIS, INTEGRATION AND EVALUATION.................................... 19,268                    19,268 
+  
+138 0604802A            WEAPONS AND MUNITIONS—ENG DEV....................................................... 295,811                 295,811 
+139 0604804A            LOGISTICS AND ENGINEER EQUIPMENT—ENG DEV............................... 49,464                    48,344 
+                            DMS excess support costs.................................................................................                                                                                                                       [–1,120] 
+140 0604805A             COMMAND, CONTROL, COMMUNICATIONS SYSTEMS—ENG DEV...................... 11,079                    11,079 
+141 0604807A             MEDICAL MATERIEL/MEDICAL BIOLOGICAL DEFENSE EQUIPMENT—ENG DEV�����������������������������49,670                    49,670 
+142 0604808A             LANDMINE WARFARE/BARRIER—ENG DEV........................................... 9,589                      9,589

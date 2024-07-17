@@ -1,0 +1,20 @@
+134 STAT. 3486		PUBLIC LAW 116–283—JAN. 1, 2021
+
+(A) the implementation of the strategy developed under paragraph (1);
+(B) steps that may be taken to address the threats identified under paragraph (2);
+(C) any changes to a program of record that may be required to achieve the strategy under paragraph (1);
+(D) any changes to the Defense Planning Guidance required by section 113(g)(2)(A) of title 10, United States Code, that may be required to achieve the strategy under paragraph (1); and
+(E) whether sufficient resources are available for the research activities, workforce, and infrastructure of the Department of Defense to support the development of capabilities to defeat emerging threats to the United States; and
+(4) carrying out such other activities as are assigned to the Steering Committee by the Secretary of Defense.
+(d) EMERGING TECHNOLOGY DEFINED.—In this section, the term “emerging technology” means technology determined to be in an emerging phase of development by the Secretary, including quantum information science and technology, data analytics, artificial intelligence, autonomous technology, advanced materials, software, high performance computing, robotics, directed energy, hypersonics, biotechnology, medical technologies, and such other technology as may be identified by the Secretary.
+(e) SUNSET.—This section shall terminate on October 1, 2024.
+
+Subtitle D—Education and Workforce Development
+
+SEC. 241. MEASURING AND INCENTIVIZING PROGRAMMING PRO- FICIENCY.
+(a) IN GENERAL.—Not later than two years after the date of the enactment of this Act, the Secretary of Defense shall carry out the following activities:
+(1) Leverage existing civilian software development and software architecture certification programs to implement coding language proficiency and artificial intelligence competency tests within the Department of Defense that—
+(A) measure an individual’s competency in using machine learning tools, in a manner similar to the way the Defense Language Proficiency Test measures competency in foreign language skills;
+(B) enable the identification of members of the Armed Forces and civilian employees of the Department of Defense who have varying levels of quantified coding comprehension and skills and a propensity to learn new programming paradigms, algorithms, and data analytics; and
+(C) include hands-on coding demonstrations and challenges.
+(2) Update existing recordkeeping systems to track artificial intelligence and programming certification test results in a manner that is comparable to the system used for tracking and documenting foreign language competency, and use that recordkeeping system to ensure that workforce coding and

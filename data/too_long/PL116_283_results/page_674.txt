@@ -1,0 +1,32 @@
+134 STAT. 4060	 PUBLIC LAW 116–283—JAN. 1, 2021
+
+
+(e) PUBLIC RELEASE.—The federally funded research and development center shall maintain an internet website on which the center—
+ (1) publishes the study under subsection (a) by not later than 30 days after the date on which the Secretary receives the study under subsection (c); and
+ (2) provides on an ongoing basis commentaries, analyses, updates, and other information regarding the nuclear weapons programs of covered foreign countries.
+(f) FORM.—The study under subsection (a) shall be submitted in unclassified form.
+(g) MODIFICATION TO REPORT ON NUCLEAR FORCES OF THE UNITED STATES AND NEAR-PEER COUNTRIES.—Section 1676 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1778) is amended—
+ (1) in subsection (a), by striking “Not later than February 15, 2020, the Secretary of Defense, in coordination with the Director of National Intelligence, shall” and inserting “Not later than February 15, 2020, and each year thereafter through 2023, the Secretary of Defense and the Director of National Intelligence shall jointly”; and
+ (2) in subsection (b), by adding at the end the following new paragraph:
+  “(4) With respect to the current and planned nuclear systems specified in paragraphs (1) through (3), the factors and motivations driving the development and deployment of the systems.”.
+(h) DEFINITIONS.—In this section:
+ (1) APPROPRIATE CONGRESSIONAL COMMITTEES.—The term “appropriate congressional committees” means—
+  (A) the congressional defense committees;
+  (B) the Committee on Foreign Affairs and the Permanent Select Committee on Intelligence of the House of Representatives; and
+  (C) the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.
+ (2) COVERED FOREIGN COUNTRY.—The term “covered foreign country” means each of the following:
+  (A) North Korea.
+  (B) The People’s Republic of China.
+  (C) The Russian Federation.
+  (D) To the extent applicable, Iran.
+ (3) OPEN-SOURCE DATA.—The term “open-source data” includes data derived from, found in, or related to any of the following:
+  (A) Geospatial information.
+  (B) Seismic sensors.
+  (C) Commercial data.
+  (D) Public government information.
+  (E) Academic journals and conference proceedings.
+  (F) Media reports.
+  (G) Social media.
+
+SEC. 1635. PROHIBITION ON REDUCTION OF THE INTERCONTINENTAL BALLISTIC MISSILES OF THE UNITED STATES.
+(a) PROHIBITION.—Except as provided in subsection (b), none of the funds authorized to be appropriated by this Act for fiscal

@@ -1,0 +1,26 @@
+122 STAT. 3802              PUBLIC LAW 110–343—OCT. 3, 2008
+
+any amounts provided in this Act shall not be counted for purposes of budget enforcement.
+                        
+                            TITLE III—TAX PROVISIONS
+
+             SEC. 301. GAIN OR LOSS FROM SALE OR EXCHANGE OF CERTAIN PRE-
+                         FERRED STOCK.
+
+(a) IN GENERAL.—For purposes of the Internal Revenue Code of 1986, gain or loss from the sale or exchange of any applicable preferred stock by any applicable financial institution shall be treated as ordinary income or loss.
+(b) APPLICABLE PREFERRED STOCK.—For purposes of this sec-tion, the term “applicable preferred stock” means any stock—
+(1) which is preferred stock in—
+        (A) the Federal National Mortgage Association, estab-lished pursuant to the Federal National Mortgage Associa-tion Charter Act (12 U.S.C. 1716 et seq.), or
+        (B) the Federal Home Loan Mortgage Corporation, established pursuant to the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1451 et seq.), and 
+(2) which—
+        (A) was held by the applicable financial institution on September 6, 2008, or
+        (B) was sold or exchanged by the applicable financial institution on or after January 1, 2008, and before Sep-tember 7, 2008.
+(c) APPLICABLE FINANCIAL INSTITUTION.—For purposes of this section:
+(1) IN GENERAL.—Except as provided in paragraph (2), the term “applicable financial institution” means—
+       (A) a financial institution referred to in section 582(c)(2) of the Internal Revenue Code of 1986, or
+       (B) a depository institution holding company (as defined in section 3(w)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(w)(1)).
+(2) SPECIAL RULES FOR CERTAIN SALES.—In the case of—
+       (A) a sale or exchange described in subsection (b)(2)(B), an entity shall be treated as an applicable financial institu-tion only if it was an entity described in subparagraph (A) or (B) of paragraph (1) at the time of the sale or exchange, and
+       (B) a sale or exchange after September 6, 2008, of preferred stock described in subsection (b)(2)(A), an entity shall be treated as an applicable financial institution only if it was an entity described in subparagraph (A) or (B) of paragraph (1) at all times during the period beginning on September 6, 2008, and ending on the date of the sale or exchange of the preferred stock.
+(d) SPECIAL RULE FOR CERTAIN PROPERTY NOT HELD ON SEP-TEMBER 6, 2008.—The Secretary of the Treasury or the Secretary’s delegate may extend the application of this section to all or a portion of the gain or loss from a sale or exchange in any case where—
+       (1) an applicable financial institution sells or exchanges applicable preferred stock after September 6, 2008, which the applicable financial institution did not hold on such date, but

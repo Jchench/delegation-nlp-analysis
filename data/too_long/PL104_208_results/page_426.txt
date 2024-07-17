@@ -1,0 +1,27 @@
+110 STAT. 3009–425     PUBLIC LAW 104–208—SEPT. 30, 1996
+
+chartered by the State in which its home office is located; or.’’.
+(9) DEFINITION.—Section 10(m)(4) of the Home Owners’ Loan Act (12 U.S.C. 1467a(m)(4)) is amended—
+(1) by striking ‘‘subsection—’’ and inserting ‘‘subsection, the following definitions shall apply:’’;
+(2) in subparagraph (C)—
+(A) in clause (ii), by adding at the end the following new subclause:
+‘‘(VII) Loans for educational purposes, loans to small businesses, and loans made through credit cards or credit card accounts.’’; and
+(B) in clause (iii), by striking subclause (VI) and inserting the following:
+‘‘(VI) Loans for personal, family, or household purposes (other than loans for personal, family, or household purposes described in clause (ii)(VII)).’’; and
+(3) by adding at the end the following new subparagraphs:
+‘‘(D) CREDIT CARD.—The Director shall issue such regulations as may be necessary to define the term ‘credit card’.
+‘‘(E) SMALL BUSINESS.—The Director shall issue such regulations as may be necessary to define the term ‘small business’.’’.
+
+SEC. 2304. LIMITED PURPOSE BANKS.
+
+(a) GROWTH CAP RELIEF.—Section 4(f)(3)(B) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(f)(3)(B)) is amended—
+(1) in clause (ii), by adding ‘‘or’’ at the end;
+(2) in clause (iii), by striking ‘‘; or’’ at the end and inserting a period; and
+(3) by striking clause (iv).
+(b) LIMITED PURPOSE BANK EXCEPTION.—Section 2(c)(2)(F) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(F)) is amended by inserting ‘‘, including an institution that accepts collateral for extensions of credit by holding deposits under $100,000, and by other means’’ after ‘‘An institution’’. 
+
+SEC. 2305. AMENDMENT TO FAIR DEBT COLLECTION PRACTICES ACT.
+
+(a) IN GENERAL.—Section 807(11) of the Fair Debt Collection Practices Act (15 U.S.C. 1692e(11)) is amended to read as follows:
+‘‘(11) The failure to disclose in the initial written communication with the consumer and, in addition, if the initial communication with the consumer is oral, in that initial oral communication, that the debt collector is attempting to collect a debt and that any information obtained will be used for that purpose, and the failure to disclose in subsequent communications that the communication is from a debt collector, except that this paragraph shall not apply to a formal pleading made in connection with a legal action.’’. 
+(b) EFFECTIVE DATE.—The amendment made by subsection (a) shall take effect 90 days after the date of enactment of this Act and shall apply to all communications made after that date of enactment.

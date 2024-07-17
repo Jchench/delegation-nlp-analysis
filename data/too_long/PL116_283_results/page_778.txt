@@ -1,0 +1,35 @@
+134 STAT. 4164		PUBLIC LAW 116–283—JAN. 1, 2021
+
+		“(B) program management (including contractor oversight); and
+		“(C) contingency contracting.”.
+	(6)		SUBSECTION (E)(3).—Paragraph (3) of such subsection (e) is transferred to such chapter, inserted after the heading for section 3156, and amended—
+		(A) by striking the paragraph designation; and
+		(B) by inserting “required by section 3151 of this title” after “the joint policy”.
+	(7)		SUBSECTION (F).—Paragraphs (6), (5), (2), and (1) of subsection (f) of such section are transferred (in that order) to section 3157 of such chapter, inserted at the end, and redesignated as paragraphs (1) through (4), respectively.
+(c)		CROSS REFERENCE AMENDMENT.—Paragraph (4)(B) of subsection (a) of section 3154 of title 10, United States Code, as transferred and redesignated by subsection (b)(3), is amended by striking “section 2304” and inserting “sections 3201 through 3205”.
+	(d)	ADDITIONAL PROVISIONS RELATING TO OPERATIONAL CONTRACT SUPPORT.—Chapter 209 of title 10, United States Code, is amended by adding at the end the following new subchapter:
+
+	“SUBCHAPTER II—OTHER PROVISIONS RELATING TO
+				OPERATIONAL CONTRACT SUPPORT
+				
+	“Sec.
+“3171. Contracts for property or services in support of a contingency operation: competition and review.
+“3172. Operational contract support: chain of authority and responsibility within Department of Defense.
+
+“§ 3171. Contracts for property or services in support of a contingency operation: competition and review
+		“[Reserved].
+		
+“§ 3172. Operational contract support: chain of authority and responsibility within Department of Defense
+		“[Reserved].”.
+
+		Subtitle B—Acquisition Planning
+
+SEC. 1811. PLANNING AND SOLICITATION GENERALLY.
+
+	(a) TABLES OF CHAPTERS AMENDMENT.—The tables of chapters at the beginning of subtitle A, and at the beginning of part V of subtitle A (as added by section 801 of Public Law 115–232), of title 10, United States Code, are amended by striking the items relating to chapters 221 and 223 and inserting the following:
+“221.	Planning and Solicitation Generally ..........................................................	  3201
+“222.	Independent Cost Estimation and Cost Analysis .......................................	  3221
+“223.	Other Provisions Relating to Planning and Solicitation Generally ..........	  3241
+“225.	Planning and Solicitation Relating to Particular Items or Services ........	  3271”.
+
+	(b) NEW CHAPTER.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232), is amended by striking chapters 221 and 223 and inserting the following:

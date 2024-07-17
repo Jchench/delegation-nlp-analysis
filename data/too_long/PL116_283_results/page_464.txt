@@ -1,0 +1,58 @@
+134 STAT. 3850        PUBLIC LAW 116–283—JAN. 1, 2021
+
+(b) CLERICAL AMENDMENT.—The table of sections at the begin-
+10 USC 121 prec.
+ning of such chapter is amended by inserting after the item relating
+to section 127e the following new item:
+“127f. Expenditure of funds for clandestine activities that support operational prepa-
+ration of the environment.”.
+
+SEC. 1053. SALE OR DONATION OF EXCESS DEPARTMENT OF DEFENSE
+PERSONAL PROPERTY FOR LAW ENFORCEMENT ACTIVITIES.
+
+(a) INCLUSION OF DISASTER-RELATED EMERGENCY PREPARED-
+NESS ACTIVITIES AMONG LAW ENFORCEMENT ACTIVITIES AUTHORI-
+TIES.—
+(1) INCLUSION.—Subsection (a)(1)(A) of section 2576a of
+title 10, United States Code, is amended by inserting “disaster-
+related emergency preparedness,” after “counterterrorism,”.
+(2) PREFERENCE IN TRANSFERS.—Subsection (d) of such sec-
+tion is amended to read as follows:
+“(d) PREFERENCE FOR CERTAIN TRANSFERS.—In considering
+applications for the transfer of personal property under this section,
+the Secretary shall give a preference to applications indicating
+that the transferred property will be used in the counterdrug,
+counterterrorism, disaster-related emergency preparedness, or
+border security activities of the recipient agency. Applications that
+request vehicles used for disaster-related emergency preparedness,
+such as high-water rescue vehicles, should receive the highest pref-
+erence.”.
+
+(b) ADDITIONAL CONDITIONS AND LIMITATIONS.—
+(1) ADDITIONAL TRAINING OF RECIPIENT AGENCY PERSONNEL
+REQUIRED.—Subsection (b)(6) of section 2576a of title 10, United
+States Code, is amended by inserting before the period at
+the end the following: “, including respect for the rights of
+citizens under the Constitution of the United States and de-
+escalation of force”.
+(2) CERTAIN PROPERTY NOT TRANSFERRABLE.—Such section
+is further amended—
+(A) by redesignating subsections (e) and (f) as sub-
+sections (f) and (g), respectively; and
+(B) by inserting after subsection (d) the following new
+subsection (e):
+“(e) PROPERTY NOT TRANSFERRABLE.—The Secretary may not
+transfer to a Tribal, State, or local law enforcement agency under
+this section the following:
+“(1) Bayonets.
+“(2) Grenades (other than stun and flash-bang grenades).
+“(3) Weaponized tracked combat vehicles.
+“(4) Weaponized drones.”.
+
+SEC. 1054. PROHIBITION ON RETIREMENT OF NUCLEAR POWERED
+AIRCRAFT CARRIERS BEFORE FIRST REFUELING.
+
+Section 8062 of title 10, United States Code, is amended by
+adding at the end the following new subsection:
+“(f) A nuclear powered aircraft carrier may not be retired before
+its first refueling.”.

@@ -1,0 +1,25 @@
+110 STAT. 3009-401 PUBLIC LAW 104-208—SEPT. 30, 1996
+
+(f) DELAY OF EFFECTIVENESS OF RECENT FINAL REGULATION RELATING TO PAYMENTS TO EMPLOYEES.—Section 19 of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2617) is amended by adding at the end the following new subsection:
+   “(d) DELAY OF EFFECTIVENESS OF RECENT FINAL REGULATION RELATING TO PAYMENTS TO EMPLOYEES.—
+    “(1) IN GENERAL.— The amendment to part 3500 of title 24 of the Code of Federal Regulations contained in the final regulation prescribed by the Secretary and published in the Federal Register on June 7, 1996, which will, as of the effective date of such amendment—
+    “(A) eliminate the exemption for payments by an employer to employees of such employer for referral activities which is currently codified as section 3500.14(g)(1)(vii) of such title 24; and
+    “(B) replace such exemption with a more limited exemption in new clauses (vii), (viii), and (ix) of section 3500.14 of such title 24,
+shall not take effect before July 31, 1997.
+    “(2) CONTINUATION OF PRIOR RULE.—The regulation codified as section 3500.14(g)(1)(vii) of title 24 of the Code of Federal Regulations, relating to employer-employee payments, as in effect on May 1, 1996, shall remain in effect until the date the amendment referred to in paragraph (1) takes effect in accordance with such paragraph.
+    “(3) PUBLIC NOTICE OF EFFECTIVE DATE.—The Secretary shall provide public notice of the date on which the amendments referred to in paragraph (1) will take effect in accordance with such paragraph not less than 90 days and not more than 180 days before such effective date.”.
+
+(g) TECHNICAL AND CONFORMING AMENDMENTS.—
+    (1) Section 4(a) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2603(a)) is amended by striking “Federal Home Loan Bank Board” and inserting “Director of the Office of Thrift Supervision”.
+    (2) Section 1001(c)(1)(C) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2609(c)(1)(C)) is amended by striking “Not later than the expiration of the 90-day period beginning on the date of the enactment of the Cranston-Gonzalez National Affordable Housing Act, the” and inserting “The”.
+   (h) REPEAL OF OBSOLETE PROVISIONS.—The Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2601 et seq.) is amended by striking sections 13, 14 and 15.
+
+12 USC 2611-2613.
+
+SEC. 2104. WAIVER FOR CERTAIN BORROWERS.
+Section 105 of the Truth in Lending Act (15 U.S.C. 1604) is amended by adding at the end the following new subsection:
+    “(g) WAIVER FOR CERTAIN BORROWERS.—
+    “(1) IN GENERAL.—The Board, by regulation, may exempt from the requirements of this title certain credit transactions if—
+      “(A) the transaction involves a consumer—
+        “(i) with an annual earned income of more than $200,000; or
+        “(ii) having net assets in excess of $1,000,000 at the time of the transaction; and

@@ -1,0 +1,23 @@
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+“(B) with respect to any other facility producing refined coal, any facility placed in service after the date of the enactment of the American Jobs Creation Act of 2004 and before January 1, 2010.”.
+(d) COORDINATION WITH CREDIT FOR PRODUCING FUEL FROM A NONCONVENTIONAL SOURCE.—
+    (1) IN GENERAL.—Subparagraph (B) of section 45(e)(9) of the Internal Revenue Code of 1986 is amended—
+        (A) by striking “The term” and inserting the following:
+            “(i) IN GENERAL.—The term”, and
+        (B) by adding at the end the following new clause:
+            “(ii) EXCEPTION FOR STEEL INDUSTRY COAL—In the case of a facility producing steel industry fuel, clause (i) shall not apply to so much of the refined coal produced at such facility as is steel industry fuel.”.
+    (2) NO DOUBLE BENEFIT.—Section 45K(g)(2) of such Code is amended by adding at the end the following new subparagraph:
+        “(E) COORDINATION WITH SECTION 45.—No credit shall be allowed with respect to any qualified fuel which is steel industry fuel (as defined in section 45(c)(7)) if a credit is allowed to the taxpayer for such fuel under section 45.”.
+   (e) EFFECTIVE DATE.—The amendments made by this section shall apply to fuel produced and sold after September 30, 2008.
+
+SEC. 909. SPECIAL RULE TO IMPLEMENT FERC AND STATE ELECTRIC RESTRUCTURING POLICY.
+(a) EXTENSION FOR QUALIFIED ELECTRIC UTILITIES.—
+    (1) IN GENERAL.—Paragraph (3) of section 451(i) is amended by inserting “before January 1, 2010, in the case of a qualified electric utility” after “January 1, 2008”.
+    (2) QUALIFIED ELECTRIC UTILITY.—Subsection (i) of section 451 is amended by redesignating paragraphs (6) through (10) as paragraphs (7) through (11), respectively, and by inserting after paragraph (5) the following new paragraph:
+        “(6) QUALIFIED ELECTRIC UTILITY.—For purposes of this subsection, the term ‘qualified electric utility’ means a person that, as of the date of the qualifying electric transmission transaction, is vertically integrated, in that it is both—
+            “(A) a transmitting utility (as defined in section 3(23) of the Federal Power Act (16 U.S.C. 796(23))) with respect to the transmission facilities to which the election under this subsection applies, and
+            “(B) an electric utility (as defined in section 3(22) of the Federal Power Act (16 U.S.C. 796(22))).”.
+   (b) EXTENSION OF PERIOD FOR TRANSFER OF OPERATIONAL CONTROL AUTHORIZED BY FERC.—Clause (ii) of section 451(i)(4)(B) is amended by striking “December 31, 2007” and inserting “the date which is 4 years after the close of the taxable year in which the transaction occurs”.
+   (c) PROPERTY LOCATED OUTSIDE THE UNITED STATES NOT TREATED AS EXEMPT UTILITY PROPERTY.—Paragraph (5) of section 451(i) is amended by adding at the end the following new subparagraph:
+        “(C) EXCEPTION FOR PROPERTY LOCATED OUTSIDE THE UNITED STATES.—The term ‘exempt utility property’ shall

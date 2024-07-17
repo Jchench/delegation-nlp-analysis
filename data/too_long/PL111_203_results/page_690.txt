@@ -1,0 +1,15 @@
+124 STAT. 2064          PUBLIC LAW 111-203—JULY 21, 2010
+
+error resolution relating to remittance transfers, to protect senders from such errors. Standards prescribed under this paragraph shall include appropriate standards regarding record keeping, as required, including documentation—
+"(A) of the complaint of the sender; 
+"(B) that the sender provides the remittance transfer provider with respect to the alleged error; and 
+"(C) of the findings of the remittance transfer provider regarding the investigation of the alleged error that the sender brought to their attention.
+"(3) CANCELLATION AND REFUND POLICY RULES.—Not later than 18 months after the date of enactment of the Consumer Financial Protection Act of 2010, the Board shall issue final rules regarding appropriate remittance transfer cancellation and refund policies for consumers.
+"(e) APPLICABILITY OF THIS TITLE.— 
+"(1) IN GENERAL.—A remittance transfer that is not an electronic fund transfer, as defined in section 903, shall not be subject to any of the provisions of sections 905 through 913. A remittance transfer that is an electronic fund transfer, as defined in section 903, shall be subject to all provisions of this title, except for section 908, that are otherwise applicable to electronic fund transfers under this title.
+"(2) RULE OF CONSTRUCTION.—Nothing in this section shall be construed—
+"(A) to affect the application to any transaction, to any remittance transfer provider, or to any remittance transfer of the provisions of subchapter II of chapter 53 of title 31, United States Code, section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b), or chapter 2 of title I of Public Law 91–508 (12 U.S.C. 1951–1959), or any regulations promulgated thereunder; or
+"(B) to cause any fund transfer that would not otherwise be treated as such under paragraph (1) to be treated as an electronic fund transfer, or as otherwise subject to this title, for the purposes of any of the provisions referred to in subparagraph (A) or any regulations promulgated thereunder.
+"(f) ACTS OF AGENTS.— 
+"(1) IN GENERAL.—A remittance transfer provider shall be liable for any violation of this section by any agent, authorized delegate, or person affiliated with such provider, when such agent, authorized delegate, or affiliate acts for that remittance transfer provider.  
+"(2) OBLIGATIONS OF REMITTANCE TRANSFER PROVIDERS.— The Board shall prescribe rules to implement appropriate standards or conditions of liability of a remittance transfer provider, including a provider who acts through an agent or authorized delegate. An agency charged with enforcing the requirements of this section, or rules prescribed by the Board under this section, may consider, in any action or other proceeding against a remittance transfer provider, the extent to which the provider had established and maintained policies or procedures for compliance, including policies, procedures, or other appropriate oversight measures designed to assure compliance by an agent or authorized delegate acting for such provider.

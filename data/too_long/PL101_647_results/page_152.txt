@@ -1,0 +1,20 @@
+104 STAT. 4940           PUBLIC LAW 101-647—NOV. 29, 1990
+
+"(A) is about to leave the jurisdiction of the United States with the effect of hindering, delaying, or defrauding the United States in its effort to recover a debt;
+"(B) has or is about to assign, dispose, remove, conceal, ill treat, waste, or destroy property with the effect of hindering, delaying, or defrauding the United States;
+"(C) has or is about to convert the debtor's property into money, securities, or evidence of debt in a manner prejudicial to the United States with the effect of hindering, delaying, or defrauding the United States; or
+"(D) has evaded service of process by concealing himself or has temporarily withdrawn from the jurisdiction of the United States with the effect of hindering, delaying, or defrauding the United States; or
+"(2) a prejudgment remedy is required to obtain jurisdiction within the United States and the prejudgment remedy sought will result in obtaining such jurisdiction.
+
+"(c) Affidavit.—(1) The application under subsection (a) shall include an affidavit establishing with particularity to the court's satisfaction facts supporting the probable validity of the claim for a debt and the right of the United States to recover what is demanded in the application.
+   "(2) The affidavit shall state—
+"(A) specifically the amount of the debt claimed by the United States and any interest or costs attributable to such debt;
+"(B) one or more of the grounds specified in subsection (b); and
+"(C) the requirements of section 3102(b), 3103(a), 3104(a), or 3105(b), as the case may be.
+"(3) No bond is required of the United States.
+
+"(d) Notice And Hearing.—(1) On filing an application by the United States as provided in this section, the counsel for the United States shall prepare, and the clerk shall issue, a notice for service on the debtor against whom the prejudgment remedy is sought and on any other person whom the United States reasonably believes, after exercising due diligence, has possession, custody, or control of property affected by such remedy. Three copies of the notice shall be served on each such person. The form and content of such notice shall be approved jointly by a majority of the chief judges of the Federal districts in the State in which the court is located and shall be in substantially the following form:
+"NOTICE
+   "You are hereby notified that this [property] is being taken by the United States Government ("the Government"), which says that [name of debtor] owes it a debt of $ [amount] for [reason for debt] and has filed a lawsuit to collect this debt. The Government says it must take this property at this time because [recite the pertinent ground or grounds from section 3101(b)]. The Government wants to make sure [name of debtor] will pay if the court determines that this money is owed.
+
+   "In addition, you are hereby notified that there are exemptions under the law which may protect some of this property from being taken by the Government if [name of debtor] can show that the exemptions apply. Below is a summary of the major exemptions which apply in most situations in the State of [State where property is located]:

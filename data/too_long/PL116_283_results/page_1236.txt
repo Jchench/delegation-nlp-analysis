@@ -1,0 +1,60 @@
+134 STAT. 4622         PUBLIC LAW 116-283—JAN. 1, 2021
+
+subsection (b) contains inaccurate information; and
+        ‘‘(bb) in accordance with regulations
+    issued by the Secretary, voluntarily and
+    promptly, and in no case later than 90 days
+    after the date on which the person submitted
+    the report, submits a report containing cor-
+    rected information.
+                ‘‘(II) EXCEPTIONS.—A person shall not be
+       exempt from penalty under clause (i) if, at the
+       time the person submits the report required by
+       subsection (b), the person—
+                        ‘‘(aa) acts for the purpose of evading the
+             reporting requirements under subsection (b);
+             and
+                        ‘‘(bb) has actual knowledge that any
+            information contained in the report is inac-
+            curate.
+            ‘‘(ii) ASSISTANCE.—FinCEN shall provide assist-
+       ance to any person seeking to submit a corrected report
+    in accordance with clause (i)(I).
+                ‘‘(4) USER COMPLAINT PROCESS.—
+                               ‘‘(A) IN GENERAL.—The Inspector General of the
+                    Department of the Treasury, in coordination with the Sec-
+                    retary of the Treasury, shall provide public contact infor-
+                    mation to receive external comments or complaints regarding
+                    the beneficial ownership information notification and collec-
+                    tion process or regarding the accuracy, completeness, or
+                    timeliness of such information.
+                         ‘‘(B) REPORT.—The Inspector General of the Depart-
+     Summaries.
+           ment of the Treasury shall submit to Congress a periodic
+           report that—
+                               ‘‘(i) summarizes external comments or complaints
+                    and related investigations conducted by the Inspector
+                    General related to the collection of beneficial ownership
+                    information; and
+                Recommendations.
+                               ‘‘(ii) includes recommendations, in coordination
+              Coordination.
+                    with FinCEN, to improve the form and manner of
+                    the notification, collection and updating processes of
+                    the beneficial ownership information reporting require-
+                    ments to ensure the beneficial ownership information
+                    reported to FinCEN is accurate, complete, and highly
+                    useful.
+                ‘‘(5) TREASURY OFFICE OF INSPECTOR GENERAL INVESTIGA-
+    TION IN THE EVENT OF A CYBERSECURITY BREACH.—
+                               ‘‘(A) IN GENERAL.—In the event of a cybersecurity
+                    breach that results in substantial unauthorized access and
+                    disclosure of sensitive beneficial ownership information,
+                    the Inspector General of the Department of the Treasury
+                    shall conduct an investigation into FinCEN cybersecurity
+                    practices that, to the extent possible, determines any
+                    vulnerabilities within FinCEN information security and
+                    confidentiality protocols and provides recommendations for
+                    fixing those deficiencies.
+                        ‘‘(B) REPORT.—The Inspector General of the Depart-
+    Coordination.  ment of the Treasury shall submit to the Secretary of

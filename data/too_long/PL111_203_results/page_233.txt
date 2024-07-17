@@ -1,0 +1,65 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+124 STAT. 1607
+
+    ‘‘(B) avoid duplication of examination activities, 
+          reporting requirements, and requests for information; and
+    ‘‘(C) ensure that the depository institution holding company 
+          and the subsidiaries of the depository institution 
+          holding company are not subject to conflicting supervisory 
+          demands by the appropriate Federal banking agencies.
+    ‘‘(g) RULE OF CONSTRUCTION.—No provision of this section shall 
+    be construed as limiting any authority of the Board, the Corpora-
+    tion, or the Comptroller of the Currency under any other provision 
+    of law.’’.
+    (b) EFFECTIVE DATE.—The amendment made by subsection (a) 
+    shall take effect on the transfer date.
+12 USC 1831c 
+note.
+    SEC. 606. REQUIREMENTS FOR FINANCIAL HOLDING COMPANIES TO 
+                        REMAIN WELL CAPITALIZED AND WELL MANAGED.
+    (a) AMENDMENT.—Section 4(l)(1) of the Bank Holding Company 
+    Act of 1956 (12 U.S.C. 1843(l)(1)) is amended—
+         (1) in subparagraph (B), by striking ‘‘and’’ at the end;
+         (2) by redesignating subparagraph (C) as subparagraph 
+              (D); and
+         (3) by inserting after subparagraph (B) the following:
+    ‘‘(C) the bank holding company is well capitalized and 
+         well managed; and’’; and
+         (4) in subparagraph (D)(ii), as so redesignated, by striking 
+    ‘‘subparagraphs (A) and (B)’’ and inserting ‘‘subparagraphs (A), 
+              (B), and (C)’’.
+         (b) HOME OWNERS’ LOAN ACT AMENDMENT.—Section 10(c)(2) 
+         of the Home Owners’ Loan Act (12 U.S.C. 1467a(c)(2)) is amended 
+    by adding at the end the following new subparagraph:
+              ‘‘(H) Any activity that is permissible for a financial 
+              holding company (as such term is defined under section 
+              2(p) of the Bank Holding Company Act of 1956 (12 U.S.C. 
+              1841(p)) to conduct under section 4(k) of the Bank Holding 
+              Company Act of 1956 if—
+                  ‘‘(i) the savings and loan holding company meets 
+                  all of the criteria to qualify as a financial holding 
+                  company, and complies with all of the requirements 
+                  applicable to a financial holding company, under sec-
+                  tions 4(l) and 4(m) of the Bank Holding Company 
+                  Act and section 804(c) of the Community Reinvestment 
+                  Act of 1977 (12 U.S.C. 2903(c)) as if the savings and 
+                  loan holding company was a bank holding company; 
+                  and
+                 ‘‘(ii) the savings and loan holding company con-
+                  ducts the activity in accordance with the same terms, 
+                  conditions, and requirements that apply to the conduct 
+                  of such activity by a bank holding company under 
+                  the Bank Holding Company Act of 1956 and the 
+                  Board’s regulations and interpretations under such 
+                  Act.’’.
+(c) EFFECTIVE DATE.—The amendments made by this section 
+shall take effect on the transfer date.
+12 USC 1467a 
+note.
+SEC. 607. STANDARDS FOR INTERSTATE ACQUISITIONS.
+
+(a) ACQUISITION OF BANKS.—Section 3(d)(1)(A) of the Bank 
+Holding Company Act of 1956 (12 U.S.C. 1842(d)(1)(A)) is amended 
+by striking ‘‘adequately capitalized and adequately managed’’ and 
+inserting ‘‘well capitalized and well managed’’.

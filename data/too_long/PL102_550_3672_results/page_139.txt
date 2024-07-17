@@ -1,0 +1,26 @@
+106 STAT. 3810		PUBLIC LAW 102-550—OCT. 28, 1992
+
+a good faith effort to acquire permanent housing (in accordance with paragraph (4)) and has been unable to do so.'".
+(h) RENTAL ASSISTANCE.—
+	(1) IN GENERAL.—Section 859 (42 U.S.C. 12908) is amended—
+		(A) by striking the section heading and inserting the following new section heading:
+"SEC. 859. RENTAL ASSISTANCE.";
+		(B) in the first sentence of subsection (a)(1), by striking "short-term"; and
+		(C) by adding at the end the following new subsection:
+		"(c) ADMINISTRATIVE COSTS.—A project sponsor providing rental assistance under this section may use amounts from any grant received under this section for administrative expenses involved in providing such assistance, subject to the provisions of 856(g)(2).".
+	(2) CONFORMING AMENDMENT.—Section 855(3) (42 U.S.C. 12904(3)) is amended by striking "short-term".
+(i) COMMUNITY RESIDENCES AND SERVICES.—Section 861(c) (42 U.S.C. 12910(c)) is amended—
+	(1) in paragraph (1)(C), by inserting before the period at the end the following: "; and expenses relating to community outreach and educational activities regarding acquired immunodeficiency syndrome and related diseases provided for individuals residing in proximity of eligible persons assisted under this subtitle"; and
+	(2) by striking paragraph (3) and inserting the following new paragraph:
+		"(3) ADMINISTRATIVE EXPENSES.—For administrative expenses related to the planning and carrying out activities under this section (subject to the provisions of section 856(g)).".
+	(j) ELIGIBILITY OF FAMILIES.—
+		(1) Section 852 (42 U.S.C. 12901) is amended by inserting "and families of such persons" before the period at the end.
+		(2) Section 854(c)(3) (42 U.S.C. 12903(c)(3)) is amended by striking "persons with acquired immunodeficiency syndrome" and inserting "eligible persons" each place it appears.
+		(3) Section 855 (42 U.S.C. 12904) is amended—
+			(A) in the matter preceding paragraph (1), by striking "such persons with acquired immunodeficiency syndrome" and inserting "eligible persons"; and
+			(B) in paragraph (5), by striking "with acquired immunodeficiency syndrome".
+		(4) Section 856(c) (42 U.S.C. 12905(c)) is amended by striking "such individuals" and inserting "such eligible persons".
+		(5) Section 858(a)(3) (42 U.S.C. 12907(a)(3)) is amended by striking "individuals" and inserting "eligible persons".
+		(6) Section 859(b)(1) (42 U.S.C. 12908(b)(1)) is amended by striking "individuals" and inserting "eligible persons".
+		(7) Sections 859(b)(2) and 860(b)(2) (42 U.S.C. 12908(b), 12909(b)(2)) are amended by inserting "with acquired immunodeficiency syndrome or related diseases" after "any individual" each place it appears.
+		(8) Section 861(a) (42 U.S.C. 12910(a)) is amended by striking "persons with acquired immunodeficiency syndrome or related diseases" and inserting "eligible persons".

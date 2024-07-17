@@ -1,0 +1,15 @@
+134 STAT. 3856        PUBLIC LAW 116–283—JAN. 1, 2021
+    “(iv) the specific missions and tasks, by location, that are assigned to the members of the Armed Forces, including members of the reserve components, who are so deployed; and
+    “(v) the locations where units so deployed are conducting their assigned mission, together with a map showing such locations.
+ “(C) A description of any effects of such deployment on military training, operations, readiness, or other military requirements.
+  “(D) The sources and amounts of funds obligated or expended—
+     “(i) during the period covered by the report; and
+     “(ii) during the total period for which such support has been provided.
+  “(2) FORM OF REPORT.—Each report submitted under this subsection shall be submitted in unclassified form, but may include a classified annex.”.
+ (c) CLASSIFICATION.—The Law Revision Counsel is directed to move section 1059 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 986; 10 U.S.C. 271 note prec.), as amended by this section, to a note following section 284 of title 10, United States Code.
+SEC. 1057. LIMITATION ON USE OF FUNDS FOR RETIREMENT OF A– 10 AIRCRAFT.
+ (a) LIMITATION.—Except as provided under subsection (b), none of the funds authorized to be appropriated by this Act or otherwise made available for the Department of Defense for any fiscal year may be obligated or expended during fiscal year 2021 to divest or retire any A–10 aircraft.
+ (b) EXCEPTION.—The limitation under subsection (a) shall not apply to any individual A–10 aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable because of a mishap or other damage or because the aircraft is uneconomical to repair.
+ (c) REPORT REQUIRED.—Not later than 120 days after the date of the enactment of this Act, the Secretary of the Air Force shall submit to the congressional defense committees a report on the progress made toward the A–10 re-wing contracts and the progress made in re-winging some of the 283 A–10 aircraft that have not received new wings.
+SEC. 1058. CONSIDERATIONS RELATING TO PERMANENTLY BASING UNITED STATES EQUIPMENT OR ADDITIONAL FORCES IN HOST COUNTRIES WITH AT-RISK VENDORS IN 5G OR 6G NETWORKS.
+ (a) IN GENERAL.—Prior to basing a major weapon system or additional permanently assigned forces comparable to or larger than a battalion, squadron, or naval combatant in a host country with at-risk 5th generation (in this section referred to as “5G”) or sixth generation (in this section referred to as “6G”) wireless network equipment, software, or services, including supply chain vulnerabilities identified by the Federal Acquisition Security Council, where United States military personnel and their families will be directly connected or subscribers to networks that include such at-risk equipment, software, and services in their official duties or in the conduct of personal affairs, the Secretary of Defense

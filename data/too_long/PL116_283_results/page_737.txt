@@ -1,0 +1,25 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+  
+(2) in the Senate—  
+(A) the Committee on Armed Services;  
+(B) the Committee on the Judiciary;  
+(C) the Select Committee on Intelligence; and  
+(D) the Committee on Homeland Security and Governmental Affairs.  
+
+SEC. 1732. ASSESSMENT OF CYBER OPERATIONAL PLANNING AND DECONFLICTION POLICIES AND PROCESSES.  
+
+(a) ASSESSMENT.—Not later than August 1, 2021, the Principal Cyber Advisor of the Department of Defense and the Commander of United States Cyber Command shall jointly, in coordination with the Under Secretary of Defense for Policy, the Under Secretary of Defense for Intelligence and Security, and the Chairman of the Joint Chiefs of Staff, conduct and complete an assessment on the operational planning and deconfliction policies and processes that govern cyber operations of the Department of Defense.  
+(b) ELEMENTS.—The assessment required by subsection (a) shall include evaluations as to whether—  
+(1) the joint targeting cycle and relevant operational and targeting databases are suitable for the conduct of timely and well-coordinated cyber operations;  
+(2) each of the policies and processes in effect to facilitate technical, operational, and capability deconfliction are appropriate for the conduct of timely and effective cyber operations;  
+(3) intelligence gain-loss decisions made by Cyber Com­mand are sufficiently well-informed and made in timely fashion;  
+(4) relevant intelligence data and products are consistently available and distributed to relevant planning and operational elements in Cyber Command;  
+(5) collection operations and priorities meet the operational requirements of Cyber Command; and  
+(6) authorities relevant to intelligence, surveillance, and reconnaissance and operational preparation of the environment are delegated to the appropriate level.  
+(c) BRIEFING.—Not later than September 1, 2021, the Principal Cyber Advisor and the Commander of United States Cyber Command shall provide to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a briefing on the findings of the assessment com­pleted under subsection (a), including discussion of planned policy and process changes, if any, relevant to cyber operations.  
+
+SEC. 1733. PILOT PROGRAM ON CYBERSECURITY CAPABILITY METRICS.  
+
+(a) PILOT PROGRAM REQUIRED.—The Secretary of Defense, acting through the Chief Information Officer of the Department of Defense and the Commander of United States Cyber Command, shall conduct a pilot program to assess the feasibility and advis­ability of developing and using speed-based metrics to measure the performance and effectiveness of security operations centers and cyber security service providers in the Department of Defense.  
+(b) REQUIREMENTS.—  
+(1) DEVELOPMENT OF METRICS.—(A) Not later than July 1, 2021, the Chief Information Officer and the Commander shall jointly develop metrics described in subsection (a) to carry out the pilot program under such subsection.

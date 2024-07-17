@@ -1,0 +1,20 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 4613
+
+
+described in subsection (a)(11)(B)(xviii) and is formed under the laws of a foreign country shall file with FinCEN a written certification that provides identification information of an individual that exercises substantial control over the pooled investment vehicle in the same manner as required under this subsection.
+‘‘(D) REPORTING REQUIREMENT FOR EXEMPT SUBSIDIARIES.—In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxii), shall, at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxii), submit to FinCEN a report containing the information required under subparagraph (A).
+‘‘(E) REPORTING REQUIREMENT FOR EXEMPT GRANDFATHERED ENTITIES.—In accordance with the regulations promulgated by the Secretary, any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xxiii), shall, at the time such entity no longer meets the criteria described in subsection (a)(11)(B)(xxiii), submit to FinCEN a report containing the information required under subparagraph (A).
+Regulations.
+Regulations.
+
+‘‘(3) FINCEN IDENTIFIER.—
+‘‘(A) ISSUANCE OF FINCEN IDENTIFIER.—
+‘‘(i) IN GENERAL.—Upon request by an individual who has provided FinCEN with the information described in paragraph (2)(A) pertaining to the individual, or by an entity that has reported its beneficial ownership information to FinCEN in accordance with this section, FinCEN shall issue a FinCEN identifier to such individual or entity.
+‘‘(ii) UPDATING OF INFORMATION.—An individual or entity with a FinCEN identifier shall submit filings with FinCEN pursuant to paragraph (1) updating any information described in paragraph (2) in a timely manner consistent with paragraph (1)(D).
+‘‘(iii) EXCLUSIVE IDENTIFIER.—FinCEN shall not issue more than 1 FinCEN identifier to the same individual or to the same entity (including any successor entity).
+‘‘(B) USE OF FINCEN IDENTIFIER FOR INDIVIDUALS.—Any person required to report the information described in paragraph (2) with respect to an individual may instead report the FinCEN identifier of the individual.
+‘‘(C) USE OF FINCEN IDENTIFIER FOR ENTITIES.—If an individual is or may be a beneficial owner of a reporting company by an interest held by the individual in an entity that, directly or indirectly, holds an interest in the reporting company, the reporting company may report the FinCEN identifier of the entity in lieu of providing the information required by paragraph (2)(A) with respect to the individual.
+‘‘(4) REGULATIONS.—The Secretary of the Treasury shall—
+‘‘(A) by regulation prescribe procedures and standards governing any report under paragraph (2) and any FinCEN identifier under paragraph (3); and
+Procedures.
+Standards.

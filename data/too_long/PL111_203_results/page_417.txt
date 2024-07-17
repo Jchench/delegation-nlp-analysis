@@ -1,0 +1,19 @@
+PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 1791
+
+necessary to make a reasonable determination that any security-based swap recommended by the security-based swap dealer is in the best interests of the special entity, including information relating to—
+    ‘‘(i) the financial status of the special entity;
+    ‘‘(ii) the tax status of the special entity;
+    ‘‘(iii) the investment or financing objectives of the special entity; and
+    ‘‘(iv) any other information that the Commission may prescribe by rule or regulation.
+    ‘‘(5) SPECIAL REQUIREMENTS FOR SECURITY-BASED SWAP DEALERS AS COUNTERPARTIES TO SPECIAL ENTITIES.— (A) IN GENERAL.—Any security-based swap dealer or major security-based swap participant that offers to or enters into a security-based swap with a special entity shall—
+    ‘‘(i) comply with any duty established by the Commission for a security-based swap dealer or major security-based swap participant, with respect to a counterparty that is an eligible contract participant within the meaning of subclause (I) or (II) of clause (vii) of section 1a(18) of the Commodity Exchange Act, that requires the security-based swap dealer or major security-based swap participant to have a reasonable basis to believe that the counterparty that is a special entity has an independent representative that—
+    ‘‘(I) has sufficient knowledge to evaluate the transaction and risks;
+    ‘‘(II) is not subject to a statutory disqualification;
+    ‘‘(III) is independent of the security-based swap dealer or major security-based swap participant;
+    ‘‘(IV) undertakes a duty to act in the best interests of the counterparty it represents;
+    ‘‘(V) makes appropriate disclosures;
+    ‘‘(VI) will provide written representations to the special entity regarding fair pricing and the appropriateness of the transaction; and
+    ‘‘(VII) in the case of employee benefit plans subject to the Employee Retirement Income Security Act of 1974, is a fiduciary as defined in section 3 of that Act (29 U.S.C. 1002); and 
+    ‘‘(ii) before the initiation of the transaction, disclose to the special entity in writing the capacity in which the security-based swap dealer is acting. Compliance.
+    ‘‘(B) COMMISSION AUTHORITY.—The Commission may establish such other standards and requirements under this paragraph as the Commission may determine are appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this Act.
+    ‘‘(6) RULES.—The Commission shall prescribe rules under this subsection governing business conduct standards for security-based swap dealers and major security-based swap participants.

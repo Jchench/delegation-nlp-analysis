@@ -1,0 +1,21 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+
+124 STAT. 1855
+
+person associated, seeking to become associated, or formerly associated with a public accounting firm, except that—
+‘‘(i) the authority to conduct an investigation of such person under section 105(b) shall apply only with respect to any act or practice, or omission to act, by the person while such person was associated or seeking to become associated with a registered public accounting firm; and
+‘‘(ii) the authority to commence a disciplinary proceeding under section 105(c)(1), or impose sanctions under section 105(c)(4), against such person shall apply only with respect to—
+‘‘(I) conduct occurring while such person was associated or seeking to become associated with a registered public accounting firm; or
+‘‘(II) non-cooperation, as described in section 105(b)(3), with respect to a demand in a Board investigation for testimony, documents, or other information relating to a period when such person was associated or seeking to become associated with a registered public accounting firm.’’.
+
+(2) SECURITIES EXCHANGE ACT OF 1934 AMENDMENT.—Section 21A(a)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(a)(1)) is amended by striking ‘‘or a person associated with a firm’’ and inserting ‘‘, a person associated with such a firm, or, as to any act, practice, or omission to act, while associated with such firm, a person formerly associated with such a firm’’.
+
+(h) SUPERVISORY PERSONNEL OF AN AUDIT FIRM.—Section 105(c)(6) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(c)(6)) is amended—
+(1) in subparagraph (A), by striking ‘‘the supervisory personnel’’ and inserting ‘‘any person who is, or at the time of the alleged failure reasonably to supervise was, a supervisory person’’; and
+(2) in subparagraph (B)—
+(A) by striking ‘‘No associated person’’ and inserting ‘‘No current or former supervisory person’’; and
+(B) by striking ‘‘any other person’’ and inserting ‘‘any associated person’’. (i) MEMBER OF THE PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD.—Section 107(d)(3) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7217(d)(3)) is amended by striking ‘‘any member’’ and inserting ‘‘any person who is, or at the time of the alleged misconduct was, a member’’.
+
+SEC. 929G. STREAMLINED HIRING AUTHORITY FOR MARKET SPECIALISTS.
+
+(a) APPOINTMENT AUTHORITY.—Section 3114 of title 5, United States Code, is amended by striking the section heading and all that follows through the end of subsection (a) and inserting the following:

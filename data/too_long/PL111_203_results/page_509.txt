@@ -1,0 +1,24 @@
+PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 1883
+
+  "(A) the establishment, maintenance, and enforcement of policies and procedures for determining credit ratings;
+  "(B) the establishment, maintenance, and enforcement of policies and procedures to address, manage, and disclose any conflicts of interest;
+  "(C) the effectiveness of the internal control system with respect to policies and procedures for determining credit ratings; and
+  "(D) the compensation and promotion policies and practices of the nationally recognized statistical rating organiza-
+tion.
+  “(4) TREATMENT OF NRSRO SUBSIDIARIES.—If a nationally recognized statistical rating organization is a subsidiary of a parent entity, the board of directors of the parent entity may satisfy the requirements of this subsection by assigning to a committee of such board of directors the duties under paragraph (3), if—
+    “(A) at least ½ of the members of the committee (including the chairperson of the committee) are inde-pendent, as defined in this section; and
+    “(B) at least 1 member of the committee is a user of ratings from a nationally recognized statistical rating organization.
+  “(5) EXCEPTIVE AUTHORITY.—If the Commission finds that compliance with the provisions of this subsection present an unreasonable burden on a small nationally recognized statistical rating organization, the Commission may permit the nationally recognized statistical rating organization to delegate such responsibilities to a committee that includes at least 1 individual who is a user of ratings of a nationally recognized statistical rating organization.”.
+(b) CONFORMING AMENDMENT.—Section 3(a)(62) of the Securi-ties Exchange Act of 1934 (15 U.S.C. 78c(a)(62)) is amended by striking subparagraph (A) and redesignating subparagraphs (B) and (C) as subparagraphs (A) and (B), respectively.
+
+SEC. 933. STATE OF MIND IN PRIVATE ACTIONS.
+
+(a) ACCOUNTABILITY.—Section 15E(m) of the Securities 
+Exchange Act of 1934 (15 U.S.C. 78o–7(m)) is amended to read as follows:
+ “(m) ACCOUNTABILITY.—
+    “(1) IN GENERAL.—The enforcement and penalty provisions of this title shall apply to statements made by a credit rating agency in the same manner and to the same extent as such provisions apply to statements made by a registered public accounting firm or a securities analyst under the securities laws, and such statements shall not be deemed forward-looking statements for the purposes of section 21E.
+    “(2) RULEMAKING.—The Commission shall issue such rules as may be necessary to carry out this subsection.”.
+(b) STATE OF MIND.—Section 21D(b)(2) of the Securities Exchange Act of 1934 (15 U.S.C. 78u–4(b)(2)) is amended—
+  (1) by striking “In any” and inserting the following:
+    “(A) IN GENERAL.—Except as provided in subparagraph (B), in any”; and
+  (2) by adding at the end the following:

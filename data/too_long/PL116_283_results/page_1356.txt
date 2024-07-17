@@ -1,0 +1,28 @@
+134 STAT. 4742
+
+PUBLIC LAW 116–283—JAN. 1, 2021 
+
+46 USC 3507 note.
+
+(A) be provided to the Federal Bureau of Investigation; and
+
+(B) be preserved by the vessel owner for not less than 4 years from the date of the alleged incident.".
+(2) ADMINISTRATIVE PROVISIONS.—  
+(A) STUDY AND REPORT.—Each owner of a vessel to which section 3507 of title 46, United States Code, applies shall, not later than March 1, 2023, submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report detailing the total number of voyages for the preceding year and the percentage of those voyages that were 30 days or longer.
+(B) INTERIM STANDARDS.—Not later than 180 days after the date of enactment of this Act, the Commandant, in consultation with the Federal Bureau of Investigation, shall promulgate interim standards for the retention of records of video surveillance.
+(C) FINAL STANDARDS.—Not later than 1 year after the date of enactment of this Act, the Commandant, in consultation with the Federal Bureau of Investigation, shall promulgate final standards for the retention of records of video surveillance.
+(D) CONSIDERATIONS.—In promulgating standards under subparagraphs (B) and (B), the Commandant shall—  
+(i) consider factors that would aid in the investigation of serious crimes, including the results of the report by the Commandant provided under subparagraph (A), as well as crimes that go unreported until after the completion of a voyage;  
+(ii) consider the different types of video surveillance systems and storage requirements in creating standards both for vessels currently in operation and for vessels newly built;  
+(iii) consider privacy, including standards for permissible access to and monitoring and use of the records of video surveillance; and  
+(iv) consider technological advancements, including requirements to update technology.
+
+SEC. 8441. REGULATIONS FOR COVERED SMALL PASSENGER VESSELS.
+
+(a) IN GENERAL.—Section 3306 of title 46, United States Code, is amended—  
+(1) in subsection (a)—  
+(A) in the matter preceding paragraph (1), by inserting ", including covered small passenger vessels (as defined in subsection (n)(5))" after "vessels subject to inspection"; and  
+(B) in paragraph (5), by inserting before the period at the end ", including rechargeable devices utilized for personal or commercial electronic equipment"; and  
+(2) by adding at the end the following:  
+"(n) COVERED SMALL PASSENGER VESSELS.—  
+(1) REGULATIONS.—The Secretary shall prescribe additional regulations to secure the safety of individuals and property on board covered small passenger vessels.

@@ -1,0 +1,22 @@
+124 STAT. 1960
+PUBLIC LAW 111–203—JULY 21, 2010
+
+service to the consumer, other than credit described in section 1027(a)(2)(A);
+(x) collecting debt related to any consumer financial product or service; and
+(xi) such other financial product or service as may be defined by the Bureau, by regulation, for purposes of this title, if the Bureau finds that such financial product or service is—
+(I) entered into or conducted as a subterfuge or with a purpose to evade any Federal consumer financial law; or
+(II) permissible for a bank or for a financial holding company to offer or to provide under any provision of a Federal law or regulation applicable to a bank or a financial holding company, and has, or likely will have, a material impact on consumers.
+(B) RULE OF CONSTRUCTION.—
+(i) IN GENERAL.—For purposes of subparagraph (A)(xi)(II), and subject to clause (ii) of this subparagraph, the following activities provided to a covered person shall not, for purposes of this title, be considered incidental or complementary to a financial activity permissible for a financial holding company to engage in under any provision of a Federal law or regulation applicable to a financial holding company:
+(I) Providing information products or services to a covered person for identity authentication.
+(II) Providing information products or services for fraud or identity theft detection, prevention, or investigation.
+(III) Providing document retrieval or delivery services.
+(IV) Providing public records information retrieval.
+(V) Providing information products or services for anti-money laundering activities.
+(ii) LIMITATION.—Nothing in clause (i) may be construed as modifying or limiting the authority of the Bureau to exercise any—
+(I) examination or enforcement powers authority under this title with respect to a covered person or service provider engaging in an activity described in subparagraph (A)(ix); or
+(II) powers authorized by this title to prescribe rules, issue orders, or take other actions under any enumerated consumer law or law for which the authorities are transferred under subtitle F or H.
+(C) EXCLUSIONS.—The term ‘‘financial product or service’’ does not include—
+(i) the business of insurance; or
+(ii) electronic conduit services.
+(16) FOREIGN EXCHANGE.—The term ‘‘foreign exchange’’ means the exchange, for compensation, of currency of the United States or of a foreign government for currency of another government.

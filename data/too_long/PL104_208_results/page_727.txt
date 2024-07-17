@@ -1,0 +1,22 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996   110 STAT. 3009-726
+
+“(viii) the number and amount of repurchases, losses, and recoveries in each program;
+“(ix) the number of deferrals or forbearances in each program (including days and number of instances);
+“(x) comparisons on the basis of loan program, lender, Administration district and region, for all the data elements maintained; and
+“(xi) underwriting characteristics of each loan that has entered into default, including term, amount and type of collateral, loan-to-value and other actual and projected ratios, line of business, credit history, and type of loan.
+“(C) DEADLINE FOR OPERATIONAL CAPABILITY—The database established under subparagraph (A) shall—
+“(i) be operational not later than June 30, 1997; and
+“(ii) capture data beginning on the first day of the second quarter of fiscal year 1997 beginning after such date and thereafter.”.
+
+SEC. 103. SECTION 7(a) LOAN PROGRAM.
+(a) SERVICING AND LIQUIDATION OF LOANS BY PREFERRED LEND-ERS.—Section 7(a)(2)(C)(ii)(I11) (15 U.S.C. 636(a)(2)(C)(ii)(III)) is amended to read as follows:
+“(III) complete authority to service and liquidate such loans without obtaining the prior specific approval of the Administration for routine servicing and liquidation activities, but shall not take any actions creating an actual or apparent conflict of interest.”.
+
+(b) CERTIFIED LENDERS PROGRAM.—Section 7(a)(19) (15 U.S.C. 636(a)(19)) is amended by adding at the end the following new subparagraph:
+“(C) AUTHORITY TO LIQUIDATE LOANS.—
+“(i) IN GENERAL.—The Administrator may permit lenders participating in the Certified Lenders Program to liquidate loans made with a guarantee from the Administration pursuant to a liquidation plan approved by the Administrator.
+“(ii) Automatic approval.—If the Administrator does not approve or deny a request for approval of a liquidation plan within 10 business days of the date on which the request is made (or with respect to any routine liquidation activity under such a plan, within 5 business days) such request shall be deemed to be approved.”.
+
+(c) LIMITATION ON CONDUCTING PILOT PROJECTS.—Section 7(a)(15 U.S.C. 636(a)) is amended by adding at the end the following new paragraph:
+“(25) LIMITATION ON CONDUCTING PILOT PROJECTS.—
+“(A) IN GENERAL—Not more than 10 percent of the total number of loans guaranteed in any fiscal year under this subsection may be awarded as part of a pilot program which is commenced by the Administrator on or after October 1, 1996.

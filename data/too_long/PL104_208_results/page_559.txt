@@ -1,0 +1,26 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996         110 STAT. 3009-558
+
+(2) CLERICAL AMENDMENT.—The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 757 the following:
+
+“758. High speed flight from immigration checkpoint.”.
+
+(c) GROUNDS FOR DEPORTATION.—Section 241(a)(2)(A) (8 U.S.C. 1251(a)(2)(A)) is amended—
+(1) by redesignating clause (iv) as clause (v);
+(2) by inserting after clause (iii) the following:
+
+“(iv) HIGH SPEED FLIGHT.—Any alien who is convicted of a violation of section 758 of title 18, United States Code, (relating to high speed flight from an immigration checkpoint) is deportable.”; and
+(3) in clause (v) (as so redesignated by paragraph (1)), by striking “and (iii)” and inserting “(iii), and (iv)”.
+
+SEC. 109. JOINT STUDY OF AUTOMATED DATA COLLECTION.
+(a) STUDY.—The Attorney General, together with the Secretary of State, the Secretary of Agriculture, the Secretary of the Treasury, and appropriate representatives of the air transport industry, shall jointly undertake a study to develop a plan for making the transition to automated data collection at ports of entry.
+(b) REPORT.—Nine months after the date of the enactment of this Act, the Attorney General shall submit a report to the Committees on the Judiciary of the Senate and the House of Representatives on the outcome of the joint initiative under subsection (a), including specific areas of agreement and disagreement, and recommending further steps to be taken, including any suggestions for legislation.
+
+SEC. 110. AUTOMATED ENTRY-EXIT CONTROL SYSTEM.
+(a) SYSTEM.—Not later than 2 years after the date of the enactment of this Act, the Attorney General shall develop an automated entry and exit control system that will—
+(1) collect a record of departure for every alien departing the United States and match the records of departure with the record of the alien’s arrival in the United States; and
+(2) enable the Attorney General to identify, through online searching procedures, lawfully admitted nonimmigrants who remain in the United States beyond the period authorized by the Attorney General.
+(b) REPORT.—
+(1) DEADLINE.—Not later than December 31 of each year following the development of the system under subsection (a), the Attorney General shall submit an annual report to the Committees on the Judiciary of the House of Representatives and of the Senate on such system.
+(2) INFORMATION.—The report shall include the following information:
+(A) The number of departure records collected, with an accounting by country of nationality of the departing alien.
+(B) The number of departure records that were successfully matched to records of the alien’s prior arrival in the United States, with an accounting by the alien’s country of nationality and by the alien’s classification as an immigrant or nonimmigrant.

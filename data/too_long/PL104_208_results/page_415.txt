@@ -1,0 +1,33 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009–414
+
+“(6) EXCEPTIONS.—The Director may, by regulation or order, permit such exceptions to the prohibitions of this sub- section as the Director considers will not be contrary to the purposes of this subsection and which conform to exceptions granted by the Board of Governors of the Federal Reserve System pursuant to section 106(b) of the Bank Holding Com- pany Act Amendments of 1970.”.
+
+SEC. 2217. FDIC APPROVAL OF NEW STATE BANK POWERS.
+
+Section 24 of the Federal Deposit Insurance Act (12 U.S.C. 1831a) is amended—
+    (1) in subsection (a)—
+        (A) by redesignating paragraphs (1) and (2) as subpara- graphs (A) and (B), respectively, and indenting appro- priately;
+        (B) by striking “IN GENERAL.—” and inserting the fol- lowing: “PERMISSIBLE ACTIVITIES.—
+        “(1) IN GENERAL.—”; and
+        (C) by adding at the end the following new paragraph:
+                “(2) PROCESSING PERIOD.—
+                    “(A) IN GENERAL.—The Corporation shall make a deter- mination under paragraph (1)(A) not later than 60 days after receipt of a completed application that may be required under this subsection.
+                    “(B) EXTENSION OF TIME PERIOD.—The Corporation may extend the 60-day period referred to in subparagraph (A) for not more than 30 additional days, and shall notify the applicant of any such extension.”; and
+    (2) in subsection (d), by adding at the end the following new paragraph: 
+                “(3) PROCESSING PERIOD.—
+                    “(A) IN GENERAL.—The Corporation shall make a deter- mination under paragraph (1)(A) not later than 60 days after receipt of a completed application that may be required under this subsection.
+                    “(B) EXTENSION OF TIME PERIOD.—The Corporation may extend the 60-day period referred to in subparagraph (A) for not more than 30 additional days, and shall notify the applicant of any such extension.”.
+
+CHAPTER 2—ELIMINATING UNNECESSARY
+    REGULATORY BURDENS
+    
+SEC. 2221. SMALL BANK EXAMINATION CYCLE.
+
+Section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)) is amended—
+    (1) by redesignating the second paragraph designated as paragraph (8) as paragraph (10), and by inserting that para- graph, as redesignated, immediately after paragraph (9); and
+    (2) in paragraph (10), as redesignated, by striking “$175,000,000” and inserting “$250,000,000”.
+
+SEC. 2222. REQUIRED REVIEW OF REGULATIONS.
+
+(a) IN GENERAL.—Not less frequently than once every 10 years, the Council and each appropriate Federal banking agency rep- resented on the Council shall conduct a review of all regulations prescribed by the Council or by any such appropriate Federal bank- ing agency, respectively, in order to identify outdated or otherwise
+                                        12 USC 3311.

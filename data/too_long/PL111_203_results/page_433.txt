@@ -1,0 +1,22 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+
+shall decide which agency is the Supervisory Agency for purposes of this title. 
+
+(9) SYSTEMICALLY IMPORTANT AND SYSTEMIC IMPORTANCE.—
+    The terms ‘‘systemically important’’ and ‘‘systemic importance’’ mean a situation where the failure of or a disruption to the functioning of a financial market utility or the conduct of a payment, clearing, or settlement activity could create, or increase, the risk of significant liquidity or credit problems spreading among financial institutions or markets and thereby threaten the stability of the financial system of the United States.
+
+SEC. 804. DESIGNATION OF SYSTEMIC IMPORTANCE.
+(a) DESIGNATION.—
+    (1) FINANCIAL STABILITY OVERSIGHT COUNCIL.—The Council, on a nondelegable basis and by a vote of not fewer than 2⁄3 of members then serving, including an affirmative vote by the Chairperson of the Council, shall designate those financial market utilities or payment, clearing, or settlement activities that the Council determines are, or are likely to become, systemically important.
+    (2) CONSIDERATIONS.—In determining whether a financial market utility or payment, clearing, or settlement activity is, or is likely to become, systemically important, the Council shall take into consideration the following:
+        (A) The aggregate monetary value of transactions processed by the financial market utility or carried out through the payment, clearing, or settlement activity.
+        (B) The aggregate exposure of the financial market utility or a financial institution engaged in payment, clearing, or settlement activities to its counterparties.
+        (C) The relationship, interdependencies, or other interactions of the financial market utility or payment, clearing, or settlement activity with other financial market utilities or payment, clearing, or settlement activities.
+        (D) The effect that the failure of or a disruption to the financial market utility or payment, clearing, or settlement activity would have on critical markets, financial institutions, or the broader financial system.
+        (E) Any other factors that the Council deems appropriate.
+
+(b) RESCISSION OF DESIGNATION.—
+    (1) IN GENERAL.—The Council, on a nondelegable basis and by a vote of not fewer than 2⁄3 of members then serving, including an affirmative vote by the Chairperson of the Council, shall rescind a designation of systemic importance for a designated financial market utility or designated activity if the Council determines that the utility or activity no longer meets the standards for systemic importance.
+    (2) EFFECT OF RESCISSION.—Upon rescission, the financial market utility or financial institutions conducting the activity will no longer be subject to the provisions of this title or any rules or orders prescribed under this title.
+
+(c) CONSULTATION AND NOTICE AND OPPORTUNITY FOR HEARING.—

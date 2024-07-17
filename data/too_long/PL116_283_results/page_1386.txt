@@ -1,0 +1,41 @@
+134 STAT. 4772
+
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+“(C) providing the Director, and facilitating awareness within the designated sector or subsector of such sector, of ongoing, and where possible, real-time awareness of identified threats, vulnerabilities, mitigations, and other actions related to the security of such sector or subsector of such sector; and
+
+“(D) supporting the reporting requirements of the Department under applicable law by providing, on an annual basis, sector-specific critical infrastructure information;
+
+“(5) supporting incident management, including—
+
+“(A) supporting, in coordination with the Director, incident management and restoration efforts during or following a security incident; and
+
+“(B) supporting the Director, upon request, in national cybersecurity asset response activities for critical infrastructure; and
+
+“(6) contributing to emergency preparedness efforts, including—
+
+“(A) coordinating with critical infrastructure owners and operators within the designated sector or subsector of such sector and the Director in the development of planning documents for coordinated action in the event of a natural disaster, act of terrorism, or other man-made disaster or emergency;
+
+“(B) participating in and, in coordination with the Director, conducting or facilitating, exercises and simulations of potential natural disasters, acts of terrorism, or other man-made disasters or emergencies within the designated sector or subsector of such sector; and
+
+“(C) supporting the Department and other Federal departments or agencies in developing planning documents or conducting exercises or simulations when relevant to the designated sector or subsector or such sector.”.
+
+(2) TECHNICAL AND CONFORMING AMENDMENTS.—The Homeland Security Act of 2002 is amended—
+
+(A) in section 320—
+
+(i) in subsection (d)(3)(C), by striking “Sector-Specific Agency” and inserting “Sector Risk Management Agency”; and
+
+(ii) in subsection (e)(1), by striking “Sector-Specific Agency” and inserting “Sector Risk Management Agency”;
+
+(B) in section 524—
+
+(i) in subsection (b)(2)(E)(i)(II), by striking “sector-specific agency” and inserting “Sector Risk Management Agency”; and
+
+(ii) in subsection (c)(1)(B), by striking “sector-specific agency” and inserting “Sector Risk Management Agency”;
+
+(C) in section 2201(5)—
+
+(i) in the paragraph heading, by striking “SECTOR-SPECIFIC AGENCY” and inserting “SECTOR RISK MANAGEMENT AGENCY”; and
+
+(ii) by striking “Sector-Specific Agency” and inserting “Sector Risk Management Agency”;

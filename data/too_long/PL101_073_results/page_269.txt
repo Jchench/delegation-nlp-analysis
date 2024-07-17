@@ -1,0 +1,40 @@
+PUBLIC LAW 101-73—AUG. 9, 1989		103 STAT. 451
+
+corporation, whether wholly or partly owned, in the same manner as such subsections apply to a savings association."
+
+	     (2) TEMPORARY CEASE AND DESIST AUTHORITY.—Section 8(c) of the Federal Deposit Insurance Act (12 U.S.C. 1818(c)) is amended—
+		
+               (A) in paragraph (1)—
+		
+		(i) by striking out "substantial" and inserting in lieu thereof "significant";
+		
+		(ii) by striking out "seriously" each place such term appears; and
+		
+		(iii) by inserting after the 1st sentence the following new sentence: "Such order may include any requirement authorized under subsection (b)(6)(B)."; and
+		
+               (B) by adding at the end thereof the following new paragraph:
+		
+               "(3) INCOMPLETE OR INACCURATE RECORDS.—
+		
+		"(A) TEMPORARY ORDER.—If a notice of charges served under subsection (b)(1) specifies, on the basis of particular facts and circumstances, that an insured depository institution's books and records are so incomplete or inaccurate that the appropriate Federal banking agency is unable, through the normal supervisory process, to determine the financial condition of that depository institution or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that depository institution, the agency may issue a temporary order requiring—
+		
+		"(i) the cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
+		
+		"(ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (b)(1).
+		
+		"(B) EFFECTIVE PERIOD.—Any temporary order issued under subparagraph (A)—
+		
+			"(i) shall become effective upon service; and
+		
+			"(ii) unless set aside, limited, or suspended by a court in proceedings under paragraph (2), shall remain in effect and enforceable until the earlier of—
+		
+				"(I) the completion of the proceeding initiated under subsection (b)(1) in connection with the notice of charges; or
+		
+				"(II) the date the appropriate Federal banking agency determines, by examination or otherwise, that the insured depository institution's books and records are accurate and reflect the financial condition of the depository institution.".
+		
+		
+(b) CREDIT UNIONS INSURED BY THE NCUA.—
+		
+       (1) CEASE AND DESIST AUTHORITY.—Section 206(e) of the Federal Credit Union Act (12 U.S.C. 1786(e)) is amended by adding at the end thereof the following new paragraphs:
+		
+            "(3) AFFIRMATIVE ACTION TO CORRECT CONDITIONS RESULTING FROM VIOLATIONS OR PRACTICES.—The authority to issue an order under this subsection and subsection (f) which requires an insured credit union or any institution-affiliated party to take affirmative action to correct any conditions resulting from any violation or practice with respect to which such order is issued

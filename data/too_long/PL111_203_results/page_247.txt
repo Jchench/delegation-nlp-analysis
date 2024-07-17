@@ -1,0 +1,22 @@
+PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 1621
+
+any equity, partnership, or other ownership interest in or sponsors a hedge fund or a private equity fund shall be subject, by rule, as provided in subsection (b)(2), to additional capital requirements for and additional quantitative limits with regards to such proprietary trading and taking or retaining any equity, partnership, or other ownership interest in or sponsorship of a hedge fund or a private equity fund, except that permitted activities as described in subsection (d)  shall not be subject to the additional capital and additional quantitative limits except as provided in subsection (d)(3), as if the nonbank financial company supervised by the Board were a banking entity.
+(b) STUDY AND RULEMAKING.—  
+(1) STUDY.—Not later than 6 months after the date of enactment of this section, the Financial Stability Oversight Council shall study and make recommendations on implementing the provisions of this section so as to—
+
+    (A) promote and enhance the safety and soundness of banking entities;
+	
+    (B) protect taxpayers and consumers and enhance financial stability by minimizing the risk that insured depository institutions and the affiliates of insured depository institutions will engage in unsafe and unsound activities;
+	
+    (C) limit the inappropriate transfer of Federal subsidies from institutions that benefit from deposit insurance and liquidity facilities of the Federal Government to unregulated entities;
+	
+    (D) reduce conflicts of interest between the self-interests of banking entities and nonbank financial companies supervised by the Board, and the interests of the customers of such entities and companies;
+	
+    (E) limit activities that have caused undue risk or loss in banking entities and nonbank financial companies supervised by the Board, or that might reasonably be expected to create undue risk or loss in such banking entities and nonbank financial companies supervised by the Board;
+	
+    (F) appropriately accommodate the business of insurance within an insurance company, subject to regulation in accordance with the relevant insurance company investment laws, while protecting the safety and soundness of any banking entity with which such insurance company is affiliated and of the United States financial system; and
+	
+    (G) appropriately time the divestiture of illiquid assets that are affected by the implementation of the prohibitions under subsection (a).
+(2) RULEMAKING.—
+
+   (A) IN GENERAL.—Unless otherwise provided in this section, not later than 9 months after the completion of the study under paragraph (1), the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission shall consider the findings of the study under paragraph (1) and adopt rules to carry out this section, as provided in subparagraph (B).

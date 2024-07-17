@@ -1,0 +1,27 @@
+PUBLIC LAW 116-283—JAN. 1, 2021                134 STAT. 4185
+
+(i) by inserting “SUMMARY TO BE INCLUDED IN FILE.—” before “The contracting officer”; and
+(ii) by striking “under paragraph (5) or (6)” and inserting “this section”.
+(8) AMENDMENT TO NEW 3306.—Section 3306 of such title, as designated by paragraph (2), is amended by striking the paragraph designation.
+(9) AMENDMENT TO NEW 3307.—Section 3307 of such title, as designated by paragraph (2), is amended by striking the paragraph designation.
+(3) NEW SECTIONS.—Such chapter is further amended by adding at the end the following new sections:
+   “§ 3308. Protests
+   “§ 3309. Prohibition on release of contractor proposals”.
+(e) TRANSFER OF SUBSECTIONS (e) AND (f) OF SECTION 2305.—
+   (1) TRANSFER.—Subsections (e) and (f) of section 2305 of title 10, United States Code, are transferred to section 3308 of such title, as added by subsection (d), inserted after the section heading, and redesignated as subsections (a) and (b), respectively.
+   (2) AMENDMENT TO NEW 3308(A).—Subsection (a) of such section 3308, as redesignated by paragraph (1), is amended—
+      (A) by striking “FILE.—(1) If, in the” and inserting “FILE.—
+         (1) ESTABLISHMENT AND ACCESS.—If, in the”;
+      (B) in paragraph (2), by inserting “REDACTED INFORMATION.—” before “Information exempt”; and
+      (C) by realigning paragraph (2) 2 ems to the right.
+(f) TRANSFER OF SUBSECTION (g) OF SECTION 2305.—
+   (1) TRANSFER AND INTERNAL REDESIGNATIONS.—Subsection (g) of section 2305 of title 10, United States Code, is transferred to section 3309 of such title, as added by subsection (d), inserted after the section heading, and amended—
+      (A) by striking the subsection designation and heading;
+      (B) by redesignating paragraphs (1), (2), and (3) as subsections (b), (c), and (a), respectively; and
+      (C) by transferring subsection (a), as so redesignated, within that section so as to appear before subsection (b), as so redesignated.
+   (2) AMENDMENT TO NEW 3309(A).—Subsection (a) of such section 3309, as redesignated and transferred by paragraph (1), is amended by striking “In this subsection,” and inserting “DEFINITION.—In this section,”.
+   (3) AMENDMENTS TO NEW 3309(B).—Subsection (b) of such section 3309, as redesignated by paragraph (1), is amended—
+      (A) by inserting “PROHIBITION.—” before “Except as provided in”;
+      (B) by striking “paragraph (2),” and inserting “subsection (c),”; and
+      (C) by striking “section 2303” and inserting “section 3063”.
+   (4) AMENDMENTS TO new 3309(C).—Subsection (c) of such section 3309, as redesignated by paragraph (1), is amended by striking “Paragraph (1)” and inserting “INAPPLICABILITY.—Subsection (b)”.

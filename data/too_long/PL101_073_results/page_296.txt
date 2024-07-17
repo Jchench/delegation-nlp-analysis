@@ -1,0 +1,24 @@
+103 STAT. 478            PUBLIC LAW 101-73-AUG. 9, 1989
+
+"SEC. 19. PENALTY FOR UNAUTHORIZED PARTICIPATION BY CONVICTED INDIVIDUAL,
+"(a) PROHIBITION.-Except with the prior written consent of the Corporation-
+"(1) any person who has been convicted of any criminal offense involving dishonesty of a breach of trust may not participate, directly or indirectly, in any manner in the conduct of the affairs of an insured depository institution; and
+"(2) an insured depository institution may not permit such participation.
+"(b) PENALTY.-Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both."
+(b) CREDIT UNIONS INSURED BY THE NCUA.-Section 205(d) of the Federal Credit Union Act (12 U.S.C. 1785(d)) is amended to read as follows:
+"(d) PENALTY FOR PROHIBITED PARTICIPATION-
+"(1) PROHIBITION.-Except with the prior written consent of the Board-
+"(A) any person who has been convicted of any criminal offense involving dishonesty or a breach of trust may not participate, directly or indirectly, in any manner in the conduct of the affairs of an insured credit union; and
+"(B) an insured credit union may not permit such participation.
+"(2) PENALTY.-Whoever knowingly violates paragraph (1) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.".
+SEC. 911. AMENDMENTS TO VARIOUS PROVISIONS OF LAW RELATING TO REPORTS.
+(a) BANK PROTECTION ACT.-Section 3(b) of the Bank Protection Act of 1968 (12 U.S.C. 1882) is amended by striking out "and shall require the submission of periodic reports with respect to the installation, maintenance, and operation of security devices and procedures".
+(b) AMENDMENTS RELATING TO NATIONAL BANKS.-
+(1) Section 5211 of the Revised Statutes (12 U.S.C. 161) is amended-
+(A) in the 5th sentence of subsection (a), by striking out "within ten days after the receipt of a request therefor from him" and inserting in lieu thereof "within the period of time specified by the Comptroller"; and
+(B) in subsection (c), by striking out the last sentence.
+(2) Section 5213 of the Revised Statutes (12 U.S.C. 164) is amended to read as follows:
+"SEC. 5213. PENALTY FOR FAILURE TO MAKE REPORTS.
+"(a) FIRST TIER.-Any association which-
+(1) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error-
+"(A) fails to make, obtain, transmit, or publish any report or information required by the Comptroller of the Currency under section 5211 of this chapter, within the period of time specified by the Comptroller; or

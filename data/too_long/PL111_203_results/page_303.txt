@@ -1,0 +1,15 @@
+PUBLIC LAW 111-203—JULY 21, 2010                           124 STAT. 1677
+
+“(D) DETERMINATION.— 
+“(i) In reviewing a submission made under subparagraph (B), the Commission shall review whether the submission is consistent with section 5b(c)(2).
+“(ii) In reviewing a swap, group of swaps, or class of swaps pursuant to subparagraph (A) or a submission made under subparagraph (B), the Commission shall take into account the following factors:
+“(I) The existence of significant outstanding notional exposures, trading liquidity, and adequate pricing data.
+“(II) The availability of rule framework, capacity, operational expertise and resources, and credit support infrastructure to clear the contract on terms that are consistent with the material terms and trading conventions on which the contract is then traded.
+“(III) The effect on the mitigation of systemic risk, taking into account the size of the market for such contract and the resources of the derivatives clearing organization available to clear the contract.
+“(IV) The effect on competition, including appropriate fees and charges applied to clearing.
+“(V) The existence of reasonable legal certainty in the event of the insolvency of the relevant derivatives clearing organization or 1 or more of its clearing members with regard to the treatment of customer and swap counterparty positions, funds, and property.
+“(iii) In making a determination under subparagraph (A) or (B)(ii) that the clearing requirement shall apply, the Commission may require such terms and conditions to the requirement as the Commission determines to be appropriate.
+“(E) RULES.—Not later than 1 year after the date of the enactment of this subsection, the Commission shall adopt rules for a derivatives clearing organization’s submission for review, pursuant to this paragraph, of a swap, or a group, category, type, or class of swaps, that it seeks to accept for clearing. Nothing in this subparagraph limits the Commission from making a determination under subparagraph (B)(iii) for swaps described in subparagraph (B)(ii).
+“(3) STAY OF CLEARING REQUIREMENT.— 
+“(A) IN GENERAL.—After making a determination pursuant to paragraph (2)(B), the Commission, on application of a counterparty to a swap or on its own initiative, may stay the clearing requirement of paragraph (1) until the Commission completes a review of the terms of the swap (or the group, category, type, or class of swaps) and the clearing arrangement.
+“(B) DEADLINE.—The Commission shall complete a review undertaken pursuant to subparagraph (A) not later than 90 days after issuance of the stay, unless the derivatives clearing organization that clears the swap, or group,

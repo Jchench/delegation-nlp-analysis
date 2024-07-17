@@ -1,0 +1,24 @@
+134 STAT. 4532					PUBLIC LAW 116-283—JAN. 1, 2021
+
+National Sciences Foundation, or their designees, shall be the co-chairpersons of the Task Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
+  (F) EXPENSES FOR NON-FEDERAL MEMBERS—
+    (i) Except as provided in clause (ii), non-Federal Members of the Task Force shall not receive compensation for their participation on the Task Force.
+    (ii) Non-Federal Members of the Task Force shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Task Force.
+  (b) ROADMAP AND IMPLEMENTATION PLAN.—
+    (1) IN GENERAL.—The Task Force shall develop a coordinated roadmap and implementation plan for creating and sustaining a National Artificial Intelligence Research Resource.
+    (2) CONTENTS—The roadmap and plan required by paragraph (1) shall include the following;
+      (A) Goals for establishment and sustainment of a National Artificial Intelligence Research Resource and metrics for success.
+      (B) A plan for ownership and administration of the National Artificial Intelligence Research Resource, including—
+        (i) an appropriate agency or organization responsible for the implementation, deployment, and administration of the Resource; and
+        (ii) a governance structure for the Resource, including oversight and decision-making authorities.
+      (C) A model for governance and oversight to establish strategic direction, make programmatic decisions, and manage the allocation of resources;
+      (D) Capabilities required to create and maintain a shared computing infrastructure to facilitate access to computing resources for researchers across the country, including scalability, secured access control, resident data engineering and curation expertise, provision of curated data sets, compute resources, educational tools and services, and a user interface portal.
+      (E) An assessment of, and recommended solutions to, barriers to the dissemination and use of high-quality government data sets as part of the National Artificial Intelligence Research Resource.
+        Assessment.
+        Recommendations.
+      (F) An assessment of security requirements associated with the National Artificial Intelligence Research Resource and its research and a recommendation for a framework for the management of access controls.
+        Assessment.
+        Requirements.
+      (G) An assessment of privacy and civil rights and civil liberties requirements associated with the National Artificial Intelligence Research Resource and its research.
+        Assessment.
+      (H) A plan for sustaining the Resource, including through Federal funding and partnerships with the private sector.

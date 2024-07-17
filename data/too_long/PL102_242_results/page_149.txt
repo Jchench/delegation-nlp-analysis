@@ -1,0 +1,23 @@
+105 STAT. 2384		PUBLIC LAW 102-242—DEC. 19, 1991
+
+	(A) modernize and simplify the rules that apply to pension investment in real estate to remove unnecessary barriers to pension funds seeking to invest in real estate;
+	(B) strengthen the secondary market for commercial real estate debt and equity by removing arbitrary obstacles to private forms of credit enhancement;
+	(C) restore balance to the regulatory environment by considering the impact of risk-based capital standards on commercial, multifamily and single-family real estate; ending mark-to-market, liquidation-based, appraisals; encouraging loan renewals; and, fully communicating the supervisory policy to bank examiners in the field; and
+	(D) rationalize the tax system for real estate owners and operators by modifying the passive loss rules and encouraging loan restructures.
+
+Subtitle K—Aquisition of Insolvent Savings Associations
+
+SEC. 461. ACQUISITION OF INSOLVENT SAVINGS ASSOCIATIONS.
+
+Section 4(i) of the Bank Holding Company Act (12 U.S.C. 1843(i)) is amended by adding at the end the following new paragraph:
+	 "(3) ACQUISITION OF INSOLVENT SAVINGS ASSOCIATIONS.—
+	"(A) IN GENERAL.—Notwithstanding any other provision of this Act, any qualified savings association which became a federally chartered stock company in December of 1986 and which is acquired by any bank holding company without Federal financial assistance after June 1, 1991, and before March 1, 1992, and any subsidiary of any such association, may after such acquisition continue to engage within the home State of the qualified savings association in insurance agency activities in which any Federal savings association (or any subsidiary thereof) may engage in accordance with the Home Owners' Loan Act and regulations pursuant to such Act if the qualified savings association or subsidiary thereof was continuously engaged in such activity from June 1, 1991, to the date of the acquisition.
+	"(B) DEFINITION OF QUALIFIED SAVINGS ASSOCIATION.—For purposes of this paragraph, the term ‘qualified savings association’ means any savings association that—
+		"(i) was chartered or organized as a savings association before June 1, 1991;
+		"(ii) had, immediately before the acquisition of such association by the bank holding company referred to in subparagraph (A), negative tangible capital and total insured deposits in excess of $300,000,000; and
+		"(iii) will meet all applicable regulatory capital requirements as a result of such acquisition.".
+
+Subtitle L—Creditability of Service
+
+SEC. 466. CREDITABILITY OF SERVICE.
+(a) CHAPTER 83.—Section 8332 of title 5, United States Code, is amended by adding at the end the following new subsection:

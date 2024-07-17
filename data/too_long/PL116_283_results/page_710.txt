@@ -1,0 +1,59 @@
+134 STAT. 4096             PUBLIC LAW 116–283—JAN. 1, 2021
+
+                                “(6) AUTHENTICATION.—
+                                            “(A) IN GENERAL.—Any subpoena issued pursuant to
+                                this subsection shall be authenticated with a cryptographic
+                                digital signature of an authorized representative of the
+                                Agency, or other comparable successor technology, that
+                                allows the Agency to demonstrate that such subpoena was
+                                issued by the Agency and has not been altered or modified
+                                since such issuance.
+                                            “(B) INVALID IF NOT AUTHENTICATED.—Any subpoena
+                                issued pursuant to this subsection that is not authenticated
+Deadline.               in accordance with subparagraph (A) shall not be consid-
+                                ered to be valid by the recipient of such subpoena.
+                                            “(7) PROCEDURES.—Not later than 90 days after the date
+                                of the enactment of this subsection, the Director shall establish
+                                internal procedures and associated training, applicable to
+                                employees and operations of the Agency, regarding subpoenas
+                                issued pursuant to this subsection, which shall address the
+                                following;
+                                                            “(A) The protection of and restriction on dissemination
+                                of nonpublic information obtained through such a subpoena,
+                                including a requirement that the Agency not disseminate
+                                nonpublic information obtained through such a subpoena
+                                that identifies the party that is subject to such subpoena
+                                or the entity at risk identified by information obtained,
+                                except that the Agency may share the nonpublic informa-
+Determination. tion with the Department of Justice for the purpose of
+                                enforcing such subpoena in accordance with paragraph (4),
+                                and may share with a Federal agency the nonpublic
+                                information of the entity at risk if—
+                                                        “(i) the Agency identifies or is notified of a cyberse-
+                                curity incident involving such entity, which relates
+                                to the vulnerability which led to the issuance of such
+                                subpoena:
+                                                        “(ii) the Director determines that sharing the non-
+                                public information with another Federal department
+                                or agency is necessary to allow such department or
+                                agency to take a law enforcement or national security
+                                action, consistent with the interagency procedures
+                                under paragraph (3)(A), or actions related to mitigating
+                                or otherwise resolving such incident;
+                                                        “(iii) the entity to which the information pertains
+                                is notified of the Director’s determination, to the extent
+                                practicable consistent with national security or law
+                                enforcement interests, consistent with such interagency
+                                procedures; and
+                                                         “(iv) the entity consents, except that the entity’s
+                                consent shall not be required if another Federal depart-
+                                ment or agency identifies the entity to the Agency
+                                in connection with a suspected cybersecurity incident;
+                                                    “(B) The restriction on the use of information obtained
+                                through such a subpoena for a cybersecurity purpose.
+                                                    “(C) The retention and destruction of nonpublic
+                                information obtained through such a subpoena, including—
+                                                         “(i) destruction of such information that the
+                                Director determines is unrelated to critical infrastruc-
+                                ture immediately upon providing notice to the entity
+                                pursuant to paragraph (5); and

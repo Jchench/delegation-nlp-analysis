@@ -1,0 +1,59 @@
+134 STAT. 4578              PUBLIC LAW 116–283—JAN. 1, 2021
+  
+                        	“(i) IN GENERAL.—In issuing the rules required
+				under subparagraph (A), the Secretary of the Treasury
+				may not permit a financial institution to share informa-
+				tion on reports under this subsection with a foreign
+				branch, subsidiary, or affiliate located in—
+						“(I) the People’s Republic of China;
+						“(II) the Russian Federation; or
+						“(III) a jurisdiction that—
+							“(aa) is a state sponsor of terrorism;
+							“(bb) is subject to sanctions imposed by
+						the Federal Government; or
+							“(cc) the Secretary has determined cannot
+						reasonably protect the security and confiden-
+						tiality of such information.
+				“(ii) EXCEPTIONS.—The Secretary is authorized to
+				make exceptions, on a case-by-case basis, for a financial
+				institution located in a jurisdiction listed in subclause
+          		(I) or (II) of clause (i), if the Secretary notifies the
+          		Committee on Banking, Housing, and Urban Affairs
+          		of the Senate and the Committee on Financial Services
+          		of the House of Representatives that such an exception
+          		is in the national security interest of the United States.
+          	“(D) IMPLEMENTATION UPDATES.—Not later than 360
+          	days after the date on which rules are issued under
+          	subparagraph (A), and annually thereafter for 3 years,
+          	the Secretary of the Treasury, or the designee of the Sec-
+          	retary, shall brief the Committee on Banking, Housing,
+          	and Urban Affairs of the Senate and the Committee on
+          	Financial Services of the House of Representatives on—
+          		“(i) the degree of any information sharing per-
+          	mitted under the pilot program and a description of
+          	criteria used by the Secretary to evaluate the appro-
+          	priateness of the information sharing;
+          		“(ii) the effectiveness of the pilot program in identi-
+          		fying or preventing the violation of a United States
+          	law or regulation and mechanisms that may improve
+          	that effectiveness; and
+          		“(iii) any recommendations to amend the design
+          	of the pilot program.
+		“(9) TREATMENT OF FOREIGN JURISDICTION-ORIGINATED
+		REPORTS.—Information related to a report received by a finan-
+		cial institution from a foreign affiliate with respect to a sus-
+		picious transaction relevant to a possible violation of law or
+		regulation shall be subject to the same confidentiality require-
+		ments provided under this subsection for a report of a sus-
+		picious transaction described in paragraph (1).
+		“(10) NO OFFSHORING COMPLIANCE.—No financial institu-
+		tion may establish or maintain any operation located outside
+		of the United States the primary purpose of which is to ensure
+		compliance with the Bank Secrecy Act as a result of the sharing
+		granted under this subsection.
+		“(11) DEFINITIONS.—In this subsection:
+			“(A) AFFILIATE.—The term ‘affiliate’ means an entity
+		that controls, is controlled by, or is under common control
+		with another entity.
+			“(B) BANK SECRECY ACT; STATE BANK SUPERVISOR;
+		STATE CREDIT UNION SUPERVISOR.—The terms ‘Bank

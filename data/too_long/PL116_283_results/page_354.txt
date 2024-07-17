@@ -1,0 +1,22 @@
+134 STAT. 3740
+
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+(B) COVERAGE.—The demonstrations and assessment required under subparagraph (A) shall include—
+
+(i) at least three demonstrations of the use of a covered technology to create, under constrained schedules and budgets, novel kill chains involving previously incompatible weapon systems, sensors, and command, control, and communication systems from multiple military services in cooperation with United States Indo-Pacific Command or United States European Command;
+
+(ii) an evaluation as to whether the communications enabled via a covered technology are sufficient for military missions and whether such technology results in any substantial performance loss in communication between systems, major subsystems, and major components;
+
+(iii) an evaluation as to whether a covered technology obviates the need to develop, impose, and maintain strict adherence to common communication and interface standards for weapon systems;
+
+(iv) the appropriate roles and responsibilities of the Chief Information Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the heads of the combatant commands, the Secretaries concerned, the Defense Advanced Research Projects Agency, and the defense industrial base in using and maintaining a covered technology to generate diverse and recomposeable kill chains as part of the Joint All-Domain Command and Control architecture;
+
+(v) for at least one of the demonstrations conducted under clause (i), demonstration of the use of technology developed under the High-Assurance Cyber Military Systems program of the Defense Advanced Research Projects Agency to secure legacy weapon systems and command and control capabilities while facilitating interoperability;
+
+(vi) an evaluation of how the technology referred to in clause (v) and covered technology should be used to improve cybersecurity and interoperability across critical weapon systems and command and control capabilities across the joint forces; and
+
+(vii) coordination with the program manager for the Time Sensitive Targeting Defeat program under the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Intelligence and Security.
+
+(2) CHIEF INFORMATION OFFICER ASSESSMENT.—
+(A) IN GENERAL.—The Chief Information Officer for the Department of Defense, in coordination with the Principal Cyber Advisor to the Secretary of Defense and the Director of the Cybersecurity Directorate of the National Security Agency, shall assess the technologies developed under the System of Systems Integration Technology and Experimentation program of the Defense Advanced Research Projects Agency, including the covered technology,

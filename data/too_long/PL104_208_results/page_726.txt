@@ -1,0 +1,35 @@
+110 STAT. 3009–725    PUBLIC LAW 104–208—SEPT. 30, 1996
+
+Sec. 205. Registration of certificates.
+Sec. 206. Preferred surety bond guarantee program.
+Sec. 207. Sense of the Congress.
+Sec. 208. Small business investment company improvements.
+
+SEC. 2. ADMINISTRATOR DEFINED.
+
+For purposes of this Act, the term “Administrator” means the Administrator of the Small Business Administration.
+
+SEC. 3. EFFECTIVE DATE.
+
+Except as otherwise expressly provided, this Act and the amendments made by this Act shall take effect on October 1, 1996.
+
+TITLE I—AMENDMENTS TO SMALL 
+BUSINESS ACT
+
+SEC. 101. REFERENCES.
+
+Except as otherwise expressly provided, whenever in this title an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Small Business Act (15 U.S.C. 631 et seq.).
+
+SEC. 102. RISK MANAGEMENT DATABASE.
+
+Section 4(b) (15 U.S.C. 633) is amended by inserting after paragraph (2) the following:
+    “(3) RISK MANAGEMENT DATABASE.—
+        “(A) ESTABLISHMENT.—The Administration shall establish, within the management system for the loan programs authorized by subsections (a) and (b) of section 7 of this Act and title V of the Small Business Investment Act of 1958, a management information system that will generate a database capable of providing timely and accurate information in order to identify loan underwriting, collections, recovery, and liquidation problems.
+        “(B) INFORMATION TO BE MAINTAINED.—In addition to such other information as the Administration considers appropriate, the database established under subparagraph (A) shall, with respect to each loan program described in subparagraph (A), include information relating to—
+            “(i) the identity of the institution making the guaranteed loan or issuing the debenture;
+            “(ii) the identity of the borrower;
+            “(iii) the total dollar amount of the loan or debenture;
+            “(iv) the total dollar amount of government exposure in each loan;
+            “(v) the district of the Administration in which the borrower has its principal office;
+            “(vi) the principal line of business of the borrower, as identified by Standard Industrial Classification Code (or any successor to that system);
+            “(vii) the delinquency rate for each program (including number of instances and days overdue);

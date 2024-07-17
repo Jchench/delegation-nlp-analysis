@@ -1,0 +1,25 @@
+106 STAT. 3990
+
+PUBLIC LAW 102-550—OCT. 28, 1992
+
+a later date is set by the hearing officer at the request of the party served.
+(3) PROCEDURE.—Any such hearing shall be conducted in accordance with chapter 5 of title 5, United States Code.
+(4) FAILURE TO APPEAR.—If the party served fails to appear at the hearing through a duly authorized representative, such party shall be deemed to have consented to the issuance of the cease-and-desist order or the imposition of the penalty for which the hearing is held.
+(b) ISSUANCE OF ORDER.—
+(1) IN GENERAL.—After any such hearing, and within 90 days after the parties have been notified that the case has been submitted to the Director for final decision, the Director shall render the decision (which shall include findings of fact upon which the decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provision of this subtitle.
+(2) MODIFICATION.—Judicial review of any such order shall be exclusively as provided in section 1374. Unless such a petition for review is timely filed as provided in section 1374, and thereafter until the record in the proceeding has been filed as so provided, the Director may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Director considers proper. Upon such filing of the record, the Director may modify, terminate, or set aside any such order with permission of the court.
+
+12 USC 4634.
+SEC. 1374. JUDICIAL REVIEW.
+(a) COMMENCEMENT.—Any party to a proceeding under section 1371 or 1376 may obtain review of any final order issued under such section by filing in the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the date of service of such order, a written petition praying that the order of the Director be modified, terminated, or set aside. The clerk of the court shall transmit a copy of the petition to the Director.
+(b) FILING OF RECORD.—Upon receiving a copy of a petition, the Director shall file in the court the record in the proceeding, as provided in section 2112 of title 28, United States Code.
+(c) JURISDICTION.—Upon the filing of a petition, such court shall have jurisdiction, which upon the filing of the record by the Director shall (except as provided in the last sentence of section 1373(b)(2)) be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Director.
+(d) REVIEW.—Review of such proceedings shall be governed by chapter 7 of title 5, United States Code.
+(e) ORDER TO PAY PENALTY.—Such court shall have the authority in any such review to order payment of any penalty imposed by the Director under this subtitle.
+(f) NO AUTOMATIC STAY.—The commencement of proceedings for judicial review under this section shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Director.
+
+12 USC 4635.
+
+SEC. 1375. ENFORCEMENT AND JURISDICTION.
+
+(a) ENFORCEMENT.—The Director may request the Attorney General of the United States to bring an action in the United States District Court for the District of Columbia for the enforcement of any effective notice or order issued under this subtitle

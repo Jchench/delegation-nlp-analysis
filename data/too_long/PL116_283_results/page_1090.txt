@@ -1,0 +1,75 @@
+134 STAT. 4476      PUBLIC LAW 116-283—JAN. 1, 2021
+
+SEC. 4201. RESEARCH, DEVELOPMENT, TEST, AND EVALUATION
+	(In Thousands of Dollars)
+
+Line   Program         Item                                                         FY 2021            Conference 
+          Element                                                                         Request            Authorized   
+	
+264    116040BB          SOF TACTICAL VEHICLES                                                      9,823                  9,823
+265    116048BB          MARITIME SYSTEMS                                                            5,829                  5,829
+	                                   DCS Block II studies unjustified growth  .......            [–5,000]
+266    116048BB          GLOBAL VIDEO SURVEILLANCE ACTIVITIES  .....                  4,602                  4,602
+267    116049BB          OPERATIONAL ENHANCEMENTS INTEL-                                    1,512                   1,512
+                                       LIGENCE.
+
+268    120631DK         TELEPORT PROGRAM                                                           3,239                    3,239
+268A99999999999   CLASSIFIED PROGRAMS                                                    4,746,466            4,746,466
+  
+                                       SUBTOTAL  OPERATIONAL  SYSTEMS  DEVELOPMENT    6,116,494            6,278,925
+
+Software and Digital Technology
+Pilot Programs
+
+269    0608819TV       NATIONAL BACKGROUND INVESTIGATION                               121,676                  101,676
+                                       SERVICES — SOFTWARE PILOT PROGRAM.
+                                       Unjustified increase ...............................................            [–20,000]
+270    0608648BZ       ACQUISITION VISIBILITY—SOFTWARE PILOT                               16,848                       16,848
+                                       PROGRAM.
+271    0303150K         GLOBAL COMMAND AND CONTROL SYSTEM —                              85,750                     76,750
+                                       Program decrease .......................................................         [–9,000]
+272     030885DSZ     ALGORITHMIC WARFARE CROSS FUNCTIONAL                               250,107                  250,107
+                                       TEAMS — SOFTWARE PILOT PROGRAM.
+                                        SUBTOTAL  SOFTWARE AND DIGITAL   
+                                        TECHNOLOGY PILOT PROGRAMS           475,381                  445,381
+
+                     TOTAL  RESEARCH,  DEVELOPMENT,
+                     TEST & EVAL, DW                            24,820,891       24,835,557
+
+OPERATIONAL TEST & EVAL, DEFENSE
+MANAGEMENT SUPPORT
+
+001    0605118OTE     OPERATIONAL TEST AND EVALUATION ........................ 100,021                 100,021
+002    0605130TTE     LIVE FIRE TEST AND EVALUATION ................................ 107,903                 107,903
+003    0605140TTE     OPERATIONAL TEST ACTIVITIES AND  ANALYSES .......... 23,186                    23,186
+                      SUBTOTAL MANAGEMENT SUPPORT .........................    231,090                  231,090
+
+                     TOTAL OPERATIONAL TEXT & EVAL,
+                     DEFENSE.                                                                                   210,090                 210,090
+
+                     TOTAL RDT&E                                                                         106,224,793       104,708,901
+
+SEC. 4202. RESEARCH, DEVELOPMENT, TEST, AND EVALUATION FOR OVERSEAS CONTINGENCY OPERATIONS.
+
+SEC. 4202. RESEARCH, DEVELOPMENT, TEST, AND EVALUATION FOR OVERSEAS CONTINGENCY OPERATIONS 
+	(In Thousands of Dollars)
+
+Line   Program            Item                                                       FY 2021            Conference 
+          Element                                                                          Request            Authorized   
+  
+                     RESEARCH, DEVELOPMENT, TEST & EVAL, 
+                     ARMY
+                     APPLIED RESEARCH
+
+016    0602145A       NEXT GENERATION COMBAT VEHICLE TECHNOLOGY .......  2,000                     2,000          
+                     SUBTOTAL APPLIED RESEARCH ...................................                                      2,000                      2,000
+
+                     ADVANCED COMPONENT DEVELOPMENT & PROTOTYPES
+
+060    0603372A       AIR AND MISSILE DEFENSE SYSTEMS ENGINEERING ...     500                          500          
+
+114    0604758A       INTEGRATED BASE DEFENSE (BUDGET ACTIVITY 4) ....         2,020                      2,020
+                     SUBTOTAL ADVANCED COMPONENT DEVELOPMENT &
+                     PROTOTYPES.                                                                              2,520                      2,520
+
+                     SYSTEM DEVELOPMENT & DEMONSTRATION

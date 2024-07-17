@@ -1,0 +1,23 @@
+PUBLIC LAW 110–289—JULY 30, 2008
+122 STAT. 2889
+
+below zero) by the amount which bears the same ratio to the amount which is allowable as—
+‘‘(I) the excess (if any) of—
+‘‘(I) the taxpayer’s modified adjusted gross income for such taxable year, over
+‘‘(II) $75,000 ($150,000 in the case of a joint return), bears to
+‘‘(ii) $20,000.
+‘‘(B) MODIFIED ADJUSTED GROSS INCOME.—For purposes of subparagraph (A), the term ‘modified adjusted gross income’ means the adjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+‘‘(c) DEFINITIONS.—For purposes of this section—
+‘‘(1) FIRST-TIME HOMEBUYER.—The term ‘first-time homebuyer’ means any individual if such individual (and if married, such individual’s spouse) had no present ownership interest in a principal residence during the 3-year period ending on the date of the purchase of the principal residence to which this section applies.
+‘‘(2) PRINCIPAL RESIDENCE.—The term ‘principal residence’ has the same meaning as when used in section 121.
+‘‘(3) PURCHASE.—
+‘‘(A) IN GENERAL.—The term ‘purchase’ means any acquisition, but only if—
+‘‘(i) the property is not acquired from a person related to the person acquiring such property, and
+‘‘(ii) the basis of the property in the hands of the person acquiring such property is not determined—
+‘‘(I) in whole or in part by reference to the adjusted basis of such property in the hands of the person from whom acquired, or
+‘‘(II) under section 1014(a) (relating to property acquired from a decedent).
+‘‘(B) CONSTRUCTION.—A residence which is constructed by the taxpayer shall be treated as purchased by the taxpayer on the date the taxpayer first occupies such residence.
+‘‘(4) PURCHASE PRICE.—The term ‘purchase price’ means the adjusted basis of the principal residence on the date such residence is purchased.
+‘‘(5) RELATED PERSONS.—A person shall be treated as related to another person if the relationship between such persons would result in the disallowance of losses under section 267 or 707(b) (but, in applying sections 267(b) and (c) for purposes of this section, paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants).
+‘‘(d) EXCEPTIONS.—No credit under subsection (a) shall be allowed to any taxpayer for any taxable year with respect to the purchase of a residence if—
+‘‘(1) a credit under section 1400C (relating to first-time homebuyer in the District of Columbia) is allowable to the taxpayer (or the taxpayer’s spouse) for such taxable year or any prior taxable year,

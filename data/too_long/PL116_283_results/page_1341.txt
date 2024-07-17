@@ -1,0 +1,20 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+134 STAT. 4727
+
+space-based radio frequency geolocation and maritime domain awareness products and services to support the mission objectives of maritime enforcement by the Coast Guard and other components of the Coast Guard. The objectives of this testing and evaluation program shall include—
+(1) developing an understanding of how United States commercial space-based radio frequency data products can meet current and future mission requirements;
+(2) establishing how United States commercial space-based radio frequency data products should integrate into existing work flows; and
+(3) establishing how United States commercial space-based radio frequency data products could be integrated into analytics platforms.
+(b) REPORT.—Not later than 240 days after the date of enactment of this Act, the Commandant shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the results of the testing and evaluation program under subsection (a), including recommendations on how the Coast Guard should fully exploit United States commercial space-based radio frequency data products to meet current and future mission requirements.
+
+SEC. 8416. AUTHORIZATION OF USE OF AUTOMATIC IDENTIFICATION SYSTEMS DEVICES TO MARK FISHING EQUIPMENT.
+
+(a) DEFINITIONS.—In this section—
+(1) the term “Assistant Secretary” means the Assistant Secretary of Commerce for Communications and Information and the National Telecommunications and Information Administration Administrator;
+(2) the term “Automatic Identification System” has the meaning given the term in section 164.46(a) of title 33, Code of Federal Regulations, or any successor regulation;
+(3) the term “Automatic Identification System device” means a covered device that operates in radio frequencies assigned for Automatic Identification System stations;
+(4) the term “Commission” means the Federal Communications Commission; and
+(5) the term “covered device” means a device used to mark fishing equipment.
+(b) RULEMAKING REQUIRED.—Not later than 180 days after the date of enactment of this Act, the Commission, in coordination with the Assistant Secretary, and in consultation with the Commandant and the Secretary of State, shall initiate a rulemaking proceeding to consider whether to authorize covered devices to operate in radio frequencies assigned for Automatic Identification System stations.
+(c) CONSIDERATIONS.—In conducting the rulemaking under subsection (b), the Commission shall consider whether imposing requirements with respect to the manner in which Automatic Identification System devices are deployed and used would enable the authorization of covered devices to operate in radio frequencies assigned for Automatic Identification System stations consistent with the core purpose of the Automatic Identification System to prevent maritime accidents.

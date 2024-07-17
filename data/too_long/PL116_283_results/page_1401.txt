@@ -1,0 +1,26 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4787
+
+the purpose of recording such false alerts and examining the causes of such false alerts.
+(d) REPEATING EMERGENCY ALERT SYSTEM MESSAGES FOR NATIONAL SECURITY.—
+(1) IN GENERAL.—Not later than 180 days after the date of enactment of this Act, the Commission, in consultation with the Administrator, shall complete a rulemaking proceeding to modify the Emergency Alert System to provide for repeating Emergency Alert System messages while an alert remains pending that is issued by—
+(A) the President;
+(B) the Administrator; or
+(C) any other entity determined appropriate under the circumstances by the Commission, in consultation with the Administrator.
+(2) SCOPE OF RULEMAKING.—Paragraph (1) shall—
+(A) apply to warnings of national security events, meaning emergencies of national significance, such as a missile threat, terror attack, or other act of war or threat to public safety; and
+(B) not apply to more typical warnings, such as a weather alert, AMBER Alert, or disaster alert.
+(3) RULE OF CONSTRUCTION.—Nothing in this subsection shall be construed to impair, limit, or otherwise change—
+(A) the authority of the President granted by law to alert and warn the public; or
+(B) the role of the President as commander-in-chief with respect to the identification, dissemination, notification, or alerting of information of missile threats against the United States, or threats to public safety.
+(e) INTERNET AND ONLINE STREAMING SERVICES EMERGENCY ALERT EXAMINATION.—
+(1) STUDY.—Not later than 180 days after the date of enactment of this Act, and after providing public notice and opportunity for comment, the Commission shall complete an inquiry to examine the feasibility of updating the Emergency Alert System to enable or improve alerts to consumers provided through the internet, including through streaming services.
+(2) REPORT.—Not later than 90 days after completing the inquiry under paragraph (1), the Commission shall submit a report on the findings and conclusions of the inquiry to—
+(A) the Committee on Commerce, Science, and Transportation of the Senate; and
+(B) the Committee on Energy and Commerce of the House of Representatives.
+(f) DEFINITIONS.—In this section—
+(1) the term “Administrator” means the Administrator of the Federal Emergency Management Agency;
+(2) the term “Commission” means the Federal Communications Commission;
+(3) the term “Emergency Alert System” means the national public warning system, the rules for which are set forth in part 11 of title 47, Code of Federal Regulations (or any successor regulation); and
+(4) the term “Wireless Emergency Alerts System” means the wireless national public warning system established under the Warning, Alert, and Response Network Act (47 U.S.C.

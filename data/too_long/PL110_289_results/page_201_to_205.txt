@@ -1,0 +1,158 @@
+PUBLIC LAW 110–289—JULY 30, 2008
+122 STAT. 2853
+
+(2) NOTICE.—The Secretary shall provide written notice of its intention to exercise the authority to specify alternative requirements under paragraph (1) to the Committee on Banking, Housing and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 10 business days before such exercise of authority is to occur.	Deadline.
+
+(3) LOW AND MODERATE INCOME REQUIREMENT.—		
+(A) IN GENERAL.—Notwithstanding the authority of the Secretary under paragraph (1)—		 (i) all of the funds appropriated or otherwise made available under this section shall be used with respect to individuals and families whose income does not exceed 120 percent of area median income; and		
+(ii) not less than 25 percent of the funds appropriated or otherwise made available under this section shall be used for the purchase and redevelopment of abandoned or foreclosed upon homes or residential properties that will be used to house individuals or families whose incomes do not exceed 50 percent of area median income.
+
+(B) RECURRENT REQUIREMENT.—The Secretary shall, by rule or order, ensure, to the maximum extent practicable and for the longest feasible term, that the sale, rental, or redevelopment of abandoned and foreclosed upon homes and residential properties under this section remain affordable to individuals or families described in subparagraph (A).	Regulations.
+Orders.
+
+(g) PERIODIC AUDITS.—In consultation with the Secretary of Housing and Urban Development, the Comptroller General of the United States shall conduct periodic audits to ensure that funds appropriated, made available, or otherwise distributed under this section are being used in a manner consistent with the criteria provided in this section.
+
+SEC. 2302. NATIONWIDE DISTRIBUTION OF RESOURCES.
+Notwithstanding any other provision of this Act or the amendments made by this Act, each State shall receive not less than 0.5 percent of funds made available under section 2301 (relating to emergency assistance for the redevelopment of abandoned and foreclosed homes).
+
+SEC. 2303. LIMITATION ON USE OF FUNDS WITH RESPECT TO EMINENT DOMAIN.
+No State or unit of general local government may use any amounts received pursuant to section 2301 to fund any project that seeks to use the power of eminent domain, unless eminent domain is employed only for a public use: Provided, That for purposes of this section, public use shall not be construed to include economic development that primarily benefits private entities.
+
+SEC. 2304. LIMITATION ON DISTRIBUTION OF FUNDS.
+
+(a) IN GENERAL.—None of the funds made available under this title or title IV shall be distributed to—		
+(1) an organization which has been indicted for a violation under Federal law relating to an election for Federal office; or		
+(2) an organization which employs applicable individuals.
+
+42 USC 5301
+note.
+
+42 USC 5301
+note.
+
+42 USC 5301
+note.
+
+122 STAT. 2854		122 STAT. 		
+
+PUBLIC LAW 110–289—JULY 30, 2008
+
+(b) APPLICABLE INDIVIDUALS DEFINED.—In this section, the term ‘‘applicable individual’’ means an individual who—		
+(1) is—
+(A) employed by the organization in a permanent or temporary capacity;		
+(B) contracted or retained by the organization; or		
+(C) acting on behalf of, or with the express or apparent authority of, the organization; and		
+(2) has been indicted for a violation under Federal law relating to an election for Federal office. 42 USC 5301 note. (c) CERTIFICATION.—Each State receiving amounts pursuant to section 2301 shall certify that the State is in compliance with the requirements of this section. 		
+
+SEC. 2305. COUNSELING INTERMEDIARIES.
+Notwithstanding any other provision of this Act, the amount appropriated under section 2301(a) of this Act shall be $3,920,000,000 and the amount appropriated under section 2401 of this Act shall be $180,000,000: Provided, That of the amount appropriated under section 2401 of this Act pursuant to this section, not less than 15 percent shall be provided to counseling organizations that target counseling services regarding loss mitigation to minority and low-income homeowners or provide such services in neighborhoods with high concentrations of minority and low-income homeowners: Provided further, That of amounts appropriated under such section 2401 $30,000,000 shall be used by the Neighborhood Reinvestment Corporation (referred to in this section as the ‘‘NRC’’) to make grants to counseling intermediaries approved by the Department of Housing and Urban Development or the NRC to hire attorneys to assist homeowners with household ownership preservation and preventing household ownership foreclosures. Each State shall be awarded funds for the purpose of providing a displacement mortgage at a time when household ownership opportunities for minority and low-income households are emerging in rapidly growing communities. In furtherance of the objective of promoting household ownership opportunities in those rapidly growing communities, each state that is awarded funds for such purposes pursuant to this section shall provide not less than 10 percent of such funds to minorities and low-income individuals in combination with other funds available to such State and shall design and implement a certification process to be prescribed by the Secretary for identifying attorneys with client-based derived needs under the requirements of the flexible emergency assistance component required by this section. This section shall apply to amounts appropriated or made available on or after the date this Act becomes law. 
+
+Legal assistance. Deadline.		
+
+TITLE IV—HOUSING COUNSELING RESOURCES		 
+
+SEC. 2401. HOUSING COUNSELING RESOURCES.
+There are appropriated out of any money in the Treasury not otherwise appropriated for the fiscal year 2008, for an additional Appropriations authorization. 
+
+
+SEC. 2402. CREDIT COUNSELING.
+
+(a) IN GENERAL.—Entities approved by the Neighborhood Reinvestment Corporation or the Secretary and State housing finance entities receiving funds under this title shall work to identify and coordinate with non-profit organizations operating national or statewide toll-free foreclosure prevention hotlines, including those that—		
+(1) serve as a consumer referral source and data repository for borrowers experiencing some form of delinquency or foreclosure;		
+(2) connect callers with local housing counseling agencies approved by the Neighborhood Reinvestment Corporation or the Secretary to assist with working out a positive resolution to their mortgage delinquency or foreclosure; or		
+(3) facilitate or offer free assistance to help homeowners to understand their options, negotiate solutions, and find the best resolution for their particular circumstances.
+
+TITLE V—MORTGAGE DISCLOSURE IMPROVEMENT ACT
+
+SEC. 2501. SHORT TITLE.
+This title may be cited as the ‘‘Mortgage Disclosure Improvement Act of 2008’’.
+
+SEC. 2502. ENHANCED MORTGAGE LOAN DISCLOSURES.
+(a) TRUTH IN LENDING ACT DISCLOSURES.—Section 128(b)(2) of the Truth in Lending Act (15 U.S.C. 1638(b)(2)) is amended—		
+(1) by inserting ‘‘(A)’’ before ‘‘In the’’;		
+(2) by striking ‘‘a residential mortgage transaction, as defined in section 103(w)’’ and inserting ‘‘any extension of credit that is secured by the dwelling of a consumer’’;		
+(3) by striking ‘‘before the credit is extended, or’’ and inserting ‘‘and’’;		
+(4) by inserting ‘‘, which shall be at least 7 business days before consummation of the transaction’’ after ‘‘written application’’;		
+(5) by striking ‘‘, whichever is earlier’’; and		
+(6) by striking ‘‘If the’’ and all that follows through the end of the paragraph and inserting the following:
+
+‘‘(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A), shall be  in addition  to the other disclosures required by subsection (a), and shall—		
+‘‘(i) state in conspicuous type size and format, the following: ‘You are not required to complete this agreement merely because you have received these disclosures or signed a loan application.’; and		
+‘‘(ii) be provided in the form of final disclosures at the time of consummation of the transaction, in the form and manner prescribed by this section.
+
+(C) In the case of an extension of credit that is secured by the dwelling of a consumer, under which the annual rate of interest is variable, or with respect to which the regular payments may otherwise be variable, in addition to the other disclosures required by subsection (a), the disclosures provided under this subsection shall do the following:		
+‘‘(i) Label the payment schedule as follows: ‘Payment Schedule:  Payments Will Vary Based on Interest Rate Changes.’		
+‘‘(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment Consumer based on the maximum interest rate allowed under the transaction according to the requirements of the rules of the Board of Governors of the Federal Reserve System, by contract and in accordance with regulations and requirements established by the Board of Governors of the Federal Reserve System. Prior to issuing any rules pursuant to this clause, the Board shall conduct consumer testing to determine if consumer comprehension regarding disclosures is achieved and shall determine the appropriate format for such disclosure, including the addition of information permitting the consumer to quickly comprehend the maximum payment amount and schedule based on the maximum interest rate allowed under the transaction. The Board has the authority to prescribe regulations designed to enhance uniformity and enforce compliance with the provisions of this clause.’’
+
+(j) In any case in which the disclosure statement under subparagraph (A) contains an annual percentage rate of interest that is no longer accurate, as determined under section 107(c), the creditor shall furnish an additional, corrected statement to the borrower, not later than 3 business days before the date of consummation of the transaction. 29 (k) SEC.  cannot be handled by counselors already employed by such intermediaries: Provided further, That of the amounts provided for in the prior provisos the NRC shall give priority consideration to counseling intermediaries and legal organizations that (1) provide legal assistance in the 100 metropolitan statistical areas (as defined by  the Director of the Office of Management and Budget) with the highest home foreclosure rates, and (2) have the capacity to begin using the financial assistance within 90 days after receipt of the assistance: Provided further, That no funds provided under this Act shall be used to provide, obtain, or arrange on behalf of a homeowner, legal representation involving or for the purposes of civil litigation: Provided further, That the NRC, in awarding counseling grants under section 2401 of this Act, may consider, where appropriate, whether the entity has implemented a written plan for providing in-person counseling and for making contact, including personal contact, with defaulted mortgagors, for the purpose  of providing counseling or providing information about available counseling.
+
+TITLE IV—HOUSING COUNSELING RESOURCES
+There are appropriated out of any money in the Treasury not otherwise appropriated for the fiscal year 2008, tf there are appropriated out of any other money in the Treasury not otherwise appropriated for the fiscal year 2008, for an Public Housing.
+
+ 
+
+Amount for the ‘‘Neighborhood Reinvestment Corporation’’. Payment to the Neighborhood Reinvestment Corporation’’ $100,000,001  which shall remain available until December 31, 2008, for foreclosure mittigation activities under the terms and conditions contained in the second undesignated paragraph (beginning with the phrase ‘‘For an additional amount’’) under the heading ‘‘Neighborhood Reinvestment Corporation—Payment to the Neighborhood Reinvestment Corporation’’ of Public Law 110–161.
+
+SEC. 2402. CREDIT COUNSELING.
+(a) IN GENERAL.—Entities approved by the Neighborhood Reinvestment Corporation or the Secretary and State housing finance entities receiving funds under this title shall work to identify and coordinate with non-profit organizations operating national or statewide toll-free foreclosure prevention hotlines, including those that—		
+(1) serve as a consumer referral source and data repository for borrowers experiencing some form of delinquency or foreclosure;		
+(2) connect callers with local housing counseling agencies approved by the Neighborhood Reinvestment Corporation or the Secretary to assist with working out a positive resolution to their mortgage delinquency or foreclosure; or		
+(3) facilitate or offer free assistance to help homeowners to understand their options, negotiate solutions, and find  the best resolution for their particular circumstances.
+
+TITLE V—MORTGAGE DISCLOSURE IMPROVEMENT ACT
+
+SEC. 2501. SHORT TITLE.
+This title may be cited as the ‘‘Mortgage Disclosure Improvement Act of 2008’’.
+
+SEC. 2502. ENHANCED MORTGAGE LOAN DISCLOSURES.
+(a) TRUTH IN LENDING ACT DISCLOSURES.—Section 128(b)(2) of the Truth in Lending Act (15 U.S.C. 1638(b)(2)) is amended—		
+(1) by inserting ‘‘(A)’’ before ‘‘In the’’;		
+(2) by striking ‘‘a residential mortgage transaction, as defined in section 103(w)’’ and inserting ‘‘any extension of credit that is secured by the dwelling of a consumer’’;		
+(3) by striking ‘‘before the credit is extended, or’’ and inserting ‘‘and’’;		
+(4) by inserting ‘‘, which shall be at least 7 business days before consummation of the transaction’’ after ‘‘written application’’;		
+(5) by striking ‘‘, whichever is earlier’’; and		
+(6) by striking ‘‘If the’’ and all that follows through the end of the paragraph and inserting the following:
+
+(a) ‘’Bona fide personal emergency’’may be further defined in relation to the relevant standards already established  and subject to review by the Board of Governors of the Federal Reserve System, who shall have authority to issue rules as necessary.’’ 
+
+(a) The consumer shall receive the disclosures required under this paragraph before paying any fee to the creditor in connection with the consumer’s application for an extension of credit that is secured by the dwelling of a consumer. If the disclosures are mailed to the consumer, the consumer is considered to have received them 3 business days after they are mailed. A creditor or other person may impose a fee for obtaining the consumer’s credit report before the consumer has received the disclosures under this paragraph, provided the fee is bona fide and reasonable in amount.
+
+(x) WAIVER OF TIMELINESS OF DISCLOSURES.—To expedite consummation of a transaction, if the consumer determines that the extension of credit is needed to meet a bona fide bona fide and reasonable in amount. (r) (y) 
+
+PART 1: Mortgage Disclosure Improvement Act
+PUBLIC LAW 110–289—JULY 30, 2008
+122 STAT. 2857
+
+(ii) the consumer provides to the creditor a dated, written statement describing the emergency and specifically waiving or modifying those timing requirements, which statement shall bear the signature of  all consumers entitled to receive the disclosures required by this paragraph; and		
+(iii) the creditor provides to the consumers at or before the time of such waiver or modification, the final disclosures required by paragraph (1).
+
+
+(G)  the requirements of subparagraphs (B), (C), (D) and (H), and now clauses (E) and (G)), shall not apply to extensions of credit relating to plans described in section 101(53D) of title 11, United States Code;
+
+(b) Section 130(a) of the Truth in Lending Act (15 U.S.C. 1640(a)) by—		
+(1) in paragraph (2)(A)(ii), by striking “not less than $200 or greater than $2,000” and inserting “not less than $400 or greater than $4,000” and		
+(2) in the penultimate sentence of the undesignated matter following paragraph (4)—
+
+(A) by inserting “or section 128(b)(2)(C)(ii),” after “128(a)”; and (B) by inserting “section 128(b)(2)(C)(ii)” immediately before the period.
+
+(c) EFFECTIVE DATES.—		
+(1) GENERAL DISCLOSURES.—Except as provided in paragraph (2), the amendments made by subsection (a) shall become effective 12 months after the date of enactment of this Act.		
+(2) VARIABLE INTEREST RATES.—Subparagraph (C) of section 128(b)(2) of the Truth in Lending Act (15 U.S.C. 1638(b)(2)(C))), as added by subsection (a) of this section, shall become effective on the earlier of—		
+(A) the compliance date established by the Board for such purpose, by regulation; or		
+(B) 30 months after the date of enactment of this Act.
+
+SEC. 2503. COMMUNITY DEVELOPMENT INVESTMENT AUTHORITY FOR DEPOSITORY INSTITUTIONS.		
+(a) NATIONAL BANKS.—The first sentence of the paragraph designated as the ‘‘Eleventh’’ of section 5136 of the Revised Statutes of the United States (12 U.S.C. 24) is amended by striking ‘‘promotes the public welfare by benefiting primarily’’ and inserting ‘‘is designed primarily to promote the public welfare, including the welfare of’’.		
+(b) STATE MEMBER BANKS.—The first sentence of the 23rd paragraph of section 9 of the Federal Reserve Act (12 U.S.C. 338a) is amended by striking ‘‘promotes the public welfare by benefiting primarily’’ and inserting ‘‘is designed primarily to promote the public welfare, including the welfare of’’
+
+End of P.L. No. 111-5.
+Stat. 2858.
+
+Definitions.
+
+End of Title IX.
+
+Legal assistance.
+Deadline.
+
+Public Welfare.

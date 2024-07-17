@@ -1,0 +1,60 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 4481
+
+SEC. 4301. OPERATION AND MAINTENANCE (In Thousands of Dollars)
+
+FY 2021 
+Line Item Request Conference
+Authorized
+OPERATING FORCES
+010 MANEUVER UNITS ............................................................ 769,449 769,449
+020 MODULAR SUPPORT BRIGADES ..................................... 204,604 204,604
+030 ECHELONS ABOVE BRIGADE .......................................... 812,072 812,072
+040 THEATER LEVEL ASSETS ................................................ 103,650 101,150
+    Insufficient justification ..............................................  [–2,500]
+050 LAND FORCES OPERATIONS SUPPORT ......................... 32,485 32,485
+060 AVIATION ASSETS ............................................................ 1,011,142 1,011,142
+070 FORCE READINESS OPERATIONS SUPPORT ................ 712,881 712,881
+080 LAND FORCES SYSTEMS READINESS ............................ 47,732 47,732
+090 LAND FORCES DEPOT MAINTENANCE .......................... 265,408 265,408
+100 BASE OPERATIONS SUPPORT ......................................... 1,106,704 1,106,704
+110 FACILITIES SUSTAINMENT, RESTORATION & MODERNIZATION ................................................ 876,032 892,254
+      Program increase for additional facility requirements .................................................................  [16,222]
+120 MANAGEMENT AND OPERATIONAL HEADQUARTERS ................................................................ 1,050,257 1,050,257
+130 CYBERSPACE ACTIVITIES—CYBERSPACE OPERATIONS ................................................................ 7,998 8,998
+      Program increase—cyber security training center ............................................................................  [1,000]
+140 CYBERSPACE ACTIVITIES—CYBERSECURITY ..............   7,756 7,756
+      SUBTOTAL OPERATING FORCES ........................................ 7,008,170 7,022,892
+
+ADMIN & SRWD ACTIVITIES
+150 SERVICEWIDE TRANSPORTATION ................................... 18,018 18,018
+160 ADMINISTRATION ............................................................. 74,309 74,309
+170 SERVICEWIDE COMMUNICATIONS .................................. 66,140 66,140
+180 MANPOWER MANAGEMENT ............................................ 9,097 9,097
+190 OTHER PERSONNEL SUPPORT ........................................ 251,714 251,714
+200 REAL ESTATE MANAGEMENT ........................................ 2,576 2,576
+      SUBTOTAL ADMIN & SRWD ACTIVITIES ........................ 411,844 411,844
+
+UNDISTRIBUTED
+220 UNDISTRIBUTED .............................................................. -66,100
+      COVID-related ops/training slowdown ........................ -66,100
+      SUBTOTAL UNDISTRIBUTED ............................................ -66,100
+
+      TOTAL OPERATION & MAINTENANCE, ARNG ................................................................................................. 7,420,014 7,368,636
+
+OPERATION & MAINTENANCE, NAVY
+OPERATING FORCES
+010 MISSION AND OTHER FLIGHT OPERATIONS ............... 5,738,746 5,738,746
+      Transfer to OCO ....................................................... [–300,000]
+      Unjustified increase ................................................ [–65,000]
+020 FLEET AIR TRAINING ......................................................... 2,213,673 2,163,673
+      Restoration of Congressional mark ............................ [–50,000]
+030 AVIATION TECHNICAL DATA & ENGINEERING SERVICES ............................................................... 57,144 57,144
+040 AIR OPERATIONS AND SAFETY SUPPORT ..................... 171,949 171,949
+050 AIR SYSTEMS SUPPORT .................................................... 838,767 834,067
+      Restoration of Congressional mark ............................ [–4,700]
+060 AIRCRAFT DEPOT MAINTENANCE ................................ 1,459,447 1,454,447
+      Unjustified growth ................................................... [–5,000]
+070 AIRCRAFT DEPOT OPERATIONS SUPPORT .................... 57,789 57,789
+080 AVIATION LOGISTICS ....................................................... 1,264,665 1,234,665
+      Restoration of Congressional mark ............................ [-30,000]
+100 SHIP OPERATIONS SUPPORT & TRAINING ................... 1,117,067 1,107,067

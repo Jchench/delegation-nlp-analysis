@@ -1,0 +1,23 @@
+PUBLIC LAW 110–343—OCT. 3, 2008
+122 STAT. 3931
+
+‘‘(iii) COORDINATION WITH SPECIAL RULE.—Paragraph (3)(B) shall not apply to any compensation to which clause (i) applies.
+
+‘‘(2) COMPREHENSIVE FOREIGN INCOME TAX.—The term ‘comprehensive foreign income tax’ means, with respect to any foreign person, the income tax of a foreign country if—
+‘‘(A) such person is eligible for the benefits of a comprehensive income tax treaty between such foreign country and the United States, or
+‘‘(B) such person demonstrates to the satisfaction of the Secretary that such foreign country has a comprehensive income tax.
+‘‘(3) NONQUALIFIED DEFERRED COMPENSATION PLAN.—
+‘‘(A) IN GENERAL.—The term ‘nonqualified deferred compensation plan’ has the meaning given such term under section 409A(d), except that such term shall include any plan that provides a right to compensation based on the appreciation in value of a specified number of equity units of the service recipient.
+‘‘(B) EXCEPTION.—Compensation shall not be treated as deferred for purposes of this section if the service provider receives payment of such compensation not later than 12 months after the end of the taxable year of the service recipient during which the right to the payment of such compensation is no longer subject to a substantial risk of forfeiture.
+‘‘(4) EXCEPTION FOR CERTAIN COMPENSATION WITH RESPECT Deadline. TO EFFECTIVELY CONNECTED INCOME.—In the case a foreign corporation with income which is taxable under section 882, this section shall not apply to compensation which, had such compensation been paid in cash on the date that such compensation ceased to be subject to a substantial risk of forfeiture, would have been deductible by such foreign corporation against such income.
+‘‘(5) APPLICATION OF RULES.—Rules similar to the rules of paragraphs (5) and (6) of section 409A(d) shall apply.
+‘‘(e) REGULATIONS.—The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations disregarding a substantial risk of forfeiture in cases where necessary to carry out the purposes of this section.’’.
+
+(b) CONFORMING AMENDMENT.—Section 26(b)(2), as amended by the Housing Assistance Tax Act of 2008, is amended by striking ‘‘and’’ at the end of subparagraph (V), by striking the period at the end of subparagraph (W) and inserting ‘‘, and’’, and by adding at the end the following new subparagraph:
+‘‘(X) section 457A(c)(1)(B) (relating to determinability of amounts of compensation),’’.
+(c) CLERICAL AMENDMENT.—The table of sections of subpart B of part II of subchapter E of chapter 1 is amended by inserting after the item relating to section 457 the following new item:
+
+‘‘Sec. 457A. Nonqualified deferred compensation from certain tax indifferent parties.’’.
+
+(d) EFFECTIVE DATE.—
+(1) IN GENERAL.—Except as otherwise provided in this subsection, the amendments made by this section shall apply to

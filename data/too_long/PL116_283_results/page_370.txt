@@ -1,0 +1,25 @@
+134 STAT. 3756
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+10 USC 3101 note.
+
+SEC. 836. DIGITAL MODERNIZATION OF ANALYTICAL AND DECISION-
+SUPPORT PROCESSES FOR MANAGING AND OVERSEEING
+DEPARTMENT OF DEFENSE ACQUISITION PROGRAMS.
+(a) DIGITAL DATA MANAGEMENT AND ANALYTICS CAPABILITIES.—
+(1) IN GENERAL.—The Secretary of Defense shall iteratively develop and integrate advanced digital data management and analytics capabilities, consistent with private sector best practices, that—
+(A) integrate all aspects of the defense acquisition system, including the development of capability requirements, research, design, development, testing, evaluation, acquisition, management, operations, and sustainment of systems;
+(B) facilitate the management and analysis of all relevant data generated during the development of capability requirements, research, design, development, testing, evaluation, acquisition, operations, and sustainment of systems;
+(C) enable the use of such data to inform further acquisition, management, operations, and oversight of such systems, including portfolio management; and
+(D) include software capabilities to collect, transport, organize, manage, make available, and analyze relevant data throughout the life cycle of defense acquisition programs, including any data needed to support individual and portfolio management of acquisition programs.
+(2) REQUIREMENTS.—The capabilities developed under paragraph (1) shall—
+(A) be accessible to, and useable by, individuals throughout the Department of Defense who have responsibilities relating to activities described in clauses (A) through (C) of paragraph (1);
+(B) enable the development, use, curation, and maintenance of original form and real-time digital systems by—
+(i) ensuring shared access to data within the Department;
+(ii) supplying data to digital engineering models for use in the defense acquisition, sustainment, and portfolio management processes; and
+(iii) supplying data to testing infrastructure and software to support automated approaches for testing, evaluation, and deployment throughout the defense acquisition, sustainment, and portfolio management processes; and
+(C) feature—
+(i) improved data management and sharing processes;
+(ii) timely, high-quality, transparent, and actionable analyses; and
+(iii) analytical models and simulations.

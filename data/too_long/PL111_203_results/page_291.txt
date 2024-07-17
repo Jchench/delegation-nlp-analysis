@@ -1,0 +1,22 @@
+PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 1665
+
+“(vi) after the transfer date (as defined in section 311 of the Dodd-Frank Wall Street Reform and Consumer Protection Act), any savings and loan holding company (as defined in section 10 of the Home Owners’ Loan Act (12 U.S.C. 1467a)) and any subsidiary of such company (other than a subsidiary that is described in subparagraph (A) or (B) or that is required to be registered as a swap dealer or major swap participant with the Commission under this Act or with the Securities and Exchange Commission as a security-based swap dealer or major security-based swap participant); or
+‘‘(vii) any organization operating under section 25A of the Federal Reserve Act (12U.S.C. 611 et seq.) or having an agreement with the Board under section 25 of the Federal Reserve Act (12 U.S.C. 601 et seq.);
+
+“(B) the Office of the Comptroller of the Currency in the case of a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant that is—
+‘‘(i) a national bank;
+‘‘(ii) a federally chartered branch or agency of a foreign bank; or 
+‘‘(iii) any Federal savings association;
+“(C) the Federal Deposit Insurance Corporation in the case of a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant that is—
+‘‘(i) a State-chartered bank that is not a member of the Federal Reserve System; or
+‘‘(ii) any State savings association;
+“(D) the Farm Credit Administration, in the case of a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant that is an institution chartered under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.); and
+‘‘(E) the Federal Housing Finance Agency in the case of a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant that is a regulated entity (as such term is defined in section 1303 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992).’’;
+(18) in paragraph (40) (as redesignated by paragraph (1)) —
+(A) by striking subparagraph (B);
+(B) by redesignating subparagraphs (C), (D), and (E) as subparagraphs (B), (C), and (F), respectively;
+(C) in subparagraph (C) (as so redesignated), by striking ‘’and’’; and
+(D) by inserting after subparagraph (C) (as so redesignated) the following:
+‘’(D) a swap execution facility registered under section 5h; 
+‘’(E) a swap data repository registered under section 21; and’’;
+(19) by inserting after paragraph (41) (as redesignated by paragraph (1)) the following:

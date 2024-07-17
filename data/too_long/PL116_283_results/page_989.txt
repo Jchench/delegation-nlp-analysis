@@ -1,0 +1,29 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 4375
+
+Project 21–D–530, KL Steam and Condensate Upgrades, Knolls Atomic Power Laboratory, Schenectady, New York, $4,000,000. 
+General Plant Project, U1a.03 Test Bed Facility Improvements, Nevada National Security Site, Nevada, $16,000,000. 
+General Plant Project, TA–15 DARHT Hydro Vessel Repair Facility, Los Alamos National Laboratory, New Mexico, $16,500,000.
+ 
+SEC. 3102. DEFENSE ENVIRONMENTAL CLEANUP.
+(a) AUTHORIZATION OF APPROPRIATIONS.—Funds are hereby authorized to be appropriated to the Department of Energy for fiscal year 2021 for defense environmental cleanup activities in carrying out programs as specified in the funding table in section 4701.
+(b) AUTHORIZATION OF NEW PLANT PROJECTS.—From funds referred to in subsection (a) that are available for carrying out plant projects, the Secretary of Energy may carry out, for defense environmental cleanup activities, the following new plant project: 
+Project 21–D–401, Hoisting Capability Project, Waste Isolation Pilot Plant, Carlsbad, New Mexico, $10,000,000.
+
+SEC. 3103. OTHER DEFENSE ACTIVITIES.
+Funds are hereby authorized to be appropriated to the Department of Energy for fiscal year 2021 for other defense activities in carrying out programs as specified in the funding table in section 4701.
+
+SEC. 3104. NUCLEAR ENERGY.
+Funds are hereby authorized to be appropriated to the Department of Energy for fiscal year 2021 for nuclear energy as specified in the funding table in section 4701.
+
+Subtitle B—Nuclear Weapons Stockpile Matters
+
+SEC. 3111. W93 NUCLEAR WARHEAD ACQUISITION PROCESS.
+(a) REQUIREMENTS.—
+(1) IN GENERAL.—Subtitle A of title XLII of the Atomic Energy Defense Act (50 U.S.C. 2521 et seq.) is amended by adding at the end the following new section:
+
+‘‘SEC. 4223. W93 NUCLEAR WARHEAD ACQUISITION PROCESS. 50 USC 2538e.
+‘‘(a) REPORTING REQUIREMENTS.—
+‘‘(1) PHASE 1.—Upon receiving a concept definition study under phase 1 of the joint nuclear weapons life cycle for the W93 nuclear weapon, the Nuclear Weapons Council shall submit to the congressional defense committees a report that includes the following:
+‘‘(A) A description of the potential military characteristics of the weapon.
+‘‘(B) A description of the stockpile-to-target sequence requirements of the weapon. 
+‘‘(C) An initial assessment of the requirements a W93 nuclear weapon program is likely to generate for the nuclear security enterprise, including—

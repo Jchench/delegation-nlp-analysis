@@ -1,0 +1,26 @@
+134 STAT. 3498          PUBLIC LAW 116–283—JAN. 1, 2021
+
+(d) AGENCY PARTICIPATION.—The Entity shall include representatives, including subject matter experts, from the Environmental Protection Agency, the National Institute of Standards and Technology, the National Science Foundation, the Department of Energy, the Department of Agriculture, the Department of Defense, the National Institutes of Health, the Centers for Disease Control and Prevention, the Food and Drug Administration, and other related Federal agencies, as appropriate.
+(e) TERMINATION.—The Entity shall terminate on the date that is 10 years after the date of the enactment of this Act.
+
+15 USC 9302.
+SEC. 262. STRATEGIC PLAN FOR SUSTAINABLE CHEMISTRY.
+Deadline.
+Consultation.
+Update.
+Assessment.
+Assessment.
+Coordination.
+Review.
+(a) STRATEGIC PLAN.—Not later than 2 years after the date of the enactment of this subtitle, the Entity shall—
+(1) consult with relevant stakeholders, including representatives from industry, academia, national labs, the Federal Government, and international entities, to develop and update, as needed, a consensus definition of “sustainable chemistry” to guide the activities under this subtitle;
+(2) develop a working framework of attributes characterizing, and metrics for assessing, sustainable chemistry, as described in subsection (b);
+(3) assess the state of sustainable chemistry in the United States as a key benchmark from which progress under the activities described in this title can be measured, including assessing key sectors of the United States economy, key technology platforms, commercial priorities, and barriers to innovation;
+(4) coordinate and support Federal research, development, demonstration, technology transfer, commercialization, education, and training efforts in sustainable chemistry, including budget coordination and support for public-private partnerships, as appropriate;
+(5) identify any Federal regulatory barriers to, and opportunities for, Federal agencies facilitating the development of incentives for development, consideration, and use of sustainable chemistry processes and products;
+(6) identify major scientific challenges, roadblocks, and hurdles to transformational progress in improving the sustainability of the chemical sciences; and
+(7) review, identify, and make effort to eliminate duplicative Federal funding and duplicative Federal research in sustainable chemistry.
+(b) CHARACTERIZING AND ASSESSING SUSTAINABLE CHEMISTRY.—The Entity shall develop a working framework of attributes characterizing, and metrics for assessing, sustainable chemistry for the purposes of carrying out this subtitle. In developing this framework, the Entity shall—
+(1) seek advice and input from stakeholders as described in subsection (c);
+(2) consider existing definitions of, or frameworks characterizing and metrics for assessing, sustainable chemistry already in use at Federal agencies;
+(3) consider existing definitions of, or frameworks characterizing and metrics for assessing, sustainable chemistry already in use by international organizations of which the

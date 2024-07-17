@@ -1,0 +1,28 @@
+124 STAT. 1720            PUBLIC LAW 111-203—JULY 21, 2010
+
+            “(B)(i) the rules, regulations, and mechanisms for executing transactions on or through the facilities of the contract market; and
+            ‘‘(ii) the rules and specifications describing the operation of the contract market’s—
+            ‘‘(I) electronic matching platform; or
+Public            ‘‘(II) trade execution facility.
+information.
+            ‘‘(8) DAILY PUBLICATION OF TRADING INFORMATION.—The board of trade shall make public daily information on settlement prices, volume, open interest, and opening and closing ranges for actively traded contracts on the contract market.
+Records.            “(9) EXECUTION OF TRANSACTIONS.—
+            ‘‘(A) IN GENERAL.—The board of trade shall provide a competitive, open, and efficient market and mechanism for executing transactions that protects the price discovery process of trading in the centralized market of the board of trade.
+            ‘‘(B) RULES.—The rules of the board of trade may authorize, for bona fide business purposes—
+            ‘‘(i) transfer trades or office trades;
+            ‘‘(ii) an exchange of—
+            ‘‘(I) futures in connection with a cash commodity transaction;
+            ‘‘(II) futures for cash commodities; or
+            ‘‘(III) futures for swaps; or
+            ‘‘(iii) a futures commission merchant, acting as principal or agent, to enter into or confirm the execution of a contract for the purchase or sale of a commodity for future delivery if the contract is reported, recorded, or cleared in accordance with the rules of the contract market or a derivatives clearing organization.
+            ‘‘(10) TRADE INFORMATION.—The board of trade shall maintain rules and procedures to provide for the recording and safe storage of all identifying trade information in a manner that enables the contract market to use the information—
+            ‘‘(A) to assist in the prevention of customer and market abuses; and
+            ‘‘(B) to provide evidence of any violations of the rules of the contract market.
+            ‘‘(11) FINANCIAL INTEGRITY OF TRANSACTIONS.—The board of trade shall establish and enforce—
+            ‘‘(A) rules and procedures for ensuring the financial integrity of transactions entered into on or through the facilities of the contract market (including the clearance and settlement of the transactions with a derivatives clearing organization); and
+            ‘‘(B) rules to ensure—
+            ‘‘(i) the financial integrity of any—
+            ‘‘(I) futures commission merchant; and
+            ‘‘(II) introducing broker; and
+            ‘‘(ii) the protection of customer funds.
+            ‘‘(12) PROTECTION OF MARKETS AND MARKET PARTICIPANTS.—The board of trade shall establish and enforce rules—

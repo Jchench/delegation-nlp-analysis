@@ -1,0 +1,25 @@
+124 STAT. 2106          PUBLIC LAW 111-203—JULY 21, 2010
+
+(1) by striking “a Federal banking agency” each place that term appears, other than in paragraphs (7) and (11) of section 1503 and section 1507(a)(1), and inserting “the Bureau”;
+(2) by striking “Federal banking agencies” each place that term appears and inserting “Bureau”; and
+(3) by striking “Secretary” each place that term appears and inserting “Director”;
+(4) in section 1503 (12 U.S.C. 5102)—
+(A) by redesignating paragraphs (2) through (12) as (3) through (13), respectively;
+(B) by striking paragraph (1) and inserting the following:
+“(1) BUREAU.—The term ‘Bureau’ means the Bureau of Consumer Financial Protection.
+“(2) FEDERAL BANKING AGENCY.—The term ‘Federal banking agency’ means the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the National Credit Union Administration, and the Federal Deposit Insurance Corporation.”; and
+(C) by striking paragraph (10), as so designated by this section, and inserting the following:
+“(10) DIRECTOR.—The term ‘Director’ means the Director of the Bureau of Consumer Financial Protection.”; and
+(5) in section 1507 (12 U.S.C. 5106)—
+(A) in subsection (a)—
+(i) by striking paragraph (1) and inserting the following:
+“(1) IN GENERAL.—The Bureau shall develop and maintain a system for registering employees of a depository institution, employees of a subsidiary that is owned and controlled by a depository institution and regulated by a Federal banking agency, or employees of an institution regulated by the Farm Credit Administration, as registered loan originators with the Nationwide Mortgage Licensing System and Registry. The system shall be implemented before the end of the 1-year period beginning on the date of enactment of the Consumer Financial Protection Act of 2010.”; and
+(ii) in paragraph (2)—
+(I) by striking “appropriate Federal banking agency and the Farm Credit Administration” and inserting “Bureau”; and
+(II) by striking “employees’ identity” and inserting “identity of the employee”; and
+(B) in subsection (b), by striking “through the Financial Institutions Examination Council, and the Farm Credit Administration”, and inserting “and the Bureau of Consumer Financial Protection”;
+(6) in section 1508 (12 U.S.C. 5107)—
+(A) by striking the section heading and inserting the following: “SEC. 1508. BUREAU OF CONSUMER FINANCIAL PROTECTION BACKUP AUTHORITY TO ESTABLISH LOAN
+ORIGINATOR LICENSING SYSTEM.”; and
+(B) by adding at the end the following:
+“(f) REGULATION AUTHORITY.—

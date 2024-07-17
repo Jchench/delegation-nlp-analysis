@@ -1,0 +1,29 @@
+“§ 3371. Undefinitized contractual actions: required description of anticipated effect on military department requirements if use of undefinitized contractual action results in delay
+
+“§ 3372. Undefinitized contractual actions: requirements and limitations relating to definitization of contractual terms, specifications, and price
+
+“§ 3373. Undefinitized contractual actions: limitation on inclusion of non-urgent requirements and on modification of scope
+
+“§ 3374. Undefinitized contractual actions: allowable profit
+
+“§ 3375. Undefinitized contractual actions: time limit
+
+“§ 3377. Inapplicability to Coast Guard and National Aeronautics and Space Administration; definitions”.
+
+(b) TRANSFER OF SUBSECTION (A) OF SECTION 2326.—Subsection (a) of section 2326 of title 10, United States Code, is transferred to section 3371 of such title, as added by subsection (a), inserted after the section heading, and amended by striking the subsection designation and subsection heading.
+
+(c) TRANSFER OF SUBSECTIONS (B), (C), AND (H) OF SECTION 2326.—
+
+(1) TRANSFER.—Subsections (b), (c), and (h) of section 2326 of title 10, United States Code, are transferred to section 3372 of such title, as added by subsection (a), inserted (in that order) after the section heading, and redesignated as subsections (a), (b), and (c), respectively.
+
+(2) AMENDMENTS TO NEW 3372(A).—Subsection (a) of such section 3372, as transferred and redesignated by paragraph (1), is amended—
+(A) by striking “LIMITATIONS ON OBLIGATION OF FUNDS.—(1) A contracting officer” and inserting “CONTRACTUAL ACTION TO PROVIDE TIME FOR DEFINITIZATION OF CONTRACTUAL TERMS, SPECIFICATIONS, AND PRICE; LIMITATIONS ON OBLIGATION OF FUNDS.—
+
+“(1) TERMS FOR TIME FOR DEFINITIZATION TO BE INCLUDED IN CONTRACTUAL ACTION.—A contracting officer”;
+(B) by redesignating paragraphs (2) and (3) as subparagraphs (A) and (B), respectively, and realigning those subparagraphs 4 ems to the right;
+(C) by inserting before subparagraph (A), as so redesignated and realigned, the following:
+“(2) LIMITATION ON OBLIGATION OF FUNDS BEFORE DEFINITIZATION.—”;
+(D) in such subparagraph (A), as so redesignated, by striking “Except as provided in paragraph (3),” and inserting “50 PERCENT LIMITATION.—Except as provided in subparagraph (B),”;
+(E) in such subparagraph (B), as so redesignated and realigned—
+(i) by inserting “75 PERCENT LIMITATION WHEN CONTRACTOR SUBMITS QUALIFYING PROPOSAL.—” before “If a contractor”; and
+(ii) by striking “subsection (h)” and inserting “section 3377(b) of this title”;

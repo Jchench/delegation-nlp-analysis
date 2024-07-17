@@ -1,0 +1,22 @@
+PUBLIC LAW 102-242-DEC. 19, 1991         105 STAT. 2391
+
+“(II) in the Corporation’s judgment, any material information submitted is substantially inaccurate or incomplete.
+
+“(H) ALLOCATION OF COSTS IN EVENT OF DEFAULT.-If any acquiring, assuming, or resulting depository institution is in default or danger of default at any time before this paragraph ceases to apply, any loss incurred by the Corporation shall be allocated between the Bank Insurance Fund and the Savings Association Insurance Fund, in amounts reflecting the amount of insured deposits of such acquiring, assuming, or resulting depository institution assessed by the Bank Insurance Fund and the Savings Association Insurance Fund, respectively, under subparagraph (B).
+
+“(I) SUBSEQUENT APPROVAL OF CONVERSION TRANSACTION.-This paragraph shall cease to apply if--
+“(i) after the end of the 5-year period referred to in paragraph (2)(A), the Corporation approves an application by any acquiring, assuming, or resulting depository institution to treat the transaction described in subparagraph (A) as a conversion transaction; and 
+“(ii) the acquiring, assuming, or resulting depository institution pays the amount of any exit and entrance fee assessed by the Corporation under subparagraph (E) of paragraph (2) with respect to such transaction.
+
+“(J) ACQUIRING, ASSUMING, OR RESULTING DEPOSITORY INSTITUTION DEFINED.-For purposes of this paragraph, the term ‘acquiring, assuming, or resulting depository institution’ means any insured depository institution which--
+“(i) results from any transaction described in paragraph (2)(B)(ii) and approved under this paragraph;
+“(ii) in connection with a transaction described in paragraph (2)(B)(iii) and approved under this paragraph, assumes any liability to pay deposits of another insured depository institution; or
+“(iii) in connection with a transaction described in paragraph (2)(B)(iv) and approved under this paragraph, acquires assets from any insured depository institution in consideration of the assumption of liability for any deposits of such institution.”.
+
+(b) EFFECTIVE DATE.-The amendment made by subsection (a) to section 5(d)(3)(C) of the Federal Deposit Insurance Act shall apply with respect to semiannual periods beginning after the date of the enactment of this Act.                                                                           12 USC 1815 note.
+
+(c) TRANSITION RULE FOR SAVINGS ASSOCIATIONS ACQUIRING BANKS.-Section 5(c) of the Home Owners’ Loan Act (12 U.S.C. 1464(c)(5)) is amended-
+(1) by redesignating paragraph (5) as paragraph (6); and
+(2) by inserting after paragraph (4) the following new paragraph:
+“(5) TRANSITION RULE FOR SAVINGS ASSOCIATIONS ACQUIRING BANKS.-
+“(A) IN GENERAL.-If, under section 5(d)(3) of the Federal Deposit Insurance Act, a savings association acquires all or substantially all of the assets of a bank that is a member of the Bank Insurance Fund, the Director may permit the

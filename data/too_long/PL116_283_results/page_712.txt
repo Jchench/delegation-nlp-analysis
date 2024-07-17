@@ -1,0 +1,58 @@
+134 STAT. 4098                                 PUBLIC LAW 116–283—JAN. 1, 2021
+
+    ‘‘(11) ANNUAL REPORTS.—The Director shall annually 
+    submit to the Committee on Homeland Security and Govern-
+    mental Affairs of the Senate and the Committee on Homeland 
+    Security of the House of Representatives a report (which may 
+    include a classified annex but with the presumption of declas-
+    sification) on the use of subpoenas issued pursuant to this 
+    subsection, which shall include the following:
+    ‘‘(A) A discussion of the following:
+    ‘‘(i) The effectiveness of the use of such subpoenas 
+    to mitigate critical infrastructure security 
+    vulnerabilities.
+    ‘‘(ii) The critical infrastructure security risk assess-
+    ment process conducted for subpoenas issued under 
+    this subsection.
+    ‘‘(iii) The number of subpoenas so issued during 
+    the preceding year.
+    ‘‘(iv) To the extent practicable, the number of 
+    vulnerable covered devices or systems mitigated under 
+    this subsection by the Agency during the preceding 
+    year.
+    ‘‘(v) The number of entities notified by the Director 
+    under this subsection, and their responses, during the 
+    preceding year.
+    ‘‘(B) For each subpoena issued pursuant to this sub-
+    section, the following:
+    ‘‘(i) Information relating to the source of the secu-
+    rity vulnerability detected, identified, or received by 
+    the Director.
+    ‘‘(ii) Information relating to the steps taken to 
+    identify the entity at risk prior to issuing the subpoena.
+    ‘‘(iii) A description of the outcome of the subpoena, 
+    including discussion on the resolution or mitigation 
+    of the critical infrastructure security vulnerability.
+    ‘‘(12) PUBLICATION OF THE ANNUAL REPORTS.—The Director 
+    shall publish a version of the annual report required under 
+    paragraph (11) on the website of the Agency, which shall, 
+    at a minimum, include the findings described in clauses (iii), 
+    (iv), and (v) of subparagraph (A) of such paragraph.
+    ‘‘(13) PROHIBITION ON USE OF INFORMATION FOR UNAUTHOR-
+    IZED PURPOSES.—Any information obtained pursuant to a sub-
+    poena issued under this subsection may not be provided to 
+    any other Federal department or agency for any purpose other 
+    than a cybersecurity purpose or for the purpose of enforcing 
+    a subpoena issued pursuant to this subsection.’’.
+    (b) RULES OF CONSTRUCTION.—
+    (1) PROHIBITION ON NEW REGULATORY AUTHORITY.—Nothing 
+    in this section or the amendments made by this section may 
+    be construed to grant the Secretary of Homeland Security, 
+    or the head of any other Federal agency or department, 
+    any authority to promulgate regulations or set standards 
+    relating to the cybersecurity of private sector critical infrastruc-
+    ture that was not in effect on the day before the date of 
+    the enactment of this Act.
+    (2) PRIVATE ENTITIES.—Nothing in this section or the 
+    amendments made by this section may be construed to require 
+    any private entity to—

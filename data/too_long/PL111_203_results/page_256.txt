@@ -1,0 +1,16 @@
+124 STAT. 1630
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+‘‘(2) HEDGE FUND; PRIVATE EQUITY FUND.—The terms ‘hedge fund’ and ‘private equity fund’ mean an issuer that would be an investment company, as defined in the Investment Company Act of 1940 (15 U.S.C. 80a-1 et seq.), but for section 3(c)(1) or 3(c)(7) of that Act, or such similar funds as the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule, as provided in subsection (b)(2), determine.
+‘‘(3) NONBANK FINANCIAL COMPANY SUPERVISED BY THE BOARD.—The term ‘nonbank financial company supervised by the Board’ means a nonbank financial company supervised by the Board of Governors, as defined in section 102 of the Financial Stability Act of 2010.
+‘‘(4) PROPRIETARY TRADING.—The term ‘proprietary trading’, when used with respect to a banking entity or nonbank financial company supervised by the Board, means engaging as a principal for the trading account of the banking entity or nonbank financial company supervised by the Board in any transaction to purchase or sell, or otherwise acquire or dispose of, any security, any derivative, any contract of sale of a commodity for future delivery, any option on any such security, derivative, or contract, or any other security or financial instrument that the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rules provided in subsection (b)(2), determine.
+‘‘(5) SPONSOR.—The term to ‘sponsor’ a fund means—
+‘‘(A) to serve as a general partner, managing member, or trustee of a fund;
+‘‘(B) in any manner to select or to control (or to have employees, officers, or directors, or agents who constitute) a majority of the directors, trustees, or management of a fund; or
+‘‘(C) to share with a fund, for corporate, marketing, promotional, or other purposes, the same name or a variation of the same name.
+‘‘(6) TRADING ACCOUNT.—The term ‘trading account’ means any account used for acquiring or taking positions in the securities and instruments described in paragraph (4) principally for the purpose of selling in the near term (or otherwise with the intent to resell in order to profit from short-term price movements), and any such other accounts as the appropriate Federal banking agencies, the Securities and Exchange Commission, and the Commodity Futures Trading Commission may, by rule as provided in subsection (b)(2), determine.
+‘‘(7) ILLIQUID FUND.—
+‘‘(A) IN GENERAL.—The term ‘illiquid fund’ means a hedge fund or private equity fund that—
+‘‘(i) as of May 1, 2010, was principally invested in, or was invested and contractually committed to principally invest in, illiquid assets, such as portfolio companies, real estate investments, and venture capital investments; and
+‘‘(ii) makes all investments pursuant to, and consistent with, an investment strategy to principally invest in illiquid assets. In issuing rules regarding

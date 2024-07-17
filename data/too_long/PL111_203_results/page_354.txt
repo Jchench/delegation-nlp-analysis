@@ -1,0 +1,59 @@
+124 STAT. 1728                 PUBLIC LAW 111–203—JULY 21, 2010
+
+
+                                                  Effective date.
+         trader positions for the agreement, contract, or
+         transaction traded on the foreign board of trade
+         that are comparable to such reports on aggregate
+         trader positions for the 1 or more contracts against
+         which the agreement, contract, or transaction
+         traded on the foreign board of trade settles.
+             ‘‘(C) EXISTING FOREIGN BOARDS OF TRADE.—Subpara-
+         graphs (A) and (B) shall not be effective with respect to
+         any foreign board of trade to which, prior to the date
+         of enactment of this paragraph, the Commission granted
+         direct access permission until the date that is 180 days
+         after that date of enactment.’’.
+             (b) LIABILITY OF REGISTERED PERSONS TRADING ON A FOREIGN
+         BOARD OF TRADE.—Section 4 of the Commodity Exchange Act (7
+         U.S.C. 6) is amended—
+                  (1) in subsection (a), in the matter preceding paragraph
+             (1), by inserting ‘‘or by subsection (e)’’ after ‘‘Unless exempted
+             by the Commission pursuant to subsection (c)’’; and
+                  (2) by adding at the end the following:
+             ‘‘(e) LIABILITY OF REGISTERED PERSONS TRADING ON A FOREIGN
+         BOARD OF TRADE.—
+                  ‘‘(1) IN GENERAL.—A person registered with the Commis-
+             sion, or exempt from registration by the Commission, under
+             this Act may not be found to have violated subsection (a)
+             with respect to a transaction in, or in connection with, a con-
+             tract of sale of a commodity for future delivery if the person—
+                       ‘‘(A) has reason to believe that the transaction and
+                  the contract is made on or subject to the rules of a foreign
+                  board of trade that is—
+                            ‘‘(i) legally organized under the laws of a foreign
+                       country;
+                            ‘‘(ii) authorized to act as a board of trade by a
+                       foreign futures authority; and
+                            ‘‘(iii) subject to regulation by the foreign futures
+                       authority; and
+                       ‘‘(B) has not been determined by the Commission to
+                  be operating in violation of subsection (a).
+                  ‘‘(2) RULE OF CONSTRUCTION.—Nothing in this subsection
+              shall be construed as implying or creating any presumption
+              that a board of trade, exchange, or market is located outside
+              the United States, or its territories or possessions, for purposes
+              of subsection (a).’’.
+         (c) CONTRACT ENFORCEMENT FOR FOREIGN FUTURES CON-
+       TRACTS.—Section 22(a) of the Commodity Exchange Act (7 U.S.C.
+       25(a)) (as amended by section 739) is amended by adding at the
+       end the following:
+             ‘‘(6) CONTRACT ENFORCEMENT FOR FOREIGN FUTURES CON-
+         TRACTS.—A contract of sale of a commodity for future delivery
+         traded or executed on or through the facilities of a board of trade,
+         exchange, or market located outside the United States for purposes
+         of section 4(a) shall not be void, voidable, or unenforceable, and
+         a party to such a contract shall not be entitled to rescind or
+         recover any payment made with respect to the contract, based
+         on the failure of the foreign board of trade to comply with any
+         provision of this Act.’’.

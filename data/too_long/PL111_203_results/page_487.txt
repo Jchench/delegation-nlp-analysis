@@ -1,0 +1,37 @@
+PUBLIC LAW 111–203—JULY 21, 2010 124 STAT. 1861
+
+“(B) EXCEPTION.—The provisions of subparagraph (A) 
+shall not apply to a self-regulatory organization or the 
+Public Company Accounting Oversight Board with respect to information used by the Commission in an action against 
+such organization. “(4) DEFINITIONS.—For purposes of this subsection— 
+“(A) the term ‘privilege’ includes any work-product 
+privilege, attorney-client privilege, governmental privilege, 
+or other privilege recognized under Federal, State, or foreign law; 
+“(B) the term ‘foreign law enforcement authority’ 
+means any foreign authority that is empowered under foreign law to detect, investigate or prosecute potential viola
+tions of law; and 
+“(C) the term ‘State securities or law enforcement 
+authority’ means the authority of any State or territory 
+that is empowered under State or territory law to detect, 
+investigate, or prosecute potential violations of law.”. SEC. 929L. ENHANCED APPLICATION OF ANTIFRAUD PROVISIONS. 
+The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) 
+is amended— 
+(1) in section 9— 
+(A) by striking ‘‘registered on a national securities exchange’’ each place that term appears and inserting ‘‘other than a government security’’; 
+(B) in subsection (b), by striking ‘‘by use of any facility of a national securities exchange,’’; and 
+(C) in subsection (c), by inserting after ‘‘unlawful for 
+any’’ the following: ‘‘broker, dealer, or,’’; (2) in section 10(a)(1), by striking ‘‘registered on a national securities exchange’’ and inserting ‘‘other than a government 
+security’’; and 
+(3) in section 15(c)(1)(A), by striking ‘‘otherwise than on a national securities exchange of which it is a member’’. SEC. 929M. AIDING AND ABETTING AUTHORITY UNDER THE SECURI
+TIES ACT AND THE INVESTMENT COMPANY ACT. 
+(a) UNDER THE SECURITIES ACT OF 1933.—Section 15 of the 
+Securities Act of 1933 (15 U.S.C. 77o) is amended— 
+(1) by striking ‘‘Every person who’’ and inserting ‘‘(a) CONTROLLING PERSONS.—Every person who’’; and 
+(2) by adding at the end the following: 
+‘‘(b) PROSECUTION OF PERSONS WHO AID AND ABET VIOLATIONS.—For purposes of any action brought by the Commission under subparagraph (b) or (d) of section 20, any person that knowingly or recklessly provides substantial assistance to another person 
+in violation of a provision of this Act, or of any rule or regulation 
+issued under this Act, shall be deemed to be in violation of such provision to the same extent as the person to whom such assistance 
+is provided.’’. 
+(b) UNDER THE INVESTMENT COMPANY ACT OF 1940.—Section 
+48 of the Investment Company Act of 1940 (15 U.S.C. 80a–47) is amended by redesignating subsection (b) as subsection (c) and inserting after subsection (a) the following: 
+‘‘(b) For purposes of any action brought by the Commission under subsection (d) or (e) of section 42, any person that knowingly or recklessly provides substantial assistance to another person in

@@ -1,0 +1,24 @@
+134 STAT. 3474          PUBLIC LAW 116-283—JAN. 1, 2021
+
+Effective date.
+
+Deadline.
+
+Analysis.
+
+commercial outreach and partnership relating to 5G wireless networking in the Department, and interagency and international engagement;
+
+(G) to integrate the Department’s 5G wireless networking programs and policies with major initiatives, programs, and policies of the Department relating to secure microelectronics and command and control; and
+
+(H) to oversee, coordinate, execute, and lead initiatives to advance 5G wireless network technologies and associated applications developed for the Department.
+(3) TEAM LEADER.—The Under Secretary of Defense for Research and Engineering shall lead the cross-functional team established under paragraph (1) until the date on which the Secretary of Defense designates the Chief Information Officer as the senior official responsible for 5G wireless networking as required under subsection (b)(1). Beginning on the date of such designation, the Chief Information Officer shall lead the cross functional team.
+(d) DETERMINATION OF ORGANIZATIONAL ROLES AND RESPONSIBILITIES.—The Secretary of Defense, acting through the cross-functional team established under subsection (c), shall determine the roles and responsibilities of the organizations and elements of the Department of Defense with respect to the acquisition, sustainment, and operation of 5G wireless networking for the Department, including the roles and responsibilities of the Office of the Secretary of Defense, the intelligence components of the Department, Defense Agencies and Department of Defense Field Activities, the Armed Forces, combatant commands, and the Joint Staff.
+(e) BRIEFING.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a briefing on the progress of the Secretary in— 
+(1) establishing the cross-functional team under subsection (c); and
+(2) determining the roles and responsibilities of the organizations and elements of the Department of Defense with respect to 5G wireless networking as required under subsection (d).
+(f) 5G PROCUREMENT DECISIONS.—Each Secretary of a military department shall be responsible for decisions relating to the procurement of 5G wireless technology for that department.
+(g) TELECOMMUNICATIONS SECURITY PROGRAM.— 
+(1) PROGRAM REQUIRED.—The Secretary of Defense shall carry out a program to identify and mitigate vulnerabilities in the 5G telecommunications infrastructure of the Department of Defense.
+(2) ELEMENTS.—In carrying out the program under paragraph (1), the Secretary shall—
+(A) develop a capability to communicate clearly and authoritatively about threats by foreign adversaries;
+(B) conduct independent red-team security analysis of systems, subsystems, devices, and components of the Department of Defense including no-knowledge testing and testing with limited or full knowledge of expected functionalities;

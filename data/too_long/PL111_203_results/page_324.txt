@@ -1,0 +1,22 @@
+124 STAT. 1698         PUBLIC LAW 111-203—JULY 21, 2010
+
+“(2) INSPECTION AND EXAMINATION.—Each registered swap data repository shall be subject to inspection and examination by any representative of the Commission.
+“(3) COMPLIANCE WITH CORE PRINCIPLES.—
+“(A) IN GENERAL.—To be registered, and maintain registration, as a swap data repository, the swap data repository shall comply with—
+“(i) the requirements and core principles described in this section; and
+“(ii) any requirement that the Commission may impose by rule or regulation pursuant to section 8a(5).
+“(B) REASONABLE DISCRETION OF SWAP DATA REPOSITORY.—Unless otherwise determined by the Commission by rule or regulation, a swap data repository described in subparagraph (A) shall have reasonable discretion in establishing the manner in which the swap data repository complies with the core principles described in this section.
+“(d) STANDARD SETTING.—
+“(1) DATA IDENTIFICATION.—
+“(A) IN GENERAL.—In accordance with subparagraph (B), the Commission shall prescribe standards that specify the data elements for each swap that shall be collected and maintained by each registered swap data repository.
+“(B) REQUIREMENT.—In carrying out subparagraph (A), the Commission shall prescribe consistent data element standards applicable to registered entities and reporting counterparties.
+“(2) DATA COLLECTION AND MAINTENANCE.—The Commission shall prescribe data collection and data maintenance standards for swap data repositories.
+“(3) COMPARABILITY.—The standards prescribed by the Commission under this subsection shall be comparable to the data standards imposed by the Commission on derivatives clearing organizations in connection with their clearing of swaps.
+“(c) DUTIES.—A swap data repository shall—
+“(1) accept data prescribed by the Commission for each swap under subsection (b);
+“(2) confirm with both counterparties to the swap the accuracy of the data that was submitted;
+“(3) maintain the data described in paragraph (1) in such form, in such manner, and for such period as may be required by the Commission;
+“(4)(A) provide direct electronic access to the Commission (or any designee of the Commission, including another registered entity); and
+“(B) provide the information described in paragraph (1) in such form and at such frequency as the Commission may require to comply with the public reporting requirements contained in section 2(a)(13);
+“(5) at the direction of the Commission, establish automated systems for monitoring, screening, and analyzing swap data, including compliance and frequency of end user clearing exemption claims by individual and affiliated entities;
+“(6) maintain the privacy of any and all swap transaction information that the swap data repository receives from a swap dealer, counterparty, or any other registered entity; and

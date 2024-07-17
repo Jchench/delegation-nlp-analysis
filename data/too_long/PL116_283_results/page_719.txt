@@ -1,0 +1,58 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 4105
+
+     “(D) Public and private partnerships.
+     “(2) MEETINGS AND REPORTING.—Each subcommittee shall
+meet not less frequently than semiannually, and submit to
+the Advisory Committee for inclusion in the annual report
+required under subsection (b)(4) information, including activi-
+ties, findings, and recommendations, regarding subject matter
+considered by the subcommittee.
+     “(3) SUBJECT MATTER EXPERTS.—The chair of the Advisory
+Committee shall appoint members to subcommittees and shall
+ensure that each member appointed to a subcommittee has
+subject matter expertise relevant to the subject matter of the
+subcommittee.”
+     (b) CLERICAL AMENDMENT.—The table of contents in section
+1(b) of the Homeland Security Act of 2002 (Public Law 107–296;
+116 Stat. 2135), as so amended, is further amended by inserting
+after the item relating to section 2215 the following new item:
+“Sec. 2216. Cybersecurity Advisory Committee.”
+
+SEC. 1719. CYBERSECURITY EDUCATION AND TRAINING ASSISTANCE
+                    PROGRAM.
+     (a) AUTHORITIES.—Section 2202(e)(1) of the Homeland Security
+Act of 2002 (6 U.S.C. 652(e)(1)) is amended by adding at the
+end the following new subparagraph:
+     “(R) To encourage and build cybersecurity awareness
+and competency across the United States and to develop,
+attract, and retain the cybersecurity workforce necessary
+for the cybersecurity related missions of the Department,
+including by—
+          “(i) overseeing elementary and secondary cyberse-
+     curity education and awareness related programs at
+     the Agency;
+          “(ii) leading efforts to develop, attract, and retain
+     the cybersecurity workforce necessary for the cyberse-
+     curity related missions of the Department;
+          “(iii) encouraging and building cybersecurity
+     awareness and competency across the United States;
+     and
+          “(iv) carrying out cybersecurity related workforce
+     development activities, including through—
+               “(I) increasing the pipeline of future cybersecu-
+          rity professionals through programs focused on
+          elementary and secondary education, postsec-
+          ondary education, and workforce development; and
+               “(II) building awareness of and competency
+          in cybersecurity across the civilian Federal Govern-
+          ment workforce.”.
+     (b) EDUCATION, TRAINING, AND CAPACITY DEVELOPMENT.—Sec-
+tion 2202(c) of the Homeland Security Act of 2002 (6 U.S.C. 652(c))
+is amended—
+          (1) in paragraph (10), by striking “and” at the end;
+          (2) by redesignating paragraph (11) as paragraph (12);
+     and
+          (3) by inserting after paragraph (10) the following new
+     paragraph:
+          “(11) provide education, training, and capacity development
+     to Federal and non-Federal entities to enhance the security

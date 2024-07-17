@@ -1,0 +1,20 @@
+PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 1733
+
+a person acting in concert with the offeror or counterparty on a similar basis.
+“(ii) EXCEPTIONS.—This subparagraph shall not apply to—
+“(I) an agreement, contract, or transaction described in paragraph (1) or subparagraphs (A), (B), or (C), including any agreement, contract, or transaction specifically excluded from subparagraph (A), (B), or (C);
+“(II) any security;
+“(III) a contract of sale that—
+“(aa) results in actual delivery within 28 days or such other longer period as the Commission may determine by rule or regulation based upon the typical commercial practice in cash or spot markets for the commodity involved; or
+“(bb) creates an enforceable obligation to deliver between a seller and a buyer that have the ability to deliver and accept delivery, respectively, in connection with the line of business of the seller and buyer; or
+“(IV) an agreement, contract, or transaction that is listed on a national securities exchange registered under section 6(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78f(a)); or
+“(V) an identified banking product, as defined in section 402(b) of the Legal Certainty for Bank Products Act of 2000 (7 U.S.C.27(b)).
+“(iii) ENFORCEMENT.—Sections 4(a), 4(b), and 4b apply to any agreement, contract, or transaction described in clause (i), as if the agreement, contract, or transaction was a contract of sale of a commodity for future delivery.
+“(iv) ELIGIBLE COMMERCIAL ENTITY.—For purposes of this subparagraph, an agricultural producer, packer, or handler shall be considered to be an eligible commercial entity for any agreement, contract, or transaction for a commodity in connection with the line of business of the agricultural producer, packer, or handler.”.
+(b) GRAMM-LEACH-BLILEY ACT.—Section 206A of the Gramm-Leach-Bliley Act (Public Law 106–102; 15 U.S.C. 78c note) is amended, in the matter preceding paragraph (1), by striking “For purposes of” and inserting “Except as provided in subsection (e), for purposes of”.
+(c) CONFORMING AMENDMENTS RELATING TO RETAIL FOREIGN EXCHANGE TRANSACTIONS.—
+(1) Section 2(c)(2)(B)(i)(II) of the Commodity Exchange Act (7 U.S.C. 2(c)(2)(B)(i)(II)) is amended—
+(A) in item (aa), by inserting “United States” before “financial institution”;
+(B) by striking items (dd) and (ff);
+(C) by redesignating items (ee) and (gg) as items (dd) and (ff), respectively; and
+(D) in item (dd) (as so redesignated), by striking the semicolon and inserting “; or”.

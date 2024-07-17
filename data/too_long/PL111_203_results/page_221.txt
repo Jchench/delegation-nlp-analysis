@@ -1,0 +1,30 @@
+PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 1595
+
+PART II—REINSURANCE
+
+SEC. 531. REGULATION OF CREDIT FOR REINSURANCE AND REINSUR- 15 USC 8221.
+ANCE AGREEMENTS.
+
+(a) CREDIT FOR REINSURANCE.—If the State of domicile of a ceding insurer is an NAIC-accredited State, or has financial solvency requirements substantially similar to the requirements necessary for NAIC accreditation, and recognizes credit for reinsurance for the insurer’s ceded risk, then no other State may deny such credit for reinsurance.
+
+(b) ADDITIONAL PREEMPTION OF EXTRATERRITORIAL APPLICATION OF STATE LAW.—In addition to the application of subsection (a), all laws, regulations, provisions, or other actions of a State that is not the domiciliary State of the ceding insurer, except those with respect to taxes and assessments on insurance companies or insurance income, are preempted to the extent that they— 
+
+(1) restrict or eliminate the rights of the ceding insurer or the assuming insurer to resolve disputes pursuant to contrac- tual arbitration to the extent such contractual provision is not inconsistent with the provisions of title 9, United States Code;
+(2) require that a certain State’s law shall govern the reinsurance contract, disputes arising from the reinsurance contract, or requirements of the reinsurance contract;
+(3) attempt to enforce a reinsurance contract on terms different than those set forth in the reinsurance contract, to the extent that the terms are not inconsistent with this part; or 
+(4) otherwise apply the laws of the State to reinsurance agreements of ceding insurers not domiciled in that State.
+
+SEC. 532. REGULATION OF REINSURER SOLVENCY. 15 USC 8222.
+
+(a) DOMICILIARY STATE REGULATION.—If the State of domicile of a reinsurer is an NAIC-accredited State or has financial solvency requirements substantially similar to the requirements necessary for NAIC accreditation, such State shall be solely responsible for regulating the financial solvency of the reinsurer.
+(b) NONDOMICILIARY STATES.—
+
+(1) LIMITATION ON FINANCIAL INFORMATION REQUIRE- MENTS.—If the State of domicile of a reinsurer is an NAIC- accredited State or has financial solvency requirements substantially similar to the requirements necessary for NAIC accreditation, no other State may require the reinsurer to pro- vide any additional financial information other than the information the reinsurer is required to file with its domiciliary State.
+(2) RECEIPT OF INFORMATION.—No provision of this section shall be construed as preventing or prohibiting a State that is not the State of domicile of a reinsurer from receiving a copy of any financial statement filed with its domiciliary State.
+
+SEC. 533. DEFINITIONS. 15 USC 8223.
+
+For purposes of this part, the following definitions shall apply:
+
+(1) CEDING INSURER.—The term ‘‘ceding insurer’’ means an insurer that purchases reinsurance.
+(2) DOMICILIARY STATE.—The terms ‘‘State of domicile’’ and ‘‘domiciliary State’’ mean, with respect to an insurer or

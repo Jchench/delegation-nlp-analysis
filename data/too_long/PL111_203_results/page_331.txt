@@ -1,0 +1,19 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+124 STAT. 1705
+
+“(A) SWAP DEALERS AND MAJOR SWAP PARTICIPANTS THAT ARE BANKS.—Each registered swap dealer and major swap participant for which there is a prudential regulator shall meet such minimum capital requirements and minimum initial and variation margin requirements as the prudential regulator shall by rule or regulation prescribe under paragraph (2)(A).
+“(B) SWAP DEALERS AND MAJOR SWAP PARTICIPANTS THAT ARE NOT BANKS.—Each registered swap dealer and major swap participant for which there is not a prudential regulator shall meet such minimum capital requirements and minimum initial and variation margin requirements as the Commission shall by rule or regulation prescribe under paragraph (2)(B).
+“(2) RULES.—
+“(A) SWAP DEALERS AND MAJOR SWAP PARTICIPANTS THAT ARE BANKS.—The prudential regulators, in consulta- tion with the Commission and the Securities and Exchange Commission, shall jointly adopt rules for swap dealers and major swap participants, with respect to their activities as a swap dealer or major swap participant, for which there is a prudential regulator imposing—
+“(i) capital requirements; and
+“(ii) both initial and variation margin requirements on all swaps that are not cleared by a registered deriva- tives clearing organization.
+“(B) SWAP DEALERS AND MAJOR SWAP PARTICIPANTS THAT ARE NOT BANKS.—The Commission shall adopt rules for swap dealers and major swap participants, with respect to their activities as a swap dealer or major swap partici- pant, for which there is not a prudential regulator imposing—
+“(i) capital requirements; and
+“(ii) both initial and variation margin requirements on all swaps that are not cleared by a registered deriva- tives clearing organization.
+“(C) CAPITAL.—In setting capital requirements for a person that is designated as a swap dealer or a major swap participant for a single type or single class or category of swap or activities, the prudential regulator and the Commission shall take into account the risks associated with other types of swaps or classes of swaps or categories of swaps engaged in and the other activities conducted by that person that are not otherwise subject to regulation applicable to that person by virtue of the status of the person as a swap dealer or a major swap participant.
+“(3) STANDARDS FOR CAPITAL AND MARGIN.—
+“(A) IN GENERAL.—To offset the greater risk to the swap dealer or major swap participant and the financial system arising from the use of swaps that are not cleared, the requirements imposed under paragraph (2) shall—
+“(i) help ensure the safety and soundness of the swap dealer or major swap participant; and
+“(ii) be appropriate for the risk associated with the non-cleared swaps held as a swap dealer or major swap participant.
+“(B) RULE OF CONSTRUCTION.—

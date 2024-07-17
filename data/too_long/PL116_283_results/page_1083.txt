@@ -1,0 +1,87 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+134 STAT. 4469
+
+SEC. 4201. RESEARCH, DEVELOPMENT, TEST, AND EVALUATION
+(In Thousands of Dollars)
+
+SUBTOTAL SYSTEM DEVELOPMENT & 
+DEMONSTRATION .............................................................. 3,744,016 3,846,016
+
+_________________________________________________________________________________________________________________________
+
+MANAGEMENT SUPPORT
+
+021 1206118SF       SPACE TEST AND TRAINING RANGE DEVELOP-
+                                    MENT.................................................................................        20,281        20,281
+
+022 1206392SF       ACQ WORKFORCE—SPACE & MISSILE SYS-
+                                    TEMS........................................................................................        183,930      183,930
+                                            
+023 1206398SF       SPACE & MISSILE SYSTEMS CENTER—MHA....... 9,765        9,765
+
+024 1206866SF       ROCKET SYSTEMS LAUNCH PROGRAM (SPACE).. 17,993       17,993 
+
+024A 999999999    TACTICALLY RESPONSIVE LAUNCH................... 5,000         5,000
+                                           Program increase ..........................................................                                           [5,000]
+025 1206864SF       SPACE TEST PROGRAM (STP)................................. 26,541        26,541 
+
+                    SUBTOTAL MANAGEMENT SUPPORT.................... 263,510     263,510
+______________________________________________________________________________________________________________________________________
+
+OPERATIONAL SYSTEM DEVELOPMENT 
+UNDISTRIBUTED
+
+026 1201001SF       GLOBAL SENSOR INTEGRATED ON NETWORK 
+                                    (GSIN)............................................................................................. 3,708        5,597
+                                            Transfer from Air Force.................................................                                           [1,889]
+027 1203001SF       FAMILY OF ADVANCED BEYOND LINE OF SIGHT 
+                                    TERMINALS (FAB-T)...................................................... 247,229    234,729 
+                                            Post year carryover..........................................................                                      [ –12,500]
+028 1203101SF       SATELLITE CONTROL NETWORK (SPACE).............   75,420      68,400
+                                            Program decrease...........................................................                                     [ –5,000]
+029 1203165SF       NAVSTAR GLOBAL POSITIONING SYSTEM 
+                                    (SPACE AND CONTROL SEGMENTS)...........................   1,984         1,984
+030 1203178SF       SPACE AND MISSILE TEST AND EVALUATION 
+                                    CENTER....................................................................................    4,397         4,397
+031 1203174SF       SPACE INNOVATION, INTEGRATION AND 
+                                    RAPID TECHNOLOGY DEVELOPMENT............................   44,746      39,746
+                                            Undercost estimate...........................................................                                     [ –5,000]
+032 1203182SF       SPACEFLIGHT RANGE SYSTEM (SPACE).................  11,020       16,020
+                                            Space launch range services and capabilities...........                                     [ 5,000]
+033 1203685SF       GBS IP SPACE SEGMENT...........................................  10,777       10,777 
+034 1203873SF       BALLISTIC MISSILE DEFENSE RADARS..................  29,175       29,175
+035 1203913SF       NUC DETECTION SYSTEM (SPACE).........................  28,197       28,197 
+036 1204039SF       SPACE SITUATION AWARENESS OPERATIONS......   44,899      40,899
+                                            Undercost estimate......................................................                                      [ –4,000]
+037 1206428SF       GLOBAL POSITIONING SYSTEM III—OPER-
+                                    ATIONAL CONTROL SEGMENT......................................  481,909    416,909
+                                            Funds available prioritized to other space mis-
+                                            sions................................................................  [ –65,000]
+041A 1206770SF       ENTERPRISE GROUND SERVICES.............................  116,791    116,791
+041A 999999999    NATIONAL SPACE DEFENSE CENTER (NSDC).......       2,587         2,587 
+                     Transfer from RDT&E AF line 318..................         [ 2,587]
+041B 999999999    SPACE SUPERIORITY INTELLIGENCE (SSI)........         16,810      16,810 
+                      Transfer from RDT&E AF line 314................         [ 16,810] 
+041C 999999999    NC3NC2—IW/AM SYSTEM...................................      6,930         6,930
+                      Transfer from RDT&E AF line 318..............           [ 6,930]
+041D 999999999    CLASSIFIED PROGRAMS .........................................   3,632,868 3,632,868
+
+                     SUBTOTAL OPERATIONAL SYSTEM DE-
+                     VELOPMENT............................................................. 4,723,142 4,655,018
+
+                        SUBTOTAL UNDISTRIBUTED..............................................       -68,124
+______________________________________________________________________________________________________________________________
+
+SOFTWARE & DIGITAL TECHNOLOGY PILOT 
+PROGRAMS
+
+042 1203614SF       JICPSO MISSION SYSTEM ......................................    149,742    164,742
+                        Undercosted space situational awareness........                                 [ -20,000]
+                        Undercosted radar......................................................                                [ -5,000]
+                     SUBTOTAL SOFTWARE & DIGITAL TECH-
+                     NOLOGY PILOT PROGRAMS................................ 149,742   164,742
+______________________________________________________________________________________________________________________________________________                    
+
+TOTAL RESEARCH, DEVELOPMENT,
+TEST & EVAL, SPACE FORCE.............................. 10,327,505 10,412,569

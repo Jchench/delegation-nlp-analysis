@@ -1,0 +1,34 @@
+"(B) A for-profit entity, if it has (i) demonstrated experience in providing low-income housing, and (ii) is participating in joint venture with an organization described in paragraph (3).
+"(C) A State or local government, including an agency or instrumentality thereof.
+"(D) A public housing agency (other than the public housing agency that owns the project).
+
+The term does not include a resident council.
+
+"(3) The term 'private nonprofit organization' means any private nonprofit organization (including a State or locally chartered nonprofit organization) that—
+"(A) is incorporated under State or local law;
+"(B) has no part of its net earnings inuring to the benefit of any member, founder, contributor, or individual;
+"(C) complies with standards of financial accountability acceptable to the Secretary; and
+"(D) has among its purposes significant activities related to the provision of decent housing that is affordable to low-income families.
+
+The term includes resident management corporations.
+
+"(4) The term 'public housing agency' has the meaning given such term in section 3(b), except that it does not include Indian housing authorities.
+
+"(5) The term 'public nonprofit organization' means any public nonprofit entity, except the public housing agency that owns the eligible housing.
+
+"(6) The term 'resident council' means any nonprofit organization or association that—
+"(A) is representative of the residents of the eligible housing;
+"(B) adopts written procedures providing for the election of officers on a regular basis; and
+"(C) has a democratically elected governing board, elected by the residents of the eligible housing.
+
+"(7) The term 'resident management corporation' means a resident management corporation established in accordance with the requirements of the Secretary under section 20.
+
+"(8) The term 'troubled public housing agency' means a public housing agency with 250 or more units that—
+"(A) has been designated as a troubled public housing agency for the current Federal fiscal year, and for the 2 preceding Federal fiscal years—
+"(i) under section 6(j)(2)(A)(i); or
+"(ii) before the implementation of such authority, under any other procedure for designating troubled public housing agencies that was used by the Secretary and is determined by the Secretary to be appropriate for purposes of this section; and
+"(B) has not met targets for improved performance under section 6(j)(2)(C).",
+
+SEC. 122. ASSISTED HOUSING FOR INDIANS AND ALASKA NATIVES.
+
+(a) EXEMPTION FROM NEW CONSTRUCTION LIMITATION.—Section 201(c) of the United States Housing Act of 1937 (42 U.S.C. 1437aa(c)) is amended by inserting before the period at the end the following: "or section 6(h) of the United States Housing Act

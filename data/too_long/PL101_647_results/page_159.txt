@@ -1,0 +1,23 @@
+PUBLIC LAW 101-647—NOV. 29, 1990          104 STAT. 4947
+
+"(4) in an action to recover a fine, penalty, or tax.
+"(c) ISSUANCE OF WRIT; CONTENTS.—(1) Subject to subsections (a) and (b), a writ of sequestration shall be issued by the court directing the United States marshal of the district where income described in subsection (a) is located to sequester the income.
+"(2) Several writs of sequestration may be issued at the same time, or in succession, and sent to different judicial districts until sufficient income is sequestered.
+"(3) The writ of sequestration shall contain—
+"(A) the date of the issuance of the writ;
+"(B) the identity of the court, the docket number of the action, and the identity of the cause of action;
+"(C) the name and last known address of the debtor;
+"(D) the amount to be secured by the sequestration; and
+"(E) a reasonable description of the income to be sequestered.
+"(d) EXECUTION OF WRIT.—(1) The United States marshal receiving the writ shall proceed without delay to execute the writ.
+"(2) The United States marshal shall file a copy of the notice of sequestration in the same manner as provided for judgments in section 3201(a)(1). The United States marshal shall serve a copy of the writ and notice of sequestration on—
+"(A) the debtor against whom the writ is issued; and
+"(B) the person who has possession of the income subject to the writ;
+in the same manner that a summons is served in a civil action and make the return thereof.
+"(e) DEPOSIT OF SEQUESTERED INCOME.—A person who has possession of the income subject to a writ of sequestration shall deposit such income with the clerk of the court, accompanied by a statement in writing stating the person's name, the name of the debtor, the amount of such income, the property from which such income is produced, and the period during which such income is produced.
+"(f) RETURN OF WRIT; DUTIES OF MARSHAL; FURTHER RETURN.—(1) A United States marshal executing a writ of sequestration shall return the writ with the marshal's action endorsed thereon or attached thereto and signed by the marshal, to the court from which it was issued, within 5 days after the date of the execution.
+"(2) The return shall describe the income sequestered with sufficient certainty to identify it and shall state the location where it was sequestered, and the date and time it was sequestered. If no income was sequestered, the return shall so state.
+"(3) If sequestered income is claimed after the return, the United States marshal shall immediately make a further return to the clerk of the court showing the disposition of the income.
+"(g) REDUCTION OR DISSOLUTION OF SEQUESTRATION.—(1) If an excessive or unreasonable sequestration is made, the debtor may submit a motion to the court for a reduction of the amount of the sequestration or its dissolution. Notice of such motion shall be served on the United States.
+"(2) The court shall order a part of the income to be released, if after a hearing the court finds that the amount of the sequestration is excessive or unreasonable or if the sequestration is for an amount larger than the sum of the liquidated or ascertainable amount of the debt and the amount of interest and costs likely to be taxed.
+"(3) The court shall dissolve the sequestration if the amount of the debt is unliquidated and unascertainable by calculation.

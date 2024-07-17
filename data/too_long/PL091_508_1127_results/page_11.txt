@@ -1,0 +1,40 @@
+Pt. 600, App.
+16 CFR Ch. I (1–1–11 Edition)
+
+7. Seller of Property Extending Credit
+A seller of property has a permissible purpose under this subsection to obtain a con- sumer report on a prospective purchaser to whom he is planning to extend credit.
+
+8. Uncoded Credit Guides
+A consumer reporting agency may not fur- nish an uncoded credit guide, because the re- cipient does not have a permissible purpose to obtain a consumer report on each con- sumer listed. (As discussed under section 603(d), item 4 supra, credit guides are listings that credit bureaus furnish to credit grantors, rating how consumers pay their bills. Such guides are a series of ‘‘consumer reports’’ on the ‘‘consumers’’ listed therein, unless coded so that the consumer’s identity is not disclosed.)
+
+9. Liability for Bad Checks
+A party attempting to recover the amount due on a bad check is attempting to collect a debt and, therefore, has a permissible pur- pose to obtain a consumer report on the con- sumer who wrote it, and on any other con- sumer who is liable for the amount of that or another applicable state law.
+Section 604(a)(3)(B)—A consumer reporting agency may issue a consumer report to ‘‘a person which it has reason to believe * * * intends to use the information for employ- ment purposes:’’
+
+1. Current Employees
+An employer may obtain a consumer re- port on a current employee in connection with an investigation of the disappearance of money from employer premises, because ‘‘retention as an employee’’ is included in the definition of ‘‘employment purposes’’ (section 603(h)).
+
+2. Consumer Reports on Applicants and Nonapplicants
+An employer may obtain a consumer re- port for use in evaluating the subject’s appli- cation for employment but may not obtain a consumer report to evaluate the application of a consumer who is not the subject of the report.
+
+3. Grand Jurors
+The fact that grand jurors are usually paid a stipend for their service does not provide a district attorney’s office a permissible pur- pose for obtaining consumer reports on them, because such service is a duty, not employment.
+Section 604(a)(3)(C)—A consumer reporting agency may issue a consumer report to ‘‘a person which it has reason to believe * * * intends to use the information in connection with the underwriting of insurance involving the consumer;’’
+
+1. Underwriting
+An insurer may obtain a consumer report to decide whether or not to issue a policy to the consumer, the amount and terms of cov- erage, the duration of the policy, the rates or fees charged, or whether or not to renew or cancel a policy, because these are all ‘‘under- writing’’ decisions.
+
+2. Claims
+An insurer may not obtain a consumer re- port for the purpose of evaluating a claim (to ascertain its validity or otherwise determine what action should be taken), because per- missible purposes relating to insurance are limited by this section to ‘‘underwriting’’ purposes.
+Section 604(a)(3)(D)—A consumer reporting agency may issue a consumer report to ‘‘a person which it has reason to believe * * * intends to use the information in connection with a determination of the consumer’s eligi- bility for a license or other benefit granted by a governmental instrumentality required by law to consider an applicant’s financial responsibility or status * * *’’
+
+1. Appropriate Recipient
+Any party charged by law (including a rule or regulation having the force of law) with responsibility for assessing the consumer’s eligibility for the benefit (not one then enjoy ing) directly responsible for administering the benefit) has a permissible purpose to receive a consumer report. For example, a district attorney’s office or social services bureau, required by law to consider a consum- er’s financial status in determining whether that consumer qualifies for welfare benefits, has a permissible purpose to obtain a report, on the consumer for that purpose. Similarly, con- sumer reporting agencies may furnish con- sumer reports to townships on consumers whose financial status the township is re- quired by law to consider in determining the consumers’ eligibility for assistance, or to professional boards (e.g., bar examiners) re- quired by law to consider such information on applicants for admission to practice.
+
+2. Inappropriate Recipient
+Parties not charged with the responsibility of determining a consumer’s eligibility for a license or other benefit, for example, a party competing for an FCC radio station con- struction permit, would not have a permis- sible purpose to obtain a consumer report on that consumer.
+
+3. Initial or Continuing Benefit
+The permissible purpose includes the de- termination of a consumer’s continuing eligi- bility for a benefit, as well as the determina- tion of a consumer’s initial application for a benefit. If the governmental body has reason
+
+556

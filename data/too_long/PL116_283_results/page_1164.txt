@@ -1,0 +1,24 @@
+134 STAT. 4550          PUBLIC LAW 116–283—JAN. 1, 2021
+
+(b) ANTI-MONEY LAUNDERING PROGRAMS.—Section 5318 of title 31, United States Code, is amended—
+(1) in subsection (a)(1), by striking “subsection (b)(2)” and inserting “subsections (b)(2) and (h)(4)”; and
+(2) in subsection (h)—
+(A) in paragraph (1), in the matter preceding subparagraph (A)—
+(i) by inserting “and the financing of terrorism” after “money laundering”; and
+(ii) by inserting “and countering the financing of terrorism” after “anti-money laundering”;
+(B) in paragraph (2)—
+(i) by striking “The Secretary” and inserting the following:
+
+“(A) IN GENERAL.—The Secretary”; and 
+(ii) by adding at the end the following:
+
+“(B) FACTORS.—In prescribing the minimum standards under subparagraph (A), and in supervising and examining compliance with those standards, the Secretary of the Treasury, and the appropriate Federal functional regulator (as defined in section 509 of the Gramm-Leach-Bliley Act (12 U.S.C. 6809)) shall take into account the following:
+“(i) Financial institutions are spending private compliance funds for a public and private benefit, including protecting the United States financial system from illicit finance risks.
+“(ii) The extension of financial services to the underbanked and the facilitation of financial transactions, including remittances, coming from the United States and abroad in ways that simultaneously prevent criminal persons from abusing formal or informal financial services networks are key policy goals of the United States.
+“(iii) Effective anti-money laundering and countering the financing of terrorism programs safeguard national security and generate significant public benefits by preventing the flow of illicit funds in the financial system and by assisting law enforcement and national security agencies with the identification and prosecution of persons attempting to launder money and undertake other illicit activity through the financial system.
+“(iv) Anti-money laundering and countering the financing of terrorism programs described in paragraph (1) should be—
+“(I) reasonably designed to assure and monitor compliance with the requirements of this subchapter and regulations promulgated under this subchapter; and
+“(II) risk-based, including ensuring that more attention and resources of financial institutions should be directed toward higher-risk customers and activities, consistent with the risk profile of a financial institution, rather than toward lowerrisk customers and activities.”; and
+(C) by adding at the end the following:
+
+“(4) PRIORITIES.—

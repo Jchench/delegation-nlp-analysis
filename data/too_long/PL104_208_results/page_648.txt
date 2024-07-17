@@ -1,0 +1,20 @@
+110 STAT. 3009-647	PUBLIC LAW 104-208—SEPT. 30, 1996
+
+SEC. 373. POWERS AND DUTIES OF THE ATTORNEY GENERAL AND THE COMMISSIONER.
+Section 103 (8 U.S.C. 1103) is amended—
+	(1) by adding at the end of subsection (a) the following new paragraph:
+		‘‘(9) The Attorney General, in support of persons in administrative detention in non-Federal institutions, is authorized—
+			‘‘(A) to make payments from funds appropriated for the administration and enforcement of the laws relating to immigration, naturalization, and alien registration for necessary clothing, medical care, necessary guard hire, and the housing, care, and security of persons detained by the Service pursuant to Federal law under an agreement with a State or political subdivision of a State; and
+
+			‘‘(B) to enter into a cooperative agreement with any State, territory, or political subdivision thereof, for the necessary construction, physical renovation, acquisition of equipment, supplies or materials required to establish acceptable conditions of confinement and detention services in any State or unit of local government which agrees to provide guaranteed bed space for persons detained by the Service.’’; and
+	(2) by adding at the end of subsection (c), as redesignated by section 102(d)(1) of this division, the following: ‘‘The Commissioner may enter into cooperative agreements with State and local law enforcement agencies for the purpose of assisting in the enforcement of the immigration laws.’’.
+
+SEC. 374. JUDICIAL DEPORTATION.
+(a) IN GENERAL.—Section 242A(d) (8 U.S.C. 1252a(d)), as added by section 224(a) of Immigration and Nationality Technical Corrections Act of 1994 and before redesignation by section 308(b)(5) of this division, is amended—
+	(1) in paragraph (1), by striking ‘‘whose criminal conviction causes such alien to be deportable under section 241(a)(2)(A)’’ and inserting ‘‘who is deportable’’;
+	(2) in paragraph (4), by striking ‘‘without a decision on the merits’’; and
+	(3) by adding at the end the following new paragraph:
+		‘‘(5) STIPULATED JUDICIAL ORDER OF DEPORTATION.—The United States Attorney, with the concurrence of the Commissioner, may, pursuant to Federal Rule of Criminal Procedure 11, enter into a plea agreement which calls for the alien, who is deportable under this Act, to waive the right to notice and a hearing under this section, and stipulate to the entry of a judicial order of deportation from the United States as a condition of the plea agreement or as a condition of probation or supervised release, or both. The United States district court, in both felony and misdemeanor cases, and a United States magistrate judge in misdemeanor cases, may accept such a stipulation and shall have jurisdiction to enter a judicial order of deportation pursuant to the terms of such stipulation.’’.
+(b) DEPORTATION AS A CONDITION OF PROBATION.—Section 3563(b) of title 18, United States Code, is amended—
+	(1) by striking ‘‘or’’ at the end of paragraph (20);
+	(2) by redesignating paragraph (21) as paragraph (22); and

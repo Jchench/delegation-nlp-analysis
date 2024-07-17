@@ -1,0 +1,29 @@
+PUBLIC LAW 102-242—DEC. 19, 1991 105 STAT. 2345
+
+maintaining reports under this subsection. If the Corporation designates such an agent the Corporation may, through its agent, prescribe and collect an appropriate quarterly fee from each deposit broker that filed reports with the agent during the applicable quarter, in an amount sufficient to defray the Corporation’s cost of retaining the agent and to reflect the proportionate amount of the deposits placed with insured depository institutions by each broker during the applicable quarter.”.
+
+(c) DEPOSIT SOLICITATION RESTRICTED.—Section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f) is amended by adding at the end the following:
+
+“(h) DEPOSIT SOLICITATION RESTRICTED.—An insured depository institution that is undercapitalized, as defined in section 38, shall not solicit deposits by offering rates of interest that are significantly higher than the prevailing rates of interest on insured deposits—
+“(1) in such institution’s normal market areas; or
+“(2) in the market area in which such deposits would otherwise be accepted.”.
+
+(d) DEADLINE FOR REGULATIONS.—The Corporation shall promulgate final regulations to carry out the amendments made under subsections (a), (b), and (c) not later than 150 days after the date of enactment of this Act, and those regulations shall become effective not later than 180 days after that date of enactment, except that such regulations shall not apply to any specific time deposit made before that date of enactment until the stated maturity of the time deposit.
+                                                                              12 USC 1831f note.
+SEC. 302. RISK-BASED ASSESSMENTS.
+
+(a) RISK-BASED ASSESSMENT SYSTEM.—Section 7(b) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)) is amended to read as follows:
+
+“(b) ASSESSMENTS.—
+
+“(1) RISK-BASED ASSESSMENT SYSTEM.—
+
+“(A) RISK-BASED ASSESSMENT SYSTEM REQUIRED.—The Board of Directors shall, by regulation, establish a risk-based assessment system for insured depository institutions.
+“(B) PRIVATE REINSURANCE AUTHORIZED.—In carrying out this paragraph, the Corporation may—
+“(i) obtain private reinsurance covering not more than 10 percent of any loss the Corporation incurs with respect to an insured depository institution; and
+“(ii) base that institution’s semiannual assessment (in whole or in part) on the cost of the reinsurance.
+
+“(C) RISK-BASED ASSESSMENT SYSTEM DEFINED.—For purposes of this paragraph, the term ‘risk-based assessment system’ means a system for calculating a depository institution’s semiannual assessment based on—
+“(i) the probability that the deposit insurance fund will incur a loss with respect to the institution, taking into consideration the risks attributable to—
+“(I) different categories and concentrations of assets;
+“(II) different categories and concentrations of liabilities, both insured and uninsured, contingent and noncontingent; and

@@ -1,0 +1,25 @@
+110 STAT. 3009–487 PUBLIC LAW 104–208—SEPT. 30, 1996
+
+that reserve ratio exceeds the designated reserve ratio shall be placed in the Special Reserve of the Deposit Insurance Fund, established under section 11(a)(5) of the Federal Deposit Insurance Act, as amended by this section.
+    (2) DEFINITION.—For purposes of this subsection, the term “reserve ratio” means the ratio of the net worth of the Savings Association Insurance Fund to the aggregate estimated amount of deposits insured by the Savings Association Insurance Fund.
+    (c) EFFECTIVE DATE.—This section and the amendments made by this section shall become effective on January 1, 1999, if no insured depository institution is a savings association on that date.
+    (d) TECHNICAL AND CONFORMING AMENDMENTS.—
+        (1) DEPOSIT INSURANCE FUND.—Section 11(a)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(4)) is amended—
+            (A) by redesignating subparagraph (B) as subparagraph (C);
+            (B) by striking subparagraph (A) and inserting the following:
+                “(A) ESTABLISHMENT.—There is established the Deposit Insurance Fund, which the Corporation shall—
+                    “(i) maintain and administer;
+                    “(ii) use to carry out its insurance purposes in the manner provided by this subsection; and
+                    “(iii) invest in accordance with section 13(a).
+                “(B) USES.—The Deposit Insurance Fund shall be available to the Corporation for use with respect to Deposit Insurance Fund members; and
+            (C) by striking “(4) GENERAL PROVISIONS RELATING TO FUNDS.—” and inserting the following:
+                “(4) ESTABLISHMENT OF THE DEPOSIT INSURANCE FUND.—
+        (2) OTHER REFERENCES.—Section 11(a)(4)(C) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(4)(C), as redesignated by paragraph (1) of this subsection) is amended by striking “Bank Insurance Fund and the Savings Association Insurance Fund” and inserting “Deposit Insurance Fund”.
+        (3) DEPOSITS INTO FUND.—Section 11(a)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(4)) is amended by adding at the end the following new subparagraph:
+                “(D) DEPOSITS.—All amounts assessed against insured depository institutions by the Corporation shall be deposited in the Deposit Insurance Fund.”.
+        (4) SPECIAL RESERVE OF DEPOSITS.—Section 11(a)(5) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(5)) is amended to read as follows:
+            “(5) SPECIAL RESERVE OF DEPOSIT INSURANCE FUND.—
+                “(A) ESTABLISHMENT.—
+                    “(i) IN GENERAL.—There is established a Special Reserve of the Deposit Insurance Fund, which shall be administered by the Corporation and shall be invested in accordance with section 13(a).
+                    “(ii) LIMITATION.—The Corporation shall not provide any assessment credit, refund, or other payment from any amount in the Special Reserve.
+                “(B) EMERGENCY USE OF SPECIAL RESERVE.—Notwithstanding subparagraph (A)(ii), the Corporation may, in its sole discretion, transfer amounts from the Special Reserve

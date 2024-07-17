@@ -1,0 +1,20 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 
+
+how the Secretary plans to ensure the security and resiliency of the Advanced Battle Management System, including a description of any information assurance and anti-tamper requirements for the System.
+(d) ADDITIONAL REPORT AND BRIEFINGS.—Not later than April 
+1, 2021, the Secretary of the Air Force shall submit to the congressional defense committees the following:
+(1) REPORT ON PLANNED CAPABILITIES.—A report on the 
+planned product line capabilities of the Advanced Battle 
+Management System, including—
+(A) a description of the technologies needed to implement and achieve such product line capabilities;
+(B) a timeline for the technical maturation of such product line capabilities; and
+(C) a notional schedule for fielding such product line capabilities over the period covered by the most recent future-years defense program submitted under section 221 of title 10, United States Code, as of the date of the report.
+(2) BRIEFING ON ACQUISITION AUTHORITIES.—A briefing on the allocation of responsibilities among the individuals and entities responsible for acquisition for the Advanced Battles Management System, including an explanation of how decisionmaking and governance of the acquisition process is allocated among the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, the Chief Architect Integration Office, the Air Force Warfighting Integration Capability, and other entities within the Department of the Air Force that are expected provide capabilities for the System.
+(3) BRIEFING ON ALIGNMENT WITH COMMON MISSION CONTROL CENTER.—A briefing, which may be provided in classified or unclassified form, that explains how, and to what extent, the Advanced Battle Management System will be aligned and coordinated with the Common Mission Control Center of the Air Force.
+(e) ADVANCED BATTLE MANAGEMENT SYSTEM DEFINED.— In this section, the term ’’Advanced Battle Management System" has the meaning given that term in section 236(c) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1281).
+(f) CONFORMING REPEAL.—Section 147(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1670) is repealed.
+
+SEC. 222. ACTIVITIES TO IMPROVE FIELDING OF AIR FORCE HYPERSONIC CAPABILITIES.
+(a) IMPROVEMENT OF GROUND-BASED TEST FACILITIES.—The Secretary of Defense shall take such actions as may be necessary to improve ground-based test facilities used for the research, development, test, and evaluation of hypersonic capabilities.
+(b) INCREASING FLIGHT TEST RATE.—The Secretary of Defense shall increase the rate at which hypersonic capabilities are flight tested to expedite the maturation and fielding of such capabilities.
+(c) STRATEGY AND PLAN. —Not later than 60 days after the date of the enactment of this Act, the Chief of Staff of the Air Force, in consultation with the Under Secretary of Defense for Research and Engineering, shall submit to the congressional defense committees a strategy and plan for fielding air-launched and air-

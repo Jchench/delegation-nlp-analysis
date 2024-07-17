@@ -1,0 +1,24 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 3565
+
+(b) REQUIREMENT FOR DIVERSE MEMBERSHIP OF RESERVE COMPONENT PROMOTION SELECTION BOARDS.—Section 14102(b) of title 10, United States Code, is amended by adding at the end the following new sentence: “The members of a selection board shall represent the diverse population of the armed force concerned to the extent practicable.”
+(c) OTHER SELECTION BOARDS.—
+(1) IN GENERAL.—The Secretary of Defense shall ensure that the members of each selection board described in paragraph (2) represent the diverse population of the Armed Force concerned to the extent practicable.
+(2) SELECTION BOARD DESCRIBED.—A selection board described in this paragraph (1) is any selection board used with respect to the promotion, education, or command assignments of members of the Armed Forces that is not covered by the amendments made by this section.
+
+SEC. 504. REQUIREMENT FOR PROMOTION SELECTION BOARD RECOMMENDATION OF HIGHER PLACEMENT ON PROMOTION LIST OF OFFICERS OF PARTICULAR MERIT.
+
+(a) IN GENERAL.—Section 616(h) of title 10, United States Code, is amended—
+(1) in paragraph (1)—
+(A) by striking “may” and inserting “shall”; and
+(B) by inserting “pursuant to guidelines and procedures prescribed by the Secretary,” after “officers of particular merit,”; and
+(2) in paragraph (3), by inserting “, pursuant to guidelines and procedures prescribed by the Secretary concerned,” after “shall recommend”.
+(b) EFFECTIVE DATE.—The amendments made by subsection
+(a) shall take effect on the date of the enactment of this Act and shall apply with respect to officers recommended for promotion by promotion selection boards convened on or after that date.
+
+SEC. 505. SPECIAL SELECTION REVIEW BOARDS FOR REVIEW OF PROMOTION OF OFFICERS SUBJECT TO ADVERSE INFORMATION IDENTIFIED AFTER RECOMMENDATION FOR PROMOTION AND RELATED MATTERS.
+
+(a) REGULAR OFFICERS.—
+(1) IN GENERAL.—Subchapter III of chapter 36 of title 10, United States Code, is amended by inserting after section 628 the following new section:
+
+“§ 628a. Special selection review boards
+“(a) IN GENERAL.—(1) If the Secretary of the military department concerned determines that a person recommended by a promotion board for promotion to a grade at or below the grade of major general, rear admiral in the Navy, or an equivalent grade in the Space Force is the subject of credible information of an adverse nature, including any substantiated adverse finding or conclusion described in section 615(a)(3)(A) of this title, that was not furnished to the promotion board during its consideration of the person for promotion as otherwise required by such section, the Secretary shall convene a special selection review board under this section to review the person and recommend whether the recommendation for promotion of the person should be sustained.

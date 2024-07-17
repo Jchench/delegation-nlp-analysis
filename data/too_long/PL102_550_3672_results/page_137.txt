@@ -1,0 +1,15 @@
+“(ii) States with more than 1,500 cases of acquired immunodeficiency syndrome outside of metropolitan statistical areas described in clause (i); and
+“(B) 25 percent among cities that (i) are the most populous unit of general local government in a metropolitan statistical area having a population greater than 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome, and (ii) have a higher than average per capita incidence of acquired immunodeficiency syndrome. 
+A single city may receive assistance allocated under subparagraph (A) and subparagraph (B). For purposes of allocating amounts under this paragraph for any fiscal year, the number of cases of acquired immunodeficiency syndrome shall be the number of such cases reported to and confirmed by the Director of the Centers for Disease Control of the Public Health Service as of March 31 of the fiscal year immediately preceding the fiscal year for which the amounts are appropriated and to be allocated.”;
+(4) in subsection (c)(3)— 
+(A) by striking the paragraph heading and inserting ‘“’NONFORMULA ALLOCATION.—’’; and 
+(B) by striking subparagraph (A) and inserting the following new subparagraph: 
+“(A) IN GENERAL.—The Secretary shall allocate 10 percent of the amounts appropriated under section 863 among— 
+“(i) States and units of general local government that do not qualify for allocation of amounts under paragraph (1); and 
+“(ii) States, units of general local government, and nonprofit organizations, to fund special projects of national significance.”; 
+(5) in the first sentence of subsection (d), by striking “approvable applications submitted by eligible applicants” and inserting “applications submitted by applicants and approved by the Secretary”; 
+(6) in subsection (e), by striking “requirements of subsection (b)” and inserting “other requirements of this section”; and 
+(7) by adding at the end the following new subsection: 
+“(f) ADDITIONAL REQUIREMENT FOR CITY FORMULA GRANTEES.— 
+In addition to the other requirements of this section, to be eligible for a grant pursuant to subsection (c)(1), a city shall provide such assurances as the Secretary may require that any grant amounts received will be allocated among eligible activities in a manner that addresses the needs within the metropolitan statistical area in which the city is located, including areas not within the jurisdiction of the city. Any such city shall coordinate with other units of general local government located within the metropolitan statistical area to provide such assurances and comply with the assurances.” 
+(e) LIMITATION ON SPENDING FOR OTHER ACTIVITIES.—Section 855(6) (42 U.S.C. 12904(6)) is amended by inserting before the period at the end the following: “, except that activities developed under this paragraph may be assisted only with amounts provided under section 854(c)(3)”.”

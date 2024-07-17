@@ -1,0 +1,22 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 4545
+
+TITLE LV—DEPARTMENT OF ENERGY ARTIFICIAL INTELLIGENCE RE- SEARCH PROGRAM
+
+Sec. 5501. Department of energy artificial intelligence research program.
+
+SEC. 5501. DEPARTMENT OF ENERGY ARTIFICIAL INTELLIGENCE RESEARCH PROGRAM.
+
+(a) IN GENERAL.—The Secretary shall carry out a cross-cutting research and development program to advance artificial intelligence tools, systems, capabilities, and workforce needs and to improve the reliability of artificial intelligence methods and solutions relevant to the mission of the Department. In carrying out this program, the Secretary shall coordinate across all relevant offices and programs at the Department, including the Office of Science, the Office of Energy Efficiency and Renewable Energy, the Office of Nuclear Energy, the Office of Fossil Energy, the Office of Electricity, the Office of Cybersecurity, Energy Security, and Emergency Response, the Advanced Research Projects Agency-Energy, and any other relevant office determined by the Secretary. 
+(b) RESEARCH AREAS.—In carrying out the program under subsection (a), the Secretary shall award financial assistance to eligible entities to carry out research projects on topics including—
+	(1) the application of artificial intelligence systems to improve large-scale simulations of natural and other phenomena;
+	(2) the study of applied mathematics, computer science, and statistics, including foundations of methods and systems of artificial intelligence, causal and statistical inference, and the development of algorithms for artificial intelligence systems;
+	(3) the analysis of existing large-scale datasets from science and engineering experiments and simulations, including energy simulations and other priorities at the Department as determined by the Secretary using artificial intelligence tools and techniques;
+	(4) the development of operation and control systems that enhance automated, intelligent decisionmaking capabilities;
+	(5) the development of advanced computing hardware and computer architecture tailored to artificial intelligence systems, including the codesign of networks and computational hardware;
+	(6) the development of standardized datasets for emerging artificial intelligence research fields and applications, including methods for addressing data scarcity; and
+	(7) the development of trustworthy artificial intelligence systems, including—
+		(A) algorithmic explainability;
+		(B) analytical methods for identifying and mitigating bias in artificial intelligence systems; and
+		(C) safety and robustness, including assurance, verification, validation, security, and control.
+(c) TECHNOLOGY TRANSFER.—In carrying out the program under subsection (a), the Secretary shall support technology transfer of artificial intelligence systems for the benefit of society and United States economic competitiveness.
+ 15 USC 9461.

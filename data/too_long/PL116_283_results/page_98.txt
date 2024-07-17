@@ -1,0 +1,20 @@
+134 STAT. 3484            PUBLIC LAW 116–283—JAN. 1, 2021   
+
+Defense as the Secretary considers appropriate, including the chief data officers and chief management officers of the military departments, shall identify a set of no fewer than five use cases of the application of existing artificial intelligence enabled systems to support improved management of enterprise acquisition, personnel, audit, or financial management functions, or other appropriate management functions, that are consistent with reform efforts that support the National Defense Strategy.
+
+(b) PROTOTYPING ACTIVITIES ALIGNED TO USE CASES.—The Secretary, acting through the Under Secretary of Defense for Research and Engineering and in coordination with the Director of the Joint Artificial Intelligence Center and such other officers and employees as the Secretary considers appropriate, shall pilot technology development and prototyping activities that leverage commercially available technologies and systems to demonstrate new artificial intelligence enabled capabilities to support the use cases identified under subsection (a).  
+
+(c) BRIEFING.—Not later than October 1, 2021, the Secretary shall provide to the congressional defense committees a briefing summarizing the activities carried out under this section.
+
+SEC. 235. ACQUISITION OF ETHICALLY AND RESPONSIBLY DEVELOPED ARTIFICIAL INTELLIGENCE TECHNOLOGY.
+(a) ASSESSMENT REQUIRED.— 
+    (1) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, shall conduct an assessment of the following:
+        (A) whether the Department of Defense has the ability, requisite resourcing, and sufficient expertise to ensure that any artificial intelligence technology acquired by the Department is ethically and responsibly developed; and 
+        (B) how the Department can most effectively implement such artificial intelligence standards in acquisition processes and supply chains.
+    (2) ELEMENTS.—The assessment conducted under paragraph (1) shall address the following:
+        (A) Whether there are personnel occupying relevant roles within the Department of Defense who have sufficient expertise, across multiple disciplines (including ethical, legal, and technical expertise)—
+            (i) to advise on the acquisition of artificial intelligence technology; and
+            (ii) to ensure the acquisition of ethically and responsibly developed artificial intelligence technology.
+        (B) The feasibility and advisability of retaining outside experts as consultants to assist the Department in strengthening capacity and filling any gaps in expertise identified under subparagraph (A).
+        (C) The extent to which existing acquisition processes encourage or require consultation with relevant experts across multiple disciplines within the Department to ensure that artificial intelligence technology acquired by the Department is ethically and responsibly developed.
+        (D) Quantitative and qualitative standards for assessing the extent to which experts across multiple disciplines are engaged in the acquisition of artificial intelligence technology by the department.

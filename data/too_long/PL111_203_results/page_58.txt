@@ -1,0 +1,64 @@
+124 STAT. 1432          PUBLIC LAW 111–203—JULY 21, 2010
+
+         (3) OFF-BALANCE-SHEET ACTIVITIES DEFINED.—For purposes 
+of this subsection, the term ‘‘off-balance-sheet activities’’ means
+an existing liability of a company that is not currently a balance
+sheet liability, but may become one upon the happening of
+some future event, including the following transactions, to the
+extent that they may create a liability:
+         (A) Direct credit substitutes in which a bank sub- 
+        stitutes its own credit for a third party, including standby
+        letters of credit.
+         (B) Irrevocable letters of credit that guarantee repay- 
+        ment of commercial paper or tax-exempt securities.
+         (C) Risk participations in bankers’ acceptances.
+         (D) Sale and repurchase agreements.
+         (E) Asset sales with recourse against the seller.
+         (F) Interest rate swaps.
+         (G) Credit swaps.
+         (H) Commodities contracts.
+         (I) Forward contracts.
+         (J) Securities contracts.
+         (K) Such other activities or transactions as the Board
+        of Governors may, by rule, define.
+
+                                                12 USC 5366.
+                                                Regulations.
+                                                SEC. 166. EARLY REMEDIATION REQUIREMENTS.
+
+(a) IN GENERAL.—The Board of Governors, in consultation with
+the Council and the Corporation, shall prescribe regulations estab- 
+lishing requirements to provide for the early remediation of financial
+distress of a nonbank financial company supervised by the Board
+of Governors or a bank holding company described in section 165(a),
+except that nothing in this subsection authorizes the provision
+of financial assistance from the Federal Government.
+(b) PURPOSE OF THE EARLY REMEDIATION REQUIREMENTS.—
+The purpose of the early remediation requirements under subsection
+(a) shall be to establish a series of specific remedial actions to
+be taken by a nonbank financial company supervised by the Board
+of Governors or a bank holding company described in section 165(a)
+that is experiencing increasing financial distress, in order to mini- 
+mize the probability that the company will become insolvent and
+the potential harm of such insolvency to the financial stability
+of the United States.
+(c) REMEDIATION REQUIREMENTS.—The regulations prescribed
+by the Board of Governors under subsection (a) shall—
+          (1) define measures of the financial condition of the com- 
+         pany, including regulatory capital, liquidity measures, and
+         other forward-looking indicators; and
+          (2) establish requirements that increase in stringency as
+         the financial condition of the company declines, including—
+              (A) requirements in the initial stages of financial
+            decline, including limits on capital distributions, acquisi- 
+            tions, and asset growth; and
+              (B) requirements at later stages of financial decline, 
+            including a capital restoration plan and capital-raising
+            requirements, limits on transactions with affiliates,
+            management changes, and asset sales.
+
+                                                  12 USC 5367.
+SEC. 167. AFFILIATIONS.
+
+(a) AFFILIATIONS.—Nothing in this subtitle shall be construed
+to require a nonbank financial company supervised by the Board

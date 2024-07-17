@@ -1,0 +1,59 @@
+124 STAT. 1768          PUBLIC LAW 111-203—JULY 21, 2010
+
+‘‘(C) be responsible for administering each policy and 
+procedure that is required to be established pursuant to 
+this section;
+‘‘(D) ensure compliance with this title (including regula-
+tions issued under this title) relating to agreements, con-
+tracts, or transactions, including each rule prescribed by 
+the Commission under this section;
+‘‘(E) establish procedures for the remediation of non-
+compliance issues identified by the compliance officer 
+through any— 
+‘‘(i) compliance office review; 
+‘‘(ii) look-back;
+‘‘(iii) internal or external audit finding;
+‘‘(iv) self-reported error; or 
+‘‘(v) validated complaint; and
+‘‘(F) establish and follow appropriate procedures for 
+the handling, management response, remediation, re-
+testing, and closing of noncompliance issues.
+‘‘(3) ANNUAL REPORTS.—
+‘‘(A) IN GENERAL.—In accordance with rules prescribed 
+by the Commission, the chief compliance officer shall 
+annually prepare and sign a report that contains a descrip-
+tion of— 
+‘‘(i) the compliance of the registered clearing 
+agency or security-based swap execution facility of the 
+compliance officer with respect to this title (including 
+regulations issued under this title); and 
+‘‘(ii) each policy and procedure of the registered 
+clearing agency of the compliance officer (including 
+the code of ethics and conflict of interest policies of 
+the registered clearing agency).
+‘‘(B) REQUIREMENTS.—A compliance report under 
+subparagraph (A) shall— 
+‘‘(i) accompany each appropriate financial report 
+of the registered clearing agency that is required to 
+be furnished to the Commission pursuant to this sec-
+tion; and
+‘‘(ii) include a certification that, under penalty of 
+law, the compliance report is accurate and complete.’’. 
+(b) CLEARING AGENCY REQUIREMENTS.—Section 17A of the 
+Securities Exchange Act of 1934 (15 U.S.C. 78q–1) is amended 
+by adding at the end the following:
+‘‘(g) REGISTRATION REQUIREMENT.—It shall be unlawful for a 
+clearing agency, unless registered with the Commission, directly 
+or indirectly to make use of the mails or any means or instru-
+tality of interstate commerce to perform the functions of a clearing 
+agency with respect to a security-based swap.
+‘‘(h) VOLUNTARY REGISTRATION.—A person that clears agree-
+ments, contracts, or transactions that are not required to be cleared 
+under this title may register with the Commission as a clearing 
+agency.
+‘‘(i) STANDARDS FOR CLEARING AGENCIES CLEARING SECURITY-
+BASED SWAP TRANSACTIONS.—To be registered and to maintain 
+registration as a clearing agency that clears security-based swap 
+transactions, a clearing agency shall comply with such standards 
+as the Commission may establish by rule. In establishing any 
+such standards, and in the exercise of its oversight of such a

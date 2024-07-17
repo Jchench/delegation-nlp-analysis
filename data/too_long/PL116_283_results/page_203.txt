@@ -1,0 +1,20 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+134 STAT. 3589
+
+SEC. 515. MODIFICATION OF EDUCATION LOAN REPAYMENT PROGRAM FOR MEMBERS OF SELECTED RESERVE.
+    (a) MODIFICATION OF MAXIMUM REPAYMENT AMOUNT.—Section 16301(b) of title 10, United States Code, is amended by striking ‘‘$500’’ and inserting ‘‘$1,000’’.
+    (b) EFFECTIVE DATE AND APPLICABILITY.—The amendment made by subsection (a) shall take effect on the date of the enactment of this Act and shall apply with respect to loan repayment under section 16301 of title 10, United States Code, for eligible years of service completed on or after the date of the enactment of this Act.
+
+SEC. 516. INCLUSION OF DRILL OR TRAINING FOREGONE DUE TO EMERGENCY TRAVEL OR DUTY RESTRICTIONS IN COMPUTATIONS OF ENTITLEMENT TO AND AMOUNTS OF RETIRED PAY FOR NON-REGULAR SERVICE.
+    (a) ENTITLEMENT TO RETIRED PAY.—Section 12732(a)(2) of title 10, United States Code, is amended—
+            (1) by inserting after subparagraph (E) the following new subparagraph:
+        ‘‘(F)(i) Subject to regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy, one point for each day of active service or one point for each day in drill or other equivalent instruction that was prescribed by the Secretary concerned to be performed during the covered emergency period, if such person was prevented from performing such duty due to travel or duty restrictions imposed by the President, the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard.
+   ‘‘(ii) A person may not be credited more than 35 points in a one-year period under this subparagraph.
+   ‘‘(iii) In this subparagraph, the term ‘covered emergency period’ means the period beginning on March 1, 2020, and ending on the day that is 60 days after the date on which the travel or duty restriction applicable to the person concerned is lifted.’’; and
+            (2) in the matter following subparagraph (F), as inserted by paragraph (1), by striking ‘‘and (E)’’ and inserting ‘‘(E), and (F)’’.
+    (b) AMOUNT OF RETIRED PAY.—Section 12733(3) of such title is amended in the matter preceding subparagraph (A), by striking ‘‘or (D)’’ and inserting ‘‘(D), or (F)’’.
+    (c) REPORTING.—
+            (1) REPORT REQUIRED.—Not later than one year after the date on which the covered emergency period, as defined in subparagraph (F) of section 12732(a)(2) of such title, as added by subsection (a), ends, the Secretary of Defense shall submit to the congressional defense committees a report on the use of the authority under such subparagraph.
+            (2) ELEMENTS.—The report under this subsection shall include, with respect to each reserve component, the following:
+                (A) The number of individuals granted credit as a result of a training cancellation.

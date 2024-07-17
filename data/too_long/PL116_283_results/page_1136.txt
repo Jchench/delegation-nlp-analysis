@@ -1,0 +1,60 @@
+134 STAT. 4522
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+SEC. 4701. DEPARTMENT OF ENERGY NATIONAL SECURITY PROGRAMS
+(In Thousands of Dollars)
+
+Program                       
+Construction 1B–D–16 Waste treatment and immobilization
+plant—LBL/Direct feed LAW .................................. 609,924 	776,000
+   Program restoration 	................................................. 	[166,076]
+01–D–16B High-Level Waste Facility	
+Total, Construction ..................................................... 609,924  776,000
+Total, Office of River Protection ............................. 1,257,681  1,601,000
+Idaho National Laboratory:
+   Idaho cleanup and waste disposition .................. 257,554  257,554
+   Idaho community and regulatory support .......... 2,400 	2,400
+Total, Idaho National Laboratory ......................... 259,954  259,954
+NNSA sites and Nevada off-sites
+   Lawrence Livermore National Laboratory .......... 1,764 	1,764
+   Separations Process Research Unit .................... 15,000  15,000
+   Nevada 	................................................................. 60,737 	60,737
+   Sandia National Laboratories ............................ 4,860 	4,860
+   Los Alamos National Laboratory ....................... 120,000  220,000
+   	 Execute achievable scope of work .............      [100,000]
+Total, NNSA sites and Nevada off-sites ............. 202,361 	302,361
+Oak Ridge Reservation:
+   OR Nuclear facility D & D 	................................. 109,077  109,077
+Total, OR Nuclear facility D & D .......................... 109,077  109,077
+ 	
+U233 Disposition Program 	.................................... 45,000 	45,000
+OR cleanup and disposition .................................... 58,000 	58,000
+Construction:
+   17–D–401 On-site waste disposal facility .......... 22,380  22,380
+   14–D–403 Outfall 200 Mercury Treatment Facility 	..................................................... 20,500 	20,500
+Total, Construction 	.................................................. 42,880 	42,880
+Total, OR cleanup and waste disposition ............... 145,880  145,880
+ 	
+OR community & regulatory support	  
+OR technology development and deployment 	    4,930 	4,930
+  	3,000 	3,000
+Total, Oak Ridge Reservation .............................. 262,887 	262,887
+Savannah River Sites:
+   Savannah River risk management operations
+      Savannah River risk management operations 455,122  495,122
+      H-Canyon not placed into stand-by condition 	............................................................... [40,000]
+Total, risk management operations .................... 455,122  495,122
+ 	
+SR community and regulatory support 	.................... 4,989 	11,489
+   Secure payment in lieu of taxes funding ........  	............................................................... [6,500]
+   Radioactive liquid tank waste stabilization and disposition 	.......................................... 970,332  964,072
+Construction:
+   20–D–402 Advanced Manufacturing Collaborative Facility (AMC) .................................. 25,000 	25,000
+   18–D–402 Saltstone Disposal Unit #9 .............. 65,500 	65,500
+   17–D–402 Saltstone Disposal Unit #7 .............. 10,716 	10,716
+Total, Construction ................................................. 101,216 	101,216
+Total, Savannah River site .................................... 1,531,659  1,571,899
+ 	
+Waste Isolation Pilot Plant
+   Waste Isolation Pilot Plant  ................................. 323,260  323,260

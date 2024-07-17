@@ -1,0 +1,31 @@
+124 STAT. 1780
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+pursuant to section 3C(g)), the Commission shall require real-time public reporting for such transactions.
+
+(ii) With respect to those security-based swaps that are not subject to the mandatory clearing requirement described in section 3C(a)(1), but are cleared at a registered clearing agency, the Commission shall require real-time public reporting for such transactions.
+
+(iii) With respect to security-based swaps that are not cleared at a registered clearing agency and which are reported to a security-based swap data repository or the Commission under section 3C(a)(6), the Commission shall require real-time public reporting for such transactions, in a manner that does not disclose the business transactions and market positions of any person.
+
+(iv) With respect to security-based swaps that are determined to be required to be cleared under section 3C(b) but are not cleared, the Commission shall require real-time public reporting for such transactions.
+
+(D) REGISTERED ENTITIES AND PUBLIC REPORTING.— The Commission may require registered entities to publicly disseminate the security-based swap transaction and pricing data required to be reported under this paragraph.
+
+(E) RULEMAKING REQUIRED.—With respect to rules providing for the public availability of transaction and pricing data for security-based swaps described in clauses (i) and (ii) of subparagraph (C), the rule promulgated by the Commission shall contain provisions—
+
+(i) to ensure such information does not identify the participants;
+
+(ii) to specify the criteria for determining what constitutes a large notional security-based swap transaction (block trade) for particular markets and contracts;
+
+(iii) to specify the appropriate time delay for reporting large notional security-based swap transactions (block trades) to the public; and
+
+(iv) that take into account whether the public disclosure will materially reduce market liquidity.
+
+(F) TIMELINESS OF REPORTING.—Parties to a security-based swap (including agents of the parties to a security-based swap) shall be responsible for reporting security-based swap transaction information to the appropriate registered entity in a timely manner as may be prescribed by the Commission.
+
+(G) REPORTING OF SWAPS TO REGISTERED SECURITY-BASED SWAP DATA REPOSITORIES.—Each security-based swap (whether cleared or uncleared) shall be reported to a registered security-based swap data repository.
+
+(H) REGISTRATION OF CLEARING AGENCIES.—A clearing agency may register as a security-based swap data repository.
+
+(2) SEMIANNUAL AND ANNUAL PUBLIC REPORTING OF AGGREGATE SECURITY-BASED SWAP DATA.—

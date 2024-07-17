@@ -1,0 +1,33 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 
+
+Subtitle C—Defense Environmental Cleanup Matters
+
+SEC. 3121. PUBLIC STATEMENT OF ENVIRONMENTAL LIABILITIES FOR FACILITIES UNDERGOING DEFENSE ENVIRONMENTAL CLEANUP.
+
+(a) IN GENERAL.—Subtitle A of title XLIV of the Atomic Energy Defense Act (50 U.S.C. 2581 et seq.) is amended by adding at the end the following new section: 
+
+“SEC. 4410. PUBLIC STATEMENT OF ENVIRONMENTAL LIABILITIES.
+
+“Each year, at the same time that the Department of Energy submits its annual financial report under section 3516 of title 31, United States Code, the Secretary of Energy shall make available to the public a statement of environmental liabilities, as calculated for the most recent audited financial statement of the Department under section 3515 of that title, for each defense nuclear facility at which defense environmental cleanup activities are occurring.”. 
+
+(b) CLERICAL AMENDMENT.—The table of contents for the Atomic Energy Defense Act is amended by inserting after the item relating to section 4409 the following new item: “Sec. 4410. Public statement of environmental liabilities.”.
+
+SEC. 3122. INCLUSION OF MISSED MILESTONES IN FUTURE-YEARS DEFENSE ENVIRONMENTAL CLEANUP PLAN.
+
+Section 4402A(b)(3) of the Atomic Energy Defense Act (50 U.S.C. 2582A(b)(3)) is amended by adding at the end the following new subparagraph:
+
+“(D) For any milestone that has been missed, renegotiated, or postponed, a statement of the current milestone, the original milestone, and any interim milestones.”.
+
+SEC. 3123. CLASSIFICATION OF DEFENSE ENVIRONMENTAL CLEANUP AS CAPITAL ASSET PROJECTS OR OPERATIONS ACTIVITIES.
+
+(a) IN GENERAL.—The Assistant Secretary of Energy for Environmental Management, in consultation with other appropriate officials of the Department of Energy, shall establish requirements for the classification of defense environmental cleanup projects as capital asset projects or operations activities.
+
+(b) REPORT REQUIRED.—Not later than March 1, 2021, the Assistant Secretary shall submit to the congressional defense committees a report—
+ 
+(1) setting forth the requirements established under subsection (a); and
+
+(2) assessing whether any ongoing defense environmental cleanup projects should be reclassified based on those requirements.
+
+SEC. 3124. EXTENSION OF LIMITATION RELATING TO RECLASSIFICATION OF HIGH-LEVEL WASTE.
+
+Section 3121 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1953) is amended by striking “fiscal year 2020” and inserting “fiscal year 2020 or fiscal year 2021”.

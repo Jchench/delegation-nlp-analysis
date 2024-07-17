@@ -1,0 +1,19 @@
+“(G) A mutual housing association.”
+
+(e) ELIGIBLE PROPERTY UNDER HOPE II.—Section 426(3)(D) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12876(3)(D)) is amended by inserting before the period at the end the following “or an agency or instrumentality thereof”.
+(f) PREFERENCE FOR ACQUISITION OF VACANT UNITS UNDER HOPE III.—Section 444 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12894) is amended by adding at the end the following new subsections:
+(1) Preference for acquisition of vacant units.—Each homeownership program under this subtitle shall provide that, in making vacant units in eligible properties available for acquisition by eligible families, preference shall be given to eligible families who reside in public or Indian housing.”
+(g) TRANSFER OF SCATTERED SITE PUBLIC AND INDIAN HOUSING TO HOPE PROGRAMS.—
+(1) HOPE I.— 
+(A) IN GENERAL.—Sections 303(b)(2) and 304(d) of the United States Housing Act of 1937 (42 U.S.C. 1437aaa-2(b)(2) and 42 U.S.C. 1437aaa-3(d)) are each amended by striking “(not including scattered site single family housing of a public housing agency)”.
+(B) OPERATING SUBSIDIES.—Section 303(b)(9) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 1437aaa-2(b)(9)) is amended by inserting before the period at the end the following: “and except that implementation grants may not be used under this paragraph to fund operating expenses for scattered site public housing acquired under a homeownership program”.
+(2) HOPE III.—Section 446(4) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12896(4)) is amended by striking “including scattered site single family properties, and” and inserting “excluding public or Indian housing under the United States Housing Act of 1937 and including”.
+(h) ELIGIBILITY OF OTHER FEDERAL PROPERTY FOR HOPE PROGRAMS.—Sections 426(3)(D) and 446(4) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12876(3)(D) and 42 U.S.C. 12896(4)) are each amended by inserting after “Corporation,” the following: “the Federal Deposit Insurance Corporation, the Secretary of Defense, the Secretary of Transportation, the General Services Administration, any other Federal agency,”.
+
+SEC. 182. NATIONAL HOMEOWNERSHIP TRUST DEMONSTRATION.
+(a) EXTENSION OF TRUST.—Section 310 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12859) is amended by striking “on September 30, 1993” and inserting “September 30, 1994”.
+(b) AUTHORIZATION OF APPROPRIATIONS.—Section 308 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12857) is amended to read as follows:
+
+“SEC. 308. AUTHORIZATION OF APPROPRIATIONS.
+
+“There are authorized to be appropriated for assistance payments under this subtitle $520,665,600 for fiscal year 1993 and $542,533,556 for fiscal year 1994, of which such sums as may be necessary shall be available in each such fiscal year for use under section 303(e). Any amount appropriated under this section

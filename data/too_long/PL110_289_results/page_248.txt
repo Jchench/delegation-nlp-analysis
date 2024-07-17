@@ -1,0 +1,55 @@
+122 STAT. 2900        PUBLIC LAW 110–289—JULY 30, 2008
+
+SEC. 3033. CONFORMING FOREIGN CURRENCY REVISIONS.
+    (a) NET INCOME FROM FORECLOSURE PROPERTY.—Clause (i)
+of section 857(b)(4)(B) is amended to read as follows:
+        ‘‘(i) gain (including any foreign currency gain, as
+    defined in section 988(b)(1)) from the sale or other
+    disposition of foreclosure property described in section
+    1221(a)(1) and the gross income for the taxable year
+    derived from foreclosure property (as defined in section
+    856(e)), but only to the extent such gross income is
+    not described in (or, in the case of foreign currency
+    gain, not attributable to gross income described in)
+    section 856(c)(3) other than subparagraph (F) thereof,
+    over’’.
+    (b) NET INCOME FROM PROHIBITED TRANSACTIONS.—Clause (i)
+of section 857(b)(6)(B) is amended to read as follows:
+        ‘‘(i) the term ‘net income derived from prohibited
+    transactions’ means the excess of the gain (including
+    any foreign currency gain, as defined in section
+    988(b)(1)) from prohibited transactions over the deduc-
+    tions (including any foreign currency loss, as defined
+    in section 988(b)(2)) allowed by this chapter which
+    are directly connected with prohibited transactions;’’.
+
+                        Subtitle B—Taxable REIT Subsidiaries
+
+SEC. 3041. CONFORMING TAXABLE REIT SUBSIDIARY ASSET TEST.
+Section 856(c)(4)(B)(ii) is amended—
+    (1) by striking ‘‘20 percent’’ and inserting ‘‘25 percent’’,
+    and
+    (2) by striking ‘‘REIT subsidiaries’’ and all that follows,
+and inserting ‘‘REIT subsidiaries;’’.
+
+                        Subtitle C—Dealer Sales
+
+SEC. 3051. HOLDING PERIOD UNDER SAFE HARBOR.
+    (a) IN GENERAL.—Section 857(b)(6) (relating to income from
+prohibited transactions) is amended—
+        (1) by striking ‘‘4 years’’ in subparagraphs (C)(i), (C)(iv),
+    and (D)(i) and inserting ‘‘2 years’’;
+        (2) by striking ‘‘4-year period’’ in subparagraphs (C)(ii),
+    (D)(ii), and (D)(iii) and inserting ‘‘2-year period’’; and
+        (3) by striking ‘‘real estate asset’’ and all that follows
+    through ‘‘if’’ in the matter preceding clause (i) of subparagraphs
+    (C) and (D), respectively, and inserting ‘‘real estate asset (as
+    defined in section 856(c)(5)(B) and which is described in section
+    1221(a)(1) if’’.
+    (b) RETENTION OF EXISTING LAW.—Section 857(b)(6) is amended—
+        (1) by striking subparagraph (G) and redesignating sub-
+    paragraphs (H) and (I) as subparagraphs (G) and (H), respec-
+    tively, and
+        (2) in subparagraph (G), as so redesignated, by adding
+    at the end the following: ‘‘For purposes of the preceding sen-
+    tence, the reference to subparagraph (D) shall be a reference

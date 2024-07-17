@@ -1,0 +1,33 @@
+124 STAT. 1856    PUBLIC LAW 111-203—JULY 21,2010
+
+“§ 3114. Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission
+
+“(a) APPLICABILITY.—This section applies with respect to any position of accountant, economist, and securities compliance examiner at the Commission that is in the competitive service, and any position at the Commission in the competitive service that requires specialized knowledge of financial and capital market formation or regulation, financial market structures or surveillance, or information technology.”.
+(b) CLERICAL AMENDMENT.—The table of sections for chapter 31 of title 5, United States Code, is amended by striking the 
+item relating to section 3114 and inserting the following:
+“3114. Appointment of candidates to positions in the competitive service by the Securities and Exchange Commission.”.
+15 USC 78d note.
+(c) PAY AUTHORITY.—The Commission may set the rate of pay for experts and consultants appointed under the authority of section
+3109 of title 5, United States Code, in the same manner in which it sets the rate of pay for employees of the Commission
+
+SEC. 929H. SIPC REFORMS.
+(a) INCREASING THE CASH LIMIT OF PROTECTION.—Section 9 of the Securities Investor Protection Act of 1970 (15 U.S.C. 78fff–
+3) is amended—
+(1) in subsection (a)(1), by striking “$100,000 for each such customer” and inserting “the standard maximum cash advance
+amount for each such customer, as determined in accordance with subsection (d)*’; and
+(2) by adding the following new subsections:
+“(d) STANDARD MAXIMUM CASH ADVANCE AMOUNT DEFINED.—
+  For purposes of this section, the term ‘standard maximum cash
+  advance amount* means $250,000, as such amount may be adjusted
+  after December 31, 2010, as provided under subsection (e).
+“(e) INFLATION ADJUSTMENT.—
+(1) IN GENERAL—Not later than January 1, 2011, and every 5 years thereafter, and subject to the approval of the Commission as provided under section 3(e)(2), the Board of
+Directors of SIPC shall determine whether an inflation adjust- ment to the standard maximum cash advance amount is appro- priate. If the Board of Directors of SIPC determines such an adjustment is appropriate, then the standard maximum cash advance amount shall be an amount equal to—
+“(A) $250,000 multiplied by—
+“(B) the ratio of the annual value of the Personal Consumption Expenditures Chain-Type Price Index (or any successor index thereto), published by the Department of Commerce, for the calendar year preceding the year in which such determination is made, to the published annual value of such index for the calendar year preceding the year in which this subsection was enacted.
+The index values used in calculations under this paragraph 
+shall be, as of the date of the calculation, the values most recently published by the Department of Commerce.
+“(2) ROUNDING.—If the standard maximum cash advance
+amount determined under paragraph (1) for any period is not
+  Deadlines.
+Determination.

@@ -1,0 +1,22 @@
+124 STAT. 2204             PUBLIC LAW 111–203—JULY 21, 2010
+
+Treasury, authorized under the Emergency Economic Stabilization Act of 2008 (Public Law 110–343), to provide that the data being collected by the Secretary from each mortgage servicer and lender participating in the Program is made public in accordance with subsection (b).
+Deadlines. 
+(b) PUBLIC AVAILABILITY.—Data shall be made available according to the following guidelines:
+(1) Not more than 14 days after each monthly deadline for submission of data by mortgage servicers and lenders participating in the Program, reports shall be made publicly available by means of a World Wide Web site of the Secretary, and by submitting a report to the Congress, that shall includes the following information:
+(A) The number of requests for mortgage modifications under the Program that the servicer or lender has received.
+(B) The number of requests for mortgage modifications under the Program that the servicer or lender has processed.
+(C) The number of requests for mortgage modifications under the Program that the servicer or lender has approved.
+(D) The number of requests for mortgage modifications under the Program that the servicer or lender has denied.
+Records.
+(2) Not more than 60 days after each monthly deadline for submission of data by mortgage servicers and lenders participating in the Program, the Secretary shall make data tables available to the public at the individual record level. The Secretary shall issue regulations prescribing—
+Regulations.
+(A) the procedures for disclosing such data to the public; and
+(B) such deletions as the Secretary may determine to be appropriate to protect any privacy interest of any mortgage modification applicant, including the deletion or alteration of the applicant’s name and identification number.
+
+SEC. 1484. PROTECTING TENANTS AT FORECLOSURE EXTENSION AND CLARIFICATION.
+The Protecting Tenants at Foreclosure Act is amended—
+(1) in section 702 (12 U.S.C. 5220 note)—
+(A) in subsection (a)(2), by striking “, as of the date of such notice of foreclosure”; and
+(B) in subsection (c), by inserting after the period the following: “For purposes of this section, the date of a notice of foreclosure shall be deemed to be the date on which complete title to a property is transferred to a successor entity or person as a result of an order of a court or pursuant to provisions in a mortgage, deed of trust, or security deed.”; and
+(2) in section 704 (12 U.S.C. 5201 note), by striking “2012” and inserting “2014”.

@@ -1,0 +1,22 @@
+PUBLIC LAW 116–283—JAN. 1, 2021                    134 STAT. 4049
+
+(3) integrate and deploy such equipment into the prioritized operational systems, platforms, and weapons systems.
+(b) PLAN.—
+(1) IN GENERAL.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees a plan to commence carrying out subsection (a) in fiscal year 2021.
+(2) REPROGRAMMING AND BUDGET PROPOSALS.—The plan submitted under paragraph (1) may include any reprogramming or supplemental budget request the Secretary considers necessary to carry out subsection (a).
+(c) COORDINATION.—In carrying out this section, the Secretary shall consult with the National Security Council, the Secretary of Homeland Security, the Secretary of Transportation, and the head of any other relevant Federal department or agency to enable civilian and commercial adoption of technologies and capabilities for resilient and survivable alternative positioning, navigation, and timing capabilities to complement the global positioning system.
+
+SEC. 1612. LEVERAGING COMMERCIAL SATELLITE REMOTE SENSING.
+
+(a) IN GENERAL.—In acquiring geospatial intelligence, the Secretary of Defense and the Director of National Intelligence, in coordination with the Director of the National Reconnaissance Office and the Director of the National Geospatial-Intelligence Agency, shall leverage, to the extent practicable, the capabilities of the industry of the United States, including through the use of domestic commercial geospatial-intelligence imagery and acquisition of domestic commercial satellite imagery.
+(b) OBTAINING FUTURE GEOSPATIAL-INTELLIGENCE DATA.—The Director of the National Reconnaissance Office, as part of an analysis of alternatives for the future acquisition of space systems, and the Director of the National Geospatial-Intelligence Agency, as part of an analysis of alternatives for the future acquisition of analysis tools for geospatial intelligence, shall each—
+(1) consider whether there is a cost-effective domestic commercial capability or service available that can meet any or all of the geospatial-intelligence requirements of the Department of Defense, the intelligence community, or both;
+(2) if a cost-effective domestic commercial capability or service is available as described in paragraph (1)—
+(A) give preference to using such domestic commercial capability or service to meet requirements; and
+(B) determine—
+(i) whether it is in the national interest to develop a governmental space system or service for geospatial intelligence;
+(ii) whether such a governmental space system or service would be duplicative to such a domestic commercial capability or service; and
+(iii) the costs for developing such a governmental space system or service; and
+(3) include, as part of the established acquisition reporting requirements to the appropriate congressional committees, any determination made under paragraphs (1) and (2).
+(c) DEFINITIONS.—In this section:
+(1) The term “acquisition of commercial satellite imagery” means the acquisition of satellite imagery derived from electro-

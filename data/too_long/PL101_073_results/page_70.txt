@@ -1,0 +1,23 @@
+103 STAT. 252             PUBLIC LAW 101-73—AUG. 9, 1989
+
+paragraph (10)(D), at the election of the Corporation the bridge bank may retain its status as such for the period provided in paragraph (8).
+
+"(E) EFFECT ON HOLDING COMPANIES.—A depository institution holding company acquiring a bridge bank under section 13(f), paragraph (8)(B) (or any predecessor provision), or both provisions, shall not be impaired or adversely affected by the termination of the status of a bridge bank as a result of subparagraph (A), (B), (C), or (D) of paragraph (10), and shall be entitled to the rights and privileges provided in section 13(f).
+
+"(F) AMENDMENTS TO CHARTER.—Following the consummation of a transaction described in subparagraph (A), (B), (C), or (D) of paragraph (10), the charter of the resulting institution shall be amended to reflect the termination of bridge bank status, if appropriate.
+
+"(12) DISSOLUTION OF BRIDGE BANK.—
+
+"(A) IN GENERAL.—Notwithstanding any other provision of State or Federal law, if the bridge bank's status as such has not previously been terminated by the occurrence of an event specified in subparagraphs (A), (B), (C), or (D) of paragraph (10)—
+
+"(i) the Board of Directors may, in its discretion, dissolve a bridge bank in accordance with this paragraph at any time; and
+
+"(ii) the Board of Directors shall promptly commence dissolution proceedings in accordance with this paragraph upon the expiration of the 2-year period following the date the bridge bank was chartered, or any extension thereof as provided in paragraph (9).
+
+"(B) PROCEDURES.—The Comptroller of the Currency shall appoint the Corporation receiver for a bridge bank upon certification by the Board of Directors to the Comptroller of the Currency of its determination to dissolve the bridge bank. The Corporation as such receiver shall wind up the affairs of the bridge bank in conformity with the provisions of law relating to the liquidation of closed national banks. With respect to any such bridge bank, the Corporation as such receiver shall have all the rights, powers, and privileges and shall perform the duties related to the exercise of such rights, powers, or privileges granted by law to a receiver of any insured depository institution and notwithstanding any other provision of law in the exercise of such rights, powers, and privileges the Corporation shall not be subject to the direction or supervision of any State agency or other Federal agency.
+
+"(13) MULTIPLE BRIDGE BANKS.—Subject to paragraph (1)(BXi), the Corporation may, in the Corporation's discretion, organize 2 or more bridge banks under this subsection to assume any deposits of, assume any other liabilities of, and purchase any assets of a single bank in default.".
+
+SEC. 215. FSLIC RESOLUTION FUND.
+
+The Federal Deposit Insurance Act is amended by inserting after section 11 the following:

@@ -1,0 +1,36 @@
+124 STAT. 1788
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+institutions, and the Commission with respect to security- based swap dealers and major security-based swap partici- pants that are not depository institutions shall permit the use of noncash collateral, as the regulator or the Commis- sion determines to be consistent with—
+
+‘‘(i) preserving the financial integrity of markets trading security-based swaps; and
+
+‘‘(ii) preserving the stability of the United States financial system.
+
+‘‘(D) COMPARABILITY OF CAPITAL AND MARGIN REQUIRE- MENTS.— 
+
+‘‘(i) IN GENERAL.—The prudential regulators, the Commission, and the Securities and Exchange Commission shall periodically (but not less frequently than annually) consult on minimum capital require- ments and minimum initial and variation margin requirements.
+
+‘‘(ii) COMPARABILITY.—The entities described in clause (i) shall, to the maximum extent practicable, establish and maintain comparable minimum capital requirements and minimum initial and variation margin requirements, including the use of noncash collateral, for—
+
+‘‘(I) security-based swap dealers; and 
+‘‘(II) major security-based swap participants.
+ 
+‘‘(f) REPORTING AND RECORDKEEPING.—
+
+‘‘(1) IN GENERAL.—Each registered security-based swap dealer and major security-based swap participant—
+ 
+‘‘(A) shall make such reports as are required by the Commission, by rule or regulation, regarding the transactions and positions and financial condition of the reg- istered security-based swap dealer or major security-based swap participant;
+ 
+‘‘(B)(i) for which there is a prudential regulator, shall keep books and records of all activities related to the busi- ness as a security-based swap dealer or major security- based swap participant in such form and manner and for such period as may be prescribed by the Commission by rule or regulation; and
+ 
+‘‘(ii) for which there is no prudential regulator, shall keep books and records in such form and manner and for such period as may be prescribed by the Commission by rule or regulation; and
+ 
+‘‘(C) shall keep books and records described in subpara- graph (B) open to inspection and examination by any rep- resentative of the Commission.
+
+‘‘(2) RULES.—The Commission shall adopt rules governing reporting and recordkeeping for security-based swap dealers and major security-based swap participants.
+
+‘‘(g) DAILY TRADING RECORDS.—
+
+‘‘(1) IN GENERAL.—Each registered security-based swap dealer and major security-based swap participant shall main- tain daily trading records of the security-based swaps of the registered security-based swap dealer and major security-based swap participant and all related records (including related cash or forward transactions) and recorded communications, including electronic mail, instant messages, and recordings of

@@ -1,0 +1,41 @@
+134 STAT. 4744
+
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+apply to a covered small passenger vessel that has overnight passenger accommodations.
+
+‘‘(4) INTERIM REQUIREMENTS.—
+‘‘(A) INTERIM REQUIREMENTS.—The Secretary shall, prior to issuing final regulations under paragraph (1), implement interim requirements to enforce the requirements under paragraph (3).
+‘‘(B) IMPLEMENTATION.—The Secretary shall implement the interim requirements under subparagraph (A) without regard to chapters 5 and 6 of title 5 and Executive Order Nos. 12866 and 13563 (5 U.S.C. 601 note; relating to regulatory planning and review and relating to improving regulation and regulatory review).
+
+‘‘(5) DEFINITION OF COVERED SMALL PASSENGER VESSEL.—
+In this subsection, the term ‘covered small passenger vessel’—
+‘‘(A) except as provided in subparagraph (B), means a small passenger vessel (as defined in section 2101) that—
+‘‘(i) has overnight passenger accommodations; or
+‘‘(ii) is operating on a coastwise or oceans route; and
+‘‘(B) does not include a ferry (as defined in section 2101) or fishing vessel (as defined in section 2101).’’.
+
+(b) SECTION 3202.—Section 3202(b) of title 46, United States Code, is amended—
+(1) by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting appropriately;
+(2) by striking ‘‘This chapter’’ and inserting the following:
+‘‘(1) IN GENERAL.—This chapter’’; and
+(3) by adding at the end the following:
+‘‘(2) SAFETY MANAGEMENT SYSTEM.—Notwithstanding any other provision in this chapter, including paragraph (1)(B), any regulations under section 3203, including the safety management system established by such regulations, issued on or after the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, shall apply to all covered small passenger vessels, as defined in section 3306(n)(5).’’.
+
+(c) SECTION 3203.—Section 3203(a) of title 46, United States Code, is amended by inserting ‘‘(including, for purposes of this section, all covered small passenger vessels, as defined in section 3306(n)(5))’’ after ‘‘vessels to which this chapter applies’’.
+
+TITLE LVXXXV—TECHNICAL, CONFORMING, AND CLARIFYING AMENDMENTS
+
+Sec. 8501. Transfers.
+Sec. 8502. Additional transfers.
+Sec. 8503. License exemptions; repeal of obsolete provisions.
+Sec. 8504. Maritime transportation system.
+Sec. 8505. References to ‘‘persons’’ and ‘‘seamen’’.
+Sec. 8506. References to ‘‘himself’’ and ‘‘his’’.
+Sec. 8507. Miscellaneous technical corrections.
+Sec. 8508. Technical corrections relating to codification of Ports and Waterways Safety act.
+Sec. 8509. Aids to navigation.
+Sec. 8510. Transfers related to employees of Lighthouse Service.
+Sec. 8511. Transfers related to surviving spouses of Lighthouse Service employees.
+Sec. 8512. Repeals related to lighthouse statutes.
+Sec. 8513. Common appropriation structure.

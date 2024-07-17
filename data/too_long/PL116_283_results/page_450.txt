@@ -1,0 +1,25 @@
+134 STAT. 3836          PUBLIC LAW 116–283—JAN. 1, 2021
+
+(d) NOTICE TO CONGRESS.—The Secretary shall promptly notify Congress of each transfer made under subsection (a).
+
+SEC. 1002. BUDGET MATERIALS FOR SPECIAL OPERATIONS FORCES.
+
+Section 226 of title 10, United States Code, is amended—
+(1) in subsection (a)—
+(A) by inserting “of Defense and the Secretary of each of the military departments” after “Secretary”;
+(B) by striking “2021” and inserting “2022”;
+(C) by striking “a consolidated budget justification display” and inserting “a budget justification display for each applicable appropriation”;
+(D) in the second sentence, by striking “display” and all that follows and inserting “displays shall include each of the following:”; and
+(E) by adding at the end the following new paragraphs:
+“(1) Details at the appropriation and line item level, including any amount for service-common support, acquisition support, training, operations, pay and allowances, base operations sustainment, and any other common services and support.
+“(2) An identification of any change in the level or type of service-common support and enabling capabilities provided by each of the military services or Defense Agencies to special operations forces for the fiscal year covered by the budget justification display when compared to the preceding fiscal year, including the rationale for any such change and any mitigating actions.
+“(3) An assessment of the specific effects that the budget justification display for the fiscal year covered by the display and any anticipated future manpower and force structure changes are likely to have on the ability of each of the military services to provide service-common support and enabling capabilities to special operations forces.
+“(4) Any other matters the Secretary of Defense or the Secretary of a military department determines are relevant.”;
+(2) by redesignating subsection (b) as subsection (c); and
+(3) by inserting after subsection (a) the following new subsection (b):
+
+“(b) CONSOLIDATED BUDGET JUSTIFICATION DISPLAY.—The Secretary of Defense shall include, in the budget materials submitted to Congress under section 1105 of title 31, for fiscal year 2022 and any subsequent fiscal year, a consolidated budget justification display containing the same information as is required in the budget justification displays required under subsection (a). Such consolidated budget justification display may be provided as a summary by appropriation for each military department and a summary by appropriation for all Defense Agencies.”.
+
+SEC. 1003. APPLICATION OF FINANCIAL IMPROVEMENT AND AUDIT REMEDIATION PLAN TO FISCAL YEARS FOLLOWING FISCAL YEAR 2020.
+
+Section 240b(a)(2)(A)(iii) of title 10, United States Code, is amended by striking “for fiscal year 2018” and all that follows and inserting “for each fiscal year after fiscal year 2020 occurs by not later than March 31 following such fiscal year;”.

@@ -1,0 +1,56 @@
+134 STAT. 3516          PUBLIC LAW 116–283—JAN. 1, 2021
+              (B) by redesignating paragraph (3) as paragraph (4); 
+                          and
+              (C) by inserting after paragraph (2) the following new
+                         paragraph (3):
+                         ‘‘(3) maintaining or improving military installation resil-
+                                      ience; or’’; and
+                            (2) by amending subsection (h) to read as follows:
+                                              ‘‘(h) INTERAGENCY COOPERATION IN CONSERVATION AND RESIL- 
+                        IENCE PROGRAMS TO AVOID OR REDUCE ADVERSE IMPACTS ON MILI- 
+                        TARY INSTALLATION RESILIENCE AND MILITARY READINESS ACTIIV- 
+                        TIES.-In order to facilitate interagency cooperation and enhance
+                        the effectiveness of actions that will protect the environment, mili- 
+                        tary installation resilience, and military readiness, the recipient
+                       of funds provided pursuant to an agreement under this section 
+                      or under the Sikes Act (16 U.S.C. 670 et seq.) may, with regard
+                        to the lands and waters within the scope of the agreement, use 
+                        such funds to satisfy any matching funds or cost-sharing require-
+                       ment of any conservation or resilience program of any Federal
+                         agency notwithstanding any limitation of such program on the 
+                       source of matching or cost-sharing funds.’’.
+
+             SEC. 316. ENERGY RESILIENCE AND ENERGY SECURITY MEASURES 
+                                               ON MILITARY INSTALLATIONS.
+               (a) IN GENERAL.—Subchapter I of chapter 173 of title 10, United
+               States Code, is amended by inserting after section 2919 the fol- 
+               lowing new section:
+               ‘‘§ 2920. Energy resilience and energy security measures on 
+                                                military installations
+                 ‘‘(a) ENERGY RESILIENCE MEASURES.— (1) The Secretary of
+                         Defense shall, by the end of fiscal year 2030, provide that 100
+                         percent of the energy load required to maintain the critical missions
+                         of each installation have a minimum level of availability of 99.9
+                          percent per fiscal year.
+                     ‘‘(2) The Secretary of Defense shall issue standards establishing
+                            levels of availability relative to specific critical missions, with such
+                            standards providing a range of not less than 99.9 percent avail-
+                             ability per fiscal year and not more than 99.9999 percent availability
+                             per fiscal year, depending on the criticality of the mission.
+                        ‘‘(3) The Secretary may establish interim goals to take effect
+                                prior to fiscal year 2025 to ensure the requirements under this
+                                subsection are met.
+                        ‘‘(4) The Secretary of each military department and the head
+                                 of each Defense Agency shall ensure that their organizations meet 
+                                 the requirements of this subsection.
+               ‘‘(b) PLANNING.— (1) The Secretary of Defense shall require
+                   the Secretary of each military department and the head of each
+                   Defense Agency to plan for the provision of energy resilience and
+                   energy security for installations.
+                 ‘‘(2) Planning under paragraph (1) shall-
+                        ‘‘(A) promote the use of multiple and diverse sources of
+                            energy, with an emphasis favoring energy resources originating 
+                            on the installation, such as modular generation;
+                        ‘‘(B) promote installing microgrids to ensure the energy security and energy resilience of critical missions; and
+                        ‘‘(C) favor the use of full-time, installed energy sources
+                              rather than emergency generation.

@@ -1,0 +1,25 @@
+105 STAT. 2310  
+  
+PUBLIC LAW 102-242—DEC. 19, 1991  
+
+(1) REPORTING LIFELINE ACCOUNT DEPOSITS.—Section 7(a) of the Federal Deposit Insurance Act (12 U.S.C. 1817(a)) (as amended by sections 122, 123, and 141 of this Act) is amended by redesignating paragraphs (6), (7), (8), (9), and (10) as paragraphs (7), (8), (9), (10), and (11), respectively, and by inserting after paragraph (5) the following new paragraph:  
+
+"(6) LIFELINE ACCOUNT DEPOSITS.—In the reports of condition required to be reported under this subsection, the deposits in lifeline accounts (as defined in section 232(a)(3)(C) of the Bank Enterprise Act of 1991) shall be reported separately.".   
+
+(2) ASSESSMENT RATES APPLICABLE TO LIFELINE DEPOSITS.—Section 7(b) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)) is amended by redesignating paragraph (10) (as so redesignated by section 103(b) of this Act) as paragraph (11) and by inserting after paragraph (9) the following new paragraph:
+
+"(10) ASSESSMENT RATE FOR LIFELINE ACCOUNT DEPOSITS.—Notwithstanding any other provision of this subsection, that portion of the average assessment base of any insured depository institution which is attributable to deposits in lifeline accounts (as reported in the institution's reports of condition pursuant to subsection (a)(6)) shall be subject to assessment at the assessment rate of ½ the maximum rate.".  
+
+(3) ASSESSMENT PROCEDURE.—Section 7(b)(2)(A) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(2)(A)) is amended— 
+(A) by striking subclause (II) of clause (i) and inserting the following new subclause:
+(II) such Bank Insurance Fund member's average assessment base for the immediately preceding semiannual period (minus any amount taken into account under clause (iii) with respect to lifeline account deposits); and"; and  
+(B) by striking subclause (III) of clause (ii) and inserting the following new subclause:   			      
+(III) such Savings Association Insurance Fund member's average assessment base for the immediately preceding semiannual period (minus any amount taken into account under clause (iii) with respect to lifeline account deposits); and"; and (C) by adding at the end the following new clause:   				
+"(iii) the semiannual assessment due from any Bank Insurance Fund member or Savings Association Insurance Fund member with respect to lifeline account deposits for any semiannual assessment period shall be the product of—
+(I) ½ the assessment rate applicable with respect to such deposits pursuant to paragraph (10) during that semiannual assessment period; and   						
+
+(II) the portion of such member's average assessment base for the immediately preceding semiannual period which is attributable to deposits in lifeline accounts (as reported in the institution's reports of condition pursuant to subsection (a)(6)).".    
+
+Appropriation authorization. 
+
+(c) AVAILABILITY OF FUNDS.—The provisions of this section shall not take effect until appropriations are specifically provided in advance. There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.

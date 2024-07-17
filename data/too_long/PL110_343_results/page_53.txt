@@ -1,0 +1,26 @@
+PUBLIC LAW 110-343—OCT. 3, 2008
+                            122 STAT. 3817
+
+to the credit allowable under subsection (a) for such succeeding taxable year.”
+    (2) CONFORMING AMENDMENTS.—
+        (A) Section 23(b)(4)(B) is amended by inserting “and section 25D” after “this section”.
+        (B) Section 24(b)(3)(B) is amended by striking “and 25B” and inserting “, 25B, and 25D”.
+        (C) Section 25B(g)(2) is amended by striking “section 23” and inserting “sections 23 and 25D”.
+        (D) Section 26(a)(1) is amended by striking “and 25B” and inserting “25B, and 25D”.
+    (f) EFFECTIVE DATE.—
+        (1) IN GENERAL.—Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 2007.
+        (2) SOLAR ELECTRIC PROPERTY LIMITATION.—The amendments made by subsection (b) shall apply to taxable years beginning after December 31, 2008.
+        (3) APPLICATION OF EGTRRA SUNSET.—The amendments made by subparagraphs (A) and (B) of subsection (e)(2) shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 in the same manner as the provisions of such Act to which such amendments relate.
+    SEC. 107. NEW CLEAN RENEWABLE ENERGY BONDS.
+    (a) IN GENERAL.—Subpart I of part IV of subchapter A of chapter 1 is amended by adding at the end the following new section:
+        “SEC. 54C. NEW CLEAN RENEWABLE ENERGY BONDS.
+        “(a) NEW CLEAN RENEWABLE ENERGY BOND.—For purposes of this subpart, the term ‘new clean renewable energy bond’ means any bond issued as part of an issue if—
+            “(1) 100 percent of the available project proceeds of such issue are to be used for capital expenditures incurred by governmental bodies, public power providers, or cooperative electric companies for one or more qualified renewable energy facilities,
+            “(2) the bond is issued by a qualified issuer, and
+            “(3) the issuer designates such bond for purposes of this section.
+        “(b) REDUCED CREDIT AMOUNT.—The annual credit determined under section 54A(b) with respect to any new clean renewable energy bond shall be 70 percent of the amount so determined without regard to this subsection.
+        “(c) LIMITATION ON AMOUNT OF BONDS DESIGNATED.—
+            “(1) IN GENERAL.—The maximum aggregate face amount of bonds which may be designated under subsection (a) by any issuer shall not exceed the limitation amount allocated under this subsection to such issuer.
+            “(2) NATIONAL LIMITATION ON AMOUNT OF BONDS DESIGNATED.—There is a national new clean renewable energy bond limitation of $800,000,000 which shall be allocated by the Secretary as provided in paragraph (3), except that—
+                “(A) not more than 33⅓ percent thereof may be allocated to qualified projects of public power providers,
+                “(B) not more than 33⅓ percent thereof may be allocated to qualified projects of governmental bodies, and

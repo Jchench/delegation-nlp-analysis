@@ -1,0 +1,21 @@
+PUBLIC LAW 111–203—JULY 21, 2010 124 STAT. 1789
+
+telephone calls, for such period as may be required by the Commission by rule or regulation.
+   ‘‘(2) INFORMATION REQUIREMENTS.—The daily trading records shall include such information as the Commission shall require by rule or regulation.
+   ‘‘(3) COUNTERPARTY RECORDS.—Each registered security-based swap dealer and major security-based swap participant shall maintain daily trading records for each counterparty in a manner and form that is identifiable with each security-based swap transaction.
+   ‘‘(4) AUDIT TRAIL.—Each registered security-based swap dealer and major security-based swap participant shall maintain a complete audit trail for conducting comprehensive and accurate trade reconstructions.
+   ‘‘(5) RULES.—The Commission shall adopt rules governing daily trading records for security-based swap dealers and major security-based swap participants.
+   ‘‘(h) BUSINESS CONDUCT STANDARDS.—
+        ‘‘(1) IN GENERAL.—Each registered security-based swap dealer and major security-based swap participant shall conform with such business conduct standards as prescribed in paragraph (3) and as may be prescribed by the Commission by rule or regulation that relate to—
+            ‘‘(A) fraud, manipulation, and other abusive practices involving security-based swaps (including security-based swaps that are offered but not entered into);
+            ‘‘(B) diligent supervision of the business of the registered security-based swap dealer and major security-based swap participant;
+            ‘‘(C) adherence to all applicable position limits; and
+            ‘‘(D) such other matters as the Commission determines to be appropriate.
+ ‘‘(2) RESPONSIBILITIES WITH RESPECT TO SPECIAL ENTITIES.—
+        ‘‘(A) ADVISING SPECIAL ENTITIES.—A security-based swap dealer or major security-based swap participant that acts as an advisor to special entity regarding a security-based swap shall comply with the requirements of paragraph (4) with respect to such special entity.
+        ‘‘(B) ENTERING OF SECURITY-BASED SWAPS WITH RESPECT TO SPECIAL ENTITIES.—A security-based swap dealer that enters into or offers to enter into security-based swap with a special entity shall comply with the requirements of paragraph (5) with respect to such special entity.
+        ‘‘(C) SPECIAL ENTITY DEFINED.—For purposes of this subsection, the term ‘special entity’ means—
+             ‘‘(i) a Federal agency;
+             ‘‘(ii) a State, State agency, city, county, municipality, or other political subdivision of a State; or
+             ‘‘(iii) any employee benefit plan, as defined in section 3 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002);
+             ‘‘(iv) any governmental plan, as defined in section 3 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002); or

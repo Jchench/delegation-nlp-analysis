@@ -1,0 +1,56 @@
+134 STAT. 4234        PUBLIC LAW 116–283—JAN. 1, 2021
+
+10 USC 3791.
+
+“§ 3791. Management of intellectual property matters within the department of defense
+
+“(b) CADRE OF INTELLECTUAL PROPERTY EXPERTS.—For a provision requiring establishment of a cadre of personnel who are experts in intellectual property matters, see section 1707 of this title.”.
+
+(o) TRANSFERS.—
+
+(1) TRANSFER OF SECTION 2322(a).—Subsection (a) of section 2322 of title 10, United States Code, is transferred to section 3791 of such title, as added by subsection (n), and inserted after the section heading.
+(2) TRANSFER OF SECTIONS 2386 AND 2328.—Sections 2386 and 2328 of such title are transferred to subchapter III of chapter 275 of such title, as added by subsection (m), inserted (in that order) after section 3791, and redesignated as section 3793 and 3794, respectively.
+
+(p) CROSS REFERENCE AMENDMENTS.—Section 8687(a) of title 10, United States Code, is amended by striking “section 2320” each place it appears and inserting “subchapter I of chapter 275”.
+
+SEC. 1834. CONTRACT FINANCING.
+
+(a) NEW CHAPTER.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232), is amended by striking chapter 277 and inserting the following:
+
+“CHAPTER 277—CONTRACT FINANCING
+
+10 USC 3801 prec.
+10 USC 3801.
+
+“Sec.
+“3801. Authority of agency.
+“3802. Payment.
+“3803. Security for advance payments.
+“3804. Conditions for progress payments.
+“3805. Payments for commercial products and commercial services.
+“3806. Action in case of fraud.
+“3807. Vesting of title in the United States.
+
+10 USC 3802. 
+10 USC 3803. 
+10 USC 3804.
+10 USC 3805.
+10 USC 3806. 
+10 USC 3807.
+
+“§ 3801. Authority of agency
+“§ 3802. Payment
+“§ 3803. Security for advance payments
+“§ 3804. Conditions for progress payments
+“§ 3805. Payments for commercial products and commercial services
+“§ 3806. Action in case of fraud
+“§ 3807. Vesting of title in the United States”.
+
+(b) TRANSFER OF SUBSECTION (a) OF SECTION 2307.—
+
+(1) TRANSFER.—Subsection (a) of section 2307 of title 10, United States Code, is transferred to section 3801 of such title, as added by subsection (a), inserted after the section heading, and amended—
+
+(A) by striking “(1)” before “The head of”; and
+(B) by redesignating paragraph (2) as subsection (b).
+
+(2) CONFORMING AMENDMENTS TO NEW 3801(a).—Such subsection (a), as so transferred and amended, is further amended by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively.

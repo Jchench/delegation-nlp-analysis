@@ -1,0 +1,36 @@
+134 STAT. 4328          PUBLIC LAW 116-283—JAN. 1, 2021
+
+management of housing units shall measure at a minimum the following:
+    ‘‘(i) Tenant satisfaction.
+    ‘‘(ii) Maintenance management.
+    ‘‘(iii) Safety.
+    ‘‘(iv) Financial management.
+    ‘‘(B) An assessment required to be made available under paragraph (1)(A) shall include a detailed description of each indicator underlying the performance metrics, including the following information:
+    ‘‘(i) The limitations of available survey data.
+    ‘‘(ii) How tenant satisfaction and maintenance management is calculated.
+    ‘‘(iii) Whether any relevant data is missing.’’.
+(c) CONFORMING AMENDMENTS.—Paragraph (3) of section 2891e(b) of title 10, United States Code, as redesignated by subsection (b)(1), is amended—
+(1) by striking ‘‘paragraph (1)’’ and inserting ‘‘paragraph (1)(B)’’; and
+(2) by striking ‘‘each contract’’ and inserting ‘‘each contract for the provision or management of housing units’’.
+(d) CLERICAL AMENDMENTS.— 
+(1) SECTION HEADING.—The heading of section 2891c of title 10, United States Code, is amended to read as follows:
+‘‘§ 2891c. Transparency regarding finances and performance metrics’’.
+(2) TABLE OF SECTIONS.—The table of sections at the beginning of subchapter V of chapter 169 of title 10, United States Code, is amended by striking the item relating to section 2891c and inserting the following new item:
+‘‘2891c. Transparency regarding finances and performance metrics.’’.
+
+10 USC 2890
+prec.
+10 USC 2821
+note. 
+
+SEC. 2815. REQUIREMENT THAT SECRETARY OF DEFENSE IMPLEMENT RECOMMENDATIONS RELATING TO MILITARY FAMILY HOUSING CONTAINED IN REPORT BY INSPECTOR GENERAL OF DEPARTMENT OF DEFENSE.
+
+    Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall implement the recommendations of the Inspector General of the Department of Defense contained in the report of the Inspector General dated April 30, 2020, and entitled ‘‘Evaluation of the DoD’s Management of Health and Safety Hazards in Government-Owned and Government-Controlled Military Family Housing’’.
+
+10 USC 2871 
+note.
+
+SEC. 2816. PROMULGATION OF GUIDANCE TO FACILITATE RETURN OF MILITARY FAMILIES DISPLACED FROM PRIVATIZED MILITARY HOUSING.
+
+(a) GUIDANCE REQUIRED.—The Secretary of Defense shall promulgate guidance for commanders of military installations and installation housing management offices to assist such commanders and offices in facilitating and managing the relocation and return of tenants of privatized military housing when tenants are displaced from such housing—
+(1) as a result of an environmental hazard or other damage adversely affecting the habitability of the privatized military housing; or

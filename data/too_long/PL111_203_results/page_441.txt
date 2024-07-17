@@ -1,0 +1,15 @@
+PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 1815
+
+agency take enforcement action against a designated financial market utility in order to prevent or mitigate significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States. Any such recommendation for enforcement action shall provide a detailed analysis supporting the recommendation of the Board of Governors.
+(2) CONSIDERATION.—The Supervisory Agency shall consider the recommendation of the Board of Governors and submit a response to the Board of Governors within 60 days.
+(3) BINDING ARBITRATION.—If the Supervisory Agency rejects, in whole or in part, the recommendation of the Board of Governors, the Board of Governors may refer the recommendation to the Council for a binding decision on whether an enforcement action is warranted.
+(4) ENFORCEMENT ACTION.—Upon an affirmative vote by a majority of the Council in favor of the Board of Governors' recommendation under paragraph (3), the Council may require the Supervisory Agency to—
+(A) exercise the enforcement authority referenced in subsection (c); and
+(B) take enforcement action against the designated financial market utility.
+(f) EMERGENCY ENFORCEMENT ACTIONS BY THE BOARD OF GOVERNORS.—
+(1) IMMINENT RISK OF SUBSTANTIAL HARM.—The Board of Governors may, after consulting with the Supervisory Agency and upon an affirmative vote by a majority the Council, take enforcement action against a designated financial market utility if the Board of Governors has reasonable cause to conclude that—
+(A) either—
+(i) an action engaged in, or contemplated by, a designated financial market utility (including any change proposed by the designated financial market utility to its rules, procedures, or operations that would otherwise be subject to section 806(e)) poses an imminent risk of substantial harm to financial institutions, critical markets, or the broader financial system of the United States; or
+(ii) the condition of a designated financial market utility poses an imminent risk of substantial harm to financial institutions, critical markets, or the broader financial system; and
+(B) the imminent risk of substantial harm precludes the Board of Governors' use of the procedures in subsection (e).
+(2) ENFORCEMENT AUTHORITY.—For purposes of taking enforcement action under paragraph (1), a designated financial market utility shall be subject to, and the Board of Governors shall have authority under the provisions of subsections (b) through (n) of section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818) in the same manner and to the same extent as if the designated financial market utility was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.

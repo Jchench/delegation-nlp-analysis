@@ -1,0 +1,62 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 4523
+
+
+SEC. 4701. DEPARTMENT OF ENERGY NATIONAL SECURITY PROGRAMS
+(In Thousands of Dollars)
+-----------------------------------------------------------------------------------------------------------------
+ Program                                                                                     FY 2021 
+                                                                                            Request         Conference
+                                                                                                            Authorized
+-----------------------------------------------------------------------------------------------------------------
+Construction: 
+        15-D-402 Utility Saft .........................................................................  50,000            50,000
+        21-D-401 Hosting Capability Project ...............................................  10,000            10,000
+Total, Construction ...................................................................................  60,000            60,000
+Total, Waste Isolation Pilot Plant ............................................................  383,260          383,260
+        Program direction .............................................................................  275,285          275,285
+        Program support ...............................................................................  12,979            12,979
+        Technology development ................................................................  25,000            25,000
+Safeguards and Security
+        Safeguards and Security ...................................................................  320,711          320,711
+Total, Safeguards and Security .................................................................  320,711          320,711
+        Prior year balances credited .............................................................  –109,000        –109,000
+Total, Defense Environmental Cleanup ..................................................  4,983,608      5,815,767
+Other Defense Activities
+        Environment, health, safety and security
+               Environment, health, safety and security ...................................  134,320          134,320
+               Program direction ........................................................................  75,368            75,368
+Total, Environment, Health, safety and security ......................................  209,688          209,688 
+        Independent enterprise assessments
+               Independent enterprise assessments ......................................  26,949            26,949
+               Program direction......................................................................... 54,635            54,635
+Total, Independent enterprise assessments ............................................  81,584            81,584 
+               Specialized security activities ......................................................  258,411          258,411
+        Office of Legacy Management
+               Legacy management ....................................................................  293,873          140,194
+                          Rejection of proposed transfer ............................................ —[153,679]
+               Program direction......................................................................... 23,120            23120
+Total, Office of Legacy Management ....................................................... 316993           163,314
+        Defense related administrative support ............................................ 183,789          183,789
+        Office of hearings and appeals ............................................................ 4,262              4,262
+Subtotal, Other defense activities ..............................................................  1,054,727        901,048
+        Total, Other Defense Activities ...............................................................  1,054,727         901,048
+
+DIVISION E—NATIONAL ARTIFICIAL 
+INTELLIGENCE INITIATIVE ACT OF 2020
+SEC. 5001. SHORT TITLE.
+      This division may be cited as the “National Artificial Intelligence Initiative Act of 2020”.
+SEC. 5002. DEFINITIONS.
+        In this division:
+        (1) ADVISORY COMMITTEE. —The term “Advisory Committee”
+        means the National Artificial Intelligence Advisory Committee established under section 5104(a).
+        (2) AGENCY HEAD. —The term “agency head” means the head of any Executive agency (as defined in section 105 of title 5, United States Code).
+
+        National 
+        Artificial 
+        Intelligence 
+        Initiative Act 
+        of 2020. 
+        15 USC 9401 
+        note.
+
+        15 USC 9401.

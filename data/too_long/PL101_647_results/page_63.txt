@@ -1,0 +1,28 @@
+PUBLIC LAW 101-647—NOV. 29, 1990                         104 STAT. 4851
+
+(c) APPLICATION OF AMENDMENTS. - The amendments made by this section shall not apply with respect to any fiscal year beginning before the date of the enactment of this Act.
+
+SEC. 1804. TESTING CERTAIN SEX OFFENDERS FOR HUMAN IMMUNODEFICIENCY VIRUS.
+Section 506 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3756) is amended -
+     (1) in subsection (a)(1) by striking "subsection (e)" and inserting "subsections (e) and (f)",
+     (2) by redesignating subsection (f) as subsection (g), and
+     (3) by inserting after subsection (e) the following:
+          "(f)(1) For any fiscal year beginning more than 2 years after the effective date of this subsection —
+               ‘‘(A) 90 percent of the funds allocated under subsection (a), taking into consideration subsection (e) but without regard to this subsection, to a State described in paragraph (2) shall be distributed by the Director to such State; and
+               ‘‘(B) 10 percent of such amount shall be allocated equally among States that are not affected by the operation of subparagraph (A).
+          ‘‘(2) Paragraph (1)(A) refers to a State that does not have in effect, and does not enforce, in such fiscal year, a law that requires the State at the request of the victim of a sexual act—
+               ‘‘(A) to administer, to the defendant convicted under State law of such sexual act, a test to detect in such defendant the presence of the etiologic agent for acquired immune deficiency syndrome;
+               ‘‘(B) to disclose the results of such test to such defendant and to the victim of such sexual act; and
+               ‘‘(C) to provide to the victim of such sexual act counseling regarding HIV disease, HIV testing, in accordance with applicable law, and referral for appropriate health care and support services.
+          ‘‘(3) For purposes of this subsection—
+               ‘‘(A) the term ‘convicted’ includes adjudicated under juvenile proceedings; and
+               ‘‘(B) the term ‘sexual act’ has the meaning given such term in subparagraph (A) or (B) of section 2245(1) of title 18, United States Code.".
+
+TITLE XIX—ANABOLIC STEROIDS CONTROL ACT OF 1990
+
+SEC. 1901. SHORT TITLE.
+This Act may be cited as the "Anabolic Steroids Control Act of 1990".
+
+SEC. 1902. ANABOLIC STEROID PENALTIES.
+(a) ADDITION OF ANABOLIC STEROIDS TO SCHEDULE III. - Schedule III of section 202(c) of the Controlled Substances Act (21 U. S. C. 812(c)) is amended by adding at the end the following:
+     ‘‘(e) Anabolic steroids.".

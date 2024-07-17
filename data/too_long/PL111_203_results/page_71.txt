@@ -1,0 +1,13 @@
+PUBLIC LAW 111–203—JULY 21, 2010 124 STAT. 1445
+
+the board of directors (or body performing similar functions) of the covered financial company does not acquiesce or consent to the appointment of the Corporation as receiver, the Secretary shall petition the United States District Court for the District of Columbia for an order authorizing the Secretary to appoint the Corporation as receiver.
+(ii) FORM AND CONTENT OF ORDER.—The Secretary shall present all relevant findings and the recommendation made pursuant to section 203(a) to the Court. The petition shall be filed under seal.
+(iii) DETERMINATION.—On a strictly confidential basis, and without any prior public disclosure, the Court, after notice to the covered financial company and a hearing in which the covered financial company may oppose the petition, shall determine whether the determination of the Secretary that the covered financial company is in default or in danger of default and satisfies the definition of a financial company under section 201(a)(11) is arbitrary and capricious.
+(iv) ISSUANCE OF ORDER.—If the Court determines that the determination of the Secretary that the covered financial company is in default or in danger of default and satisfies the definition of a financial company under section 201(a)(11)—
+(I) is not arbitrary and capricious, the Court shall issue an order immediately authorizing the Secretary to appoint the Corporation as receiver of the covered financial company; or
+(II) is arbitrary and capricious, the Court shall immediately provide to the Secretary a written statement of each reason supporting its determination, and afford the Secretary an immediate opportunity to amend and refile the petition under clause (i).
+(v) PETITION GRANTED BY OPERATION OF LAW.— If the Court does not make a determination within 24 hours of receipt of the petition—
+(I) the petition shall be granted by operation of law;
+(II) the Secretary shall appoint the Corporation as receiver; and
+(III) liquidation under this title shall automatically and without further notice or action be commenced and the Corporation may immediately take all actions authorized under this title.
+(B) EFFECT OF DETERMINATION.—The determination of the Court under subparagraph (A) shall be final, and shall be subject to appeal only in accordance with paragraph (2). The decision shall not be subject to any stay or injunction pending appeal. Upon conclusion of its proceedings under subparagraph (A), the Court shall provide immediately for the record a written statement of each reason supporting the decision of the Court, and shall provide copies thereof to the Secretary and the covered financial company.

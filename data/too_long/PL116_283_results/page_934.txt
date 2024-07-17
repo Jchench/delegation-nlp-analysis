@@ -1,0 +1,60 @@
+134 STAT. 4320             PUBLIC LAW 116-283—JAN. 1, 2021
+
+    (2) by striking paragraph (6).
+(b) SYNCHRONIZATION OF NOTIFICATION REQUIREMENTS.—Sec-
+tion 2853(c)(1) of title 10, United States Code, is amended by
+inserting after ‘‘cost increase’’ in the matter preceding subparagraph
+(A) the following: ‘‘(subject to subsection (f))’’.
+(c) DELEGATION AND SCOPE OF HOUSING PRIVATIZATION
+REPORTING REQUIREMENT.—Section 2884(a) of title 10, United
+States Code, is amended—
+(1) in paragraph (1)—
+(A) in the matter preceding the subparagraphs, by
+striking ‘‘The Secretary of Defense’’ and inserting ‘‘The
+Secretary concerned’’; and
+(B) in subparagraph (A)—
+(i) by inserting ‘‘or agreement’’ after ‘‘each con-
+tract’’; and
+(ii) by striking ‘‘that the Secretary proposes to
+solicit’’;
+(2) in paragraph (2)—
+(A) in the matter preceding the subparagraphs, by
+striking ‘‘For each proposed contract, conveyance, or lease
+described in paragraph (1), the report required by such
+paragraph’’ and inserting ‘‘A report required by paragraph
+(1)’’; and
+(B) by inserting ‘‘agreement,’’ after ‘‘contract,’’ each
+place it appears; and
+(3) in paragraph (3), by inserting ‘‘or agreement’’ after
+‘‘contract’’ each place it appears.
+        
+SEC. 2804. CONSIDERATION OF ENERGY SECURITY AND ENERGY RESIL-
+        IENCE IN LIFE-CYCLE COST FOR MILITARY CONSTRUC-
+        TION.
+    (a) IN GENERAL.—Chapter 169 of title 10, United States Code,
+is amended by inserting after section 2815 the following new section:
+        
+    ‘‘§ 2816. Consideration of energy security and energy resil-
+             ience in life-cycle cost for military construction
+        
+        ‘‘(a) IN GENERAL.—(1) The Secretary concerned, when evalu-
+    ating the life-cycle designed cost of a covered military construction
+    project, shall include as a facility requirement the long-term consid-
+    eration of energy security and energy resilience that would ensure
+    that the resulting facility is capable of continuing to perform its
+    missions, during the life of the facility, in the event of a natural
+    or human-caused disaster, an attack, or any other unplanned event
+    that would otherwise interfere with the ability of the facility to
+    perform its missions.
+        ‘‘(2) A facility requirement under paragraph (1) shall not be
+    weighed, for cost purposes, against other facility requirements in
+    determining the design of the facility.
+        ‘‘(b) INCLUSION IN THE BUILDING LIFE-CYCLE COST PROGRAM.—
+    The Secretary shall include the requirements of subsection (a) in
+    applying the latest version of the building life-cycle cost program,
+    as developed by the National Institute of Standards and Technology,
+    to consider on-site distributed energy assets in a building design
+    for a covered military construction project.
+        ‘‘(c) COVERED MILITARY CONSTRUCTION PROJECT DEFINED.—
+    (1) In this section, the term ‘covered military construction project’
+    means a military construction project for a facility that is used

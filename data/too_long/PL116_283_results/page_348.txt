@@ -1,0 +1,58 @@
+134 STAT. 3734
+
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+Authorization Act for Fiscal Year 2016 (Public Law 114-
+92; 10 U.S.C. 2302 note);
+(B) information technology and software program;
+(C) services contract, including each services contract
+for information technologies and systems; and
+(D) acquisition activity other than major defense
+acquisition programs (as defined in section 2430 of title
+10, United States Code), as determined by the Secretary
+of Defense;
+(2) methods to identify responsible individuals for
+sustainment planning;
+(3) required elements of sustainment planning;
+(4) timing of sustainment planning activities in the acquisi-
+tion process;
+(5) measures and metrics to assess compliance with
+sustainment plans; and
+(6) actions to continuously monitor, create incentives for,
+and ensure compliance with sustainment plans.
+SEC. 803. DISCLOSURES FOR OFFERORS FOR CERTAIN SHIPBUILDING
+MAJOR DEFENSE ACQUISITION PROGRAM CONTRACTS.
+(a) IN GENERAL.—Chapter 137 of title 10, United States Code,
+is amended by adding at the end the following new section:
+‘‘§ 2339c. Disclosures for offerors for certain shipbuilding
+major defense acquisition program contracts
+‘‘(a) IN GENERAL.—Any covered offeror seeking to be awarded
+a shipbuilding construction contract as part of a major defense
+acquisition program with funds from the Shipbuilding and Conver-
+sion, Navy account shall disclose along with the offer and any
+subsequent revisions of the offer (including the final proposal revi-
+sion offer) if any part of the planned contract performance will
+or is expected to include foreign government subsidized perform-
+ance, foreign financing, foreign financial guarantees, or foreign tax
+concessions.
+‘‘(b) REQUIREMENTS.—A disclosure required under subsection
+(a) shall be made in a form prescribed by the Secretary of the
+Navy and shall include a specific description of the extent to which
+the planned contract performance will include, with or without
+contingencies, any foreign government subsidized performance, for-
+eign financing, foreign financial guarantees, or foreign tax conces-
+sions.
+‘‘(c) CONGRESSIONAL NOTIFICATION.—Not later than 5 days after
+awarding a contract described under subsection (a), the Secretary
+of the Navy shall notify the congressional defense committees and
+summarize the disclosure provided under such subsection.
+‘‘(d) DEFINITIONS.—In this section:
+‘‘(1) COVERED OFFEROR.—The term ‘covered offeror’ means
+any offeror that requires or may reasonably be expected to
+require, during the period of performance on a shipbuilding
+construction contract described in subsection (a), a method to
+mitigate or negate foreign ownership under section 2004.34(f)(6)
+of title 32, Code of Federal Regulations.
+‘‘(2) FOREIGN GOVERNMENT SUBSIDIZED PERFORMANCE.—The
+term ‘foreign government subsidized performance’ means any
+financial support, materiel, services, or guarantees of support,

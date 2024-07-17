@@ -1,0 +1,26 @@
+104 STAT. 4862 PUBLIC LAW 101-647—NOV. 29, 1990 
+
+SEC. 2505. STATUTE OF LIMITATIONS FOR RICO OFFENSES INVOLVING FINANCIAL INSTITUTIONS.
+(a) IN GENERAL.—Section 3293 of title 18, United States Code, is amended—
+(1) by striking "or" at the end of paragraph (1);
+(2) by inserting "or" at the end of paragraph (2); and
+(3) by inserting after paragraph (2) the following new paragraph:
+"(3) section 1963, to the extent that the racketeering activity involves a violation of section 1344;".
+
+(b) SCOPE OF APPLICATION.—The amendments made by subsection (a) shall apply to any offense committed before the date of the enactment of this section, if the statute of limitations applicable to that offense had not run as of such date.
+
+SEC. 2506. MONEY LAUNDERING INVOLVING BANK CRIMES.
+Section 1956(c)(7)(D) of title 18, United States Code, is amended—
+(1) by inserting "section 1005 (relating to fraudulent bank entries), 1006 (relating to fraudulent Federal credit institution entries), 1007 (relating to Federal Deposit Insurance transactions), 1014 (relating to fraudulent loan or credit applications), 1032 (relating to concealment of assets from conservator, receiver, or liquidating agent of financial institution)," after "section 875 (relating to interstate communications),"; and
+(2) by inserting "section 1341 (relating to mail fraud) or section 1343 (relating to wire fraud) affecting a financial institution." after "section 1203 (relating to hostage taking),".
+
+SEC. 2507. INCREASED PENALTIES IN MAJOR BANK CRIME CASES.
+(a) INCREASED PENALTIES.—Pursuant to section 994 of title 28, United States Code, and section 21 of the Sentencing Act of 1987, the United States Sentencing Commission shall promulgate guidelines, or amend existing guidelines, to provide that a defendant convicted of violating, or conspiring to violate, section 215, 225, 656, 657, 1005, 1006, 1007, 1014, 1032, or 1344 of title 18, United States Code, or section 1341 or 1343 affecting a financial institution (as defined in section 20 of title 18, United States Code), shall be assigned not less than offense level 24 under chapter 2 of the sentencing guidelines if the defendant derives more than $1,000,000 in gross receipts from the offense.
+(b) AMENDMENTS TO SENTENCING GUIDELINES.—If the sentencing guidelines are amended after the effective date of this section, the Sentencing Commission shall implement the instruction set forth in subsection (a) so as to achieve a comparable result.
+
+SEC. 2508. RESTORATION OF PROPERTY FOR VICTIMS OF BANK CRIMES.
+Section 981(e) of title 18, United States Code, is amended—
+(1) by striking out "or" at the end of paragraph (4); 
+(2) by striking the period at the end of paragraph (5) and inserting a semicolon; and 
+(3) by adding after paragraph (5) the following new paragraph:
+"(6) in the case of property referred to in subsection (a)(1)(C), restore forfeited property to any victim of an offense described in subsection (a)(1)(C); or".

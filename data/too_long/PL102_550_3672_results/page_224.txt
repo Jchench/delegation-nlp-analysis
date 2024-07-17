@@ -1,0 +1,32 @@
+PUBLIC LAW 102-550—OCT. 28, 1992                   106 STAT. 3895
+
+of the United States shall conduct a study on the adequacy and quality of appraisals or evaluations conducted in connection with real estate related financial transactions below the threshold level established under subsection (b), taking into account—
+"(A) the cost to any financial institution involved in any such transaction;
+"(B) the possibility of losses to the Bank Insurance Fund, the Savings Association Insurance Fund, or the National Credit Union Share Insurance Fund;
+"(C) the cost to any customer involved in any such transaction; and
+"(D) the effect on low-income housing.
+(2) REPORTS TO CONGRESS AND THE APPROPRIATE FEDERAL FINANCIAL INSTITUTIONS REGULATORY AGENCIES.—Upon completing each of the studies required under paragraph (1), the Comptroller General shall submit a report on the Comptroller General's findings and conclusions with respect to such study to the Federal financial institutions regulatory agencies, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate, together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate.".
+
+   SEC. 955. INSIDER LENDING.
+   (a) AUTHORITY TO MAKE EXCEPTIONS TO DEFINITION OF EXTEN-
+SION OF CREDIT.—Section 22(h)(9)(D) of the Federal Reserve Act (12 U.S.C. 375b(h)(9)(D)) is amended—
+      (1) by striking "(D) EXTENSION OF CREDIT.—A member bank" and inserting the following:
+            "(D) EXTENSION OF CREDIT.—
+               "(i) IN GENERAL.—A member bank"; and
+      (2) by adding at the end the following new clause:
+               "(ii) EXCEPTIONS.—The Board may, by regulation, make exceptions to clause (i) for transactions that the Board determines pose minimal risk.".
+   (b) PRINCIPAL SHAREHOLDER DEFINED.—Section 22(h)(9)(F) of the Federal Reserve Act (12 U.S.C. 375b(h)(9)(F)) is amended—
+      (1) by striking "shareholder' means any person" and insert-
+ing "shareholder'—
+            "(i) means any person";
+      (2) by striking the period at the end of clause (i) (as so redesignated by paragraph (1) of this subsection) and insert-ing "; and"; and
+      (3) by adding at the end the following new clause:
+            "(ii) does not include a company of which a member bank is a subsidiary.".
+   
+   SEC. 956. CLARIFICATION OF COMPENSATION STANDARDS.
+   Section 39 of the Federal Deposit Insurance Act (as added by section 132(a) of Federal Deposit Insurance Corporation Improve-ment Act of 1991) (12 U.S.C. 1831p) is amended—
+      (1) by striking subsection (d) and inserting the following new subsection:
+            "(d) STANDARDS TO BE PRESCRIBED BY REGULATION.—
+                  "(1) IN GENERAL.—Standards under subsections (a), (b), and (c) shall be prescribed by regulation. Such regulations may not prescribe standards that set a specific level or range 
+
+59-194 0—93—9: QL 3 (Pt. 5)

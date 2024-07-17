@@ -1,0 +1,46 @@
+124 STAT. 1442             PUBLIC LAW 111–203—JULY 21, 2010
+
+Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives summarizing the results of the studies required under subsection (a). The reports shall include specific recommendations for legislative or regulatory action regarding the treatment of hybrid capital instruments, including trust preferred shares, and shall explain the basis for such recommendations.
+                                                
+SEC. 175. INTERNATIONAL POLICY COORDINATION.
+12 USC 5373.
+                
+(a) BY THE PRESIDENT.—The President, or a designee of the
+President, may coordinate through all available international policy
+channels, similar policies as those found in United States law
+relating to limiting the scope, nature, size, scale, concentration,
+and interconnectedness of financial companies, in order to protect
+financial stability and the global economy.
+                
+(b) BY THE COUNCIL.—The Chairperson of the Council, in consultation with the other members of the Council, shall regularly consult with the financial regulatory entities and other appropriate organizations of foreign governments or international organizations on matters relating to systemic risk to the international financial system.
+
+(c) BY THE BOARD OF GOVERNORS AND THE SECRETARY.—The Board of Governors and the Secretary shall consult with their foreign counterparts and through appropriate multilateral organizations to encourage comprehensive and robust prudential supervision and regulation for all highly leveraged and interconnected financial companies.
+12 USC 5374.
+                                        
+SEC. 176. RULE OF CONSTRUCTION.
+
+No regulation or standard imposed under this title may be construed in a manner that would lessen the stringency of the requirements of any applicable primary financial regulatory agency or any other Federal or State agency that are otherwise applicable.
+This title, and the rules and regulations or orders prescribed pursuant to this title, do not divest any such agency of any authority derived from any other applicable law.
+
+                                         TITLE II—ORDERLY LIQUIDATION
+                                                                          AUTHORITY
+
+12 USC 5381.
+                                        
+SEC. 201. DEFINITIONS.
+
+(a) IN GENERAL.—In this title, the following definitions shall
+apply:
+                
+(1) ADMINISTRATIVE EXPENSES OF THE RECEIVER.—The term
+“administrative expenses of the receiver” includes—
+                                    
+(A) the actual, necessary costs and expenses incurred
+by the Corporation as receiver for a covered financial company in liquidating a covered financial company; and
+
+(B) any obligations that the Corporation as receiver for a covered financial company determines are necessary and appropriate to facilitate the smooth and orderly liquidation of the covered financial company.
+
+(2) BANKRUPTCY CODE.—The term “Bankruptcy Code”
+means title 11, United States Code.
+                    
+(3) BRIDGE FINANCIAL COMPANY.—The term “bridge financial company” means a new financial company organized by 

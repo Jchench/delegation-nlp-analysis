@@ -1,0 +1,29 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+(i) participates in designing, operating, or maintaining the consumer financial product or service; or
+
+(ii) processes transactions relating to the consumer financial product or service (other than unknowingly or incidentally transmitting or processing financial data in a manner that such data is undifferentiated from other types of data of the same form as the person transmits or processes).
+
+(B) EXCEPTIONS.—The term “service provider” does not include a person solely by virtue of such person offering or providing to a covered person—
+
+(i) a support service of a type provided to businesses generally or a similar ministerial service; or
+
+(ii) time or space for an advertisement for a consumer financial product or service through print, newspaper, or electronic media.
+
+(C) RULE OF CONSTRUCTION.—A person that is a service provider shall be deemed to be a covered person to the extent that such person engages in the offering or provision of its own consumer financial product or service.
+
+(27) STATE.—The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any federally recognized Indian tribe, as defined by the Secretary of the Interior under section 104(4) of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a-1(a)).
+
+(28) STORED VALUE.—
+
+(A) IN GENERAL.—The term “stored value” means funds or monetary value represented in any electronic format, whether or not specially encrypted, and stored or capable of storage on electronic media in such a way as to be retrievable and transferred electronically, and includes a prepaid debit card or product, or any other similar product, regardless of whether the amount of the funds or monetary value may be increased or reloaded.
+
+(B) EXCLUSION.—Notwithstanding subparagraph (A), the term “stored value” does not include a special purpose card or certificate, which shall be defined for purposes of this paragraph as funds or monetary value represented in any electronic format, whether or not specially encrypted, that is—
+
+(i) issued by a merchant, retailer, or other seller of nonfinancial goods or services;
+
+(ii) redeemable only for transactions with the merchant, retailer, or seller of nonfinancial goods or services or with an affiliate of such person, which affiliate itself is a merchant, retailer, or seller of nonfinancial goods or services;
+
+(iii) issued in a specified amount that, except in the case of a card or product used solely for telephone services, may not be increased or reloaded;
+
+(iv) purchased on a prepaid basis in exchange for payment; and

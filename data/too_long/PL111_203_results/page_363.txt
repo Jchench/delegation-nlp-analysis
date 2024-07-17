@@ -1,0 +1,21 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+a commodity described in section 1a(2)(i)), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
+“(I) activity that is unlawful under any Federal or State law;
+“(II) terrorism;
+“(III) assassination;
+“(IV) war;
+“(V) gaming; or
+“(VI) other similar activity determined by the Commission, by rule or regulation, to be contrary to the public interest.
+“(ii) PROHIBITION.—No agreement, contract, or transaction determined by the Commission to be contrary to the public interest under clause (i) may be listed or made available for clearing or trading on or through a registered entity.
+“(iii) SWAPS CONTRACTS.—
+“(I) IN GENERAL.—In connection with the listing of a swap for clearing by a derivatives clearing organization, the Commission shall determine, upon request or on its own motion, the initial eligibility, or the continuing qualification, of a derivatives clearing organization to clear such swap under those criteria, conditions, or rules that the Commission, in its discretion, determines.
+“(II) REQUIREMENTS.—Any such criteria, conditions, or rules shall consider—
+“(aa) the financial integrity of the derivatives clearing organization; and
+“(bb) any other factors which the Commission determines may be appropriate.
+“(iv) DEADLINE.—The Commission shall take final action under clauses (i) and (ii) in not later than 90 days from the commencement of its review unless the party seeking to offer the contract or swap agrees to an extension of this time limitation.”.
+(c) VIOLATION OF CORE PRINCIPLES.—Section 5c of the Commodity Exchange Act (7 U.S.C. 7a–2) is amended by striking subsection (d).
+
+SEC. 746. INSIDER TRADING.
+Section 4c(a) of the Commodity Exchange Act (7 U.S.C. 6c(a)) is amended by adding at the end the following:
+“(3) CONTRACT OF SALE.—It shall be unlawful for any employee or agent of any department or agency of the Federal Government who, by virtue of the employment or position of the employee or agent, acquires information that may affect or tend to affect the price of any commodity in interstate commerce, or for future delivery, or any swap, and which information has not been disseminated by the department or agency of the Federal Government holding or creating the information in a manner which makes it generally available to the trading public, or disclosed in a criminal, civil, or

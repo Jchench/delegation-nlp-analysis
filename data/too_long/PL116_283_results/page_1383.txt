@@ -1,0 +1,23 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+“Sector-Specific Agency” in section 2201(5) of the Homeland Security Act of 2002 (6 U.S.C. 651(5)).
+(b) CRITICAL INFRASTRUCTURE SECTOR DESIGNATION.—
+(1) INITIAL REVIEW.—Not later than 180 days after the date of the enactment of this section, the Secretary, in consultation with the heads of Sector Risk Management Agencies, shall—
+(A) review the current framework for securing critical infrastructure, as described in section 2202(c)(4) of the Homeland Security Act (6 U.S.C. 652(c)(4)) and Presidential Policy Directive 21; and 
+(B) submit to the President and appropriate congressional committees a report that includes—
+(i) information relating to—
+(I) the analysis framework or methodology used to—
+(aa) evaluate the current framework for securing critical infrastructure referred to in subparagraph (A); and
+(bb) develop recommendations to—
+(AA) revise the current list of critical infrastructure sectors designated pursuant to Presidential Policy Directive 21, any successor or related document, or policy; or
+(BB) identify and designate any subsectors of such sectors;
+(II) the data, metrics, and other information used to develop the recommendations required under clause (ii); and 
+(ii) recommendations relating to—
+(I) revising—
+(aa) the current framework for securing critical infrastructure referred to in subparagraph (A); 
+(bb) the current list of critical infrastructure sectors designated pursuant to Presidential Policy Directive 21, any successor or related document, or policy; or
+(cc) the identification and designation of any subsectors of such sectors; and
+(II) any revisions to the list of designated Federal departments or agencies that serve as the Sector Risk Management Agency for a sector or subsector of such sector, necessary to comply with paragraph (3)(B).
+(2) PERIODIC EVALUATION BY THE SECRETARY.—At least once every five years, the Secretary, in consultation with the Director and the heads of Sector Risk Management Agencies, shall—
+(A) evaluate the current list of designated critical infrastructure sectors and subsectors of such sectors and the appropriateness of Sector Risk Management Agency designations, as set forth in Presidential Policy Directive 21, any successor or related document, or policy; and
+(B) recommend, as appropriate, to the President—

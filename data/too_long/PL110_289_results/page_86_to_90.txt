@@ -1,0 +1,94 @@
+122 STAT. 2738		PUBLIC LAW 110–289—JULY 30, 2008
+
+		“(F) ORGANIZATION OF NEW ENTERPRISE.—The Agency may, as receiver for an enterprise, organize a successor enterprise that will operate pursuant to subsection (i).
+		“(G) TRANSFER OR SALE OF ASSETS AND LIABILITIES.—The Agency may, as conservator or receiver, transfer or sell any asset or liability of the regulated entity in default, and may do so without any approval, assignment, or consent with respect to such transfer or sale.
+		“(H) PAYMENT OF VALID OBLIGATIONS.—The Agency, as conservator or receiver, shall, to the extent of proceeds realized from the performance of contracts or sale of the assets of a regulated entity, pay all valid obligations of the regulated entity that are due and payable at the time of the appointment of the Agency as conservator or receiver, in accordance with the prescriptions and limitations of this section.
+		“(I) SUBPOENA AUTHORITY.—
+			“(i) IN GENERAL.—
+				“(I) AGENCY AUTHORITY.—The Agency may, as conservator or receiver, and for purposes of carrying out any power, authority, or duty with respect to a regulated entity (including determining any claim against the regulated entity and determining and realizing upon any asset of any person in the course of collecting money due the regulated entity), exercise any power established under section 1348.
+				“(II) APPLICABILITY OF LAW.—The provisions of section 1348 shall apply with respect to the exercise of any power under this subparagraph, in the same manner as such provisions apply under that section.
+			“(ii) SUBPOENA.—A subpoena or subpoena duces tecum may be issued under clause (i) only by, or with the written approval of, the Director, or the designee of the Director.
+			“(iii) RULE OF CONSTRUCTION.—This subsection shall not be construed to limit any rights that the Agency, in any capacity, might otherwise have under section 1377 or 1379B.
+		“(J) INCIDENTAL POWERS.—The Agency may, as conservator or receiver—
+			“(i) exercise all powers and authorities specifically granted to conservators or receivers, respectively, under this section, and such incidental powers as shall be necessary to carry out such powers; and
+			“(ii) take any action authorized by this section, which the Agency determines is in the best interests of the regulated entity or the Agency.
+		“(K) OTHER PROVISIONS.—
+			“(i) SHAREHOLDERS AND CREDITORS OF FAILED REGULATED ENTITY.—Notwithstanding any other provision of law, the appointment of the Agency as receiver for a regulated entity pursuant to paragraph (2) or (4) of subsection (a) and its succession, by operation of law, to the rights, titles, powers, and privileges described in subsection (b)(2)(A) shall terminate all
+
+122 STAT. 2739		PUBLIC LAW 110–289—JULY 30, 2008
+
+rights and claims that the stockholders and creditors of the regulated entity may have against the assets or charter of the regulated entity or the Agency arising as a result of their status as stockholders or creditors, except for their right to payment, resolution, or other satisfaction of their claims, as permitted under subsections (b)(9), (c), and (e).
+			“(ii) ASSETS OF REGULATED ENTITY.—Notwithstanding any other provision of law, for purposes of this section, the charter of a regulated entity shall not be considered an asset of the regulated entity.
+	“(3) AUTHORITY OF RECEIVER TO DETERMINE CLAIMS.—
+		“(A) IN GENERAL.—The Agency may, as receiver, determine claims in accordance with the requirements of this subsection and any regulations prescribed under paragraph (4).
+		“(B) NOTICE REQUIREMENTS.—The receiver, in any case involving the liquidation or winding up of the affairs of a closed regulated entity, shall—
+			“(i) promptly publish a notice to the creditors of the regulated entity to present their claims, together with proof, to the receiver by a date specified in the notice which shall be not less than 90 days after the date of publication of such notice; and
+			“(ii) republish such notice approximately 1 month and 2 months, respectively, after the date of publication under clause (i).
+		“(C) MAILING REQUIRED.—The receiver shall mail a notice similar to the notice published under subparagraph (B)(i) at the time of such publication to any creditor shown on the books of the regulated entity—
+			“(i) at the last address of the creditor appearing in such books; or
+			“(ii) upon discovery of the name and address of a claimant not appearing on the books of the regulated entity, within 30 days after the discovery of such name and address.
+		“(4) RULEMAKING AUTHORITY RELATING TO DETERMINATION OF CLAIMS.—Subject to subsection (c), the Director may prescribe regulations regarding the allowance or disallowance of claims by the receiver and providing for administrative determination of claims and review of such determination.
+		“(5) PROCEDURES FOR DETERMINATION OF CLAIMS.—
+		“(A) DETERMINATION PERIOD.—
+			“(i) IN GENERAL.—Before the end of the 180-day period beginning on the date on which any claim against a regulated entity is filed with the Agency as receiver, the Agency shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim.
+			“(ii) EXTENSION OF TIME.—The period described in clause (i) may be extended by a written agreement between the claimant and the Agency.
+			“(iii) MAILING OF NOTICE SUFFICIENT.—The requirements of clause (i) shall be deemed to be satisfied if the notice of any determination with respect to any
+
+122 STAT. 2740		PUBLIC LAW 110–289—JULY 30, 2008
+
+claim is mailed to the last address of the claimant which appears—
+				“(I) on the books of the regulated entity;
+				“(II) in the claim filed by the claimant; or
+				“(III) in documents submitted in proof of the claim.
+			“(iv) CONTENTS OF NOTICE OF DISALLOWANCE.—If any claim filed under clause (i) is disallowed, the notice to the claimant shall contain—
+				“(I) a statement of each reason for the disallowance; and
+				“(II) the procedures available for obtaining agency review of the determination to disallow the claim or judicial determination of the claim.
+		“(B) ALLOWANCE OF PROVEN CLAIM.—The receiver shall allow any claim received on or before the date specified in the notice published under paragraph (3)(B)(i) by the receiver from any claimant which is proved to the satisfaction of the receiver.
+		“(C) DISALLOWANCE OF CLAIMS FILED AFTER FILING PERIOD.—Claims filed after the date specified in the notice published under paragraph (3)(B)(i), or the date specified under paragraph (3)(C), shall be disallowed and such disallowance shall be final.
+		“(D) AUTHORITY TO DISALLOW CLAIMS.—
+			“(i) IN GENERAL.—The receiver may disallow any portion of any claim by a creditor or claim of security, preference, or priority which is not proved to the satisfaction of the receiver.
+			“(ii) PAYMENTS TO LESS THAN FULLY SECURED CREDITORS.—In the case of a claim of a creditor against a regulated entity which is secured by any property or other asset of such regulated entity, the receiver—
+				“(I) may treat the portion of such claim which exceeds an amount equal to the fair market value of such property or other asset as an unsecured claim against the regulated entity; and
+				“(II) may not make any payment with respect to such unsecured portion of the claim, other than in connection with the disposition of all claims of unsecured creditors of the regulated entity.
+			“(iii) EXCEPTIONS.—No provision of this paragraph shall apply with respect to—
+				“(I) any extension of credit from any Federal Reserve Bank, Federal Home Loan Bank, or the United States Treasury; or
+				“(II) any security interest in the assets of the regulated entity securing any such extension of credit.
+		“(E) NO JUDICIAL REVIEW OF DETERMINATION PURSUANT TO SUBPARAGRAPH (D).—No court may review the determination of the Agency under subparagraph (D) to disallow a claim.
+		“(F) LEGAL EFFECT OF FILING.—
+			“(i) STATUTE OF LIMITATION TOLLED.—For purposes of any applicable statute of limitations, the filing of
+
+122 STAT. 2741		PUBLIC LAW 110–289—JULY 30, 2008
+
+a claim with the receiver shall constitute a commencement of an action.
+			“(ii) NO PREJUDICE TO OTHER ACTIONS.—Subject to paragraph (10), the filing of a claim with the receiver shall not prejudice any right of the claimant to continue any action which was filed before the date of the appointment of the receiver, subject to the determination of claims by the receiver.
+		“(6) PROVISION FOR JUDICIAL DETERMINATION OF CLAIMS.—
+		“(A) IN GENERAL.—The claimant may file suit on a claim (or continue an action commenced before the appointment of the receiver) in the district or territorial court of the United States for the district within which the principal place of business of the regulated entity is located or the United States District Court for the District of Columbia (and such court shall have jurisdiction to hear such claim), before the end of the 60-day period beginning on the earlier of—
+			“(i) the end of the period described in paragraph (5)(A)(i) with respect to any claim against a regulated entity for which the Agency is receiver; or
+			“(ii) the date of any notice of disallowance of such claim pursuant to paragraph (5)(A)(i).
+		“(B) STATUTE OF LIMITATIONS.—A claim shall be deemed to be disallowed (other than any portion of such claim which was allowed by the receiver), and such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim, if the claimant fails, before the end of the 60-day period described under subparagraph (A), to file suit on such claim (or continue an action commenced before the appointment of the receiver).
+		“(7) REVIEW OF CLAIMS.—
+		“(A) OTHER REVIEW PROCEDURES.—
+			“(i) IN GENERAL.—The Agency shall establish such alternative dispute resolution processes as may be appropriate for the resolution of claims filed under paragraph (5)(A)(i).
+			“(ii) CRITERIA.—In establishing alternative dispute resolution processes, the Agency shall strive for procedures which are expeditious, fair, independent, and low cost.
+			“(iii) VOLUNTARY BINDING OR NONBINDING PROCEDURES.—The Agency may establish both binding and nonbinding processes under this subparagraph, which may be conducted by any government or private party. All parties, including the claimant and the Agency, must agree to the use of the process in a particular case.
+		“(B) CONSIDERATION OF INCENTIVES.—The Agency shall seek to develop incentives for claimants to participate in the alternative dispute resolution process.
+		“(8) EXPEDITED DETERMINATION OF CLAIMS.—
+		“(A) ESTABLISHMENT REQUIRED.—The Agency shall establish a procedure for expedited relief outside of the routine claims process established under paragraph (5) for claimants who—
+			“(i) allege the existence of legally valid and enforceable or perfected security interests in assets of any regulated entity for which the Agency has been appointed receiver; and
+			“(ii) allege that irreparable injury will occur if the routine claims procedure is followed.
+		“(B) DETERMINATION PERIOD.—Before the end of the 90-day period beginning on the date on which any claim is filed in accordance with the procedures established under subparagraph (A), the Director shall—
+			“(i) determine—
+				“(I) whether to allow or disallow such claim; or
+				“(II) whether such claim should be determined pursuant to the procedures established under paragraph (5); and
+			“(ii) notify the claimant of the determination, and if the claim is disallowed, provide a statement of each reason for the disallowance and the procedure for obtaining agency review or judicial determination.
+		“(C) PERIOD FOR FILING OR RENEWING SUIT.—Any claimant who files a request for expedited relief shall be permitted to file a suit, or to continue a suit filed before the date of appointment of the receiver, seeking a determination of the rights of the claimant with respect to such security interest after the earlier of—
+			“(i) the end of the 90-day period beginning on the date of the filing of a request for expedited relief; or
+			“(ii) the date on which the Agency denies the claim.
+		“(D) STATUTE OF LIMITATIONS.—If an action described under subparagraph (C) is not filed, or the motion to renew a previously filed suit is not made, before the end of the 30-day period beginning on the date on which such action or motion may be filed under subparagraph (B), the claim shall be deemed to be disallowed as of the end of such period (other than any portion of such claim which was allowed by the receiver), such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
+		“(E) LEGAL EFFECT OF FILING.—
+			“(i) STATUTE OF LIMITATION TOLLED.—For purposes of any applicable statute of limitations, the filing of a claim with the receiver shall constitute a commencement of an action.
+			“(ii) NO PREJUDICE TO OTHER ACTIONS.—Subject to paragraph (10), the filing of a claim with the receiver shall not prejudice any right of the claimant to continue any action that was filed before the appointment of the receiver, subject to the determination of claims by the receiver.
+		“(9) PAYMENT OF CLAIMS.—
+		“(A) IN GENERAL.—The receiver may, in the discretion of the receiver, and to the extent that funds are available from the assets of the regulated entity, pay creditor claims, in such manner and amounts as are authorized under this section, which are—
+
+122 STAT. 2742		PUBLIC LAW 110–289—JULY 30, 2008

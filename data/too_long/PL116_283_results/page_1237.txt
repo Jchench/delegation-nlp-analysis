@@ -1,0 +1,66 @@
+PUBLIC LAW 116–283—JAN. 1, 2021                   134 STAT. 4623
+
+the Treasury a report on each investigation conducted 
+under subparagraph (A).
+    ‘‘(C) ACTIONS OF THE SECRETARY.—Upon receiving a 
+report submitted under subparagraph (B), the Secretary 
+of the Treasury shall—
+                    ‘‘(i) determine whether the Director had any 
+                responsibility for the cybersecurity breach or whether 
+                policies, practices, or procedures implemented at the 
+                direction of the Director led to the cybersecurity breach; 
+                and
+                    ‘‘(ii) submit to Congress a written report outlining 
+                the findings of the Secretary, including a determination 
+                by the Secretary on whether to retain or dismiss the 
+                individual serving as the Director.
+        ‘‘(6) DEFINITION.—In this subsection, the term ‘willfully’ 
+    means the voluntary, intentional violation of a known legal 
+    duty.
+‘‘(i) CONTINUOUS REVIEW OF EXEMPT ENTITIES.—
+        ‘‘(1) IN GENERAL.—On and after the effective date of the 
+    regulations promulgated under subsection (b)(4), if the Sec- 
+    retary of the Treasury makes a determination, which may 
+    be based on information contained in the report required under 
+    section 6502(c) of the Anti-Money Laundering Act of 2020 or 
+    any other information available to the Secretary, that an 
+    entity or class of entities described in subsection (a)(11)(B) 
+    have been involved in significant abuse relating to money laun- 
+    dering, the financing of terrorism, proliferation finance, serious 
+    tax fraud, or any other financial crime, not later than 90 
+    days after the date on which the Secretary makes the deter- 
+    mination, the Secretary shall submit to the Committee on 
+    Banking, Housing, and Urban Affairs of the Senate and the 
+    Committee on Financial Services of the House of Representa- 
+    tives a report that explains the reasons for the determination 
+    and any administrative or legislative recommendations to pre- 
+    vent such abuse.
+        ‘‘(2) CLASSIFIED ANNEX.—The report required by paragraph 
+    (1)—
+                    ‘‘(A) shall be submitted in unclassified form; and
+                    ‘‘(B) may include a classified annex.’’.
+    (b) CONFORMING AMENDMENTS.—Title 31, United States Code, 
+is amended—
+        (1) in section 5321(a)—
+                    (A) in paragraph (1), by striking ‘‘sections 5314 and 
+                5315’’ each place that term appears and inserting ‘‘sections 
+                5314, 5315, and 5336’’; and
+                    (B) in paragraph (6), by inserting ‘‘(except section 
+                5336)’’ after ‘‘subchapter’’ each place that term appears;
+        (2) in section 5322, by striking ‘‘section 5315 or 5324’’ 
+    each place that term appears and inserting ‘‘section 5315, 5324, 
+    or 5336’’; and
+        (3) in the table of sections for chapter 53, as amended 
+    by sections 6306(b)(1), 6307(b), and 6313(b) of this division, 
+    by adding at the end the following:
+
+‘‘5336. Beneficial ownership information reporting requirements.’’.
+    (c) REPORTING REQUIREMENTS FOR FEDERAL CONTRACTORS.—
+                                                           31 USC 5336 note.
+
+                                                           31 USC 5301 
+                                                                              prec. 
+Effective date. 
+Determination. 
+Deadline. 
+Recommendations.

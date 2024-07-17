@@ -1,0 +1,30 @@
+PUBLIC LAW 104-208--SEPT. 30, 1996 110 STAT. 3009-402
+
+“(B) a waiver that is handwritten, signed, and dated by the consumer is first obtained from the consumer.
+“(2) ADJUSTMENTS BY THE BOARD.—The Board, at its discretion, may adjust the annual earned income and net asset requirements of paragraph (1) for inflation.”.
+
+SEC. 2105. ALTERNATIVE DISCLOSURES FOR ADJUSTABLE RATE MORT-
+         GAGES.
+
+Section 128(a) of the Truth in Lending Act (15 U.S.C. 1638(a)) is amended by adding at the end the following new paragraph:
+“(14) In the case of any variable interest rate residential mortgage transaction, in disclosures provided at application as prescribed by the Board for a variable rate transaction secured by the consumer’s principal dwelling, at the option of the creditor, a statement that the periodic payments may increase or decrease substantially, and the maximum interest rate and payment for a $10,000 loan originated at a recent interest rate, as determined by the Board, assuming the maximum periodic increases in rates and payments under the program, or a historical example illustrating the effects of interest rate changes implemented according to the loan program.”.
+
+SEC. 2106. RESTITUTION FOR VIOLATIONS OF THE TRUTH IN LENDING 15 USC 1607.
+         ACT.
+         
+Section 108(e)(3) of the Truth in Lending Act (15 U.S.C. 2602(3)) is amended—
+(1) by striking “ordered (A) if” and inserting the following: “ordered—
+“(A) if”;
+(2) by striking “may require a partial” and inserting “may—
+“(i) require a partial”;
+(3) by striking “, except that with respect” and all that follows through “Act, the agency shall require” and inserting “; or
+“(ii) require”;
+(4) by striking “reasonable, (B) the” and inserting the following: “reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a)), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act;
+“(B) the”; and
+(5) by striking “(C) except” and inserting the following: “(C) except”. 
+
+SEC. 2107. LIMITATION ON LIABILITY UNDER THE TRUTH IN LENDING
+         ACT.
+         
+(a) IN GENERAL.—Section 139(a) of the Truth in Lending Act (15 U.S.C. 1649(a)) is amended by striking “For any consumer credit transaction subject to this title” and inserting “For any closed end consumer credit transaction that is secured by real property or a dwelling, that is subject to this title, and”.
+(b) EFFECTIVE DATE.—The amendment made by subsection (a) shall be effective as of September 30, 1995. 15 USC 1649 note.

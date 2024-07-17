@@ -1,0 +1,21 @@
+PUBLIC LAW 102-242-DEC. 19, 1991   105 STAT. 2293
+
+secured, directly or indirectly, by shares of an insured depository institution shall file a consolidated report with the appropriate Federal banking agency for such insured depository institution if the extensions of credit by the financial institution and such institution’s affiliates, in the aggregate, are secured, directly or indirectly, by 25 percent or more of any class of shares of the same insured depository institution.
+
+“(B) DEFINITIONS. - For purposes of this paragraph -
+“(i) FINANCIAL INSTITUTION. - The term ‘financial institution’ means any insured depository institution and any foreign bank that is subject to the provisions of the Bank Holding Company Act of 1956 by virtue of section 8(a) of the International Banking Act of 1978.
+“(ii) CREDIT OUTSTANDING. - The term ‘credit outstanding’ includes -
+
+“(I) any loan or extension of credit,
+“(II) the issuance of a guarantee, acceptance or letter of credit, including an endorsement or standby letter of credit, and
+“(III) any other type of transaction that extends credit or financing to the person or group of persons.
+“(iii) GROUP OF PERSONS. - The term ‘group of persons’ includes any number of persons that the financial institution reasonably believes -
+
+“(I) are acting together, in concert, or with one another to acquire or control shares of the same insured depository institution, including an acquisition of shares of the same insured depository institution at approximately the same time under substantially the same terms; or
+“(II) have made, or propose to make, a joint filing under section 13 of the Securities Exchange Act of 1934 regarding ownership of the shares of the same insured depository institution.
+
+“(C) INCLUSION OF SHARES HELD BY THE FINANCIAL INSTITUTION. - Any shares of the insured depository institution held by the financial institution or any of its affiliates as principal shall be included in the calculation of the number of shares in which the financial institution or its affiliates has a security interest for purposes of subparagraph (A).
+
+“(D) REPORTING REQUIREMENTS. -
+“(i) TIMING OF REPORT. - The report required under this paragraph shall be a consolidated report on behalf of the financial institution and all affiliates of the institution and shall be filed in writing within 30 days of the date on which the financial institution or any such affiliate first believes that the security for any outstanding credit consists of 25 percent or more of any class of shares of an insured depository institution.
+“(ii) CONTENT OF REPORT. - The report under this paragraph shall indicate the number and percentage of shares securing each applicable extension of credit, the identity of the borrower, and the number of shares held as principal by the financial institution and any affiliate of such institution.

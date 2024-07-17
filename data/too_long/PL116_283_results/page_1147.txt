@@ -1,0 +1,28 @@
+PUBLIC LAW 116–283—JAN. 1, 2021                                                      134 STAT. 4533
+
+(I) Parameters for the establishment and sustainment of the National Artificial Intelligence Research Resource, including agency roles and responsibilities and milestones to implement the Resource.
+(c) CONSULTATIONS.—In conducting its duties required under subsection (b), the Task Force shall consult with the following:
+(1) The National Science Foundation.
+(2) The Office of Science and Technology Policy.
+(3) The National Academies of Sciences, Engineering, and Medicine.
+(4) The National Institute of Standards and Technology.
+(5) The Director of National Intelligence.
+(6) The Department of Energy.
+(7) The Department of Defense.
+(8) The General Services Administration.
+(9) The Department of Justice.
+(10) The Department of Homeland Security.
+(11) The Department of Health and Human Services.
+(12) Private industry.
+(13) Institutions of higher education.
+(14) Civil and disabilities rights organizations.
+(15) Such other persons as the Task Force considers appropriate.
+(d) STAFF.—Staff of the Task Force shall comprise detailees with expertise in artificial intelligence, or related fields from the Office of Science and Technology Policy, the National Science Foundation, or any other agency the co-chairs deem appropriate, with the consent of the head of the agency.
+(e) TASK FORCE REPORTS.—
+(1) INITIAL REPORT.—Not later than 12 months after the date on which all of the appointments have been made under subsection (a)(2)(B), the Task Force shall submit to Congress and the President an interim report containing the findings, conclusions, and recommendations of the Task Force. The report shall include specific recommendations regarding steps the Task Force believes necessary for the establishment and sustainment of a National Artificial Intelligence Research Resource.
+(2) FINAL REPORT.—Not later than 6 months after the submittal of the interim report under paragraph (1), the Task Force shall submit to Congress and the President a final report containing the findings, conclusions, and recommendations of the Task Force, including the specific recommendations required by subsection (b).
+(f) TERMINATION.—
+(1) IN GENERAL.—The Task Force shall terminate 90 days after the date on which it submits the final report under subsection (e)(2).
+(2) RECORDS.—Upon termination of the Task Force, all of its records shall become the records of the National Archives and Records Administration.
+(g) DEFINITIONS.—In this section:
+(1) NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH RESOURCE AND RESOURCE.—The terms ‘‘National Artificial Intelligence Research Resource’’ and ‘‘Resource’’ mean a system that provides researchers and students across scientific fields and disciplines with access to compute resources, co-located with Recommendations.

@@ -1,0 +1,52 @@
+Federal Trade Commission
+
+17. Personal identifying information provided is not consistent with personal identifying information that is on file with the financial institution or creditor.
+
+18. For financial institutions and creditors that use challenge questions, the person opening the covered account or the customer cannot provide authenticating information beyond that which generally would be available from a wallet or consumer report.
+
+Unusual Use of, or Suspicious Activity Related to, the Covered Account
+
+19. Shortly following the notice of a change of address for a covered account, the institution or creditor receives a request for a new, additional, or replacement card or a cell phone, or for the addition of authorized users on the account.
+
+20. A new revolving credit account is used in a manner commonly associated with known patterns of fraud. For example:
+a. The majority of available credit is used for cash advances or merchandise that is easily convertible to cash (e.g., electronics equipment or jewelry); or
+b. The customer fails to make the first payment or makes an initial payment but no subsequent payments.
+21. A covered account is used in a manner that is not consistent with established patterns of activity on the account. There is, for example;
+a. Nonpayment when there is no history of late or missed payments;
+b. A material increase in the use of available credit;
+c. A material change in purchasing or spending patterns;
+d. A material change in electronic fund transfer patterns in connection with a deposit account; or
+e. A material change in telephone call patterns in connection with a cellular phone account.
+22. A covered account that has been inactive for a reasonably lengthy period of time is used (taking into consideration the type of account, the expected pattern of usage and other relevant factors).
+23. Mail sent to the customer is returned repeatedly as undeliverable although transactions continue to be conducted in connection with the customer’s covered account.
+24. The financial institution or creditor is notified that the customer is not receiving paper account statements.
+25. The financial institution or creditor is notified of unauthorized charges or transactions in connection with a customer’s covered account.
+
+Notice from Customers, Victims of identity Theft, Law Enforcement Authorities, or Other Persons Regarding Possible Identity Theft in Connection With Covered Accounts held by the Financial Institution or Creditor
+
+26. The financial institution or creditor is notified by a customer, a victim of identity theft, a law enforcement authority, or any other person that it has opened a fraudulent account for a person engaged in identity theft.
+
+[72 FR 63771, Nov. 9, 2007, as amended at 74 PR 22656, May 14, 2009]
+
+PART 682—DISPOSAL OF CONSUMER REPORT INFORMATION AND RECORDS
+
+Sec.
+682.1 Definitions.
+682.2 Purpose and scope.
+682.3 Proper disposal of consumer information.
+682.4 Relation to other laws.
+682.5 Effective date.
+
+AUTHORITY: Pub. L. 108-159, sec. 216.
+
+SOURCE: 69 FR 68697, Nov. 24, 2004, unless otherwise noted.
+
+§ 682.1 Definitions.
+(a) In general. Except as modified by this part or unless the context otherwise requires, the terms used in this part have the same meaning as set forth in the Fair Credit Reporting Act, 15 U.S.C. 1681 et seq.
+(b) “Consumer information” means any record about an individual, whether in paper, electronic, or other form, that is a consumer report, or is derived from a consumer report. Consumer information also means a compilation of such records. Consumer information does not include information that does not identify individuals, such as aggregate information or blind data.
+(c) “Dispose,” “disposing,” or “disposal” means:
+(1) The discarding or abandonment of consumer information, or
+(2) The sale, donation, or transfer of any medium, including computer equipment, upon which consumer information is stored.
+
+§ 682.2 Purpose and scope.
+(a) Purpose. This part (“rule”) implements section 216 of the Fair and Accurate Credit Transactions Act of 2003, also

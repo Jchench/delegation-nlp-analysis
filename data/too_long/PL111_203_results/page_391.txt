@@ -1,0 +1,59 @@
+PUBLIC LAW 111-203—JULY 21, 2010              124 STAT. 1765
+
+    ‘‘(e) REPORTING TRANSITION RULES.—Rules adopted by the
+Commission under this section shall provide for the reporting of
+data, as follows:
+        ‘‘(1) Security-based swaps entered into before the date of
+    the enactment of this section shall be reported to a registered
+    security-based swap data repository or the Commission no later
+    than 180 days after the effective date of this section.
+        ‘‘(2) Security-based swaps entered into on or after such
+    date of enactment shall be reported to a registered security-
+    based swap data repository or the Commission no later than
+    the later of—
+            ‘‘(A) 90 days after such effective date; or
+            ‘‘(B) such other time after entering into the security-
+    based swap as the Commission may prescribe by rule or
+    regulation.
+    ‘‘(f) CLEARING TRANSITION RULES.—
+        ‘‘(1) Security-based swaps entered into before the date of
+    the enactment of this section are exempt from the clearing
+    requirements of this subsection if reported pursuant to sub-
+    section (e)(1).
+        ‘‘(2) Security-based swaps entered into before application
+    of the clearing requirement pursuant to this section are exempt
+    from the clearing requirements of this section if reported pursu-
+    ant to subsection (e)(2).
+    ‘‘(g) EXCEPTIONS.—
+        ‘‘(1) IN GENERAL.—The requirements of subsection (a)(1)
+    shall not apply to a security-based swap if 1 of the counterpar-
+    ties to the security-based swap—
+            ‘‘(A) is not a financial entity;
+            ‘‘(B) is using security-based swaps to hedge or mitigate
+    commercial risk; and
+            ‘‘(C) notifies the Commission, in a manner set forth
+        by the Commission, how it generally meets its financial
+        obligations associated with entering into non-cleared secu-
+        rity-based swaps.
+Notification.
+        ‘‘(2) OPTION TO CLEAR.—The application of the clearing
+    exception in paragraph (1) is solely at the discretion of the
+    counterparty to the security-based swap that meets the condi-
+    tions of subparagraphs (A) through (C) of paragraph (1).
+        ‘‘(3) FINANCIAL ENTITY DEFINITION.—
+            ‘‘(A) IN GENERAL.—For the purposes of this subsection,
+        the term ‘financial entity’ means—
+                ‘‘(i) a swap dealer;
+                ‘‘(ii) a security-based swap dealer;
+                ‘‘(iii) a major swap participant;
+                ‘‘(iv) a major security-based swap participant;
+                ‘‘(v) a commodity pool as defined in section 1a(10)
+    of the Commodity Exchange Act;
+                ‘‘(vi) a private fund as defined in section 202(a)
+    of the Investment Advisers Act of 1940 (15 U.S.C.
+    80–b2(a));
+                ‘‘(vii) an employee benefit plan as defined in para-
+    graphs (3) and (32) of section 3 of the Employee Retire-
+    ment Income Security Act of 1974 (29 U.S.C. 1002);
+                ‘‘(viii) a person predominantly engaged in activities
+        that are in the business of banking or financial in

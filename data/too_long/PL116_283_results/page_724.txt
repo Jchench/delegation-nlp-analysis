@@ -1,0 +1,33 @@
+134 STAT. 4110          PUBLIC LAW 116-283—JAN. 1, 2021
+
+to cryptographic requirements of the Department of
+
+Defense;
+(C) an assessment of the feasibility of alternate quantum-resistant algorithms and features; and
+(D) a description of any funding shortfalls in public and private developmental efforts relating to quantum resistant cryptography, standards, and models; and 
+
+(2) develop recommendations for research, development, and acquisition activities, including resourcing schedules, for securing the critical national security systems identified pursuant to paragraph (1)(A) against quantum computing code-breaking capabilities.
+
+Deadline.
+(b) BRIEFING.—Not later than February 1, 2022, the Secretary shall brief the congressional defense committees on the assessment completed under paragraph (1) of subsection (a) and the recommendations developed under paragraph (2) of such subsection.
+
+10 USC 394 note.
+SEC. 1723. TAILORED CYBERSPACE OPERATIONS ORGANIZATIONS.
+
+(a) STUDY.—
+(1) IN GENERAL.—Not later than 120 days after the date of the enactment of this Act, the Secretary of the Navy and the Chief of Naval Operations, in consultation with the Commander of United States Cyber Command, shall submit to the congressional defense committees a study of the Navy Cyber Warfare Development Group (NCWDG).
+
+(2) ELEMENTS.—The study required under paragraph (1) shall include the following:
+(A) An examination of NCWDG’s structure, manning, authorities, funding, and operations.
+(B) A review of organizational relationships—
+(i) within the Navy; and
+(ii) to other Department of Defense organizations, as well as non-Department of Defense organizations.
+(C) Recommendations for how the NCWDG can be strengthened and improved, without growth in size.
+(D) Such other information as determined necessary or appropriate by the Secretary of the Navy.
+(3) RELEASE.—
+(A) TO CONGRESS.—Not later than 7 days after completion of the study required under paragraph (1), the Secretary of the Navy shall brief the congressional defense committees on the findings of the study.
+(B) TO SERVICE SERVICES.—The Secretary of the Navy shall transmit to the secretaries of the military services and the Assistant Secretary of Defense for Special Operations and Irregular Warfare the study required under paragraph (1).
+
+(b) DESIGNATION.—Notwithstanding any other provision of law, the Secretary of the Navy shall designate the NCWDG as a screened command.
+
+(c) AUTHORITY TO REPLICATE.—After review of the study required under subsection (a) and consulting the Commander of United States Cyber Command in accordance with procedures established by the Secretary of Defense, the secretaries of the military services may establish tailored cyberspace operations organizations of comparable size to NCWDG within the military service, respectively, of each such secretary. Such counterpart organizations shall

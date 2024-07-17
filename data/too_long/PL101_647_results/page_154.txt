@@ -1,0 +1,27 @@
+"(e) ISSUANCE OF WRIT.—On the court's determination that the requirements of subsections (a), (b), and (c) have been met, the court shall issue all process sufficient to put into effect the prejudgment remedy sought.
+
+"§ 3102. Attachment
+
+"(a) PROPERTY SUBJECT TO ATTACHMENT.—(1) Any property in the possession, custody, or control of the debtor and in which the debtor has a substantial nonexempt interest, except earnings, may be attached pursuant to a writ of attachment in an action or proceeding against a debtor on a claim for a debt and may be held as security to satisfy such judgment, and interest and costs, as the United States may recover on such claim.
+"(2) The value of property attached shall not exceed the amount by which the sum of the amount of the debt claimed by the United States and the amount of interest and costs reasonably likely to be assessed against the debtor by the court exceeds the aggregate value of the nonexempt interest of the debtor in any—
+"(A) property securing the debt; and
+"(B) property garnished or in receivership, or income sequestered, under this subchapter.
+
+"(b) AVAILABILITY OF ATTACHMENT.—If the requirements of section 3101 are satisfied, a court shall issue a writ authorizing the United States to attach property in which the debtor has a substantial nonexempt interest, as security for such judgment (and interest and costs) as the United States may recover on a claim for a debt—
+"(1) in an action on a contract, express or implied, against the debtor for payment of money, only if the United States shows reasonable cause to believe that—
+"(A) the contract is not fully secured by real or personal property; or
+"(B) the value of the original security is substantially diminished, without any act of the United States or the person to whom the security was given, below the amount of the debt;
+"(2) in an action against the debtor for damages in tort;
+"(3) if the debtor resides outside the jurisdiction of the United States; or
+"(4) in an action to recover a fine, penalty, or tax.
+
+"(c) ISSUANCE OF WRIT; CONTENTS.—(1) Subject to subsections (a) and (b), a writ of attachment shall be issued by the court directing the United States marshal of the district where property described in subsection (a) is located to attach the property.
+"(2) Several writs of attachment may be issued at the same time, or in succession, and sent to different judicial districts until sufficient property is attached.
+"(3) The writ of attachment shall contain—
+"(A) the date of the issuance of the writ;
+"(B) the identity of the court, the docket number of the action, and the identity of the cause of action;
+"(C) the name and last known address of the debtor;
+"(D) the amount to be secured by the attachment; and
+"(E) a reasonable description of the property to be attached.
+
+"(d) LEVY OF ATTACHMENT.—(1) The United States marshal receiving the writ shall proceed without delay to levy upon the property specified for attachment if found within the district. The marshal may not sell property unless ordered by the court.

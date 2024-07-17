@@ -1,0 +1,28 @@
+PUBLIC LAW 116-283—JAN. 1, 2021               134 STAT. 4107
+
+(2) CONTENTS.—Each briefing conducted under paragraph (1) shall include—
+(A) estimated figures on the number of students reached and teachers engaged;
+(B) information on outreach and engagement efforts, including the activities described in subsection (b)(1)(E);
+(C) information on new curricula offerings and teacher training platforms; and
+(D) information on coordination with post-secondary education and workforce development programs at the Department.
+(d) MISSION PROMOTION.—The Director may use appropriate amounts to purchase promotional and recognition items and marketing and advertising services to publicize and promote the mission and services of the Agency, support the activities of the Agency, and to recruit and retain Agency personnel.”.
+(d) CLERICAL AMENDMENT.—The table of contents in section 1(b) of the Homeland Security Act of 2002, as so amended, is further amended by inserting after the item relating to section 2216 the following new item:
+“Sec. 2217. Cybersecurity Education and Training Programs.”.
+
+SEC. 1720. FRAMEWORK FOR CYBER HUNT FORWARD OPERATIONS.                          10 USC 394 note.
+(a) FRAMEWORK REQUIRED.—Not later than April 1, 2021, the Deadline.
+Secretary of Defense shall develop a standard, comprehensive framework to enhance the consistency, execution, and effectiveness of cyber hunt forward operations.
+(b) ELEMENTS.—The framework developed pursuant to subsection (a) shall include the following:
+(1) Identification of the selection criteria for proposed cyber hunt forward operations, including specification of necessary thresholds for the justification of operations and thresholds for partner cooperation.
+(2) The roles and responsibilities of the following organizations in the support of the planning and execution of cyber hunt forward operations:
+(A) United States Cyber Command.
+(B) Service cyber components.
+(C) The Office of the Under Secretary of Defense for Policy.
+(D) Geographic combatant commands.
+(E) Cyber Operations-Integrated Planning Elements and Joint Cyber Centers.
+(F) Embassies and consulates of the United States.
+(3) Pre-deployment planning guidelines to maximize the operational success of each unique operation, including guidance that takes into account the highly variable nature of the following aspects at the tactical level:
+(A) Team composition, including necessary skillsets, recommended training, and guidelines on team size and structure.
+(B) Relevant factors to determine mission duration in a country of interest.
+(C) Agreements with partner countries required pre-deployment.
+(D) Criteria for potential follow-on operations.

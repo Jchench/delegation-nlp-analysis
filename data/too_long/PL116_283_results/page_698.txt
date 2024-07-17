@@ -1,0 +1,58 @@
+134 STAT. 4084          PUBLIC LAW 116–283—JAN. 1, 2021
+
+              “(B) a comparison of the strengths and weaknesses 
+           of the approaches identified pursuant to subparagraph (A) 
+           relative to the threat of each other; and 
+              “(C) an assessment as to how the cyber strategy will 
+           inform country-specific campaign plans focused on key 
+           leadership of Russia, China, Iran, North Korea, and any 
+           other country the Secretary considers appropriate.”; 
+       (7) by striking paragraph (8) and inserting the following 
+   new paragraph (8):
+     Assessments. “(8) A comprehensive force structure assessment of the 
+           Cyber Operations Forces of the Department for the posture 
+           review period, including the following:
+     Determination. “(A) A determination of the appropriate size and com-
+          position of the Cyber Mission Forces to accomplish the 
+          mission requirements of the Department.
+              “(B) An assessment of the Cyber Mission Forces’ per-
+           sonnel, capabilities, equipment, funding, operational con-
+           cepts, and ability to execute cyber operations in a timely 
+           fashion.
+              “(C) An assessment of the personnel, capabilities, 
+           equipment, funding, and operational concepts of Cybersecu-
+           rity Service Providers and other elements of the Cyber 
+           Operations Forces.”;
+       (8) by redesignating paragraphs (9) through (11) as sub-
+   sections (12) through (14), respectively; and 
+       (9) by inserting after paragraph (8), the following new 
+   paragraphs:
+     Assessment.     “(9) An assessment of whether the Cyber Mission Force 
+           has the appropriate level of interoperability, integration, and 
+           interdependence with special operations and conventional 
+           forces.
+     Evaluation.     “(10) An evaluation of the adequacy of mission authorities 
+           for the Joint Force Provider and Joint Force Trainer responsibil-
+           ities of United States Cyber Command, including the adequacy  
+           of the units designated as Cyber Operations Forces to support 
+           such responsibilities.
+     Assessment.     “(11) An assessment of the missions and resourcing of 
+           the combat support agencies in support of cyber missions of 
+           the Department.”.
+
+SEC. 1707. MODIFICATION OF AUTHORITY TO USE OPERATION AND 
+  MAINTENANCE FUNDS FOR CYBER OPERATIONS- 
+  PECULIAR CAPABILITY DEVELOPMENT PROJECTS.
+   Section 1640 of the National Defense Authorization Act for 
+Fiscal Year 2020 (Public Law 116–92) is amended—
+       (1) by redesignating subsections (b) and (c) as subsections 
+   (c) and (d), respectively; 
+       (2) in subsection (a)— 
+            (A) by striking “The Secretary of Defense” and 
+       inserting “Subject to subsection (b), the Commander of 
+       the United States Cyber Command”;
+             (B) by striking “per service” and inserting “per use”;
+       and 
+             (C) by striking “through 2022” and inserting “through 
+       2025”;
+       (3) by inserting after subsection (a) the following:

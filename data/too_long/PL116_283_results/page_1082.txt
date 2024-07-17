@@ -1,0 +1,101 @@
+134 STAT. 4468                                                PUBLIC LAW 116–283—JAN. 1, 2021  
+
+                                           
+
+                                                           
+
+Sec. 4201. Research, Development, Test, and Evaluation                                                                                                                    
+                                                                                                  (In Thousands of Dollars)
+
+Line Program                                            Item                                                              FY 2021                         Conference
+        Element                                                                                                           Request                        Authorized
+
+                                                            Transfer to Space Force                                                          [–1,185]
+302 1201921F       Service Support to STRATCOM—Space Ac-        993                                993
+                       Tivities
+
+303 1202140F       Service Support to Spacecom Activities            8,599                           8,599
+
+314 1203040F       Space Superiority Intelligence                               16,810                         16,810
+                                                                 Transfer to RDP, SF line 41B                                       [–6,810]
+
+316 12036020F     National Space Defense Center                              2,857                               0
+                                                                Transfer to RDP, SF line 41A                                      [–2,857]
+ 
+318 1203608F       NCMC—I/NASA FYSME                                             6,990                             6,990
+
+                                                               Transfer to RDP, SF line 41C                                        [–6,990]
+
+322A 999999999      Classified Programs                                                
+                      Classified adjustment                                       15,777,586              15,277,556                                                                     
+                                Classified programs adjustment                                             [– 5,500]
+
+                                                 SUBTOTAL OPERATIONAL SYSTEMS DEVELOPMENT                 21,466,980                15,285,948
+                                                 SUBTOTAL UNDISTRIBUTED                                                                  -649,999
+
+                                          Total Research, Development, Test & Eval, AF                                37,391,826                  35,859,037
+
+   Research, Development, Test & Eval, Space Force
+
+   Applied Research
+
+001 1260601SF       Space Technology                                                                            130,874                      146,874
+                                                           Rapid development of Low-cost, small satellite technology 
+                                                                                                                                            [10,000]
+                                          
+                                                           Small satellite mission operations center                                   [6,000]
+
+ SUBTOTAL APPLIED RESEARCH                                                                   130,874                              146,874
+
+
+Advanced Component Development & Prototypes
+
+002   1203164SF    NAVSTAR Global Positioning System                                                390,704                    380,704
+                            (USER equipment) (SPACE)      
+                                                             MUE program slip                                               [-10,000]
+003  1203710SF        EORE Weather Systems                                                                      131,100                    131,100
+
+004 1204622SF         Weather system follow-on                                                                   883,354                     883,354
+
+005 1204623SF         Space situational awareness systems                                 31,352                       31,352
+
+006 1204627SF         Space systems prototype transitions (SPACE)                    142,808                      153,595
+                                                    Transfer from RDAF line 74                                                   [10,787]
+
+007 1204638SF                Space control technology                                                  35,575                        35,575
+
+008 1206708SF               Protected tactical enterprise service (space)                  114,390                      114,390
+                                                    Unsutified programs adjustment                                                               [-5,000]
+
+009 1206716SF               Projected tactical service (PTS)                                       206,178                           206,178
+                                                    Unsutified growth adjustment                                               [-4,000]
+
+010 1206855SF             Evolved Strategic SATCOM (ESS)                                  71,136                           71,136
+
+011 1206857SF              Space Read capabilities office (SPACE)                                105,018                           105,018
+  
+011A 9999999999        Space security and defense programs (SSDP)                       Transfer from RDT& E, AF line 77                [56,311]
+
+SUBTOTAL ADVANCED COMPONENT DEVELOPMENT & PROTOTYPES                    1,311,311                        1,361,409
+
+System Development & Demonstration
+
+012 1202895SF         GPS III Follow-on (GPS III F)                                           263,496                        255,495
+                                                     Execution lagging program adjustment
+013 1203940SF         Space Situation awareness operations                                41,697                          41,697
+
+014 1204624SF         Counterspace systems                                                            50,409                          50,409
+
+015 1204625SF         Weather System follow-on                                                         2,589,941                    2,489,941
+
+016 1204625SF         Space Situational Awareness Systems                                 131,553                        131,553
+
+017 1204631SF          Advanced EHF MILSATCOM (SPACE)                     Program delay adjustment                                                                             48,254                            48,254
+
+
+018 1204632SF          Polar MILSATCOM SF (SPACE)                                                198,305                        198,305
+
+019 1204634SF          Next Generation OPIR                                                       2,218,533                  2,218,533
+
+020 1206854SF          National Security Space Launch Program (SPACE)—EMD.                                                                                                   650,878                         650,878
+

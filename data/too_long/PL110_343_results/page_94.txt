@@ -1,0 +1,59 @@
+122 STAT. 3858          PUBLIC LAW 110–343—OCT. 3, 2008
+
+shall be determined using one of the methods which may be 
+used for determining the basis of stock in an open-end fund.
+‘‘(2) TREATMENT AFTER TRANSFER.—In the case of the 
+transfer to another account of stock to which paragraph (1) 
+applies, such stock shall have a cost basis in such other account 
+equal to its basis in the dividend reinvestment plan imme- 
+diately before such transfer (properly adjusted for any fees 
+or other charges taken into account in connection with such 
+transfer).
+‘‘(3) SEPARATE ACCOUNTS; ELECTION FOR TREATMENT AS 
+SINGLE ACCOUNT.—Rules similar to the rules of subsection (c)(2) 
+shall apply for purposes of this subsection.
+‘‘(4) DIVIDEND REINVESTMENT PLAN.—For purposes of this 
+subsection—
+    ‘‘(A) IN GENERAL.—The term ‘dividend reinvestment 
+    plan’ means any arrangement under which dividends on 
+    any stock are reinvested in stock identical to the stock 
+    with respect to which the dividends are paid.
+    ‘‘(B) INITIAL STOCK ACQUISITION TREATED AS ACQUIRED 
+    IN CONNECTION WITH PLAN.—Stock shall be treated as 
+    acquired in connection with a dividend reinvestment plan 
+    if such stock is acquired pursuant to such plan or if the 
+    dividends paid on such stock are subject to such plan.’’.
+(c) INFORMATION BY TRANSFERORS TO AID BROKERS.—
+    (1) IN GENERAL.—Subpart B of part III of subchapter A 
+    of chapter 61 is amended by inserting after section 6045 the 
+    following new section:
+
+‘‘SEC. 6045A. INFORMATION REQUIRED IN CONNECTION WITH TRANS-
+FERS OF COVERED SECURITIES TO BROKERS.
+    ‘‘(a) FURNISHING OF INFORMATION.—Every applicable person 
+    which transfers to a broker (as defined in section 6045(c)(1)) a 
+    security which is a covered security (as defined in section 6045(g)(3)) 
+    in the hands of such applicable person shall furnish to such broker 
+    a written statement in such manner and setting forth such informa- 
+    tion as the Secretary may by regulations prescribe for purposes 
+    of enabling such broker to meet the requirements of section 6045(g).
+    ‘‘(b) APPLICABLE PERSON.—For purposes of subsection (a), the 
+    term ‘applicable person’ means—
+        ‘‘(1) any broker (as defined in section 6045(c)(1)), and
+        ‘‘(2) any other person as provided by the Secretary in 
+        regulations.
+    ‘‘(c) TIME FOR FURNISHING STATEMENT.—Except as otherwise 
+    provided by the Secretary, any statement required by subsection 
+    (a) shall be furnished not later than 15 days after the date of 
+    the transfer described in such subsection.’’.
+    (2) ASSESSABLE PENALTIES.—Paragraph (2) of section 
+    6724(d), as amended by the Housing Assistance Tax Act of 
+    2008, is amended by redesignating subparagraphs (I) through 
+    (DD) as subparagraphs (J) through (EE), respectively, and by 
+    inserting after subparagraph (H) the following new subpara- 
+    graph:
+            ‘‘(I) section 6045A (relating to information required 
+            in connection with transfers of covered securities to bro- 
+            kers),’’.
+    (3) CLERICAL AMENDMENT.—The table of sections for sub- 
+    part B of part III of subchapter A of chapter 61 is amended

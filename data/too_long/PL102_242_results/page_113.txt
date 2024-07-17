@@ -1,0 +1,20 @@
+105 STAT. 2348
+
+PUBLIC LAW 102-242-DEC. 19, 1991
+
+"(C) AMENDING SCHEDULE.-The Corporation may, by regulation, amend a schedule promulgated under subparagraph (B), but such amendments may not extend the date specified in subparagraph (B).
+"(D) APPLICATION TO SAIF MEMBERS.-This paragraph shall become applicable to Savings Association Insurance Fund members on January 1, 1998.
+"(4) SEMIANNUAL PERIOD DEFINED.-For purposes of this section, the term 'semiannual period' means a period beginning on January 1 of any calendar year and ending on June 30 of the same year, or a period beginning on July 1 of any calendar year and ending on December 31 of the same year.
+"(5) RECORDS TO BE MAINTAINED.-Each insured depository institution shall maintain all records that the Corporation may require for verifying the correctness of the institution's semiannual assessments. No insured depository institution shall be required to retain those records for that purpose for a period of more than 5 years from the date of the filing of any certified statement, except that when there is a dispute between the insured depository institution and the Corporation over the amount of any assessment, the depository institution shall retain the records until final determination of the issue.".
+(b) CERTIFIED STATEMENTS AND PAYMENT PROCEDURES.-Section 7(c) of the Federal Deposit Insurance Act (12 U.S.C. 1817(c)) is amended to read as follows:
+"(c) CERTIFIED STATEMENTS; PAYMENTS.-
+"(1) CERTIFIED STATEMENTS REQUIRED.-
+"(A) IN GENERAL.-Each insured depository institution shallfile with the Corporation a certified statement containing such information as the Corporation may require for determining the institution's semiannual assessment.
+"(B) FORM OF CERTIFICATION.-The certified statement required under subparagraph (A) shall-
+(i) be in such form and set forth such supporting information as the Board of Directors shall prescribe; and
+"(ii) be certified by the president of the depository institution or any other officer designated by its board of directors or trustees that to the best of his or her knowledge and belief, the statement is true, correct and complete, and in accordance with this Act and regulations issued hereunder.
+"(2) PAYMENTS REQUIRED.-
+"(A) IN GENERAL.-Each insured depository institution shall pay to the Corporation the semiannual assessment imposed under subsection (b).
+"(B) FORM OF PAYMENT.-The payments required under subparagraph (A) shall be made in such manner and at such time or times as the Board of Directors shall prescribe by regulation.
+"(3) NEWLY INSURED INSTITUTIONS.-To facilitate the administration of this section, the Board of Directors may waive the requirements of paragraphs (1) and (2) for the semiannual period in which a depository institution becomes insured.".
+(c) REGULATIONS.-To implement the risk-based assessment system required under section 7(b) of the Federal Deposit Insurance

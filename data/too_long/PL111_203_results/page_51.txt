@@ -1,0 +1,19 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+(A) take into account differences among nonbank financial companies supervised by the Board of Governors and bank holding companies described in subsection (a), based on—
+(i) the factors described in subsections (a) and (b) of section 113;
+(ii) whether the company owns an insured depository institution;
+(iii) nonfinancial activities and affiliations of the company; and
+(iv) any other risk-related factors that the Board of Governors determines appropriate;
+(B) to the extent possible, ensure that small changes in the factors listed in subsections (a) and (b) of section 113 would not result in sharp, discontinuous changes in the prudential standards established under paragraph (1) of this subsection;
+(C) take into account any recommendations of the Council under section 115; and
+(D) adapt the required standards as appropriate in light of any predominant line of business of such company, including assets under management or other activities for which particular standards may not be appropriate.
+(4) CONSULTATION.—Before imposing prudential standards or any other requirements pursuant to this section, including notices of deficiencies in resolution plans and more stringent requirements or divestiture orders resulting from such notices, that are likely to have a significant impact on a functionally regulated subsidiary or depository institution subsidiary of a nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a), the Board of Governors shall consult with each Council member that primarily supervises any such subsidiary with respect to any such standard or requirement.
+(5) REPORT.—The Board of Governors shall submit an annual report to Congress regarding the implementation of the prudential standards required pursuant to paragraph (1), including the use of such standards to mitigate risks to the financial stability of the United States.
+(C) CONTINGENT CAPITAL.—
+(1) IN GENERAL.—Subsequent to submission by the Council of a report to Congress under section 115(c), the Board of Governors may issue regulations that require each nonbank financial company supervised by the Board of Governors and bank holding companies described in subsection (a) to maintain a minimum amount of contingent capital that is convertible to equity in times of financial stress.
+(2) FACTORS TO CONSIDER.—In issuing regulations under this subsection, the Board of Governors shall consider—
+(A) the results of the study undertaken by the Council, and any recommendations of the Council, under section 115(c);
+(B) an appropriate transition period for implementation of contingent capital under this subsection;
+(C) the factors described in subsection (b)(3)(A);
+(D) capital requirements applicable to the nonbank financial company supervised by the Board of Governors

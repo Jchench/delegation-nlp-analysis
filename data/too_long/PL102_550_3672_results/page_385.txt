@@ -1,0 +1,60 @@
+106 STAT. 4056     PUBLIC LAW 102-550—OCT. 28, 1992
+
+SEC. 1507. RESTRICTING STATE BRANCHES AND AGENCIES OF FOR-
+    EIGN BANKS CONVICTED OF MONEY LAUNDERING
+    OFFENSES.
+
+Section 7 of the International Banking Act of 1978 (12 U.S.C.
+3105) is amended by inserting after subsection (h) the following
+new subsection:
+" (i) PROCEEDINGS RELATED TO CONVICTION FOR MONEY
+LAUNDERING OFFENSES.—
+     "(1) NOTICE OF INTENTION TO ISSUE ORDER.—If the Board
+finds or receives written notice from the Attorney General
+that—
+     "(A) any foreign bank which operates a State agency,
+a State branch which is not an insured branch, or a State
+commercial lending company subsidiary;
+     "(B) any State agency;
+     "(C) any State branch which is not an insured branch;
+or
+     "(D) any State commercial lending subsidiary,
+has been found guilty of any money laundering offense, the
+Board shall issue a notice to the agency, branch, or subsidiary
+of the Board's intention to commence a termination proceeding
+under subsection (e).
+     "(2) DEFINITIONS.—For purposes of this subsection—
+         "(A) INSURED BRANCH.—The term 'insured branch' has
+the meaning given such term in section 3(s) of the Federal
+Deposit Insurance Act.
+         "(B) MONEY LAUNDERING OFFENSE DEFINED.—The term
+'money laundering offense' means any criminal offense
+under section 1956 or 1957 of title 18, United States Code,
+or under section 5322 of title 31, United States Code.".
+
+Subtitle B—Nonbank Financial
+Institutions and General Provisions
+
+SEC. 1511. IDENTIFICATION OF FINANCIAL INSTITUTIONS.
+
+(a) IN GENERAL.—Subchapter II of chapter 53 of title 31, United
+States Code, is amended by inserting after section 5326 the follow-
+ing new section:
+
+"§ 5327. Identification of financial institutions
+
+"(a) REGULATIONS REQUIRED.—The Secretary of the Treasury
+shall prescribe regulations requiring each depository institution
+to identify any customer (of the depository institution) which—
+  "(1) is a financial institution described in—
+         "(A) any subparagraph of section 5312(a)(2) other than
+subparagraphs (A) through (G); or
+         "(B) any regulation under any such subparagraph; and
+  "(2) has any account with the depository institution.
+"(b) REPORTS REQUIRED.—Each depository institution shall
+report the names of and other information about financial institu-
+tion customers required to be identified under subsection (a) to
+the Secretary at such times and in such manner as the Secretary
+shall prescribe by regulation.
+"(c) REPORTING OFFENSES.—No person shall cause or attempt 
+to cause any depository institution to fail to file a report required

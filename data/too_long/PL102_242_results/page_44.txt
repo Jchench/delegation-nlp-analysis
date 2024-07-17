@@ -1,0 +1,25 @@
+PUBLIC LAW 102-242—DEC. 19, 1991	105 STAT 2279
+
+insured deposits of such depositor (if any) at such depository institution.
+		“(4) PREFERRED DEPOSITS.—The term 'preferred deposits' means deposits of any public unit (as defined in paragraph (1)) at any insured depository institution which are secured or collateralized as required under State law.”.
+SEC. 142. FEDERAL RESERVE DISCOUNT WINDOW ADVANCES.
+(a) REDESIGNATING SECTIONS 10(a) AND 10(b) OF THE FEDERAL RE-
+	SERVE ACT.—The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended—
+	(1) by redesignating section 10(a) (12 U.S.C. 347a) as section 10A; and
+	(2) by redesignating section 10(b) (12 U.S.C. 347b) as section 10B.
+(b) LIMITATIONS ON LIQUIDITY LENDING FOR DEPOSIT INSURANCE
+	PURPOSES.—Section 10B of the Federal Reserve Act (as redesignated by subsection (a)) is amended—
+	(1) by striking “Any Federal Reserve bank” and inserting “(a) IN GENERAL.—Any Federal Reserve bank”; and
+	(2) by adding at the end the following:
+		“(b) LIMITATIONS ON ADVANCES.—
+		“(1) LIMITATION ON EXTENDED PERIODS.—Except as provided in paragraph (2), no advances to any undercapitalized depository institution by any Federal Reserve bank under this section may be outstanding for more than 60 days in any 120-day period.
+		“(2) VIABILITY EXCEPTION.—
+		“(A) IN GENERAL—If—
+			“(i) the head of the appropriate Federal banking agency certifies in advance in writing to the Federal Reserve bank that any depository institution is viable; or
+			“(ii) the Board conducts an examination of any depository institution and the Chairman of the Board certifies in writing to the Federal Reserve bank that the institution is viable,
+		the limitation contained in paragraph (1) shall not apply during the 60-day period beginning on the date such certification is received.
+		“(B) EXTENSIONS OF PERIOD.—The 60-day period may be extended for additional 60-day periods upon receipt by the Federal Reserve bank of additional written certifications under subparagraph (A) with respect to each such additional period.
+		“(C) AUTHORITY TO ISSUE A CERTIFICATE OF VIABILITY MAY
+		NOT BE DELEGATED.—The authority of the head of any agency to issue a written certification of viability under this paragraph may not be delegated to any other person.
+		“(D) EXTENDED ADVANCES SUBJECT TO PARAGRAPH (3).—Notwithstanding paragraph (1), an undercapitalized depositiory institution which does not have a certificate of viability in effect under this paragraph may have advances outstanding for more than 60 days in any 120-day period if the Board elects to treat—
+			“(i) such institution as critically undercapitalized under paragraph (3); and

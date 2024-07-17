@@ -1,0 +1,22 @@
+122 STAT. 3786		PUBLIC LAW 110–343—OCT. 3, 2008
+
+		(A) state the responsibility of management for establishing and maintaining adequate internal control over financial reporting; and
+		(B) state its assessment, as of the end of the most recent year covered by such financial statement of the TARP, of the effectiveness of the internal control over financial reporting.
+	Reports.
+Audits. (d) SHARING OF INFORMATION.—Any report or audit required under this section shall also be submitted to the Congressional Oversight Panel established under section 125.
+	(e) TERMINATION.—Any oversight, reporting, or audit requirement under this section shall terminate on the later of—
+		(1) the date that the last troubled asset acquired by the Secretary under section 101 has been sold or transferred out of the ownership or control of the Federal Government; or
+		(2) the date of expiration of the last insurance contract issued under section 102.
+
+SEC. 117. STUDY AND REPORT ON MARGIN AUTHORITY. 12 USC 5227. 
+(a) STUDY.—The Comptroller General shall undertake a study to determine the extent to which leverage and sudden deleveraging of financial institutions was a factor behind the current financial crisis.
+	(b) CONTENT.—The study required by this section shall include—
+		(1) an analysis of the roles and responsibilities of the Board, the Securities and Exchange Commission, the Secretary, and other Federal banking agencies with respect to monitoring leverage and acting to curtail excessive leveraging;
+		(2) an analysis of the authority of the Board to regulate leverage, including by setting margin requirements, and what process the Board used to decide whether or not to use its authority;
+		(3) an analysis of any usage of the margin authority by the Board; and
+		(4) recommendations for the Board and appropriate committees of Congress with respect to the existing authority of the Board.
+	(c) REPORT.—Not later than June 1, 2009, the Comptroller General shall complete and submit a report on the study required by this section to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+	(d) SHARING OF INFORMATION.—Any reports required under this section shall also be submitted to the Congressional Oversight Panel established under section 125.
+
+SEC. 118. FUNDING. 12 USC 5228. 
+	For the purpose of the authorities granted in this Act, and for the costs of administering those authorities, the Secretary may use the proceeds of the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under chapter 31 of title 31, United States Code, are extended to include actions authorized by this Act, including the payment of administrative expenses. Any funds expended or obligated by the Secretary for actions authorized by this Act, including the payment of administrative expenses, shall

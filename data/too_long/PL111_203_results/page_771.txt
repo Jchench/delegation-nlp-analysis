@@ -1,0 +1,26 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+“(iii) the interest rate over the entire term of the loan is a fixed rate equal to the fully indexed rate at the time of the loan closing, without considering the introductory rate.
+
+“(E) REFINANCE OF HYBRID LOANS WITH CURRENT LENDER.—In considering any application for refinancing an existing hybrid loan by the creditor into a standard loan to be made by the same creditor in any case in which there would be a reduction in monthly payment and the mortgagor has not been delinquent on any payment on the existing hybrid loan, the creditor may—
+“(i) consider the mortgagor’s good standing on the existing mortgage;
+“(ii) consider if the extension of new credit would prevent a likely default should the original mortgage reset and give such concerns a higher priority as an acceptable underwriting practice; and
+“(iii) offer rate discounts and other favorable terms to such mortgagor that would be available to new customers with high credit ratings based on such underwriting practice.
+
+“(7) FULLY-INDEXED RATE DEFINED.—For purposes of this subsection, the term ‘fully indexed rate’ means the index rate prevailing on a residential mortgage loan at the time the loan is made plus the margin that will apply after the expiration of any introductory interest rates.
+
+“(8) REVERSE MORTGAGES AND BRIDGE LOANS.—This subsection shall not apply with respect to any reverse mortgage or temporary or bridge loan with a term of 12 months or less, including to any loan to purchase a new dwelling where the consumer plans to sell a different dwelling within 12 months.
+
+“(9) SEASONAL INCOME.—If documented income, including income from a small business, is a repayment source for a residential mortgage loan, a creditor may consider the seasonality and irregularity of such income in the underwriting and scheduling of payments for such credit.”.
+
+(b)  CLERICAL AMENDMENT.—The table of sections for chapter 2 of the Truth in Lending Act is amended by inserting after the item relating to section 129B (as added by section 1402(b)) the following new item:
+
+“129C. Minimum standards for residential mortgage loans.”.
+
+SEC. 1412. SAFE HARBOR AND REBUTTABLE PRESUMPTION.
+
+Section 129C of the Truth in Lending Act is amended by inserting after subsection (a) (as added by section 1411) the following new subsection:
+“(b) PRESUMPTION OF ABILITY TO REPAY.—
+“(1) IN GENERAL.—Any creditor with respect to any residen- tial mortgage loan, and any assignee of such loan subject to liability under this title, may presume that the loan has met the requirements of subsection (a), if the loan is a qualified mortgage.
+“(2) DEFINITIONS.—For purposes of this subsection, the fol- lowing definitions shall apply:
+“(A) QUALIFIED MORTGAGE.—The term ‘qualified mort- gage’ means any residential mortgage loan—

@@ -1,0 +1,61 @@
+PUBLIC LAW 116-283—JAN. 1, 2021          134 STAT. 4391
+
+
+Subtitle G—Administrative Matters
+
+SEC. 3161. MODIFICATIONS TO ENHANCED PROCUREMENT AUTHORITY
+           TO MANAGE SUPPLY CHAIN RISK.
+
+Section 4806 of the Atomic Energy Defense Act (50 U.S.C.
+2786) is amended—
+    (1) in subsections (a) and (c), by inserting ‘‘or special exclu-
+sion action’’ after ‘‘covered procurement action’’ each place it
+appears;
+    (2) by redesignating subsections (e) and (f) as subsections
+(f) and (g), respectively;
+    (3) by inserting after subsection (d) the following new sub-
+section (e):
+    ‘‘(e) DELEGATION OF AUTHORITY.—The Secretary may delegate
+the authority under this section to—
+        ‘‘(1) in the case of the Administration, the Administrator;
+        and
+        ‘‘(2) in the case of any other component of the Department
+        of Energy, the Senior Procurement Executive of the Depart-
+        ment.’’; and
+    (4) in subsection (f), as redesignated by paragraph (2)—
+        (A) by redesignating paragraph (6) as paragraph (7);
+        and
+        (B) by inserting after paragraph (5) the following new
+        paragraph (6):
+            ‘‘(6) SPECIAL EXCLUSION ACTION.—The term ‘special exclu-        Definition.
+            sion action’ means an action to prohibit, for a period not to
+            exceed two years, the award of any contracts or subcontracts
+            by the Administration or any other component of the Depart-
+            ment of Energy related to any covered system to a source
+            the Secretary determines to represent a supply chain risk.’’.
+
+SEC. 3162. EXTENSION OF PILOT PROGRAM ON UNAVAILABILITY FOR
+           OVERHEAD COSTS OF AMOUNTS SPECIFIED FOR LABORA-
+           TORY-DIRECTED RESEARCH AND DEVELOPMENT.
+
+Section 3119 of the National Defense Authorization Act for
+Fiscal Year 2017 (Public Law 114–328; 50 U.S.C. 2791 note) is
+amended—
+    (1) in subsection (c)(2), by striking ‘‘four’’ and inserting
+    ‘‘nine’’; and
+    (2) in subsection (d), by striking ‘‘February 15, 2020’’ and
+    inserting ‘‘February 15, 2025’’.
+
+                  Subtitle H—Other Matters
+
+SEC. 3171. INDEPENDENT STUDY ON POTENTIAL ENVIRONMENTAL
+           EFFECTS OF NUCLEAR WAR.
+
+(a) STUDY.—The Administrator for Nuclear Security, in con-
+sultation with the Secretary of Defense and the Director of National
+Intelligence, shall seek to enter into an agreement with the National
+Academies of Sciences, Engineering, and Medicine under which
+the National Academies conduct a study on the environmental
+effects of nuclear war.
+(b) MATTERS INCLUDED.—The study under subsection (a) shall
+include the following:

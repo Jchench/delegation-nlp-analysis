@@ -1,0 +1,25 @@
+134 STAT. 3764		PUBLIC LAW 116-283—JAN. 1, 2021
+
+(c) TRUSTED SUPPLY.—The Secretary of Defense shall apply the requirements of section 224 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116-92; 10 U.S.C. 2302 note) to the acquisition of covered printed circuit boards (as such term is defined under section 2533d(c) of title 10, United States Code, as added by this section).
+
+(d) INDEPENDENT ASSESSMENT.— 
+
+(1) IN GENERAL.—Not later than 90 days after the date of enactment of this Act, the Secretary of Defense shall seek to enter into an agreement with a federally funded research and development center under which the center will conduct an assessment of the benefits and risks of expanding the prohibition in section 2533d(a) and the definitions in section 2533d(c) of title 10, United States Code, each as added by this section, to include printed circuit boards in commercial products or services, or in commercially available off-the-shelf products or services. The assessment shall also include analysis and recommendations regarding the scope of mission critical functions, as such term is used in such section.
+
+(2) SUBMISSION TO DEPARTMENT OF DEFENSE.—Not later than one year after entering into the contract described in paragraph (1), the federally funded research and development center that conducts the assessment described in such paragraph shall submit to the Secretary of Defense a report on the results of the assessment.
+
+(3) SUBMISSION TO CONGRESS.—Not later than 90 days after the date on which the Secretary of Defense receives the report described in paragraph (2), the Secretary shall submit to the congressional defense committees an unaltered copy of the report, together with any comments the Secretary may have with respect to the report, as well as a summary of the recommendations of the report. The comments of the Secretary, if any, and the summary of recommendations shall be in an unclassified form, but the submission may include a classified annex.
+
+
+SEC. 842. REPORT ON NONAVAILABILITY DETERMINATIONS AND QUARTERLY NATIONAL TECHNOLOGY AND INDUSTRIAL BASE BRIEFINGS.
+
+(a) IN GENERAL.—Section 2504 of title 10, United States Code, is amended—
+
+(1) by striking “The Secretary” and inserting the following:
+	“(a) ANNUAL REPORT.—The Secretary”;
+(2) in subsection (a), as designated by paragraph (1), by adding at the end the following new paragraph:
+“(5) A detailed description of any use by the Secretary of Defense or a Secretary concerned, as applicable, during the prior 12 months of a waiver or exception to the source requirements or prohibitions established by chapter 83 of title 41 or subchapter V of chapter 148 of this title, including—
+	“(A) the type of waiver or exception used; and
+	“(B) the reasoning for the use of each such waiver or exception.”; and
+(3) by adding at the end the following new subsection:
+	“(b) QUARTERLY BRIEFINGS.—(1) The Secretary of Defense shall ensure that the congressional defense committees receive quarterly briefings on the industrial base supporting the Department of

@@ -1,0 +1,35 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+
+124 STAT. 1767
+
+sole right to select the clearing agency at which the security-based swap will be cleared.
+
+“(B) SECURITY-BASED SWAPS NOT REQUIRED TO BE CLEARED.—With respect to any security-based swap that is not subject to the mandatory clearing requirement under subsection (a) and entered into by a security-based swap dealer or a major security-based swap participant with a counterparty that is not a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant, the counterparty—
+
+“(i) may elect to require clearing of the security-based swap; and
+
+“(ii) shall have the sole right to select the clearing agency at which the security-based swap will be cleared.
+
+“(6) ABUSE OF EXCEPTION.—The Commission may prescribe such rules or issue interpretations of the rules as the Commission determines to be necessary to prevent abuse of the exceptions described in this subsection. The Commission may also request information from those persons claiming the clearing exception as necessary to prevent abuse of the exceptions described in this subsection.
+
+“(h) TRADE EXECUTION.—
+
+“(1) IN GENERAL.—With respect to transactions involving security-based swaps subject to the clearing requirement described in (a)(1), counterparties shall—
+
+“(A) execute the transaction on an exchange; or
+
+“(B) execute the transaction on a security-based swap execution facility registered under section 3D or a security-based swap execution facility that is exempt from registration under section 3D(e).
+
+“(2) EXCEPTION.—The requirements of subparagraphs (A) and (B) of paragraph (1) shall not apply if no exchange or security-based swap execution facility makes the security-based swap available to trade or for security-based swap transactions subject to the clearing exception under subsection (g).
+
+“(i) BOARD APPROVAL.—Exemptions from the requirements of this section to clear a security-based swap or execute a security-based swap through a national securities exchange or security-based swap execution facility shall be available to a counterparty that is an issuer of securities that are registered under section 12 or that is required to file reports pursuant to section 15(d), only if an appropriate committee of the issuer’s board or governing body has reviewed and approved the issuer’s decision to enter into security-based swaps that are subject to such exemptions.
+
+“(j) DESIGNATION OF CHIEF COMPLIANCE OFFICER.—
+
+“(1) IN GENERAL.—Each registered clearing agency shall designate an individual to serve as a chief compliance officer.
+
+“(2) DUTIES.—The chief compliance officer shall—
+
+“(A) report directly to the board or to the senior officer of the clearing agency;
+
+“(B) in consultation with its board, a body performing a function similar thereto, or the senior officer of the registered clearing agency, resolve any conflicts of interest that may arise;

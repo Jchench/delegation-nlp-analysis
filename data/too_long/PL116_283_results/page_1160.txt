@@ -1,0 +1,17 @@
+134 STAT. 4546	PUBLIC LAW 116–283—JAN. 1, 2021
+        
+(d) FACILITY USE AND UPGRADES.—In carrying out the program under subsection (a), the Secretary shall—
+	(1) make available high-performance computing infrastructure at national laboratories;
+	(2) make any upgrades necessary to enhance the use of existing computing facilities for artificial intelligence systems, including upgrades to hardware;
+	(3) establish new computing capabilities necessary to manage data and conduct high performance computing that enables the use of artificial intelligence systems; and
+	(4) maintain and improve, as needed, networking infrastructure, data input and output mechanisms, and data analysis, storage, and service capabilities.
+(e) REPORT ON ETHICS STATEMENTS.—Not later than 6 months after publication of the study described in section 5401(d)(1)(C), the Secretary shall report to Congress on options for requiring an ethics or risk statement as part of all or a subset of applications for research activities funded by the Department of Energy and performed at Department of Energy national laboratories and user facilities.
+(f) RISK MANAGEMENT.—The Secretary shall review agency policies for risk management in artificial intelligence related projects and issue as necessary policies and principles that are consistent with the framework developed under section 22A(c) of the National Institute of Standards and Technology Act (as added by section 5301 of this division). In addition, the Secretary shall establish a streamlined mechanism for approving research projects or partnerships that require sharing sensitive public or private data with the Department. 
+(g) DATA PRIVACY AND SHARING.—The Secretary shall review agency policies for data sharing with other public and private sector organizations and issue as necessary policies and principles that are consistent with the standards and guidelines submitted under section 22A(e) of the National Institute of Standards and Technology Act (as added by section 5301 of this division). In addition, the Secretary shall establish a streamlined mechanism for approving research projects or partnerships that require sharing sensitive public or private data with the Department. 
+(h) PARTNERSHIPS WITH OTHER FEDERAL AGENCIES.—The Secretary may request, accept, and provide funds from other Federal departments and agencies, State, United States territory, local or Tribal government agencies, private sector for-profit entities, and nonprofit entities, to be available to the extent provided by appropriations Acts, to support a research project or partnership carried out under this section. The Secretary may not give any special consideration to any agency or entity in return for a donation.
+(i) STAKEHOLDER ENGAGEMENT.—In carrying out the activities authorized in this section, the Secretary shall—
+	(1) collaborate with a range of stakeholders including small businesses, institutes of higher education, industry, and the National Laboratories;
+	(2) leverage the collective body of knowledge from existing artificial intelligence and machine learning research; and
+	(3) engage with other Federal agencies, research communities, and potential users of information produced under this section.
+(j) DEFINITIONS.—In this section:
+	(1) SECRETARY.—The term “Secretary” means the Secretary of Energy.

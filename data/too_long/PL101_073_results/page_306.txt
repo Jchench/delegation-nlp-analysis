@@ -1,0 +1,36 @@
+103 STAT. 488    PUBLIC LAW 101-73 - AUG. 9, 1989
+
+(1) The Comptroller of the Currency.
+(2) The Board of Governors of the Federal Reserve System.
+(3) The Federal Deposit Insurance Corporation.
+(4) The Federal Housing Finance Board.
+(5) The Office of Thrift Supervision.
+(6) The National Credit Union Administration.
+(7) The Attorney General of the United States.
+
+SEC. 919. CREDIT UNION AUDIT REQUIREMENTS.
+
+Section 202(a) of the Federal Credit Union Act (12 U.S.C. 1782(a)) is amended by adding at the end thereof the following new paragraph:
+
+(6) AUDIT REQUIREMENT.- 
+(A) IN GENERAL.-Before the end of the 120-day period beginning on the date of the enactment of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 and notwithstanding any other provision of Federal or State law, the Board shall prescribe, by regulation, audit standards which require an outside, independent audit of any insured credit union by a certified public accountant for any fiscal year (of such credit union)-
+
+(i) for which such credit union has not conducted an annual supervisory committee audit; 
+(ii) for which such credit union has not received a complete and satisfactory supervisory committee audit; or 
+(iii) during which such credit union has experienced persistent and serious recordkeeping deficiencies, as determined by the Board.
+
+(B) UNSAFE OR UNSOUND PRACTICE.-The Board may treat the failure of any insured credit union to obtain an outside, independent audit for any fiscal year for which such audit is required under subparagraph (A) as an unsafe or unsound practice within the meaning of section 206(b).
+
+SEC. 920. TECHNICAL AMENDMENTS RELATING TO ADMINISTRATIVE AND JUDICIAL REVIEW.
+
+(a) FDIA.- Section 8(h)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1818(h)(2)) is amended by striking "Any party" and all that follows through "therein," and inserting in lieu thereof "Any party to any proceeding under paragraph (1)".
+
+(b) FCUA.- Section 206(j)(2) of the Federal Credit Union Act (12 U.S.C. 1786(j)(2)) is amended by striking "Any party" and all that follows through "therein," and inserting in lieu thereof "Any party to any proceeding under paragraph (1)".
+
+(c) MISCELLANEOUS CONFORMING AMENDMENT.- Section 8(k) of the Federal Deposit Insurance Act (12 U.S.C. 1818(k)) is amended by striking out all that follows "(k)".
+
+Subtitle B - Termination of Deposit Insurance
+
+SEC. 926. REVISION OF PROCEDURES FOR TERMINATION OF FDIC DEPOSIT INSURANCE. 
+
+Section 8(a) of the Federal Deposit Insurance Act (12 U.S.C. 1818(a)) is amended-

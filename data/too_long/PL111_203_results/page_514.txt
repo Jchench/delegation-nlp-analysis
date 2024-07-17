@@ -1,0 +1,19 @@
+124 STAT. 1888         PUBLIC LAW 111–203—JULY 21, 2010
+
+exemption for entities whose primary business is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii)).
+SEC. 939C. SECURITIES AND EXCHANGE COMMISSION STUDY ON STRENGTHENING CREDIT RATING AGENCY INDEPENDENCE.
+(a) STUDY.—The Commission shall conduct a study of—
+(1) the independence of nationally recognized statistical rating organizations; and
+(2) how the independence of nationally recognized statistical rating organizations affects the ratings issued by the nationally recognized statistical rating organizations.
+(b) SUBJECTS FOR EVALUATION.—In conducting the study under subsection (a), the Commission shall evaluate—
+(1) the management of conflicts of interest raised by a nationally recognized statistical rating organization providing other services, including risk management advisory services, ancillary assistance, or consulting services;
+(2) the potential impact of rules prohibiting a nationally recognized statistical rating organization that provides a rating to an issuer from providing other services to the issuer; and
+(3) any other issue relating to nationally recognized statistical rating organizations, as the Chairman of the Commission determines is appropriate.
+(c) REPORT.—Not later than 3 years after the date of enactment of this Act, the Chairman of the Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the results of the study conducted under subsection (a), including recommendations, if any, for improving the integrity of ratings issued by nationally recognized statistical rating organizations.
+15 USC 780–9 
+note.
+SEC. 939D. GOVERNMENT ACCOUNTABILITY OFFICE STUDY ON ALTERNATIVE BUSINESS MODELS.
+(a) STUDY.—The Comptroller General of the United States shall conduct a study on alternative means for compensating nationally recognized statistical rating organizations in order to create incentives for nationally recognized statistical rating organizations to provide more accurate credit ratings, including any statutory changes that would be required to facilitate the use of an alternative means of compensation.
+(b) REPORT.—Not later than 18 months after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the results of the study conducted under subsection (a), including recommendations, if any, for providing incentives to credit rating agencies to improve the credit rating process.
+SEC. 939E. GOVERNMENT ACCOUNTABILITY OFFICE STUDY ON THE CREATION OF AN INDEPENDENT PROFESSIONAL ANALYST ORGANIZATION.
+(a) STUDY.—The Comptroller General of the United States shall conduct a study on the feasibility and merits of creating an independent professional organization for rating analysts employed by nationally recognized statistical rating organizations that would be responsible for—

@@ -1,0 +1,69 @@
+PUBLIC LAW 116–283—JAN. 1, 2021          134 STAT. 4497
+
+SEC. 4302. OPERATION AND MAINTENANCE FOR OVERSEAS CONTINGENCY OPERATIONS
+
+(In Thousands of Dollars)
+
+Line  Item                                                          FY 2021
+                                                                 Request            Conference
+                                                                                     Authorized
+
+MOBILIZATION
+240    AIRLIFT OPERATIONS   
+         Realignment from Base to OCO ...........................  1,271,439     1,471,439
+                                                                                   [200,000]
+250    MOBILIZATION REPARREDNESS.....................          120,866         120,866
+         SUBTOTAL MOBILIZATION.............................      1,392,305      1,592,305
+ 
+TRAINING AND RECRUITING
+260    OFFICER ACQUISITION .....................................         200               200
+270    RECRUIT TRAINING ...........................................          352               352
+290    SPECIALIZED SKILL TRAINING .........................     27,010         27,010   
+300    FLIGHT TRAINING..............................................         844               844
+310    PROFESSIONAL DEVELOPMENT EDUCATION ....        1,199           1,199
+320    TRAINING SUPPORT .........................................       1,320            1,320
+         SUBTOTAL TRAINING AND RECRUITING ........        30,925          30,925
+
+ADMIN & SRVWD ACTIVITIES
+380    LOGISTICS OPERATIONS....................................   164,701        164,701
+390    TECHNICAL SUPPORT ACTIVITIES ....................     11,782           11,782
+400    ADMINISTRATION ............................................       3,886             3,886
+410    SERVICEWIDE COMMUNICATIONS ....................   355                355
+420    OTHER SERVICEWIDE ACTIVITIES .................... 100,831         56,631
+         Department requested transfer to line 15F ........ [–44,200]
+         Department requested transfer to line 12C ........ [–28,000]
+455    CLASSIFIED PROGRAMS ....................................     34,502          34,502
+         SUBTOTAL ADMIN & SRVWD ACTIVITIES .......   345,985       273,785
+
+         TOTAL OPERATION & MAINTENANCE,
+         AIR FORCE .......................................................   17,930,020    18,307,599
+
+OPERATION & MAINTENANCE, SPACE FORCE
+OPERATING FORCES
+020    GLOBAL C4I & EARLY WARNING ...................            227              227
+030    SPACE LAUNCH OPERATIONS .........................          321              321 
+040    SPACE OPERATIONS ........................................  15,135         15,135
+070    DEPOT MAINTENANCE .....................................   18,268         18,268
+080    CONTRACTOR LOGISTICS & SYSTEM SUPPORT .. 43,164        43,164
+         SUBTOTAL OPERATING FORCES ....................     77,115         77,115
+
+         TOTAL OPERATION & MAINTENANCE,
+         SPACE FORCE ..................................................     77,115         77,115
+
+OPERATION & MAINTENANCE, AF RESERVE
+OPERATING FORCES
+030    DEPOT PURCHASE EQUIPMENT MAINTENANCE ... 24,408       24,408
+060    BASE SUPPORT ...............................................       5,682           5,682
+         SUBTOTAL OPERATING FORCES ....................     30,090         30,090
+
+         TOTAL OPERATION & MAINTENANCE, AF 
+         RESERVE .........................................................     30,090         30,090
+
+OPERATION & MAINTENANCE, ANG
+OPERATING FORCES
+020    MISSION SUPPORT OPERATIONS .......................        3,739           3,739
+030    DEPOT PURCHASE EQUIPMENT MAINTENANCE ...  61,862        61,862
+050    CONTRACTOR LOGISTICS SUPPORT AND SYSTEM
+         SUPPORT ......................................................     97,108         97,108
+060    BASE SUPPORT ...............................................     12,933         12,933
+         SUBTOTAL OPERATING FORCES ....................  175,642       175,642

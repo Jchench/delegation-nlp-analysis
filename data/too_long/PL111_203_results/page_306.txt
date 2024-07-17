@@ -1,0 +1,59 @@
+124 STAT. 1680                                 PUBLIC LAW 111–203—JULY 21, 2010
+
+        ‘‘(ii) EXCLUSION.—The Commission shall consider
+   whether to exempt small banks, savings associations,
+   farm credit system institutions, and credit unions,
+   including—
+              ‘‘(I) depository institutions with total assets
+        of $10,000,000,000 or less;
+              ‘‘(II) farm credit system institutions with total
+        assets of $10,000,000,000 or less; or
+              ‘‘(III) credit unions with total assets of
+        $10,000,000,000 or less.
+        ‘‘(iii) LIMITATION.—Such definition shall not
+   include an entity whose primary business is providing
+   financing, and uses derivatives for the purpose of
+   hedging underlying commercial risks related to interest
+   rate and foreign currency exposures, 90 percent or
+   more of which arise from financing that facilitates
+   the purchase or lease of products, 90 percent or more
+   of which are manufactured by the parent company
+   or another subsidiary of the parent company.
+        ‘‘(D) TREATMENT OF AFFILIATES.—
+              ‘‘(i) IN GENERAL.—An affiliate of a person that
+        qualifies for an exception under subparagraph (A)
+        (including affiliate entities predominantly engaged in
+        providing financing for the purchase of the merchan-
+        dise or manufactured goods of the person) may qualify
+        for the exception only if the affiliate, acting on behalf
+        of the person and as an agent, uses the swap to hedge
+        or mitigate the commercial risk of the person or other
+        affiliate of the person that is not a financial entity.
+              ‘‘(ii) PROHIBITION RELATING TO CERTAIN AFFILI-
+        ATES.—The exception in clause (i) shall not apply if
+        the affiliate is—
+                         ‘‘(I) a swap dealer;
+                         ‘‘(II) a security-based swap dealer;
+                         ‘‘(III) a major swap participant;
+                         ‘‘(IV) a major security-based swap participant;
+                         ‘‘(V) an issuer that would be an investment
+                  company, as defined in section 3 of the Investment
+                  Company Act of 1940 (15 U.S.C. 80a–3), but for
+                  paragraph (1) or (7) of subsection (c) of that Act
+                  (15 U.S.C. 80a–3(c));
+                         ‘‘(VI) a commodity pool; or
+                         ‘‘(VII) a bank holding company with over
+                  $50,000,000,000 in consolidated assets.
+              ‘‘(iii) TRANSITION RULE FOR AFFILIATES.—An affil-
+        iate, subsidiary, or a wholly owned entity of a person
+        that qualifies for an exception under subparagraph
+        (A) and is predominantly engaged in providing
+        financing for the purchase or lease of merchandise
+        or manufactured goods of the person shall be exempt
+        from the margin requirement described in section 4s(e)
+        and the clearing requirement described in paragraph
+        (1) with regard to swaps entered into to mitigate the
+        risk of the financing activities for not less than a
+        2-year period beginning on the date of enactment of
+        this clause.
+        ‘‘(E) ELECTION OF COUNTERPARTY.—

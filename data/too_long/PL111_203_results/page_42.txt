@@ -1,0 +1,25 @@
+124 STAT. 1416
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+Office of significant financial market developments and potential emerging threats to the financial stability of the United States.
+(2) NO PRIOR REVIEW.—No officer or agency of the United States shall have any authority to require the Director to submit the testimony required under paragraph (1) or other congressional testimony to any officer or agency of the United States for approval, comment, or review prior to the submission of such testimony. Any such testimony to Congress shall include a statement that the views expressed therein are those of the Director and do not necessarily represent the views of the President.
+(e) ADDITIONAL REPORTS.—The Director may provide additional reports to Congress concerning the financial stability of the United States. The Director shall notify the Council of any such additional reports provided to Congress.
+(f) SUBPOENA.—
+(1) IN GENERAL.—The Director may require from a financial company, by subpoena, the production of the data requested under subsection (a)(1) and section 154(b)(1), but only upon a written finding by the Director that—
+(A) such data is required to carry out the functions described under this subtitle; and
+(B) the Office has coordinated with the relevant primary financial regulatory agency, as required under section 154(b)(1)(B)(ii).
+(2) FORMAT.—Subpoenas under paragraph (1) shall bear the signature of the Director, and shall be served by any person or class of persons designated by the Director for that purpose.
+(3) ENFORCEMENT.—In the case of contumacy or failure to obey a subpoena, the subpoena shall be enforceable by order of any appropriate district court of the United States. Any failure to obey the order of the court may be punished by the court as a contempt of court.
+
+12 USC 5344.
+
+SEC. 154. ORGANIZATIONAL STRUCTURE; RESPONSIBILITIES OF PRIMARY PROGRAMMATIC UNITS.
+(a) IN GENERAL.—There are established within the Office, to carry out the programmatic responsibilities of the Office—
+(1) the Data Center; and
+(2) the Research and Analysis Center.
+(b) DATA CENTER.—
+(1) GENERAL DUTIES.—
+(A) DATA COLLECTION.—The Data Center, on behalf of the Council, shall collect, validate, and maintain all data necessary to carry out the duties of the Data Center, as described in this subtitle. The data assembled shall be obtained from member agencies, commercial data providers, publicly available data sources, and financial entities under subparagraph (B).
+(B) AUTHORITY.—
+(i) IN GENERAL.—The Office may, as determined BY the Council or by the Director in consultation with the Council, require the submission of periodic and other reports from any financial company for the purpose of assessing the extent to which a financial

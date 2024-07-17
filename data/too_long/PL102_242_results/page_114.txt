@@ -1,0 +1,26 @@
+PUBLIC LAW 102-242—DEC. 19, 1991                               105 STAT. 2349
+
+Act (as amended by subsection (a)), the Federal Deposit Insurance Corporation shall—
+(1) provide notice of proposed regulations in the Federal Register, not later than December 31, 1992, with an opportunity for comment on the proposal of not less than 120 days; and
+(2) promulgate final regulations not later than July 1, 1993.
+(d) AUTHORITY TO PRESCRIBE REGULATIONS AND DEFINITIONS.—
+Section 10 of the Federal Deposit Insurance Act (12 U.S.C. 1820) is amended by adding at the end the following:
+"(f) AUTHORITY TO PRESCRIBE REGULATIONS AND DEFINITIONS.— Except to the extent that authority under this Act is conferred on any of the Federal banking agencies other than the Corporation, the Corporation may—
+"(1) prescribe regulations to carry out this Act; and
+(2) by regulation define terms as necessary to carry out this Act.".
+(e) CONFORMING AMENDMENTS.—The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended—
+(1) in section 5(d)(3)(B)—
+(A) by striking "average assessment base" and inserting "deposits"; and
+(B) by striking "shall—" and all that follows through "(iii) shall be treated" and inserting "shall be treated";
+(2) in section 7(a)(5) by striking "and for the computation of assessments provided in subsection (b) of this section";
+(3) in section 7 by amending subsection (d) to read as follows:
+"(d) CORPORATION EXEMPT FROM APPORTIONMENT.—Notwithstand ing any other provision of law, amounts received pursuant to any assessment under this section and any other amounts received by the Corporation shall not be subject to apportionment for the purposes of chapter 15 of title 31, United States Code, or under any other authority."; and
+(4) in the last sentence of section 8(a) by striking "upon" and inserting "with respect to".
+(f) TRANSITION TO NEW ASSESSMENT SYSTEM.—To carry out the amendments made by this section, the Corporation may promulgate regulations governing the transition from the assessment system in effect on the date of enactment of this Act to the assessment system required under the amendments made by this section.
+(g) EFFECTIVE DATE OF AMENDMENTS.—The amendments made by this section shall become effective on the earlier of—
+(1) 180 days after the date on which final regulations promulgated in accordance with subsection (c) become effective; or
+(2) January 1, 1994.
+SEC. 303. RESTRICTIONS ON INSURED STATE BANK ACTIVITIES.
+(a) IN GENERAL.—The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by inserting after section 23 the following new section:
+"SEC. 24. ACTIVITIES OF INSURED STATE BANKS.
+"(a) IN GENERAL.—After the end of the 1-year period beginning on the date of the enactment of the Federal Deposit Insurance Corporation Improvement Act of 1991, an insured State bank may not engage as principal in any type of activity that is not permissible for a national bank unless—

@@ -1,0 +1,57 @@
+PUBLIC LAW 116–283—JAN. 1, 2021            134 STAT. 4053
+
+the military departments in establishing, coordinating, consolidating, and validating mapping, charting, geomatics data, and safety of navigation capability requirements through a formal process governed by the Joint Staff. Consistent with validated requirements, the National Geospatial-Intelligence Agency shall provide aeronautical and nautical charts that are safe for navigation, maps, books, datasets, models, and geomatics products.”.
+    (b) MAPS, CHARTS, AND BOOKS.—
+        (1)  IN GENERAL.—Section  451 of title 10, United States 
+Code, is amended—
+                (A) in the heading, by striking “and books” and 
+inserting “books, and datasets”;
+                (B) in paragraph (1), by striking “maps, charts, and 
+nautical books” and inserting “nautical and aeronautical 
+charts, topographic and geomatics maps, books, models, 
+and datasets”; and
+                (C) by amending paragraph (2) to read as follows:
+                    “(2) acquire (by purchase, lease, license, or barter) all nec-
+essary rights, including copyrights and other intellectual prop-
+erty rights, required to prepare, publish, and furnish to naviga-
+tors the products described in paragraph (1).”.
+                (2)  CLERICAL AMENDMENT.—The table of sections at the 
+beginning of subchapter II of chapter 22 of title 10, United 
+States Code, is amended by striking the item relating to section 
+451 and inserting the following new item:
+
+    “451. Maps, charts, books, and datasets.”.
+
+    (c) EXCHANGE.—
+        (1)  IN GENERAL.—Section  454 of title 10, United States 
+Code, is amended—
+                (A) in the heading, by striking “geodetic” and 
+inserting “geomatics”; and
+                (B) by striking “geodetic” and inserting “geomatics” 
+each place it appears.
+                (2)  CLERICAL AMENDMENT.—The table of sections at the 
+beginning of subchapter II of chapter 22 of title 10, United 
+States Code, is amended by striking the item relating to section 
+454 and inserting the following new item:
+
+    “454. Exchange of mapping, charting, and geomatics data with foreign countries, 
+    international organizations, nongovernmental organizations, and aca-
+    demic institutions.”.
+
+    (d) PUBLIC AVAILABILITY.—
+        (1)  IN GENERAL.—Section  455 of title 10, United States 
+Code, is amended—
+                (A) in the heading, by striking “geodetic” and 
+inserting “geomatics”; and
+                (B) by striking “geodetic” and inserting “geomatics” 
+each place it appears.
+        (2)  CLERICAL AMENDMENT.—The table of sections at the 
+beginning of subchapter II of chapter 22 of title 10, United 
+States Code, is amended by striking the item relating to section 
+455 and inserting the following new item:
+
+    “455. Maps, charts, and geomatics data: public availability; exceptions.”.
+
+    (e) CIVIL ACTIONS BARRED.—Section 456 of title 10, United 
+States Code, is amended by striking subsections (a) and (b) and 
+inserting the following:

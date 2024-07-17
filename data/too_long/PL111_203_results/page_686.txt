@@ -1,0 +1,61 @@
+124 STAT. 2060
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+    (b) APPLICABILITY.—Amendments made by subsection (a) shall
+ not apply to programs authorized by section 1132 of the Housing
+ and Economic Recovery Act of 2008 (12 U.S.C. 1701x note) that
+ are funded with appropriations prior to fiscal year 2011.
+ 12 USC 5601.
+ SEC. 1073. REMITTANCE TRANSFERS.
+    (a) TREATMENT OF REMITTANCE TRANSFERS.—The Electronic
+ Fund Transfer Act (15 U.S.C. 1693 et seq.) is amended—
+        (1) in section 902(b) (15 U.S.C. 1693a(b)), by inserting ‘‘and
+ remittance’’ after ‘‘electronic fund’’;
+        (2) in section 904(c) (15 U.S.C. 1693b(c)), in the first sen-
+ tence, by inserting ‘‘or remittance transfers’’ after ‘‘electronic
+ fund transfers’’;
+        (3) by redesignating sections 919, 920, 921, and 922 as
+ sections 920, 921, 922, and 923, respectively; and
+        (4) by inserting after section 918 the following:
+   ‘‘SEC. 919. REMITTANCE TRANSFERS.
+   ‘‘(a) DISCLOSURES REQUIRED FOR REMITTANCE TRANSFERS.—
+        ‘‘(1) IN GENERAL.—Each remittance transfer provider shall
+ make disclosures as required under this section and in accord-
+ ance with rules prescribed by the Board. Disclosures required
+ under this section shall be in addition to any other disclosures
+ applicable under this title.
+        ‘‘(2) DISCLOSURES.—Subject to rules prescribed by the
+ Board, a remittance transfer provider shall provide, in writing
+ and in a form that the sender may keep, to each sender
+ requesting a remittance transfer, as applicable to the trans-
+ action—
+                ‘‘(A) at the time at which the sender requests a remit-
+ tance transfer to be initiated, and prior to the sender
+ making any payment in connection with the remittance
+ transfer, a disclosure describing—
+                           ‘‘(i) the amount of currency that will be received
+ by the designated recipient, using the values of the
+ currency into which the funds will be exchanged;
+                           ‘‘(ii) the amount of transfer and any other fees
+ charged by the remittance transfer provider for the
+ remittance transfer; and
+              ‘‘(iii) any exchange rate to be used by the remit-
+ tance transfer provider for the remittance transfer,
+ to the nearest 1/100th of a point; and
+                      ‘‘(B) at the time at which the sender makes payment
+ in connection with the remittance transfer—
+                      ‘‘(i) a receipt showing—
+                                   ‘‘(I) the information described in subparagraph
+ (A);
+                                   ‘‘(II) the promised date of delivery to the des-
+ ignated recipient; and
+                                   ‘‘(III) the name and either the telephone
+ number or the address of the designated recipient,
+ if either the telephone number or the address of
+ the designated recipient is provided by the sender;
+ and
+                      ‘‘(ii) a statement containing—
+                                   ‘‘(I) information about the rights of the sender
+ under this section regarding the resolution of
+ errors; and

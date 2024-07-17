@@ -1,0 +1,18 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+“(C) establish rules governing the operation of the facility, including rules specifying trading procedures to be used in entering and executing orders traded or posted on the facility, including block trades.
+“(3) SECURITY-BASED SWAPS NOT READILY SUSCEPTIBLE TO MANIPULATION.—The security-based swap execution facility shall permit trading only in security-based swaps that are not readily susceptible to manipulation.
+“(4) MONITORING OF TRADING AND TRADE PROCESSING.—The security-based swap execution facility shall—
+“(A) establish and enforce rules or terms and conditions defining, or specifications detailing—
+“(i) trading procedures to be used in entering and executing orders traded on or through the facilities of the security-based swap execution facility; and
+“(ii) procedures for trade processing of security-based swaps on or through the facilities of the security-based swap execution facility; and
+“(B) monitor trading in security-based swaps to prevent manipulation, price distortion, and disruptions of the delivery or cash settlement process through surveillance, compliance, and disciplinary practices and procedures, including methods for conducting real-time monitoring of trading and comprehensive and accurate trade reconstructions.
+“(5) ABILITY TO OBTAIN INFORMATION.—The security-based swap execution facility shall—
+“(A) establish and enforce rules that will allow the facility to obtain any necessary information to perform any of the functions described in this subsection;
+“(B) provide the information to the Commission on request; and
+“(C) have the capacity to carry out such international information-sharing agreements as the Commission may require.
+“(6) FINANCIAL INTEGRITY OF TRANSACTIONS.—The security- based swap execution facility shall establish and enforce rules and procedures for ensuring the financial integrity of security- based swaps entered on or through the facilities of the security- based swap execution facility, including the clearance and settlement of security-based swaps pursuant to section 3C(a)(1).
+“(7) EMERGENCY AUTHORITY.—The security-based swap execution facility shall adopt rules to provide for the exercise of emergency authority, in consultation or cooperation with the Commission, as is necessary and appropriate, including the authority to liquidate or transfer open positions in any security-based swap or to suspend or curtail trading in a secu- rity-based swap.
+“(8) TIMELY PUBLICATION OF TRADING INFORMATION.—
+“(A) IN GENERAL.—The security-based swap execution facility shall make public timely information on price, trading volume, and other trading data on security-based swaps to the extent prescribed by the Commission.
+“(B) CAPACITY OF SECURITY-BASED SWAP EXECUTION FACILITY.—The security-based swap execution facility shall be required to have the capacity to electronically capture

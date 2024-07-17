@@ -1,0 +1,70 @@
+124 STAT. 1656
+
+PUBLIC LAW 111-203—JULY 21, 2010
+
+definitions, may serve as the binding legal definition of deriv- 
+ative contracts. The study will examine the logistics of possible 
+implementations of standardized algorithmic descriptions for 
+derivatives contracts. The study shall be limited to electronic 
+formats for exchange of derivative contract descriptions and 
+will not contemplate disclosure of proprietary valuation models.
+
+(3) INTERNATIONAL COORDINATION.—In conducting the 
+study, the Securities and Exchange Commission and the Com- 
+modity Futures Trading Commission shall coordinate the study 
+with international financial institutions and regulators as 
+appropriate and practical. 
+
+(4) REPORT.—Within 8 months after the date of the enact- 
+ment of this Act, the Securities and Exchange Commission 
+and the Commodity Futures Trading Commission shall jointly 
+submit to the Committees on Agriculture and on Financial 
+Services of the House of Representatives and the Committees 
+on Agriculture, Nutrition, and Forestry and on Banking, 
+Housing, and Urban Affairs of the Senate a written report 
+which contains the results of the study required by paragraphs 
+(1) through (3).
+
+(c) INTERNATIONAL SWAP REGULATION.— 
+
+(1) IN GENERAL.—The Commodity Futures Trading 
+Commission and the Securities and Exchange Commission shall 
+jointly conduct a study— 
+
+(A) relating to— 
+(i) swap regulation in the United States, Asia, 
+and Europe; and 
+(ii) clearing house and clearing agency regulation 
+in the United States, Asia, and Europe; and 
+
+(B) that identifies areas of regulation that are similar 
+in the United States, Asia and Europe and other areas 
+of regulation that could be harmonized 
+
+(2) REPORT.—Not later than 18 months after the date of 
+enactment of this Act, the Commodity Futures Trading 
+Commission and the Securities and Exchange Commission shall 
+submit to the Committee on Agriculture, Nutrition, and For- 
+estry and the Committee on Banking, Housing, and Urban 
+Affairs of the Senate and the Committee on Agriculture and 
+the Committee on Financial Services of the House of Represent- 
+atives a report that includes a description of the results of 
+the study under subsection (a), including— 
+
+(A) identification of the major exchanges and their 
+regulator in each geographic area for the trading of swaps 
+and security-based swaps including a listing of the major 
+contracts and their trading volumes and notional values 
+as well as identification of the major swap dealers partici- 
+pating in such markets; 
+
+(B) identification of the major clearing houses and 
+clearing agencies and their regulator in each geographic 
+area for the clearing of swaps and security-based swaps, 
+including a listing of the major contracts and the clearing 
+volumes and notional values as well as identification of 
+the major clearing members of such clearing houses and 
+clearing agencies in such markets; 
+
+(C) a description of the comparative methods of clearing 
+swaps in the United States, Asia, and Europe; and

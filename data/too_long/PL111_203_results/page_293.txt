@@ -1,0 +1,59 @@
+PUBLIC LAW 111–203—JULY 21, 2010 124 STAT. 1667
+
+‘‘(XIV) a credit spread;
+‘‘(XV) a credit default swap;
+‘‘(XVI) a credit swap;
+‘‘(XVII) a weather swap;
+‘‘(XVIII) an energy swap;
+‘‘(XIX) a metal swap;
+‘‘(XX) an agricultural swap;
+‘‘(XXI) an emissions swap; and
+‘‘(XXII) a commodity swap;
+‘‘(iv) that is an agreement, contract, or transaction 
+that is, or in the future becomes, commonly known 
+to the trade as a swap; 
+‘‘(v) including any security-based swap agreement 
+which meets the definition of ‘swap agreement’ as 
+defined in section 206A of the Gramm-Leach-Bliley 
+Act (15 U.S.C. 78c note) of which a material term 
+is based on the price, yield, value, or volatility of any 
+security or any group or index of securities, or any 
+interest therein; or 
+‘‘(vi) that is any combination or permutation of, 
+or option on, any agreement, contract, or transaction 
+described in any of clauses (i) through (v). 
+‘‘(B) EXCLUSIONS.—The term ‘swap’ does not include— 
+‘‘(i) any contract of sale of a commodity for future 
+delivery (or option on such a contract), leverage con- 
+tract authorized under section 19, security futures 
+product, or agreement, contract, or transaction 
+described in section 2(c)(2)(C)(i) or section 2(c)(2)(D)(i); 
+‘‘(ii) any sale of a nonfinancial commodity or secu- 
+rity for deferred shipment or delivery, so long as the 
+transaction is intended to be physically settled; 
+‘‘(iii) any put, call, straddle, option, or privilege 
+on any security, certificate of deposit, or group or index 
+of securities, including any interest therein or based 
+on the value thereof, that is subject to— 
+‘‘(I) the Securities Act of 1933 (15 U.S.C. 77a 
+et seq.); and 
+‘‘(II) the Securities Exchange Act of 1934 (15 
+U.S.C. 78a et seq.); 
+‘‘(iv) any put, call, straddle, option, or privilege 
+relating to a foreign currency entered into on a national 
+securities exchange registered pursuant to section 6(a) 
+of the Securities Exchange Act of 1934 (15 U.S.C. 
+78f(a)); 
+‘‘(v) any agreement, contract, or transaction pro- 
+viding for the purchase or sale of 1 or more securities 
+on a fixed basis that is subject to— 
+‘‘(I) the Securities Act of 1933 (15 U.S.C. 77a 
+et seq.); and 
+‘‘(II) the Securities Exchange Act of 1934 (15 
+U.S.C. 78a et seq.); 
+‘‘(vi) any agreement, contract, or transaction pro- 
+viding for the purchase or sale of 1 or more securities 
+on a contingent basis that is subject to the Securities 
+Act of 1933 (15 U.S.C. 77a et seq.) and the Securities 
+Exchange Act of 1934 (15 U.S.C. 78a et seq.), unless 
+the agreement, contract, or transaction predicates the

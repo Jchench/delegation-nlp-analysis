@@ -1,0 +1,59 @@
+PUBLIC LAW 116–283—JAN. 1, 2021                       134 STAT. 4789
+
+O–RAN Alliance, the Telecom Infra Project, 3GPP, the
+Open-RAN Software Community, or any successor
+organizations.
+(iii) Promoting and deploying compatibility of new
+5G equipment with future open standards-based, inter-
+operable equipment.
+(iv) Managing integration of multi-vendor network
+environments.
+(v) Identifying objective criteria to define equip-
+ment as compliant with open standards for multi-
+vendor network equipment interoperability.
+(vi) Promoting and deploying security features
+enhancing the integrity and availability of equipment
+in multi-vendor networks.
+(vii) Promoting and deploying network function
+virtualization to facilitate multi-vendor interoperability
+and a more diverse vendor market.
+(D) NONDUPLICATION.—To the greatest extent prac-
+ticable, the Secretary, acting through the NTIA Adminis-
+trator, shall ensure that any research funded by a grant
+awarded under this paragraph avoids duplication of other
+Federal or private sector research.
+(E) TIMING.—Not later than one year after the date Deadline.
+on which funds are appropriated to the Innovation Fund,
+the Secretary, acting through the NTIA Administrator,
+shall begin awarding grants under this paragraph.
+(f) FEDERAL ADVISORY BODY.—
+(1) ESTABLISHMENT.—The Secretary, acting Consultation.
+through the NTIA Administrator, and in consultation
+with the Under Secretary of Commerce for Standards
+and Technology, shall establish a Federal advisory com-
+mittee, in accordance with the Federal Advisory Com-
+mittee Act (5 U.S.C. App.), composed of government
+and private sector experts, to advise the Secretary
+and the NTIA Administrator on the administration
+of the Innovation Fund.
+(ii) COMPOSITION.—The advisory committee estab-
+lished under clause (i) shall be composed of—
+(I) representatives from—
+(aa) the Commission;
+(bb) the Department of Defense;
+(cc) the Intelligence Advanced Research
+Projects Activity of the Office of the Director
+of National Intelligence;
+(dd) the National Institute of Standards
+and Technology;
+(ee) the Department of State;
+(ff) the National Science Foundation;
+(gg) the Department of Homeland Secu-
+rity; and
+(hh) the National Telecommunications and
+Information Administration; and
+(II) other representatives from the private and
+public sectors, at the discretion of the NTIA
+Administrator.
+(iii) DUTIES.—The advisory committee established
+under clause (i) shall advise the Secretary and the

@@ -1,0 +1,27 @@
+PUBLIC LAW 102-242—DEC. 19, 1991
+105 STAT. 2291
+
+(1) AFFILIATE DEFINED.—Section l(b)(13) of the International Banking Act of 1978 (12 U.S.C. 3101(13)) is amended by inserting “affiliate’” after “the terms” the 1st place such term appears.
+
+(2) DEFINITIONS.—Section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101(b)) is amended—
+(A) by striking "and" at the end of paragraph (13);
+(B) by striking the period at the end of paragraph (14) and inserting a semicolon; and
+(C) by adding at the end the following new paragraphs:
+“(15) the term ‘representative office’ means any office of a foreign bank which is located in any State and is not a Federal branch, Federal agency, State branch, State agency, or subsidiary of a foreign bank;
+“(16) the term ‘office’ means any branch, agency, or representative office; and
+"(17) the term ‘State bank supervisor’ has the meaning given to such term in section 3 of the Federal Deposit Insurance Act.".
+
+SEC. 203. CONDUCT AND COORDINATION OF EXAMINATIONS.
+
+(a) AUTHORITY OF BOARD TO CONDUCT AND COORDINATE EXAMINATIONS.—Section 7(c) of the International Banking Act of 1978 (12 U.S.C. 3105(c)) is amended—
+(1) by striking paragraph (1) and inserting the following new paragraph:
+‘‘(1) EXAMINATION OF BRANCHES, AGENCIES, AND AFFILIATES.—
+‘‘(A) IN GENERAL.—The Board may examine each branch or agency of a foreign bank, each commercial lending company or bank controlled by 1 or more foreign banks or 1 or more foreign companies that control a foreign bank, and other office or affiliate of a foreign bank conducting business in any State.
+‘‘(B) COORDINATION OF EXAMINATIONS.—
+‘‘(i) IN GENERAL.—The Board shall coordinate examinations under this paragraph with the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and appropriate State bank supervisors to the extent such coordination is possible.
+’’(ii) SIMULTANEOUS EXAMINATIONS.—The Board may request simultaneous examinations of each office of a foreign bank and each affiliate of such bank operating in the United States.
+‘‘(C) ANNUAL ON-SITE EXAMINATION.—Each branch or agency of a foreign bank shall be examined at least once during each 12-month period (beginning on the date the most recent examination of such branch or agency ended) in an on-site examination.
+‘‘(D) COST OF EXAMINATIONS.—The cost of any examination under subparagraph (A) shall be assessed against and collected from the foreign bank or the foreign company that controls the foreign bank, as the case may be.”; and
+(2) in paragraph (2), by inserting “REPORTING REQUIREMENTS.—’’ before “Each branch”.
+
+(b) COORDINATION OF EXAMINATIONS.—Section 4(b) of the International Banking Act of 1978 (12 U.S.C. 3102(b)) is amended by adding at the end thereof the following new sentence: ‘The Comptroller of the Currency shall coordinate examinations of Federal branches and agencies of foreign banks with examinations

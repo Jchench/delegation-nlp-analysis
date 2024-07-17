@@ -1,0 +1,28 @@
+134 STAT. 3540             PUBLIC LAW 116–283—JAN. 1, 2021
+
+vacancy in the panel shall not affect its powers, but shall be filled in the same manner as the original appointment.
+(4) CHAIR.—The panel shall select a Chair from among its members. The Chair may not be a Federal officer or employee.
+(f) TERMINATION.—The panel shall terminate 90 days after the date on which the panel submits the report required under subsection (d)(2).
+
+SEC. 346. BIANNUAL BRIEFINGS ON STATUS OF SHIPYARD INFRASTRUCTURE OPTIMIZATION PLAN.
+(a) BRIEFINGS REQUIRED.—During the period beginning on July 1, 2020, and ending on July 1, 2025, the Secretary of the Navy shall provide to the congressional defense committees biannual briefings on the status of the Shipyard Infrastructure Optimization Plan.
+(b) ELEMENTS OF BRIEFINGS.—Each briefing under subsection (a) shall include a discussion of the status of each of the following elements:
+(1) A master plan for infrastructure development, including projected military construction and capital equipment projects.
+(2) A planning and design update for military construction, minor military construction, and facility sustainment projects over the subsequent five-year period.
+(3) A human capital management and development plan.
+(4) A workload management plan that includes synchronization requirements for shipyards and ship classes.
+(5) Performance metrics and an assessment plan.
+(6) A funding and authority plan that includes funding lines across the future years defense program.
+(7) A listing of equipment from Federal Supply Classes 3411 (Boring Machines), 3416 (Lathes) and 3441 (Bending and Forming Machines) that has been unserviceable for over 30 consecutive days, including, for each such piece of equipment—
+(A) the reason for the delayed repair;
+(B) the availability of technical representatives from the manufacturer to provide assistance in diagnosing and repairing the discrepancy; and
+(C) the estimated time to repair.
+
+SEC. 347. MATERIEL READINESS METRICS AND OBJECTIVES FOR MAJOR WEAPON SYSTEMS.
+(a) IN GENERAL.—Section 118 of title 10, United States Code, is amended—
+(1) by amending the section heading to read as follows:
+‘‘Materiel readiness metrics and objectives for major weapon systems’’;
+(2) by striking ‘‘Not later than five days’’ and inserting the following:
+‘‘(d) BUDGET JUSTIFICATION.—Not later than five days’’;
+(3) by inserting before subsection (d) (as designated by paragraph (2)) the following new subsections:
+‘‘(a) MATERIEL READINESS METRICS.—Each head of an element of the Department specified in paragraphs (1) through (10) of section 111(b) of this title shall establish and maintain materiel readiness metrics to enable assessment of the readiness of members of the armed forces to carry out—

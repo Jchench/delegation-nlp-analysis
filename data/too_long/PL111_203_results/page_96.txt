@@ -1,0 +1,37 @@
+124 STAT. 1470
+
+PUBLIC LAW 111-203—JULY 21, 2010
+
+(ii) minimizes the amount of any loss realized in the resolution of cases;
+(iii) mitigates the potential for serious adverse effects to the financial system;
+(iv) ensures timely and adequate competition and fair and consistent treatment of offerors; and
+(v) prohibits discrimination on the basis of race, sex, or ethnic group in the solicitation and consideration of offers.
+
+(10) STATUTE OF LIMITATIONS FOR ACTIONS BROUGHT BY RECEIVER.—
+
+(A) IN GENERAL.—Notwithstanding any provision of any contract, the applicable statute of limitations with regard to any action brought by the Corporation as receiver for a covered financial company shall be—
+
+(i) in the case of any contract claim, the longer of—
+(I) the 6-year period beginning on the date on which the claim accrues; or
+(II) the period applicable under State law; and
+
+(ii) in the case of any tort claim, the longer of—
+(I) the 3-year period beginning on the date on which the claim accrues; or
+(II) the period applicable under State law.
+
+(B) DATE ON WHICH A CLAIM ACCRUES.—For purposes of subparagraph (A), the date on which the statute of limitations begins to run on any claim described in subparagraph (A) shall be the later of—
+
+(i) the date of the appointment of the Corporation as receiver under this title; or
+(ii) the date on which the cause of action accrues.
+
+(C) REVIVAL OF EXPIRED STATE CAUSES OF ACTION.—
+
+(i) IN GENERAL.—In the case of any tort claim described in clause (ii) for which the applicable statute of limitations under State law has expired not more than 5 years before the date of appointment of the Corporation as receiver for a covered financial company, the Corporation may bring an action as receiver on such claim without regard to the expiration of the statute of limitations.
+(ii) CLAIMS DESCRIBED.—A tort claim referred to in clause (i) is a claim arising from fraud, intentional misconduct resulting in unjust enrichment, or intentional misconduct resulting in substantial loss to the covered financial company.
+
+(11) AVOIDABLE TRANSFERS.—
+
+(A) FRAUDULENT TRANSFERS.—The Corporation, as receiver for any covered financial company, may avoid a transfer of any interest of the covered financial company in property, or any obligation incurred by the covered financial company, that was made or incurred at or within 2 years before the date on which the Corporation was appointed receiver, if—
+
+(i) the covered financial company voluntarily or involuntarily—
+(I) made such transfer or incurred such obligation with actual intent to hinder, delay, or defraud

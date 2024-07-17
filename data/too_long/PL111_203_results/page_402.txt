@@ -1,0 +1,57 @@
+124 STAT. 1776              PUBLIC LAW 111–203—JULY 21, 2010
+
+has the right to require segregation of the funds of other property supplied to margin, guarantee, or secure the obligations of the counterparty.
+             ‘‘(B) SEGREGATION AND MAINTENANCE OF FUNDS.—At 
+              the request of a counterparty to a security-based swap 
+              that provides funds or other property to a security-based 
+              swap dealer or major security-based swap participant to 
+              margin, guarantee, or secure the obligations of the 
+              counterparty, the security-based swap dealer or major secu-
+              rity-based swap participant shall—
+                            ‘‘(i) segregate the funds or other property for the 
+                             benefit of the counterparty; and
+                           ‘‘(ii) in accordance with such rules and regulations
+                             as the Commission may promulgate, maintain the 
+                             funds or other property in a segregated account sep-
+                             arate from the assets and other interests of the secur-
+                             ity-based swap dealer or major security-based swap 
+                             participant.
+             ‘‘(2) APPLICABILITY.—The requirements described in para-
+              graph (1) shall—
+                           ‘‘(A) apply only to a security-based swap between a 
+                             counterparty and a security-based swap dealer or major 
+                             security-based swap participant that is not submitted for
+                             clearing to a clearing agency; and
+                            ‘‘(B)(i) not apply to variation margin payments; or 
+                            ‘‘(ii) not preclude any commercial arrangement 
+                             regarding—
+                                    ‘‘(I) the investment of segregated funds or other 
+                                     property that may only be invested in such investments 
+                                     as the Commission may permit by rule or regulation; 
+                                    and
+                                   ‘‘(II) the related allocation of gains and losses 
+                                     resulting from any investment of the segregated funds 
+                                     or other property.
+            ‘‘(3) USE OF INDEPENDENT THIRD-PARTY CUSTODIANS.—The 
+             segregated account described in paragraph (1) shall be—
+                          ‘‘(A) carried by an independent third-party custodian; 
+                           and
+                          ‘‘ (B) designated as a segregated account for and on 
+                             behalf of the counterparty.
+            ‘‘(4) REPORTING REQUIREMENT.—If the counterparty does 
+             not choose to require segregation of the funds or other property 
+             supplied to margin, guarantee, or secure the obligations of 
+             the counterparty, the security-based swap dealer or major secu-
+             rity-based swap participant shall report to the counterparty 
+             on a quarterly basis that the back office procedures 
+             of the security-based swap dealer or major security-based swap 
+             participant relating to margin and collateral requirements are 
+             in compliance with the agreement of the counterparties.
+        ‘‘(g) BANKRUPTCY.—A security-based swap, as defined in section 
+         3(a)(68) shall be considered to be a security as such term is used 
+         in section 101(53A)(B) and subchapter III of title 11, United States 
+        Code. An account that holds a security-based swap, other than 
+        a portfolio margining account referred to in section 15(c)(3)(C) shall 
+        be considered to be a securities account, as that term is defined 
+        in section 741 of title 11, United States Code. The definitions
+                         Applicability

@@ -1,0 +1,23 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009-418
+
+National Credit Union Administration, the Administrator of the Small Business Administration, and the Secretary of Commerce, shall conduct a study and submit a report to the Congress detailing the extent of small business lending by all creditors.
+(2) CONTENTS OF STUDY.—The study required under paragraph (1) shall identify, to the extent practicable, those factors which provide policymakers with insights into the small business credit market, including—
+(A) the demand for small business credit, including consideration of the impact of economic cycles on the levels of such demand;
+(B) the availability of credit to small businesses;
+(C) the range of credit options available to small businesses, such as those available from insured depository institutions and other providers of credit;
+(D) the types of credit products used to finance small business operations, including the use of traditional loans, leases, lines of credit, home equity loans, credit cards, and other sources of financing;
+(E) the credit needs of small businesses, including, if appropriate, the extent to which such needs differ, based upon product type, size of business, cash flow requirements, characteristics of ownership or investors, or other aspects of such business;
+(F) the types of risks to creditors in providing credit to small businesses; and
+(G) such other factors as the Board deems appropriate.
+(b) USE OF EXISTING DATA.—The studies required by this section shall not increase the regulatory or paperwork burden on regulated financial institutions, other sources of small business credit, or small businesses.
+
+CHAPTER 3—REGULATORY MICROMANAGEMENT RELIEF
+
+SEC. 2241. NATIONAL BANK DIRECTORS.
+Section 5146 of the Revised Statutes of the United States (12 U.S.C. 72) is amended in the first sentence, by striking “except” and all that follows through the end of the sentence and inserting the following: “except that the Comptroller may, in the discretion of the Comptroller, waive the requirement of residency.”.
+
+SEC. 2242. PAPERWORK REDUCTION REVIEW.
+Section 303(a) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4803(a)) is amended—
+(1) by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and
+(2) by inserting after paragraph (1) the following new paragraph:
+“(2) review the extent to which existing regulations require insured depository institutions and insured credit unions to produce unnecessary internal written policies and eliminate such requirements, where appropriate;”.

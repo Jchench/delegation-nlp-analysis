@@ -1,0 +1,22 @@
+124 STAT. 1726           PUBLIC LAW 111-203—JULY 21, 2010
+
+SEC. 738. FOREIGN BOARDS OF TRADE.
+(a) In General.—Section 4(b) of the Commodity Exchange Act (7 U.S.C. 6(b)) is amended—
+(1) in the first sentence, by striking “The Commission” and inserting the following:
+“(2) PERSONS LOCATED IN THE UNITED STATES.— 
+“(A) IN GENERAL.—The Commission”;
+(2) in the second sentence, by striking “Such rules and regulations” and inserting the following:
+“(B) DIFFERENT REQUIREMENTS.—Rules and regulations described in subparagraph (A)”;
+(3) in the third sentence—
+(A) by striking “No rule or regulation” and inserting the following:
+“(C) PROHIBITION.—Except as provided in paragraphs (1) and (2), no rule or regulation”;
+(B) by striking “that (1) requires” and inserting the following: “that—
+“(i) requires”; and 
+(C) by striking “market, or (2) governs” and inserting the following: “market; or 
+“(ii) governs”; and
+(4) by inserting before paragraph (2) (as designated by paragraph (1)) the following: 
+“(1) FOREIGN BOARDS OF TRADE.— 
+“(A) REGISTRATION.— The Commission may adopt rules and regulations requiring registration with the Commission of a foreign board of trade that provides the members of the foreign board of trade or other participants located in the United States with direct access to the electronic trading and order matching system of the foreign board of trade, including rules and regulations prescribing procedures and requirements applicable to the registration of such foreign boards of trade. For purposes of this paragraph, ‘direct access’ refers to an explicit grant of authority by a foreign board of trade to an identified member or other participant located in the United States to enter trades directly into the trade matching system of the foreign board of trade. In adopting such rules and regulations, the commission shall consider—
+“(i) whether any such foreign board of trade is subject to comparable, comprehensive supervision and regulation by the appropriate governmental authorities in the foreign board of trade’s home country; and 
+“(ii) any previous commission findings that the foreign board of trade is subject to comparable comprehensive supervision and regulation by the appropriate government authorities in the foreign board of trade’s home country.
+“(B) LINKED CONTRACTS.—The Commission may not permit a foreign board of trade to provide to the members of the foreign board of trade or other participants located in the United States direct access to the electronic trading and order-matching system of the foreign board of trade with respect to an agreement, contract, or transaction that settles against any price (including the daily or final settlement price) of 1 or more contracts listed for trading on

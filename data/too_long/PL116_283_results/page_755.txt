@@ -1,0 +1,40 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+(B) responsibilities and authorities of the Strategic Cybersecurity Program in overseeing and, as appropriate, executing— 
+
+(i) vulnerability assessments; and 
+
+(ii) development, systems engineering, and acquisition activities; and 
+
+(C) processes for coordination of activities, policies, and programs relating to the cybersecurity and defense of the nuclear command and control system. 
+
+SEC. 1748. REQUIREMENTS FOR REVIEW OF AND LIMITATIONS ON THE JOINT REGIONAL SECURITY STACKS ACTIVITY. 
+
+(a) INDEPENDENT REVIEW.— 
+
+(1) IN GENERAL.—Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall seek to enter into a contract with a not-for-profit entity or federally-funded research and development center independent of the Department of Defense to conduct a review of the Joint Regional Security Stacks program. 
+
+(2) MATTERS FOR INCLUSION.—The review conducted under paragraph (1) shall include each of the following: 
+
+(A) An assessment of the efficacy of the Joint Regional Security Stacks program and how such program has been managed and executed. 
+
+(B) An analysis of the capabilities and performance of the program as compared to alternative solutions utilizing commercial products and services. 
+
+(C) An evaluation of the program’s ability to meet Department of Defense performance metrics. 
+
+(D) An assessment of what measures would be required for the program to meet future to meet cost and schedule milestones, including training requirements. 
+
+(b) BASELINE REVIEW.— 
+
+(1) IN GENERAL.—Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense shall undertake a baseline review of the Joint Regional Security Stacks program. 
+
+(2) ELEMENTS.—The baseline review undertaken pursuant to paragraph (1) shall determine whether the Joint Regional Security Stacks program— 
+
+(A) should proceed as a program of record, with modifications as specified in subsection (c), for exclusively the Non-Classified Internet Protocol Network (NIPRNET) or 
+for such network and the Secret Internet Protocol Network (SIPRNET); or
+
+(B) should be phased out across the Department of Defense with each of the Joint Regional Security Stacks replaced through the institution of cost-effective and capable networking and cybersecurity technologies, architectures, and operational concepts within five years of the date of the enactment of this Act. 
+
+(3) INCORPORATION.—The baseline review shall incorporate the results of the review conducted under subsection (a). 
+
+(c) PLAN TO TRANSITION TO PROGRAM OF RECORD.—If the Secretary of Defense determines under subsection (b) that the Joint Regional Security Stacks program should proceed, not later than October 1, 2021, the Secretary shall develop a plan to transition

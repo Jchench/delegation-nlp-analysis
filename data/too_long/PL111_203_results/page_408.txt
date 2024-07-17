@@ -1,0 +1,61 @@
+124 STAT. 1782        PUBLIC LAW 111–203—JULY 21, 2010
+
+    ‘‘(B) DATA COLLECTION AND MAINTENANCE.—The 
+    Commission shall prescribe data collection and data 
+    maintenance standards for security-based swap data reposi-
+    tories.
+    ‘‘(C) COMPARABILITY.—The standards prescribed by the 
+    Commission under this subsection shall be comparable to 
+    the data standards imposed by the Commission on clearing 
+    agencies in connection with their clearing of security-based 
+    swaps.
+    ‘‘(5) DUTIES.—A security-based swap data repository shall—
+        ‘‘(A) accept data prescribed by the Commission for each 
+        security-based swap under subsection (b);
+        ‘‘(B) confirm with both counterparties to the security-
+        based swap the accuracy of the data that was submitted;
+        ‘‘(C) maintain the data described in subparagraph (A) 
+        in such form, in such manner, and for such period as 
+        may be required by the Commission;
+        ‘‘(D)(i) provide direct electronic access to the Commis-
+        sion (or any designee of the Commission, including another 
+        registered entity); and
+        ‘‘(ii) provide the information described in subparagraph 
+        (A) in such form and at such frequency as the Commission 
+        may require to comply with the public reporting require-
+        ments set forth in subsection (m);
+        ‘‘(E) at the direction of the Commission, establish auto-
+        mated systems for monitoring, screening, and analyzing 
+        security-based swap data;
+        ‘‘(F) maintain the privacy of any and all security-based 
+        swap transaction information that the security-based swap 
+        data repository receives from a security-based swap dealer, 
+        counterparty, or any other registered entity; and
+        ‘‘(G) on a confidential basis pursuant to section 24, 
+        upon request, and after notifying the Commission of the 
+        request, make available all data obtained by the security-
+        based swap data repository, including individual 
+        counterparty trade and position data, to—
+            ‘‘(i) each appropriate prudential regulator;
+            ‘‘(ii) the Financial Stability Oversight Council;
+            ‘‘(iii) the Commodity Futures Trading Commission;
+            ‘‘(iv) the Department of Justice; and
+            ‘‘(v) any other person that the Commission deter-
+            mines to be appropriate, including—
+                ‘‘(I) foreign financial supervisors (including for-
+                eign futures authorities);
+                ‘‘(II) foreign central banks; and
+                ‘‘(III) foreign ministries.
+    ‘‘(H) CONFIDENTIALITY AND INDEMNIFICATION AGREE-
+    MENT.—Before the security-based swap data repository may 
+    share information with any entity described in subpara-
+    graph (G)—
+        ‘‘(i) the security-based swap data repository shall 
+        receive a written agreement from each entity stating 
+        that the entity shall abide by the confidentiality             
+        requirements described in section 24 relating to the 
+        information on security-based swap transactions that 
+        is provided; and
+
+Confidentiality.
+Notification.

@@ -1,0 +1,25 @@
+PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 1413
+
+(5) the term “financial transaction data” means the struc- tural and legal description of a financial contract, with sufficient detail to describe the rights and obligations between counter- parties and make possible an independent valuation;
+(6) the term “position data”—
+(A) means data on financial assets or liabilities held
+on the balance sheet of a financial company, where posi- tions are created or changed by the execution of a financial transaction; and
+(B) includes information that identifies counterparties, the valuation by the financial company of the position, and information that makes possible an independent valu- ation of the position;
+(7) the term “financial contract” means a legally binding agreement between 2 or more counterparties, describing rights and obligations relating to the future delivery of items of intrinsic or extrinsic value among the counterparties; and
+(8) the term “financial instrument” means a financial con- tract in which the terms and conditions are publicly available, and the roles of one or more of the counterparties are assignable without the consent of any of the other counterparties (including a common stock of a publicly traded company, government bonds, or exchange traded futures and options contracts).
+
+SEC. 152. OFFICE OF FINANCIAL RESEARCH ESTABLISHED.
+(a) ESTABLISHMENT.—There is established within the Depart- ment of the Treasury the Office of Financial Research.
+(b) DIRECTOR.—
+(1) IN GENERAL.—The Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate.
+(2) TERM OF SERVICE.—The Director shall serve for a term of 6 years, except that, in the event that a successor is not nominated and confirmed by the end of the term of service of a Director, the Director may continue to serve until such time as the next Director is appointed and confirmed.
+(3) EXECUTIVE LEVEL.—The Director shall be compensated at Level III of the Executive Schedule.
+(4) PROHIBITION ON DUAL SERVICE.—The individual serving in the position of Director may not, during such service, also serve as the head of any financial regulatory agency.
+(5) RESPONSIBILITIES, DUTIES, AND AUTHORITY.—The Director shall have sole discretion in the manner in which the Director fulfills the responsibilities and duties and exercises the authorities described in this subtitle.
+(c) BUDGET.—The Director, in consultation with the Chair- person, shall establish the annual budget of the Office.
+(d) OFFICE PERSONNEL.—
+(1) IN GENERAL.—The Director, in consultation with the Chairperson, may fix the number of, and appoint and direct, all employees of the Office.
+(2) COMPENSATION.—The Director, in consultation with the Chairperson, shall fix, adjust, and administer the pay for all employees of the Office, without regard to chapter 51 or sub- chapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
+
+President.
+Appointment.

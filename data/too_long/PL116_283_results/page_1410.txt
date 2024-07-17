@@ -1,0 +1,20 @@
+134 STAT. 4796        PUBLIC LAW 116-283—JAN. 1, 2021
+
+(ii) a timeline for completion of the modernization efforts described in such paragraph;
+(iii) a description of potential innovative technological capabilities for the management of frequencies that are assigned to such agency, as determined under subsection (a);
+(iv) identification of agency-specific requirements or constraints relating to the infrastructure of such agency;
+(v) identification of any existing, as of the date on which such report is submitted, systems of such agency that are duplicative of the modernization infrastructure of the NTIA, as described in subsection (b); and
+(vi) with respect to the report submitted by the Secretary of Defense—
+(I) a strategy for the integration of systems or the flow of data among the Armed Forces, the military departments, the Defense Agencies and Department of Defense Field Activities, and other components of the Department of Defense;
+(II) a plan for the implementation of solutions to the use of Federal spectrum by the Department of Defense involving information at multiple levels of classification; and
+(III) a strategy for addressing, within the modernized infrastructure of the Department of Defense described in such paragraph, the exchange of information between the Department of Defense and the NTIA in order to accomplish required processing of all Department of Defense domestic spectrum coordination and management activities;
+
+(B) be submitted in an unclassified format, with a classified annex, as appropriate.
+
+(3) NOTIFICATION OF CONGRESS.—Upon submission of a report under paragraph (1), the head of a covered agency shall notify Congress that such report has been submitted.
+
+(d) GAO OVERSIGHT.—The Comptroller General of the United States shall—
+(1) not later than 180 days after the date of the enactment of this Act, conduct a review of the infrastructure of covered agencies, as such infrastructure exists on the date of the enactment of this Act;
+(2) upon submission of all of the reports required by subsection (c), begin conducting oversight of the implementation of the modernization plans submitted by the Assistant Secretary and covered agencies under subsections (b) and (c), respectively; 
+(3) not later than 2 years after the date on which the Comptroller General begins conducting oversight under paragraph (2), and biennially thereafter until December 31, 2030, submit a report regarding such oversight to—
+(A) with respect to the implementation of the modernization plan of the Department of Defense, the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and

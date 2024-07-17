@@ -1,0 +1,33 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 3731
+
+SEC. 802. IMPROVING PLANNING, EXECUTION, AND OVERSIGHT OF LIFE CYCLE SUSTAINMENT ACTIVITIES.
+    (a) PLANNING FOR LIFE CYCLE SUSTAINMENT.—Section 2337 of title 10, United States Code, is amended—
+        (1) by striking ‘‘major weapon system’’ each place it appears and inserting ‘‘covered system’’;
+        (2) by striking ‘‘major weapon systems’’ each place it appears and inserting ‘‘covered systems’’;
+        (3) by striking ‘‘weapon system’’ each place it appears and inserting ‘‘covered system’’;
+        (4) by redesignating subsections (b) and (c) as subsections (c) and (d), respectively;
+        (5) by inserting after subsection (a) the following new subsection:
+        ‘‘(b) LIFE CYCLE SUSTAINMENT PLAN.—Before granting Milestone B approval (or the equivalent), the milestone decision authority shall ensure that each covered system has an approved life cycle sustainment plan. The life cycle sustainment plan shall include—
+            ‘‘(1) a comprehensive product support strategy;
+            ‘‘(2) performance goals, including key performance parameters for sustainment, key system attributes of the covered 
+system, and other appropriate metrics;
+            ‘‘(3) an approved life-cycle cost estimate for the covered 
+system;
+            ‘‘(4) affordability constraints and key cost factors that could affect the operating and support costs of the covered system;
+            ‘‘(5) sustainment risks and proposed mitigation plans for such risks;
+            ‘‘(6) engineering and design considerations that support cost-effective sustainment of the covered system;
+            ‘‘(7) a technical data and intellectual property management plan for product support; and
+            ‘‘(8) major maintenance and overhaul requirements that will be required during the life cycle of the covered system.’’;
+        (6) in subsection (c)(2), as so redesignated—
+            (A) by amending subparagraph (A) to read as follows:
+                ‘‘(A) develop, update, and implement a life cycle sustainment plan described in subsection (b);’’;
+            (B) in subparagraph (B), by striking ‘‘use’’ and inserting ‘‘ensure the life cycle sustainment plan is informed by’’;
+            and
+            (C) in subparagraph (C), by inserting ‘‘and life cycle sustainment plan’’ after ‘‘product support strategy’’; and
+        (7) in subsection (d), as so redesignated—
+            (A) by amending paragraph (5) to read as follows:
+            ‘‘(5) COVERED SYSTEM.—The term ‘covered system’ means—
+                ‘‘(A) a major defense acquisition program as defined in section 2430 of this title; or
+                ‘‘(B) an acquisition program or project that is carried out using the rapid fielding or rapid prototyping acquisition 
+pathway under section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note) that is estimated by the Secretary of Defense to require an eventual total expenditure described in section 2430(a)(1)(B).’’; and
+        (B) by adding at the end the following new paragraphs:

@@ -1,0 +1,17 @@
+PUBLIC LAW 110-343—OCT. 3, 2008  122 STAT. 3919
+
+SEC. 703. REPORTING REQUIREMENTS RELATING TO DISASTER RELIEF CONTRIBUTIONS.
+    (a) IN GENERAL.—Section 6033(b) (relating to returns of certain organizations described in section 501(c)(3)) is amended by striking ‘‘and’’ at the end of paragraph (13), by redesignating paragraph (14) as paragraph (15), and by adding after paragraph (13) the following new paragraph:
+    ‘‘(14) such information as the Secretary may require with respect to disaster relief activities, including the amount and use of qualified contributions to which section 1400S(a) applies, and’’.
+    (b) EFFECTIVE DATE.—The amendments made by this section shall apply to returns the due date for which (determined without regard to any extension) occurs after December 31, 2008.
+
+SEC. 704. TEMPORARY TAX-EXEMPT BOND FINANCING AND LOW-INCOME HOUSING TAX RELIEF FOR AREAS DAMAGED BY HURRICANE IKE.
+    (a) TAX-EXEMPT BOND FINANCING.—Section 1400N(a) of the Internal Revenue Code of 1986 shall apply to any Hurricane Ike disaster area in addition to any other area referenced in such section, but with the following modifications:
+    (1) By substituting ‘‘qualified Hurricane Ike disaster area bond’’ for ‘‘qualified Gulf Opportunity Zone Bond’’ each place it appears, except that in determining whether a bond is a qualified Hurricane Ike disaster area bond—
+        (A) paragraph (2)(A)(i) shall be applied by only treating costs as qualified project costs if—
+            (i) in the case of a project involving a private business use (as defined in section 141(b)(6)), either the person using the property suffered a loss in a trade or business attributable to Hurricane Ike or is a person designated for purposes of this section by the Governor of the State in which the project is located as a person carrying on a trade or business replacing a trade or business with respect to which another person suffered such a loss, and
+            (ii) in the case of a project relating to public utility property, the project involves repair or reconstruction of public utility property damaged by Hurricane Ike, and
+        (B) paragraph (2)(A)(ii) shall be applied by treating an issue as a qualified mortgage issue only if 95 percent or more of the net proceeds (as defined in section 150(a)(3)) of the issue are to be used to provide financing for mortgagors who suffered damages to their principal residences attributable to Hurricane Ike.
+    (2) By substituting ‘‘any State in which any Hurricane Ike disaster area is located’’ for ‘‘the State of Alabama, Louisiana, or Mississippi’’ in paragraph (2)(B).
+    (3) By substituting ‘‘designated for purposes of this section (on the basis of providing assistance to areas in the order in which such assistance is most needed)’’ for ‘‘designated for purposes of this section’’ in paragraph (2)(C).
+    (4) By substituting ‘‘January 1, 2013’’ for ‘‘January 1, 2011’’ in paragraph (2)(D).

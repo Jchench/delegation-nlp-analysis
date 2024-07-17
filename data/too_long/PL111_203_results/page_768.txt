@@ -1,0 +1,25 @@
+124 STAT. 2142          PUBLIC LAW 111–203—JULY 21, 2010
+
+15 USC 1601 note.
+
+“(f) Section 129B and any regulations promulgated thereunder do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11, United States Code.”.
+(b) DISCLOSURES.—Notwithstanding any other provision of this title, in order to improve consumer awareness and understanding of transactions involving residential mortgage loans through the use of disclosures, the Board may, by rule, exempt from or modify disclosure requirements, in whole or in part, for any class of residential mortgage loans if the Board determines that such exemption or modification is in the interest of consumers and in the public interest.
+
+SEC. 1406. STUDY OF SHARED APPRECIATION MORTGAGES.
+(a) STUDY.—The Secretary of Housing and Urban Development, in consultation with the Secretary of the Treasury and other relevant agencies, shall conduct a comprehensive study to determine prudent statutory and regulatory requirements sufficient to provide for the widespread use of shared appreciation mortgages to strengthen local housing markets, provide new opportunities for affordable homeownership, and enable homeowners at risk of foreclosure to refinance or modify their mortgages.
+(b) REPORT.—Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act, the Secretary of Housing and Urban Development shall submit a report to the Congress on the results of the study, which shall include recommendations for the regulatory and legislative requirements referred to in subsection (a).
+
+Subtitle B—Minimum Standards For
+                        Mortgages
+
+SEC. 1411. ABILITY TO REPAY.
+(a) IN GENERAL—
+(1) RULE OF CONSTRUCTION.—No regulation, order, or guidance issued by the Bureau under this title shall be construed as requiring a depository institution to apply mortgage underwriting standards that do not meet the minimum underwriting standards required by the appropriate prudential regulator of the depository institution.
+(2) AMENDMENT TO TRUTH IN LENDING ACT.—Chapter 2 of the Truth in Lending Act (15 U.S.C. 1631 et seq.) is amended by inserting after section 129B (as added by section 1402(a)) the following new section:
+
+15 USC 1639c.
+
+“§ 129C. Minimum standards for residential mortgage loans
+“(a) ABILITY TO REPAY.—
+“(1) IN GENERAL.—In accordance with regulations prescribed by the Board, no creditor may make a residential mortgage loan unless the creditor makes a reasonable and good faith determination based on verified and documented information that, at the time the loan is consummated, the consumer has a reasonable ability to repay the loan, according to its terms, and all applicable taxes, insurance (including mortgage guarantee insurance), and assessments.
+“(2) MULTIPLE LOANS.—If the creditor knows, or has reason to know, that 1 or more residential mortgage loans secured

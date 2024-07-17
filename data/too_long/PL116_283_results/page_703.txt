@@ -1,0 +1,17 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 4089
+
+the Program, in accordance with the Under Secretary of Defense for Acquisition and Sustainment’s policy and guidance regarding the components of such reviews and the range of systems and infrastructure to be reviewed.
+‘‘(D) Advising the military departments, combatant commands, and Joint Staff on the vulnerabilities and cyberattack vectors that pose substantial risk to the missions of the Program and their constituent systems, critical infrastructure, kill chains, or processes.
+‘‘(6) SECRETARY OF DEFENSE DIRECTIVE.—The Secretary of Defense shall define and issue guidance on the roles and responsibilities for other components with respect to the Program, including—
+‘‘(A) the military departments’ acquisition and sustainment organizations in supporting and implementing remedial actions;
+‘‘(B) the alignment of Cyber Protection Teams with the prioritized missions of the Program;
+‘‘(C) the role of the Director of Operational Test and Evaluation in conducting periodic assessments, including through red teams, of the cybersecurity of missions in the Program; and Evaluations. ‘‘(D) the role of the Principal Cyber Adviser in coordinating and monitoring the Department’s execution of the Program.
+‘‘(d) INTEGRATION WITH OTHER EFFORTS.—The Under Secretary of Defense for Acquisition and Sustainment shall ensure that the Program builds upon, and does not duplicate, other efforts of the Department of Defense relating to cybersecurity, including the following:
+‘‘(1) The evaluation of cyber vulnerabilities of major weapon systems of the Department of Defense required under section 1647 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92).
+‘‘(2) The evaluation of cyber vulnerabilities of Department of Defense critical infrastructure required under section 1650 of the National Defense Authorization Act for Fiscal year 2017 (Public Law 114–328; 10 U.S.C. 2224 note).
+‘‘(3) The activities of the cyber protection teams of the Department of Defense.
+‘‘(e) BRIEFING.—Not later than December 1, 2021, the Secretary of Defense shall provide to the congressional defense committees Deadline. a briefing on the establishment of the Program, and the plans, funding, and staffing of the Program.’’.
+SEC. 1713. MODIFICATION OF POSITION OF PRINCIPAL CYBER ADVISOR.
+(a) IN GENERAL.—Subsection (c) of section 932 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113– 66; 10 U.S.C. 2224 note) is amended to read as follows:
+‘‘(c) PRINCIPAL CYBER ADVISOR.—
+‘‘(1) DESIGNATION.—The Secretary shall designate a Principal Cyber Advisor from among those civilian officials of the Department of Defense who have been appointed to the posi- President. tions in which they serve by the President, by and with the advice and consent of the Senate.

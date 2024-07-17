@@ -1,0 +1,79 @@
+134 STAT. 4456 PUBLIC LAW 116–283—JAN. 1, 2021
+
+SEC. 4201. RESEARCH, DEVELOPMENT, TEST, AND EVALUATION (In Thousands of Dollars)
+
+```
+Line  Program                    Item                        FY 2021     Conference
+      Element                                              Request      Authorized
+
+024   0603678N NAVY WARFIGHTING EXPERIMENTS AND DEM-        40,709      40,709
+                ONSTRATIONS.
+025   0603728N MINE AND EXPEDITIONARY WARFARE AD-           1,948       1,948
+                VANCED TECHNOLOGY.
+026   0603801N INNOVATIVE NAVAL PROTOTYPES (INP) AD-       141,948     161,948
+                VANCED TECHNOLOGY DEVELOPMENT.
+                Accelerated railgun technology maturation.
+      SUBTOTAL ADVANCED TECHNOLOGY DE-                     760,396     776,707
+        VELOPMENT.
+
+      ADVANCED COMPONENT DEVELOPMENT & PROTOTYPES
+027   0603178N MEDIUM AND LARGE UNMANNED SURFACE           464,042     259,242
+                VEHICLES (USVS).
+                LUSV additional prototypes                            [–159,000]
+                Unmanned surface vehicle enabling capabili-           [–15,800]
+                ties—raligned program reduction.
+
+028   0603207N AVIONIC TACICAL APPLICATIONS                35,386      35,386
+029   0603261N AVIATION SURVIVABILITY                      13,238      13,238
+030   0603523N ISO NAVAL CONSTRUCTION FORCES                3,250       3,250
+031   0603512N AIRCRAFT SYSTEMS                             4,180       4,180
+032   0603254N ASW SYSTEMS DEVELOPMENT                      15,119      15,119
+033   0603261N TACTICAL AIRBORNE RECONNAISSANCE             5,678       5,678
+034   0603382N ADVANCED COMBAT SYSTEMS TECHNOLOGY           70,218      63,211
+                Project: 4346: HIJENKS insufficient schedule                         [–7,007]
+                justification.
+035   0603502N SURFACE AND SHALLOW WATER MINE COUN-         52,358      47,508
+                TERMEASURES.
+                Project: 2998: Barracuda program delay                         [–4,850]
+036   0603508N SURFACE SHIP TORPEDO DEFENSE                 12,816      12,816
+037   0603512N CARRIER SYSTEMS DEVELOPMENT                  75,757      75,757
+038   0603522N AIRSHIP RISK                                   857         857
+                Excess cost growth                                    [–1,500]
+                Program adjustment                                    [–1,500]
+
+039   0603572N RETRACT LAUNCH                               12,562      12,562
+040   0603588N RETRACT JUNIPER                             148,000     148,000
+041   0603542N RADIOLOGICAL CONTROL                           732         732
+042   0603611N SURFACE ASW                                   1,181       1,181
+
+043   0603615N ADVANCED SUBMARINE SYSTEM DEVELOP-         185,326     157,556
+                MENT.
+                Project: 9710 unjustified new start                          [–27,470]
+044   0603662N SUBMARINE TACTICAL WARFARE SYSTEMS           10,528      10,528
+045   0603856N SHIP CONCEPT ADVANCED DESIGN                126,386     111,386
+                Polymeric build farm for open source techno-
+                logies.
+                Project: 4046: Medium amphibous ship early to                         [–10,000]
+                need.
+                Project: 4045: Medium logistics ship early to                         [–5,000]
+                need.
+
+046   0603654N SHIP PRELIMINARY DESIGN & FEASIBILITY        70,270      36,970
+                STUDIES.
+                Project: 0411: Preliminary design early to need                         [–17,100]
+                Project: 0411: Requirements and concept anal-                         [–16,200]
+                ysis excess growth.
+
+047   0603570N ADVANCED NUCLEAR POWER SYSTEMS              149,188     149,188
+048   0603573N ADVANCED SURFACE MACHINERY SYSTEMS           45,449      45,449
+                Accelerated qualification of silicon carbide power
+                module.
+
+049   0603676N CHALLENGE     LITTORAL COMBAT SHIP (LCS)     71,181      71,181
+051   0603582N COMBAT SYSTEM INTEGRATION                    11,788      11,788
+052   0603596N OHIO REPLACEMENT                             317,196     317,196
+053   0603598N LCS MISSION MODULES                          45,000      45,000
+054   0603691N AUTOMATED TEST AND ANALYSIS                   4,577       4,577
+055   0603597N FRIGATE DEVELOPMENT                          82,439      82,439
+056   0603690N CONVENTIONAL MUNITIONS                        9,922       9,922
+```

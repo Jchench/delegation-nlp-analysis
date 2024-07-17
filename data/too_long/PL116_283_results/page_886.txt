@@ -1,0 +1,54 @@
+134 STAT. 4272          PUBLIC LAW 116–283—JAN 1, 2021
+
+10 USC 4401 prec.
+"SUBCHAPTER I—MODULAR OPEN SYSTEM APPROACH IN 
+DEVELOPMENT OF WEAPON SYSTEMS
+
+"Sec.
+"4401. Requirement for modular open system approach in major defense acquisition programs; definitions.
+"4402. Requirement to address modular open system approach in program capabilities development and acquisition weapon system design.
+"4403. Requirements relating to availability of major system interfaces and support for modular open system approach.
+
+10 USC 4421 prec.
+"SUBCHAPTER II—DEVELOPMENT, PROTOTYPING, AND DE-
+PLOYMENT OF WEAPON SYSTEM COMPONENTS OR TECH-
+NOLOGY
+"Sec.
+"4421. Weapon system component or technology prototype projects: display of budget information.
+"4422. Weapon system component or technology prototype projects: oversight.
+"4423. Requirements and limitations for weapon system component or technology prototype projects.
+"4424. Mechanisms to speed deployment of successful weapon system component or technology prototypes.
+"4425. Definition of weapon system component.".
+(b) TRANSFER OF SECTIONS OF SUBCHAPTER I OF CHAPTER
+        144B.—
+        (1) TRANSFER.—Sections 2446a, 2446b, and 2446c of 
+chapter 144B of title 10, United States Code, are transferred 
+to chapter 327, as added by subsection (a), inserted (in that 
+order) after the table of sections at the beginning of subchapter 
+I, and redesignated as sections 4401, 4402, and 4403, respec-
+tively.
+        (2) CONFORMING CROSS-REFERENCE AMENDMENTS TO SEC-
+TION 4401.—Section 4401 of title 10, United States Code, as 
+so transferred and redesignated, is amended—
+                    (A) in subsection (b)(1)(D), by striking "section 2320" 
+and inserting "sections 3771 through 3775";
+                    (B) in subsection (b)(6), by striking "section 2448a(a)" and inserting "section 4271(a)";
+                    (C) in subsection (b)(7), by striking "section 2430" and inserting "section 4201"; and
+                    (D) in subsection (b)(8), by striking "section 2379(f)" and inserting "section 3456(f)".
+        (3) CONFORMING CROSS-REFERENCE AMENDMENTS TO SEC-
+TION 4402.—Section 4402 of such title, as so transferred and 
+redesignated, is amended—
+                    (A) in subsection (c), by striking "section 2431a" and 
+inserting "section 4217"; and
+                    (B) in subsection (e), by striking "section 2366b" and 
+inserting "section 4252".
+(c) TRANSFER OF SECTIONS OF SUBCHAPTER II OF CHAPTER
+        144B.—
+        (1) TRANSFER.—Sections 2447a, 2447b, 2447c, 2447d, and 
+2447e of chapter 144B of title 10, United States Code, are 
+transferred to chapter 327, as added by subsection (a), inserted 
+(in that order) after the table of sections at the beginning 
+of subchapter II, and redesignated as sections 4421, 4422, 4423, 
+4424, and 4425, respectively.
+        (2) CONFORMING CROSS-REFERENCE AMENDMENTS TO SEC-
+TION 4422.—Section 4422 of such title, as so transferred and

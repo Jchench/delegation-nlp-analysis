@@ -1,0 +1,23 @@
+134 STAT. 4642
+
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+“(3) RECALCULATION OF RETIRED PAY.—If the retired grade of a commissioned officer is reduced pursuant to this subsection, the retired pay of the commissioned officer shall be recalculated under chapter 71 of title 10, and any modification of the retired pay of the commissioned officer shall go into effect on the effective date of the reduction in retired grade.
+“(d) FINALITY OF RETIRED GRADE DETERMINATIONS.—
+“(1) IN GENERAL.—Except as provided in paragraph (2), a determination of the retired grade of a commissioned officer under this section is administratively final on the day the commissioned officer is retired, and may not be reopened.
+“(2) REOPENING DETERMINATIONS.—A determination of the retired grade of a commissioned officer may be reopened if—
+“(A) the retirement or retired grade of the commissioned officer was procured by fraud;
+“(B) substantial evidence comes to light after the retirement that could have led to a lower retired grade under this section and such evidence was not known by competent authority at the time of retirement;
+“(C) a mistake of law or calculation was made in the determination of the retired grade;
+“(D) in the case of a retired grade following a conditional determination under subsection (a)(2), the investigation of or personnel action against the commissioned officer results in adverse findings; or
+“(E) the Secretary determines, under regulations prescribed by the Secretary, that good cause exists to reopen the determination.
+“(3) REQUIREMENTS.—If a determination of the retired grade of a commissioned officer is reopened under paragraph (2), the Secretary—
+“(A) shall notify the commissioned officer of the reopening; and
+“(B) may not make an adverse determination on the retired grade of the commissioned officer until the commissioned officer has had a reasonable opportunity to respond regarding the basis of the reopening.
+“(4) RECALCULATION OF RETIRED PAY.—If the retired grade of a commissioned officer is reduced through the reopening of the commissioned officer’s retired grade under paragraph (2), the retired pay of the commissioned officer shall be recalculated under chapter 71 of title 10, and any modification of the retired pay of the commissioned officer shall go into effect on the effective date of the reduction in retired grade.
+“(e) INAPPLICABILITY TO COMMISSIONED WARRANT OFFICERS.—This section, including subsection (b), shall not apply to commissioned warrant officers.”.
+
+SEC. 8202. AUTHORITY FOR OFFICERS TO OPT OUT OF PROMOTION BOARD CONSIDERATION.
+
+(a) ELIGIBILITY OF OFFICERS FOR CONSIDERATION FOR PROMOTION.—Section 2113 of title 14, United States Code, is amended by adding at the end the following:
+“(g)(1) Notwithstanding subsection (a), the Commandant may provide that an officer may, upon the officer’s request and with the approval of the Commandant, be excluded from consideration by a selection board convened under section 2106.

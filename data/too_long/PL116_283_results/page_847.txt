@@ -1,0 +1,35 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4233
+
+(B) by designating the second sentence as subsection (b) and inserting ‘‘MULTIPLE CHALLENGES; SCHEDULE OF RESPONSES.—’’ before ‘‘If a party’’.
+
+(k) TRANSFER OF SUBSECTION (f) OF SECTION 2321.—Subsection (f) of section 2321 of title 10, United States Code, is transferred to section 3784 of such title, as added by subsection (g), inserted after the section heading, and amended—
+(1) by striking the subsection designation and subsection heading; and
+(2) by striking ‘‘subsection (d)(3)’’ and inserting ‘‘section 3782(c) of this title’’.
+
+(l) TRANSFER OF SUBSECTIONS (g), (h), AND (i) OF SECTION 2321.—
+(1) TRANSFER.—Subsections (g), (h), and (i) of section 2321 of title 10, United States Code, are transferred to section 3785 of such title, as added by subsection (g), inserted after the section heading, and redesignated as subsections (a), (b), and (c), respectively.
+(2) CONFORMING AMENDMENTS TO NEW 3785(a).—Subsection (a) of such section, as so transferred and redesignated, is amended—
+(A) by striking ‘‘subsection (d)(3)’’ both places it appears and inserting ‘‘section 3782(c) of this title’’;
+(B) by striking ‘‘OFFICER.—(1) Upon failure’’ and inserting ‘‘OFFICER.—
+(1) Upon failure’’; and
+(C) by realigning paragraph (2) 2 ems to the right.
+(3) CONFORMING AMENDMENTS TO NEW 3785(c).—Subsection (c) of such section 3786, as so transferred and redesignated, is amended—
+(A) by striking ‘‘DISPOSITION.—(1) If, upon final’’ and inserting ‘‘DISPOSITION.—
+(1) If, upon final’’; and
+(B) by realigning paragraph (2) 2 ems to the right.
+(m) TRANSFER OF SUBSECTION (j) OF SECTION 2321.—Subsection (j) of section 2321 of title 10, United States Code, is transferred to section 3786 of such title, as added by subsection (g), inserted after the section heading, and amended—
+(1) by striking the subsection designation and subsection heading; and
+(2) by striking ‘‘In this section’’ and inserting ‘‘In this subchapter’’.
+
+(n) NEW SUBCHAPTER.—Chapter 275 of title 10, United States Code, as added by subsection (a), is amended by adding after subchapter II, as added by subsections (g), the following new subchapter:
+‘‘SUBCHAPTER III—OTHER PROVISIONS RELATING TO PRO- PRIETARY CONTRACTOR DATA AND RIGHTS IN TECH- NICAL DATA
+
+‘‘Sec.
+‘‘3791. Management of intellectual property matters within the Department of Defense.
+‘‘3792. Technical data rights; non-FAR agreements.
+‘‘3793. Copyrights, patents, designs, etc.; acquisition.
+‘‘3794. Release of technical data under Freedom of Information Act; recovery of costs.
+10 USC 3791
+prec.

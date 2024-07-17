@@ -1,0 +1,42 @@
+134 STAT. 3556
+
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+(3) in subsection (b), by striking paragraphs (1) through (4) and inserting the following new paragraphs:
+
+“(1) For the Army, 485,900.
+“(2) For the Navy, 347,800.
+“(3) For the Marine Corps, 181,200.
+“(4) For the Air Force, 333,475.”; and
+(4) in subsection (e)—
+(A) by inserting “or the Secretary concerned” after “Secretary of Defense”; and
+(B) by striking “reduce a number specified in subsection (b) by not more than 2 percent” and inserting “vary a number specified in subsection (b) in accordance with section 115 of this title”.
+
+(b) CLERICAL AMENDMENT.—The table of sections at the begin- ning of chapter 39 of such title is amended by striking the item 10 USC 671 prec relating to section 691 and inserting the following:
+
+“691. Permanent end strength levels to support the National Defense Strategy”.
+
+SEC. 403. MODIFICATION OF THE AUTHORIZED NUMBER AND ACCOUNTING METHOD FOR SENIOR ENLISTED PERSON- NEL.
+(a) IN GENERAL.—Section 517 of title 10, United States Code, is amended—
+(1) in the section heading, by striking “daily average” and inserting “enlisted end strength”;
+(2) in subsection (a)—
+(A) by striking “daily average number of” and inserting “end strength for”;
+(B) by striking “in a fiscal year” and inserting “as of the last day of a fiscal year”;
+(C) by striking “2.5 percent” and inserting “3.0 per- cent”; and
+(D) by striking “on the first day of that fiscal year”; and
+(3) by striking subsection (b).
+(b) CLERICAL AMENDMENT.—The table of sections at the begin- 10 USC 501 prec ning of chapter 31 of such title is amended by striking the item relating to section 517 and inserting the following new item:
+
+“517. Authorized enlisted end strength: members in pay grades E-8 and E-9.”.
+Subtitle B—Reserve Forces
+
+SEC. 411. END STRENGTHS FOR SELECTED RESERVE.
+(a) IN GENERAL.—The Armed Forces are authorized strengths for Selected Reserve personnel of the reserve components as of September 30, 2021, as follows:
+(1) The Army National Guard of the United States, 336,500.
+(2) The Army Reserve, 189,800.
+(3) The Navy Reserve, 58,800.
+(4) The Marine Corps Reserve, 38,500.
+(5) The Air National Guard of the United States, 108,100.
+(6) The Air Force Reserve, 70,300.
+(7) The Coast Guard Reserve, 7,000.
+(b) END STRENGTH REDUCTIONS.—The end strengths prescribed by subsection (a) for the Selected Reserve of any reserve component shall be proportionately reduced by—

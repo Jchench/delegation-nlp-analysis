@@ -1,0 +1,80 @@
+PUBLIC LAW 116–283—JAN. 1, 2021	                                                                                 
+134 STAT. 4471
+
+SEC. 4201. RESEARCH, DEVELOPMENT, TEST, AND EVALUATION                                                                                     
+(In Thousands of Dollars)
+
+Line Program Element              Item                            FY 2021     Conference
+                                 	                      	                       Request       Authorized                  
+
+037 0603289D8Z	ADVANCED INNOVATIVE ANALYSIS AND CONCEPTS	                           36,524        36,524
+038 0603291D8Z	ADVANCED INNOVATIVE ANALYSIS AND CONCEPTS—MHA	                       14,703        14,703
+039 0603292C	COMMON KILL VEHICLE TECHNOLOGY	                                        11,058        11,058
+040 0603383BBZ	DEFENSE MODERNIZATION AND PROTOTYPING	                              133,375       232,673
+
+                                                                	                           [10,000]
+                                                                	                           [19,702]
+                                                                	                           [10,000]
+                                                                                                          
+042 0603342D8Z	DEFENSE INNOVATION UNIT (DIU)	                                       26,141        26,141
+043 0603370S8Z	TECHNOLOGY INNOVATION	                                              27,709        27,709
+044 0603348BP	CHEMICAL AND BIOLOGICAL DEFENSE PROGRAM—ADVANCED DEVELOPMENT	       188,001       188,001
+						                                                                                                     
+045 0603276D8Z	EXTRACT LARCH	                                   	               130,283       130,283
+046 0603611D8Z	JOINT ELECTRONIC ADVANCED TECHNOLOGY	                       	       15,164        15,164
+047 0603648D8Z	JOINT CAPABILITY TECHNOLOGY DEMONSTRATIONS	                       	       85,452        85,452
+048 0603662D8Z	NETWORK COMMUNICATIONS CAPABILITY	                                 5,882        5,882
+						                                                                                                     
+049 0603868D8Z	DEFENSE-WIDE MANUFACTURING SCIENCE AND TECHNOLOGY PROGRAM	               83,817       135,817
+
+	Accelerating rapid prototyping by integrating high performance computing and advanced manufacturing	     [15,000]
+                          				
+	Advanced substantially training environment	     [2,000]
+	Advanced structural manufacturing technologies	     [25,000]
+	Flexible hybrid electronics	                     [15,000]
+	Strengthening the small manufacturers	                     [15,000]
+                                                                                                          
+050 0603858S	MANUFACTURING TECHNOLOGY PROGRAM	                                      40,025        55,025
+
+	Defense supply chain technologies	              [15,000]
+                                                                                                          
+052 0603712S	GENERAL LOGISTICS R&D TECHNOLOGY DEMONSTRATIONS	                      10,235        10,235
+053 0603716D8Z	STRATEGIC ENVIRONMENTAL RESEARCH PROGRAM	                          53,582       106,862
+
+	AFPP realignment	                              [25,000]
+	PFAS Innovative Award Fund	                              [15,000]
+	PFAS remediation and disposal technology	      [25,000]
+                                                                                                                                     
+054 0603720S	MICROELECTRONICS TECHNOLOGY DEVELOPMENT AND SUPPORT	              124,049       131,049
+
+	UUSS realignment transfer from P.DW line 32	               [7,000]
+                                                                                                          
+055 0603727D8Z	JOINT WARFIGHTING PROGRAM                                             3,871         3,871
+056 0603739E	ADVANCED ELECTRONICS TECHNOLOGIES	                                      35,864        35,864
+057 0603766E	COMMAND, CONTROL AND COMMUNICATIONS SYSTEMS	              221,724       221,724
+058 0603768E	NETWORK-CENTRIC WARFARE TECHNOLOGY	                                      661,153       646,153
+
+	Lack of coordination	                     [15,000]
+	Unjustified increase	                     [5,000]
+                                                                                                          
+059 0603767E	SENSOR TECHNOLOGY	                                     	              200,220       200,220
+060 0603780D8Z	DISTRIBUTED LEARNING ADVANCED TECHNOLOGY DEVELOPMENT	                    6,756         6,756
+061 0603781D8Z	SOFTWARE ENGINEERING INSTITUTE	                                          12,598        12,598
+062 0603942D8Z	HIGH ENERGY LASER ADVANCED TECHNOLOGY PROGRAM	                    105,410        92,270
+
+	Excess growth	                     [13,140]
+                                                                                                          
+063 0603941D8Z	TEST & EVALUATION SCIENCE & TECHNOLOGY	                              187,085       135,465
+
+	Directed energy test workloads	                     [52,702]
+	Excess growth cyber warfare test	                     [4,000]]
+                                                                                                          
+064 0603950D8Z	NATIONAL SECURITY INNOVATION NETWORK	                                      40,000        40,000
+
+	Retore program	                              [40,000]
+                                                                                                                                      
+065 0604055D8Z	OPERATIONAL ENERGY CAPABILITY IMPROVEMENT	                              65,000        65,000
+
+	Program increase	                              [65,000]
+                                                                                                                                     
+070 11604022BB	SOF ADVANCED TECHNOLOGY DEVELOPMENT PROGRAM	                              80,072        80,072

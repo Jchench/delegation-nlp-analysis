@@ -1,0 +1,25 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+to any such master agreement, without regard to whether the master agreement contains an agreement or transaction that is not a swap agreement under this clause, except that the master agreement shall be considered to be a swap agreement under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), or (IV); and
+
+(VI) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in any of subclauses (I) through (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such clause.
+
+(vii) DEFINITIONS RELATING TO DEFAULT.—When used in this paragraph and paragraphs (9) and (10)—
+
+(I) the term “default” means, with respect to a covered financial company, any adjudication or other official decision by any court of competent jurisdiction, or other public authority pursuant to which the Corporation has been appointed receiver; and
+
+(II) the term “in danger of default” means a covered financial company with respect to which the Corporation or appropriate State authority has determined that—
+
+(aa) in the opinion of the Corporation or such authority—
+
+(AA) the covered financial company is not likely to be able to pay its obligations in the normal course of business;
+
+(BB) there is no reasonable prospect that the covered financial company will be able to pay such obligations without Federal assistance; or
+
+(bb) in the opinion of the Corporation or such authority—
+
+(AA) the covered financial company has incurred or is likely to incur losses that will deplete all or substantially all of its capital; and
+
+(BB) there is no reasonable prospect that the capital will be replenished without Federal assistance.
+
+(viii) TREATMENT OF MASTER AGREEMENT AS ONE AGREEMENT.—Any master agreement for any contract or agreement described in any of clauses (i) through (vi) (or any master agreement for such master agreement or agreements), together with all supplements to such master agreement, shall be treated as a single agreement and a single qualified financial contact. If a master agreement contains provisions relating to agreements or transactions that are not themselves qualified financial contracts, the master agreement

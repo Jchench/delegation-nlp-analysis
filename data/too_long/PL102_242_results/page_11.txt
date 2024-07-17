@@ -1,0 +1,25 @@
+105 STAT. 2246                PUBLIC LAW 102-242—DEC. 19, 1991
+
+"(A) INDEPENDENT AUDITOR REPORTS.—Each insured depository institution shall provide to the Corporation, any appropriate Federal banking agency, and any appropriate State bank supervisor, a copy of each audit report and any qualification to such report, any management letter, and any other report within 15 days of receipt of any such report, qualification, or letter from the institution's independent auditors.
+"(B) NOTICE OF CHANGE OF AUDITORS.—Each insured depository institution shall provide written notification to the Corporation, the appropriate Federal banking agency, and any appropriate State bank supervisor of the resignation or dismissal of the institution's independent auditor or the engagement of a new independent auditor by the institution, including a statement of the reasons for such change within 15 calendar days of the occurrence of the event.
+
+"( i ) REQUIREMENTS FOR INSURED SUBSIDIARIES OF HOLDING COMPANIES.—Except with respect to any audit requirements established under or pursuant to subsection (d), the requirements of this section may be satisfied for insured depository institutions that are subsidiaries of a holding company, if—
+"(1) services and functions comparable to those required under this section are provided at the holding company level; and
+"(2) either—
+"(A) the institution has total assets, as of the beginning of such fiscal year, of less than $5,000,000,000; or
+"(B) the institution—
+"( i ) has total assets, as of the beginning of such fiscal year, of more than $5,000,000,000 and less than $9,000,000,000; and
+"( i i ) has a CAMEL composite rating of 1 or 2 under the Uniform Financial Institutions Rating System (or an equivalent rating by any such agency under a comparable rating system) as of the most recent examination of such institution by the Corporation or the appropriate Federal banking agency.
+
+"( j ) EXEMPTION FOR SMALL DEPOSITORY INSTITUTIONS.—This section shall not apply with respect to any fiscal year of any insured depository institution the total assets of which, as of the beginning of such fiscal year, are less than the greater of—
+"(1) $150,000,000; or
+"(2) such amount (in excess of $150,000,000) as the Corporation may prescribe by regulation.".
+                                    12 USC 1831m
+                                          note
+(b) EFFECTIVE DATE.—The requirements established by the amendment made by subsection (a) shall apply with respect to fiscal years of insured depository institutions which begin after December 31, 1992. 
+
+SEC. 113. ASSESSMENTS REQUIRED TO COVER COSTS OF EXAMINATIONS.
+(a) IN GENERAL.—Section 10 of the Federal Deposit Insurance Act (12 U.S.C. 1820) is amended—
+(1) by redesignating subsection (e) as subsection (f); and
+(2) by inserting after subsection (d) (as added by section 111(a)(1) of this subtitle) the following new subsection:
+"(e) EXAMINATION FEES.—

@@ -1,0 +1,28 @@
+PUBLIC LAW 116-283—JAN. 1, 2021          134 STAT. 3545
+
+of the role between an Army, Navy, and Air Force entity on a periodic basis, or other options determined appropriate.
+
+(3) An assessment of the feasibility and advisability of designating the Director of the Defense Threat Reduction Agency with management responsibility for a Defense-wide program element for explosive ordnance disposal research, development, test, and evaluation transactions other than contracts, cooperative agreements, and grants related to section 2371 of title 10, United States Code, during research projects including rapid prototyping and limited procurement urgent activities and acquisition.
+SEC. 353. ASSESSMENT OF RESILIENCE OF DEPARTMENT OF DEFENSE MUNITIONS ENTERPRISE.
+
+(a) ASSESSMENT.—Not later than 60 days after the date of the enactment of this Act, the Secretary of Defense shall enter into an agreement with a federally-funded research and development center with relevant expertise under which such center shall conduct an assessment of the resilience of the Department of Defense munitions enterprise.
+(b) ELEMENTS.—The assessment required under subsection (a) shall include the following elements:
+
+(1) An identification of the points of failure with respect to the munitions enterprise, including physical locations, materials, suppliers, contractors, and other relevant elements, that, if failure occurs, would have the largest negative impact on the capacity, resiliency, and safety of the enterprise.
+
+(2) An evaluation of the efforts of the Department of Defense to address the points of failure identified under paragraph (1).
+
+(3) Recommendation with respect to any additional efforts or actions that could be taken to provide for mitigation or solutions with respect to such points of failure.
+
+(4) An evaluation of the capacity of the munitions enterprise to support a sudden surge in demand to support a contingency.
+
+(5) An evaluation of the capacity of the munitions enterprise to withstand intentional disruption during a conflict.
+(c) REPORT AND BRIEFINGS.—The Secretary shall—
+
+(1) submit to the congressional defense committees a report on the results of assessment conducted under this section by not later than December 31, 2021; and
+
+(2) provide for such committees interim briefings on such assessment upon request.
+(d) POINT OF FAILURE.—In this section, the term “point of failure” means, with respect to the munitions enterprise, an aspect of the enterprise, that, if it were to fail or be significantly negatively impacted would cause the portion of the enterprise it supports to either fail or be significantly negatively impacted.
+SEC. 354. REPORT ON SAFETY WAIVERS AND MISHAPS IN DEPARTMENT OF DEFENSE MUNITIONS ENTERPRISE.
+
+(a) REPORT REQUIRED.—The Secretary shall include with the Department of Defense materials submitted to Congress with the budget of the President for each of fiscal years 2022 through 2025 (as submitted to Congress pursuant to section 1105 of title 31, United States Code), a report on safety waivers provided in the Department of Defense munitions enterprise. Each such report shall

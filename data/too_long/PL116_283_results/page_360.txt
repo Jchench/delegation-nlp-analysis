@@ -1,0 +1,22 @@
+134 STAT. 3746
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+(d) FUNDING.—In exercising the acquisition authority granted in subsection (a), the Director may not obligate or expend more than $75,000,000 out of the funds made available in each of fiscal years 2021, 2022, 2023, 2024, and 2025 to enter into new contracts to support appropriate acquisition activities carried out under this section.
+(e) IMPLEMENTATION PLAN AND DEMONSTRATION REQUIRED.—
+(1) IN GENERAL.— The Secretary of Defense—
+  (A) may use the acquisition authority granted under subsection (a) on or after 30 days after the date on which the Secretary provides to the congressional defense committees a plan for implementation of such authority; and
+  (B) by March 15, 2022, shall provide a demonstration of operational capability delivered under such authority.
+(2) IMPLEMENTATION PLAN.—The plan shall include the following:
+  (A) Description of the types of activities to be undertaken using the acquisition authority provided under subsection (a).
+  (B) Plan for the negotiation and approval of any such memorandum of agreement with an element of the Department of Defense to support Center missions and transition of artificial intelligence capabilities into appropriate acquisition programs or into operational use.
+  (C) Plan for oversight of the position of acquisition executive established in subsection (c).
+  (D) Assessment of the acquisition workforce, tools, and infrastructure needs of the Center to support the authority under subsection (a) until September 30, 2025.
+  (E) Other matters as appropriate.
+(3) DEMONSTRATION.—The capability demonstration shall include a description of how the acquisition authority enabled the capability, how requirements were established and agreed upon, how testing was conducted, and how the capability was transitioned to the user, as well as any other matters deemed appropriate by the Center.
+(4) RELATIONSHIP TO OTHER AUTHORITIES.—The requirement to submit a plan under this subsection is in addition to the requirements under section 260 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1293).
+(f) SUNSET.—Effective October 1, 2025, the Director may not exercise the authority under subsection (a) and may not enter into any new contracts under this section. The performance on any contract entered into before such date may continue according to the terms of such contract.
+(g) DEFINITIONS.—In this section:
+(1) CENTER.—The term “Center” has the meaning given the term “Joint Artificial Intelligence Center” in section 260(c) of National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1294).
+(3) DIRECTOR.—The term “Director” means the Director of the Center.
+(4) ELEMENT.—The term “element” means an element described under section 111(b) of title 10, United States Code.

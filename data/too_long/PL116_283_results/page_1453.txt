@@ -1,0 +1,19 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 4839
+
+illicit finance, the Secretary of the Treasury may, by order, regulation, or otherwise as permitted by law—
+(1) require domestic financial institutions and domestic financial agencies to take 1 or more of the special measures described in section 5318A(b) of title 31, United States Code; or
+(2) prohibit, or impose conditions upon, certain transmittals of funds (to be defined by the Secretary) by any domestic financial institution or domestic financial agency, if such transmittal of funds involves any such institution, class of transaction, or type of account.
+(b) REPORT REQUIRED.—
+(1) IN GENERAL.—Not later than 1 year after the date of enactment of this Act, the Secretary of the Treasury shall submit to the Committees on Financial Services and Foreign Affairs of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Foreign Relations of the Senate a report that shall identify any additional regulations, statutory changes, enhanced due diligence, and reporting requirements that are necessary to better identify, prevent, and combat money laundering linked to Russia, including related to—
+(A) identifying the beneficial ownership of anonymous companies;
+(B) strengthening current, or enacting new, reporting requirements and customer due diligence requirements for the real estate sector, law firms, and other trust and corporate service providers;
+(C) enhanced know-your-customer procedures and screening for transactions involving Russian political leaders, Russian state-owned enterprises, and known Russian transnational organized crime figures; and
+(D) establishing a permanent solution to collecting information nationwide to track ownership of real estate.
+(2) FORMAT.—The report required under this subsection shall be made available to the public, including on the website of the Department of the Treasury, but may contain a classified annex and be accompanied by a classified briefing.
+(c) SENSE OF CONGRESS ON INTERNATIONAL COOPERATION.—
+It is the sense of the Congress that the Secretary of the Treasury and other relevant cabinet members (such as the Secretary of State, Secretary of Homeland Security, and Attorney General) should work jointly with European, E.U., and U.K. financial intelligence units, trade transparency units, and appropriate law enforcement authorities to present, both in the report required under subsection (b) and in future analysis of suspicious transaction reports, cash transaction reports, currency and monetary instrument reports, and other relevant data to identify trends and assess risks in the movement of illicit funds from Russia through the United States, British, and European financial systems.
+
+Subtitle C—Other Matters
+
+SEC. 9721. CERTIFIED NOTICE AT COMPLETION OF AN ASSESSMENT.
+(a) IN GENERAL.—Section 721(b)(3) of the Defense Production Act of 1950 (50 U.S.C. 4565(b)(3)) is amended—

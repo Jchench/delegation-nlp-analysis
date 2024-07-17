@@ -1,0 +1,22 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009-416
+
+(1) by striking "This title" and inserting "(a) IN GENERAL.— This title:";
+(2) in the 3d sentence, by inserting "(as determined without regard to the adjustment made by subsection (b))" before the period; and
+(2) by adding at the end the following new subsection:
+ 
+"(b) CPI ADJUSTMENTS.—
+"(1) IN GENERAL.—Subject to paragraph (2), the dollar amount applicable with respect to institutions described in section 303(2)(A) under the 2d sentence of subsection (a) shall be adjusted annually after December 31, 1996, by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers published by the Bureau of Labor Statistics.
+"(2) 1-TIME ADJUSTMENT FOR PRIOR INFLATION.—The first adjustment made under paragraph (1) after the date of the enactment of the Economic Growth and Regulatory Paperwork Reduction Act of 1996 shall be the percentage by which—
+"(A) the Consumer Price Index described in such paragraph for the calendar year 1996, exceeds
+"(B) such Consumer Price Index for the calendar year 1975.
+"(3) ROUNDING.—The dollar amount applicable under paragraph (1) for any calendar year shall be the amount determined in accordance with subparagraphs (A) and (B) of paragraph (2) and rounded to the nearest multiple of $1,000,000.".
+
+(b) OPPORTUNITY TO REDUCE COMPLIANCE BURDEN.—Section 304 of the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2803) is amended by adding at the end the following new subsection:
+"(m) OPPORTUNITY TO REDUCE COMPLIANCE BURDEN.—
+"(1) IN GENERAL.—
+"(A) SATISFACTION OF PUBLIC AVAILABILITY REQUIREMENTS.—A depository institution shall be deemed to have satisfied the public availability requirements of subsection
+(a) if the institution compiles the information required under that subsection at the home office of the institution and provides notice at the branch locations specified in subsection (a) that such information is available from the home office of the institution upon written request.
+"(B) PROVISION OF INFORMATION UPON REQUEST.—Not later than 15 days after the receipt of a written request for any information required to be compiled under subsection (a), the home office of the depository institution receiving the request shall provide the information pertinent to the location of the branch in question to the person requesting the information.
+"(2) FORM OF INFORMATION.—In complying with paragraph (1), a depository institution shall, in the sole discretion of the institution, provide the person requesting the information with—
+"(A) a paper copy of the information requested; or
+"(B) if acceptable to the person, the information through a form of electronic medium, such as a computer disk.".

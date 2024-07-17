@@ -1,0 +1,26 @@
+PUBLIC LAW 111-203—JULY 21, 2010 
+
+(1) establishing independent standards for governing the profession of rating analysts;
+(2) establishing a code of ethical conduct; and
+(3) overseeing the profession of rating analysts.
+
+(b) REPORT.—Not later than 1 year after the date of publication of the rules issued by the Commission pursuant to section 936, the Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the results of the study conducted under subsection (a).
+
+SEC. 939F. STUDY AND RULEMAKING ON ASSIGNED CREDIT RATINGS.
+(a) DEFINITION.—In this section, the term “structured finance product” means an asset-backed security, as defined in section 3(a)(77) of the Securities Exchange Act of 1934, as added by section 941, and any structured product based on an asset-backed security, as determined by the Commission, by rule.
+(b) STUDY.—The Commission shall carry out a study of—
+(1) the credit rating process for structured finance products and the conflicts of interest associated with the issuer-pay and the subscriber-pay models;
+(2) the feasibility of establishing a system in which a public or private utility or a self-regulatory organization assigns nationally recognized statistical rating organizations to determine the credit ratings of structured finance products, including—
+(A) an assessment of potential mechanisms for determining fees for the nationally recognized statistical rating organizations;
+(B) appropriate methods for paying fees to the nationally recognized statistical rating organizations;
+(C) the extent to which the creation of such a system would be viewed as the creation of moral hazard by the Federal Government; and
+(D) any constitutional or other issues concerning the establishment of such a system;
+(3) the range of metrics that could be used to determine the accuracy of credit ratings; and
+(4) alternative means for compensating nationally recognized statistical rating organizations that would create incentives for accurate credit ratings.
+(c) REPORT AND RECOMMENDATION.—Not later than 24 months after the date of enactment of this Act, the Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that contains—
+(1) the findings of the study required under subsection (b); and
+(2) any recommendations for regulatory or statutory changes that the Commission determines should be made to implement the findings of the study required under subsection (b).
+(d) RULEMAKING.—
+(1) RULEMAKING.—After submission of the report under subsection (c), the Commission shall, by rule, as the Commission determines is necessary or appropriate in the public interest or for the protection of investors, establish a system
+
+124 STAT. 1889

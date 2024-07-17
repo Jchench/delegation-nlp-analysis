@@ -1,0 +1,58 @@
+134 STAT. 4792		PUBLIC LAW 116–283—JAN. 1, 2021
+
+		(I) the amount of each such expenditure;
+		(II) an identification of the recipient or bene-
+	ficiary; and
+		(III) a description of the project or activity
+	and the purpose to be achieved of an expenditure
+	by the Fund.
+		(iii) ARRANGEMENTS OR AGREEMENTS.—The Sec-
+	retary of State shall notify the appropriate congres-
+	sional committees not later than 30 days after entering into a new bilateral or multilateral arrangement or
+	agreement described in subparagraph (A)(iii)(I)(bb).
+
+                (iv) APPROPRIATE CONGRESSIONAL COMMITTEES
+	DEFINED.—In this subparagraph, the term appropriate congressional committees means—
+            (I) the Committee on Foreign Relations of the
+               Senate;
+	(II) the Committee on Appropriations of the
+	Senate;
+	(III) the Committee on Foreign Affairs of the
+	House of Representatives; and
+	(IV) the Committee on Appropriations of the
+	House of Representatives.
+		(b) PROMOTING UNITED STATES LEADERSHIP IN INTERNATIONAL
+	ORGANIZATIONS AND COMMUNICATIONS STANDARDS-SETTING
+	BODIES.—
+		(1) IN GENERAL. —The Secretary of State, the Secretary
+            of Commerce, and the Chairman of the Commission, or their
+             designees, shall consider how to enhance representation of the
+             United States at international forums that set standards for
+             5G networks and for future generations of wireless communica-
+             tions networks, including—
+		(A) the International Telecommunication Union (com-
+	monly known as ITU);
+		(B) the International Organization for Standardization
+	(commonly known as ISO);
+		(C) the Inter-American Telecommunication Commis-
+	sion (commonly known as CITEL); and
+		(D) the voluntary standards organizations that develop
+	protocols for wireless devices and other equipment, such
+	as the 3GPP and the Institute of Electrical and Electronics
+	Engineers (commonly known as IEEE). 
+          (2) ANNUAL REPORT. —The Secretary of State, the Secretary
+	    of Commerce, and the Chairman of the Commission shall jointly
+	    submit to the relevant committees of Congress an annual report
+	    on the progress made under paragraph (1).
+		(c) DEFINITIONS. —In this section:
+			(1) The term “3GPP” means the Third Generation Partner-
+	ship Project.
+			(2) The term “5G network” means a radio network as
+	 described by 3GPP Release 15 or higher.
+		(3) The term “Commission” means the Federal Communica-
+	tions Commission.
+		(4) The term “NTIA Administrator” means the Assistant
+	Secretary of Commerce for Communications and Information.
+		(5) The term “Open–RAN” means the Open Radio Access
+	    Network approach to standardization adopted by the O-RAN
+	    Alliance, Telecom Infra Project, or 3GPP, or any similar set

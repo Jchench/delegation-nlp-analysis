@@ -1,0 +1,55 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+                                                                                                   124 STAT. 1747
+
+
+        (ii) by striking ‘‘or introducing broker’’ and all that
+    follows through ‘‘or derivatives transaction execution
+    facility’’;
+           (B) in paragraph (1), by striking ‘‘or introducing
+    broker)’’; and
+           (C) in paragraph (2), by striking ‘‘if a futures commis-
+    sion merchant,’’; and
+           (2) by adding at the end the following:
+    ‘‘(g) It shall be unlawful for any person to be an introducing
+broker unless such person shall have registered under this Act
+with the Commission as an introducing broker and such registration
+shall not have expired nor been suspended nor revoked.’’.
+    (b) Section 4m(3) of the Commodity Exchange Act (7 U.S.C.
+6m(3)) is amended—
+           (1) by striking ‘‘(3) Subsection (1) of this section’’ and inserting the following:
+           ‘‘(3) EXCEPTION.—
+              ‘‘(A) IN GENERAL.—Paragraph (1)’’; and
+           (2) by striking ‘‘to any investment trust’’ and all that follows through the period at the end and inserting the following:
+    ‘‘to any commodity pool that is engaged primarily in trading
+commodity interests.
+              ‘‘(B) ENGAGED PRIMARILY.—For purposes of subparagraph
+    (A), a commodity trading advisor or a commodity pool shall
+    be considered to be ‘engaged primarily’ in the business of being
+    a commodity trading advisor or commodity pool if it is or
+    holds itself out to the public as being engaged primarily, or
+    proposes to engage primarily, in the business of advising on 
+    commodity interests or investing, reinvesting, owning, holding,
+    or trading in commodity interests, respectively.
+                ‘‘(C) COMMODITY INTERESTS.—For purposes of this para-
+    graph, commodity interests shall include contracts of sale of
+    a commodity for future delivery, options on such contracts,
+    security futures, swaps, leverage contracts, foreign exchange,
+spot and forward contracts on physical commodities, and any
+monies held in an account used for trading commodity
+    interests.’’.
+(c) Section 5c of the Commodity Exchange Act (7 U.S.C. 7a–
+2) is amended—
+        (1) in subsection (a)(1)—
+            (A) by striking ‘‘, 5a(d),’’; and
+            (B) by striking ‘‘; and section (2)(h)(7) with respect to significant price discovery contracts.’’; and
+        (2) in subsection (f)(1), by striking ‘‘section 4d(c) of this
+Act’’ and inserting ‘‘section 4d(e)’’.
+(d) Section 5e of the Commodity Exchange Act (7 U.S.C. 7b)
+is amended by striking ‘‘or revocation of the right of an electronic
+trading facility to rely on the exemption set forth in section 2(h)(3)
+with respect to a significant price discovery contract,’’.
+(e) Section 6(b) of the Commodity Exchange Act (7 U.S.C.
+8(b)) is amended in the first sentence by striking ‘‘, or to revoke the right of an electronic trading facility to rely on the exemption set forth in section 2(h)(3) with respect to a significant price dis-
+covery contract,’’.
+(f) Section 12(e)(2)(B) of the Commodity Exchange Act (7 U.S.C.
+16(e)(2)(B)) is amended—

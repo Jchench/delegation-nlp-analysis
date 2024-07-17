@@ -1,0 +1,23 @@
+PUBLIC LAW 116–283—JAN. 1, 2021          134 STAT. 4557
+
+(b) CLERICAL AMENDMENT.—The table of sections for chapter 3 of title 31, United States Code, is amended by inserting after the item relating to section 315 the following:
+‘‘316. Treasury Attache´ Program.’’.
+SEC. 6107. ESTABLISHMENT OF FINCEN DOMESTIC LIAISONS.
+Section 310 of title 31, United States Code, as amended by sections 6103 and 6105 of this division, is amended by inserting after subsection (e) the following:
+‘‘(f) FINCEN DOMESTIC LIAISONS.—
+‘‘(1) ESTABLISHMENT OF OFFICE.—There is established in FinCEN an Office of Domestic Liaison, which shall be headed by the Chief Domestic Liaison.
+‘‘(2) LOCATION.—The Office of the Domestic Liaison shall be located in the District of Columbia.
+‘‘(g) CHIEF DOMESTIC LIAISON.—
+‘‘(1) IN GENERAL.—The Chief Domestic Liaison, shall—
+‘‘(A) report directly to the Director; and
+‘‘(B) be appointed by the Director, from among individuals with experience or familiarity with anti-money laundering program examinations, supervision, and enforcement.
+‘‘(2) COMPENSATION.—The annual rate of pay for the Chief Domestic Liaison shall be equal to the highest rate of annual pay for similarly situated senior executives who report to the Director.
+‘‘(3) STAFF OF OFFICE.—The Chief Domestic Liaison, with the concurrence of the Director, may retain or employ counsel, research staff, and service staff, as the Liaison determines necessary to carry out the functions, powers, and duties under this subsection.
+‘‘(4) DOMESTIC LIAISONS.—The Chief Domestic Liaison, with the concurrence of the Director, shall appoint not fewer than 6 senior FinCEN employees as FinCEN Domestic Liaisons, who shall—
+‘‘(A) report to the Chief Domestic Liaison;
+‘‘(B) each be assigned to focus on a specific region of the United States; and
+‘‘(C) be located at an office in such region or co-located at an office of the Board of Governors of the Federal Reserve System in such region.
+‘‘(5) FUNCTIONS OF THE DOMESTIC LIAISONS.—
+‘‘(A) IN GENERAL.—Each Domestic Liaison shall—
+‘‘(i) in coordination with relevant Federal functional regulators, perform outreach to BSA officers at financial institutions, including nonbank financial institutions, and persons that are not financial institutions, especially with respect to actions taken by FinCEN that require specific actions by, or have specific effects on, such institutions or persons, as determined by the Director;
+‘‘(ii) in accordance with applicable agreements, receive feedback from financial institutions and examiners of Federal functional regulators regarding their examination under the Bank Secrecy Act and communicate that feedback to FinCEN, the Federal functional regulators, and State bank supervisors;

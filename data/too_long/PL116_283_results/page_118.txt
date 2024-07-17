@@ -1,0 +1,40 @@
+134 STAT. 3504          PUBLIC LAW 116–283—JAN. 1, 2021
+
+SEC. 274. ELEMENT IN ANNUAL REPORTS ON CYBER SCIENCE AND TECHNOLOGY ACTIVITIES ON WORK WITH ACADEMIC CONSORTIA ON HIGH PRIORITY CYBERSECURITY RESEARCH ACTIVITIES IN DEPARTMENT OF DEFENSE CAPABILITIES.
+
+Section 257(b)(2) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1291) is amended by adding at end the following new subparagraph:
+
+“(J) Efforts to work with academic consortia on high priority cybersecurity research activities.”.
+
+SEC. 275. REPEAL OF QUARTERLY UPDATES ON THE OPTIONALLY MANNED FIGHTING VEHICLE PROGRAM.
+Section 261 of the National Defense Authorization Act for Fiscal Year 2020 (Public law 116–92; 133 Stat. 1294) is repealed.
+
+SEC. 276. MICROELECTRONICS AND NATIONAL SECURITY.
+Section 231 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 2302 note) is amended—
+
+(1) in subsection (a)—
+
+(A) by inserting “, in collaboration with the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary for Research and Engineering, and the Director of the Defense Advanced Research Projects Agency,” after “shall”; and
+
+(B) by striking “September 30, 2019” and inserting “June 1, 2021”;
+
+(2) in subsection (b), by adding at the end the following new paragraphs:
+
+“(10) An approach to ensuring the continuing production of cutting-edge microelectronics for national security needs, including access to state-of-the-art node sizes through commercial manufacturing, heterogeneous integration, advanced sensor manufacturing, boutique chip designs, and variable volume production capabilities.
+
+“(11) An assessment of current microelectronics supply chain management best practices, including—
+Assessment.
+“(A) intellectual property controls;
+“(B) international standards;
+“(C) guidelines of the National Institute of Standards and Technology;
+“(D) product traceability and provenance; and
+“(E) location of design, manufacturing, and packaging facilities.
+
+“(12) An assessment of existing risks to the current microelectronics supply chain.
+Assessment.
+“(13) A description of actions that may be carried out by the defense industrial base to implement best practices described in paragraph (11) and mitigate risks described in paragraph (12).
+
+“(14) A plan for increasing commercialization of intellectual property developed by the Department of Defense for commercial microelectronics research and development.
+Plan.
+“(15) An assessment of the feasibility, usefulness, efficacy, and cost of—
+Assessment.

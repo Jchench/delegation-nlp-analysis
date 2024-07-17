@@ -1,0 +1,70 @@
+PUBLIC LAW 110–289—JULY 30, 2008 122 STAT. 2749
+
+‘‘(II) the disaffirmance or repudiation becomes effective, unless the lessor is in default or breach of the terms of the lease;
+‘‘(ii) have no claim for damages under any acceleration clause or other penalty provision in the lease; and
+‘‘(iii) have a claim for any unpaid rent, subject to all appropriate offsets and defenses, due as of the date of the appointment, which shall be paid in accordance with this subsection and subsection (e).
+‘‘(5) LEASES UNDER WHICH THE REGULATED ENTITY IS THE LESSOR.—
+‘‘(A) IN GENERAL.—If the conservator or receiver repudiates an unexpired written lease of real property of the regulated entity under which the regulated entity is the lessor and the lessee is not, as of the date of such repudiation, in default, the lessee under such lease may either—
+‘‘(i) treat the lease as terminated by such repudiation; or
+‘‘(ii) remain in possession of the leasehold interest for the balance of the term of the lease, unless the lessee defaults under the terms of the lease after the date of such repudiation.
+‘‘(B) PROVISIONS APPLICABLE TO LESSEE REMAINING IN POSSESSION.—If any lessee under a lease described under subparagraph (A) remains in possession of a leasehold interest under clause (ii) of subparagraph (A)—
+‘‘(i) the lessee—
+‘‘(I) shall continue to pay the contractual rent pursuant to the terms of the lease after the date of the repudiation of such lease; and 
+‘‘(II) may offset against any rent payment which accrues after the date of the repudiation of the lease, and any damages which accrue after such date due to the nonperformance of any obligation of the regulated entity under the lease after such date; and
+‘‘(ii) the conservator or receiver shall not be liable to the lessee for any damages arising after such date as a result of the repudiation, other than the amount of any offset allowed under clause (i)(II). Payments.
+‘‘(6) CONTRACTS FOR THE SALE OF REAL PROPERTY.—
+‘‘(A) IN GENERAL.—If the conservator or receiver repudiates any contract for the sale of real property and the purchaser of such real property under such contract is in possession, and is not, as of the date of such repudiation, in default, such purchaser may either—
+‘‘(i) treat the contract as terminated by such repudiation; or
+‘‘(ii) remain in possession of such real property.
+‘‘(B) PROVISIONS APPLICABLE TO PURCHASER REMAINING IN POSSESSION.—If any purchaser of real property under any contract described under subparagraph (A) remains in possession of such property under clause (ii) of subparagraph (A)—
+‘‘(i) the purchaser—
+
+122 STAT. 2750    PUBLIC LAW 110–289—JULY 30, 2008
+
+Payments.
+‘‘(I) shall continue to make all payments due under the contract after the date of the repudiation of the contract; and
+‘‘(II) may offset against any such payments any damages which accrue after such date due to the nonperformance (after such date) of any obligation of the regulated entity under the contract; and
+‘‘(ii) the conservator or receiver shall—
+‘‘(I) not be liable to the purchaser for any damages arising after such date as a result of the repudiation, other than the amount of any offset allowed under clause (i)(II); 
+‘‘(II) deliver title to the purchaser in accordance with the provisions of the contract; and 
+‘‘(III) have no obligation under the contract other than the performance required under subclause (II).
+‘‘(C) ASSIGNMENT AND SALE ALLOWED.—
+‘‘(i) IN GENERAL.—No provision of this paragraph shall be construed as limiting the right of the conservator or receiver to assign the contract described under subparagraph (A), and sell the property subject to the contract and the provisions of this paragraph.
+‘‘(ii) NO LIABILITY AFTER ASSIGNMENT AND SALE.— If an assignment and sale described under clause (i) is consummated, the conservator or receiver shall have no further liability under the contract described under subparagraph (A), or with respect to the real property which was the subject of such contract. 
+‘‘(7) SERVICE CONTRACTS.— 
+‘‘(A) SERVICES PERFORMED BEFORE APPOINTMENT.—In the case of any contract for services between any person and any regulated entity for which the Agency has been appointed conservator or receiver, any claim of such person for services performed before the appointment of the conservator or receiver shall be—
+‘‘(i) a claim to be paid in accordance with subsections (b) and (e); and 
+‘‘(ii) deemed to have arisen as of the date on which the conservator or receiver was appointed.
+‘‘(B) SERVICES PERFORMED AFTER APPOINTMENT AND PRIOR TO REPUDIATION.—If, in the case of any contract for services described under subparagraph (A), the conservator or receiver accepts performance by the other person before the conservator or receiver makes any determination to exercise the right of repudiation of such contract under this section—
+‘‘(i) the other party shall be paid under the terms of the contract for the services performed; and 
+‘‘(ii) the amount of such payment shall be treated as an administrative expense of the conservatorship or receivership.
+‘‘(C) ACCEPTANCE OF PERFORMANCE NO BAR TO SUBSEQUENT REPUDIATION.—The acceptance by the conservator or receiver of services referred to under subparagraph (B)
+
+122 STAT. 2751    PUBLIC LAW 110–289—JULY 30, 2008
+
+Payments.
+in connection with a contract described in such subparagraph shall not affect the right of the conservator or receiver to repudiate such contract under this section at any time after such performance.
+‘‘(8) CERTAIN QUALIFIED FINANCIAL CONTRACTS.—
+‘‘(A) RIGHTS OF PARTIES TO CONTRACTS.—Subject to paragraphs (9) and (10), and notwithstanding any other provision of this title (other than subsection (b)(9)(B) of this section), any other Federal law, or the law of any State, no person shall be stayed or prohibited from exercising—
+‘‘(i) any right of that person to cause the termination, liquidation, or acceleration of any qualified financial contract with a regulated entity that arises upon the appointment of the Agency as receiver for such regulated entity at any time after such appointment;
+‘‘(ii) any right under any security agreement or arrangement or other credit enhancement relating to one or more qualified financial contracts; or 
+‘‘(iii) any right to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more contracts and agreements described in clause (i), including any master agreement for such contracts or agreements.
+‘‘(B) APPLICABILITY OF OTHER PROVISIONS.—Subsection (b)(10) shall apply in the case of any judicial action or proceeding brought against any receiver referred to under subparagraph (A), or the regulated entity for which such receiver was appointed, by any party to a contract or agreement described under subparagraph (A)(i) with such regulated entity.
+‘‘(C) CERTAIN TRANSFERS NOT AVOIDABLE.—
+‘‘(i) IN GENERAL.—Notwithstanding paragraph (11), or any other provision of Federal or State law relating to the avoidance of preferential or fraudulent transfers, the Agency, whether acting as such or as conservator or receiver of a regulated entity, may not avoid any transfer of money or other property in connection with any qualified financial contract with a regulated entity.
+‘‘(ii) EXCEPTION FOR CERTAIN TRANSFERS.—Clause (i) shall not apply to any transfer of money or other property in connection with any qualified financial contract with a regulated entity if the Agency determines that the transferee had actual intent to hinder, delay, or defraud such regulated entity, the creditors of such regulated entity, or any conservator or receiver appointed for such regulated entity. 
+‘‘(D) CERTAIN CONTRACTS AND AGREEMENTS DEFINED.— In this subsection the following definitions shall apply:
+‘‘(i) QUALIFIED FINANCIAL CONTRACT.—The term ‘qualified financial contract’ means any securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, and any similar agreement that the Agency determines by regulation, resolution, or order to be a qualified financial contract for purposes of this paragraph.
+
+122 STAT. 2752    PUBLIC LAW 110–289—JULY 30, 2008
+
+‘‘(ii) SECURITIES CONTRACT.—The term ‘securities contract’—
+‘‘(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, or any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+‘‘(II) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan, unless the Agency determines by regulation, resolution, or order to include any such agreement within the meaning of such term;
+‘‘(III) means any option entered into on a national securities exchange relating to foreign currencies;
+‘‘(IV) means the guarantee by or to any securities clearing agency of any settlement of cash, securities, certificates of deposit, mortgage loans, or interests therein, group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
+‘‘(V) means any margin loan;
+‘‘(VI) means any other agreement or transaction that is similar to any agreement or transaction referred to in this clause;
+‘‘(VII) means any combination of the agreements or transactions referred to in this clause;
+‘‘(VIII) means any option to enter into any agreement or transaction referred to in this clause;
+‘‘(IX) means a master agreement that provides for an agreement or transaction referred to in sub-clause (I), (III), (IV), (V), (VI), (VII), or (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this clause, except that the master agreement shall be considered to be a securities contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), (IV), (V), (VI), (VII), or (VIII); and

@@ -1,0 +1,52 @@
+134 STAT. 3458				PUBLIC LAW 116–283—JAN. 1, 2021
+				
+(C) in paragraph (4), by striking “manufacturers” and inserting “companies”; and 
+(D) in paragraph (5), by striking “manufacturers” and inserting “companies”; 
+(5) in subsection (d), by striking “the date that is four years after the date of the enactment of this Act” and inserting “December 31, 2026”; and 
+(6) in subsection (e), by striking “January 31, 2022” and inserting “January 31, 2027”. 
+SEC. 214. UPDATES TO DEFENSE QUANTUM INFORMATION SCIENCE 
+AND TECHNOLOGY RESEARCH AND DEVELOPMENT PRO- 
+GRAM. 
+Section 234 of the John S. McCain National Defense Authoriza- 
+tion Act for Fiscal year 2019 (Public Law 115–232; 10 U.S.C. 2358 note) is amended— 
+(1) by redesignating subsection (e) as subsection (f); and 
+(2) by inserting after subsection (d) the following new sub- 
+section (e): 
+“(e) USE OF QUANTUM COMPUTING CAPABILITIES.—The Sec- 
+retary of each military department shall— 
+(1) develop and annually update a list of technical prob- 
+lems and research challenges which are likely to be addressable 
+by quantum computers available for use within in the next 
+one to three years, with a priority for technical problems and 
+challenges where quantum computing systems have perform- 
+ance advantages over traditional computing systems, in order 
+to enhance the capabilities of such quantum computers and 
+support the addressing of relevant technical problems and 
+research challenges; and 
+(2) establish programs and enter into agreements with 
+appropriate medium and small businesses with functional 
+quantum computing capabilities to provide such private sector 
+capabilities to government, industry, and academic researchers 
+working on relevant technical problems and research activi- 
+ties.”. 
+SEC. 215. ESTABLISHMENT OF DIRECTED ENERGY WORKING GROUP. 
+Section 219 of the National Defense Authorization Act for Fiscal 
+Year 2017 (Public Law 114–328; 10 U.S.C. 2431 note) is amended— 
+(1) in subsection (c)— 
+(A) by striking paragraph (4); and 
+(B) by redesignating paragraph (5) as paragraph (4); 
+and 
+(2) by adding at the end the following new subsection: 
+“(d) DIRECTED ENERGY WORKING GROUP.— 
+(1) IN GENERAL.—Not later than 60 days after the date 
+of the enactment of the National Defense Authorization Act 
+for fiscal year 2021, the Secretary of Defense shall establish 
+a working group to be known as the ‘Directed Energy Working 
+Group’. 
+(2) RESPONSIBILITIES.—The Directed Energy Working 
+Group shall— 
+(A) analyze and evaluate the current and planned 
+directed energy programs of each of the military depart- 
+ments; 
+(B) make recommendations to the Secretary of 
+Defense—

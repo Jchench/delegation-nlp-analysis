@@ -1,0 +1,36 @@
+134 STAT. 3750           PUBLIC LAW 116–283—JAN. 1, 2021  
+
+Effective date.  
+10 USC 2306a note.
+
+Consultation.
+
+Analyses.
+
+Classified information.
+
+(B) in subparagraph (C), by striking “section and” and all that follows through the period at the end and inserting “section and the price of the subcontract is expected to exceed $2,000,000.”; and
+
+(C) in subparagraph (D), by striking “subcontract if” and all that follows through the period at the end and inserting “subcontract if the price adjustment is expected to exceed $2,000.000.”.
+
+(2) APPLICABILITY.—The amendments made by this sub-section hall apply to any contract, or modification or change to a contract, entered into on or after the date of the enactment of this Act.
+(b) REPORT.—
+(1) IN GENERAL.—Not later than July 1, 2022, the Secretary of Defense, in consultation with the Secretaries of the military departments, shall provide to the congressional defense commit-tees a report analyzing the impact, including any benefits to the Federal Government, of the amendments made by this section.
+(2) ELEMENTS.—The report required under paragraph (1) shall include the following elements:
+(A) Data to illustrate any efficiencies achieved, costs avoided, and acquisition timelines improved.
+(B) Analysis of associated costs to the Federal Govern-ment, if any.
+(C) Analysis of underlying causes or factors that limited the benefits described in subparagraph (A).
+(D) Other matters the Secretary deems appropriate.
+(3) FORM.—The report required under paragraph (1) shall be in an unclassified form but may contain a classified annex.
+
+SEC. 815. PROMPT PAYMENT OF CONTRACTORS.
+Section 2307(a)(2) of title  10, United States Code, is amended—
+(1) in subparagraph (A), by striking “if a specific payment date is not established by contract;” and
+(2) in subparagraph (B), by striking “if—” and all that follows through “the prime contractor agrees” and inserting “if the prime contractor agrees or proposes”.
+SEC. 816. DOCUMENTATION PERTAINING TO COMMERCIAL ITEM DETERMINATIONS.
+Section 2380 of title 10, United States Code, is amended—
+(1) by redesignating subsection (b) as subsection (c); and
+(2) by inserting after subsection (a) the following new sub-section:
+“(b) DETERMINATIONS REGARDING THE COMMERCIAL NATURE OF PRODUCTS OR SERVICES.—
+“(1) IN GENERAL.—In making a determination whether a particular product or service offered by a contractor meets the definition of a commercial product or commercial service, a contracting officer of the Department of Defense may—
+“(A) request support from the Director of the Defense Contract Management Agency, the Director of the Defense Contract Audit Agency, or other appropriate experts in the Department to make a determination whether a product or service is a commercial product or commercial service; and

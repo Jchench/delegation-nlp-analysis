@@ -1,0 +1,17 @@
+124 STAT. 1820          PUBLIC LAW 111-203—JULY 21, 2010
+
+or the appropriate financial regulator in less than 15 days after the date on which the material is requested, the Board of Governors or the Council may request the information or impose recordkeeping or reporting requirements directly on such persons as provided in subsections (a) and (b) with notice to the agency.
+
+(e) SHARING OF INFORMATION.—
+     (1) MATERIAL CONCERNS.—Notwithstanding any other provision of law, the Board of Governors, the Council, the appropriate financial regulator, and any Supervisory Agency are authorized to—
+         (A) promptly notify each other of material concerns about a designated financial market utility or any financial institution engaged in designated activities; and
+         (B) share appropriate reports, information, or data relating to such concerns.
+     (2) OTHER INFORMATION.—Notwithstanding any other provision of law, the Board of Governors, the Council, the appropriate financial regulator, or any Supervisory Agency may, under such terms and conditions as it deems appropriate, provide confidential supervisory information and other information obtained under this title to each other, and to the Secretary, Federal Reserve Banks, State financial institution supervisory agencies, foreign financial supervisors, foreign central banks, and foreign finance ministries, subject to reasonable assurances of confidentiality, provided, however, that no person or entity receiving information pursuant to this section may disseminate such information to entities or persons other than those authorized in this paragraph without complying with applicable law, including section 8 of the Commodity Exchange Act (7 U.S.C. 12).
+(f) PRIVILEGE MAINTAINED.—The Board of Governors, the Council, the appropriate financial regulator, and any Supervisory Agency providing reports or data under this section shall not be deemed to have waived any privilege applicable to those reports or data, or any portion thereof, by providing the reports or data to the other party or by permitting the reports or data, or any copies thereof, to be used by the other party.
+(g) DISCLOSURE EXEMPTION.—Information obtained by the Board of Governors, the Supervisory Agencies, or the Council under this section and any materials prepared by the Board of Governors, the Supervisory Agencies, or the Council regarding their assessment of the systemic importance of financial market utilities or any payment, clearing, or settlement activities engaged in by financial institutions, and in connection with their supervision of designated financial market utilities and designated activities, shall be confidential supervisory information exempt from disclosure under section 552 of title 5, United States Code. For purposes of such section 552, this subsection shall be considered a statute described in subsection (b)(3) of such section 552.
+
+12 USC 5469.
+
+SEC. 810. RULEMAKING.
+
+     The Board of Governors, the Supervisory Agencies, and the Council are authorized to prescribe such rules and issue such orders as may be necessary to administer and carry out their respective authorities and duties granted under this title and prevent evasions thereof.

@@ -1,0 +1,31 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+134 STAT. 3749
+
+emergent technology and advanced computing capabilities, operational resilience, and operational energy, over the following five-year period to support such strategy.’’.
+(2) DUTIES OF THE UNDER SECRETARY OF DEFENSE FOR ACQUISITION AND SUSTAINMENT.—Section 133b(b) of title 10, United States Code, is amended—
+(A) in paragraph (7), by striking ‘‘and’’ at the end;
+(B) in paragraph (8), by striking the period at the end and inserting ‘‘; and’’; and
+(C) by adding at the end the following new paragraph:
+‘‘(9) advising the Secretary on all aspects of acquisition and sustainment relating to—
+‘‘(A) defense acquisition programs;
+‘‘(B) core logistics capabilities (as described under section 2464 of this title); and
+‘‘(C) the national technology and industrial base (as defined in section 2500 of this title).’’.
+(3) INTERIM GUIDANCE.—Not later than October 1, 2021, the Secretary of Defense shall publish interim guidance to carry out the requirements of this subsection.
+(b) REPORT.—Not later than February 1, 2021, the Secretary of Defense shall submit to the congressional defense committees a report on the progress towards publishing the interim guidance required under subsection (a)(3).
+SEC. 812. INCLUSION OF SOFTWARE IN GOVERNMENT PERFORMANCE OF ACQUISITION FUNCTIONS.
+Section 1706 of title 10, United States Code, is amended—
+(1) in subsection (a)—
+(A) in the matter preceding paragraph (1), by striking ‘‘and each major automated information system program’’ and inserting ‘‘as defined in section 2430 of this title), each acquisition program that is estimated by the Secretary of Defense to require an eventual total expenditure greater than the amount described in section 2430(a)(1)(B) of this title, and any other acquisition program identified by the Secretary’’; and
+(B) by adding at the end the following new paragraph:
+‘‘(14) Program lead software.’’; and
+(2) by striking subsection (c).
+SEC. 813. MODIFICATIONS TO COMPTROLLER GENERAL ASSESSMENT OF ACQUISITION PROGRAMS AND RELATED INITIATIVES.
+Section 2229(b)(2) of title 10, United States Code, is amended by striking ‘‘a summary of’’ and all that follows through ‘‘discussion of the’’ and inserting ‘‘a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential’’.
+SEC. 814. COST OR PRICING DATA REPORTING REQUIREMENTS FOR DEPARTMENT OF DEFENSE CONTRACTS.
+(a) COST OR PRICING DATA.—
+(1) IN GENERAL.—Section 2306a(a)(1) of title 10, United States Code, is amended—
+(A) in subparagraph (B), by striking ‘‘contract if’’ and all that follows through the period at the end and inserting ‘‘contract if the price adjustment is expected to exceed $2,000,000.’’;
+
+
+Deadline. Publication. 10 USC 113 note.

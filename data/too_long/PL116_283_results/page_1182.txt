@@ -1,0 +1,42 @@
+134 STAT. 4568           PUBLIC LAW 116-283—JAN. 1, 2021
+
+                                                        ‘‘(II) notifying Federal law enforcement with respect to any transaction that the Secretary has
+                                                          determined implicates a national priority established by the Secretary.’’.
+
+31 USC 5318
+note.                          SEC. 6203. LAW ENFORCEMENT FEEDBACK ON SUSPICIOUS ACTIVITY
+                                                  REPORTS.
+(a) FEEDBACK.—
+(1) IN GENERAL.—FinCEN shall, to the extent practicable, periodically solicit feedback from individuals designated under
+section 5318(h)(1)(B) of title 31, United States Code, by a variety of financial institutions representing a cross-section
+of the reporting industry to review the suspicious activity reports filed by those financial institutions and discuss trends
+in suspicious activity observed by FinCEN.
+(2) COORDINATION WITH FEDERAL FUNCTIONAL REGULATORS
+AND STATE BANK SUPERVISORS AND STATE CREDIT UNION SUPER-
+VISORS.—FinCEN shall provide any feedback solicited under paragraph (1) to the appropriate Federal functional regulator,
+State bank supervisor, or State credit union supervisor during the regularly scheduled examination of the applicable financial
+institution by the Federal functional regulator, State bank
+supervisor, or State credit union supervisor, as applicable.
+(b) DISCLOSURE REQUIRED.—
+(1) IN GENERAL.—
+(A) PERIODIC DISCLOSURE.—Except as provided in paragraph (2), FinCEN shall, to the extent practicable, periodically disclose to each financial institution, in summary
+form, information on suspicious activity reports filed that proved useful to Federal or State criminal or civil law
+enforcement agencies during the period since the most recent disclosure under this paragraph to the financial
+institution.
+(B) RULE OF CONSTRUCTION.—Nothing in this paragraph may be construed to require the public disclosure
+of any information filed with the Department of the
+Treasury under the Bank Secrecy Act.
+(2) EXCEPTION FOR ONGOING OR CLOSED INVESTIGATIONS
+AND TO PROTECT NATIONAL SECURITY.—FinCEN shall not be
+required to disclose to a financial institution any information
+under paragraph (1) that relates to an ongoing or closed investigation or implicates the national security of the United States.
+(3) MAINTENANCE OF STATISTICS.—With respect to the
+actions described in paragraph (1), FinCEN shall keep records of all such actions taken to assist with the production of the
+reports described in paragraph (5) of section 5318(g) of title
+31, United States Code, as added by section 6202 of this divi-
+sion, and for other purposes.
+(4) COORDINATION WITH DEPARTMENT OF JUSTICE.—The
+information disclosed by FinCEN under this subsection shall include information from the Department of Justice regarding—
+(A) the review and use by the Department of suspicious
+activity reports filed by the applicable financial institution during the period since the most recent disclosure under this subsection; and
+(B) any trends in suspicious activity observed by the Department.

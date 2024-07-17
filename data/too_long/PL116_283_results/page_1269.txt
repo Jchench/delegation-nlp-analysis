@@ -1,0 +1,27 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 4655
+
+“(e) PROTECTION OF CERTAIN INFORMATION FROM DISCLOSURE.—
+“(1) IN GENERAL.—Disclosure of information described in paragraph (2) is not required, and may not be compelled, under section 552 of title 5 for 5 years after the date on which the information is received by the Coast Guard.
+“(2) LIMITATION.—
+“(A) IN GENERAL.—Paragraph (1) applies to information described in subparagraph (B) that is in the records of the Coast Guard only if the information was submitted to the Coast Guard in a competitive or noncompetitive process having the potential for resulting in an award, to the party submitting the information, of a cooperative agreement for performance of basic, applied, or advanced research authorized by section 717 or another transaction authorized by subsection (a).
+“(B) INFORMATION DESCRIBED.—The information referred to in subparagraph (A) is the following:
+“(i) A proposal, proposal abstract, and supporting documents.
+“(ii) A business plan submitted on a confidential basis.
+“(iii) Technical information submitted on a confidential basis.
+“(f) REGULATIONS.—The Commandant shall prescribe regulations, as necessary, to carry out this section.
+“(g) ANNUAL REPORT.—On the date on which the President submits to Congress a budget pursuant to section 1105 of title 31, the Commandant shall submit to the Committees on Appropriations and Transportation and Infrastructure of the House of Representatives and the Committees on Appropriations and Commerce, Science, and Transportation of the Senate a report describing each use of the authority provided under this section during the most recently completed fiscal year, including details of each use consisting of—
+“(1) the amount of each transaction;
+“(2) the entities or organizations involved;
+“(3) the product or service received;
+“(4) the research project for which the product or service was required; and
+“(5) the extent of the cost sharing among Federal Government and non-Federal sources.”.
+(b) CLERICAL AMENDMENT.—The analysis for chapter 7 of title 14, United States Code, is amended by adding at the end the following:
+
+“719. Research projects; transactions other than contracts and grants.”.
+
+SEC. 8219. ACQUISITION WORKFORCE AUTHORITIES.
+(a) IN GENERAL.—Subchapter I of chapter 11 of title 14, United States Code, is amended by adding at the end the following:
+
+“§ 1111. Acquisition workforce authorities 14 USC 1111.
+“(a) EXPEDITED HIRING AUTHORITY.—
+“(1) IN GENERAL.—For the purposes of section 3304 of title 5, the Commandant may—

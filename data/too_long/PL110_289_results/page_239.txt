@@ -1,0 +1,45 @@
+PUBLIC LAW 110–289—JULY 30, 2008  
+122 STAT. 2891
+
+“(i) paragraph (2) shall not apply to such transfer, and
+
+“(ii) in the case of taxable years ending after such transfer, paragraphs (1) and (2) shall apply to the transferee in the same manner as if such transferee were the transferor (and shall not apply to the transferor).
+
+“(5) JOINT RETURNS.—In the case of a credit allowed under subsection (a) with respect to a joint return, half of such credit shall be treated as having been allowed to each individual filing such return for purposes of this subsection.
+
+“(6) RETURN REQUIREMENT.—If the tax imposed by this chapter for the taxable year is increased under this subsection, the taxpayer shall, notwithstanding section 6012, be required to file a return with respect to the taxes imposed under this subtitle.
+
+“(7) RECAPTURE PERIOD.—For purposes of this subsection, the term ‘recapture period’ means the 15 taxable years beginning with the second taxable year following the taxable year in which the purchase of the principal residence for which a credit is allowed under subsection (a) was made.
+
+“(g) ELECTION TO TREAT PURCHASE IN PRIOR YEAR.—In the case of a purchase of a principal residence after December 31, 2008, and before July 1, 2009, a taxpayer may elect to treat such purchase as made on December 31, 2008, for purposes of this section (other than subsection (c)).
+
+“(h) APPLICATION OF SECTION.—This section shall only apply to a principal residence purchased by the taxpayer on or after April 9, 2008, and before July 1, 2009.”.
+
+(b) CONFORMING AMENDMENTS.—
+(1) Section 26(b)(2) is amended by striking “and” at the 
+end of subparagraph (U), by striking the period and inserting 
+“, and” and the end of subparagraph (V), and by inserting 
+after subparagraph (V) the following new subparagraph:
+“(W) section 36(f) (relating to recapture of homebuyer 
+credit).”.
+(2) Section 6211(b)(4)(A) is amended by striking “34,” and 
+all that follows through “6428” and inserting “34, 35, 36, 53(e), 
+and 6428”.
+(3) Section 1324(b)(2) of title 31, United States Code, is 
+amended by inserting “36,” after “35,”.
+(4) The table of sections for subpart C of part IV of subchapter A of chapter 1 is amended by redesignating the item 
+relating to section 36 as an item relating to section 37 and 
+by inserting before such item the following new item:
+
+“Sec. 36. First-time homebuyer credit.”.
+
+(c) EFFECTIVE DATE.—The amendments made by this section 
+shall apply to residences purchased on or after April 9, 2008, 
+in taxable years ending on or after such date.
+
+SEC. 3012. ADDITIONAL STANDARD DEDUCTION FOR REAL PROPERTY TAXES FOR NONITEMIZERS.
+
+(a) IN GENERAL.—Section 63(c)(1) (defining standard deduction) 
+is amended by striking “and” at the end of subparagraph (A), 
+by striking the period at the end of subparagraph (B) and inserting 
+“, and”, and by adding at the end the following new subparagraph:

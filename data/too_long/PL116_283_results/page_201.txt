@@ -1,0 +1,31 @@
+PUBLIC LAW 116-283—JAN. 1, 2021                   134 STAT. 3587
+
+(c) DEADLINE.—The Secretary of the Navy shall carry out this section by not later than 180 days after the date of the enactment of this Act.
+
+Subtitle B—Reserve Component Management
+
+SEC. 511. TEMPORARY AUTHORITY TO ORDER RETIRED MEMBERS TO ACTIVE DUTY IN HIGH-DEMAND, LOW-DENSITY ASSIGNMENTS DURING WAR OR NATIONAL EMERGENCY.
+
+Section 688a of title 10, United States Code, is amended—
+(1) by redesignating subsection (g) as subsection (h); and
+(2) by inserting after subsection (f) the following new subsection (g):
+"(g) EXCEPTIONS DURING PERIODS OF WAR OR NATIONAL EMERGENCY.—The limitations in subsections (c) and (f) shall not apply during a time of war or of national emergency declared by Congress or the President.".
+
+SEC. 512. EXPANSION OF JUNIOR RESERVE OFFICERS' TRAINING CORPS PROGRAM.
+
+Section 2031(a)(2) of title 10, United States Code, is amended by inserting after "service to the United States" the following: "(including an introduction to service opportunities in military, national, and public service)".
+
+SEC. 513. GRANTS TO SUPPORT STEM EDUCATION IN THE JUNIOR RESERVE OFFICERS' TRAINING CORPS.
+
+(a) PROGRAM AUTHORITY.—
+(1) IN GENERAL.—Chapter 102 of title 10, United States Code, is amended by adding at the end the following new section:
+
+"§ 2036. Grants to support science, technology, engineering, and mathematics education
+"(a) AUTHORITY.—The Secretary, in consultation with the Secretary of Education, may carry out a program to make grants to eligible entities to assist such entities in providing education in covered subjects to students in the Junior Reserve Officers' Training Corps.
+"(b) COORDINATION.—In carrying out a program under subsection (a), the Secretary may coordinate with the following:
+"(1) The Director of the National Science Foundation.
+"(2) The Administrator of the National Aeronautics and Space Administration.
+"(3) The heads of such other Federal, State, and local government entities the Secretary of Defense determines to be appropriate.
+"(c) ACTIVITIES.—Activities funded with grants under this section may include the following:
+"(1) Training and other support for instructors to teach courses in covered subjects to students.
+"(2) The acquisition of materials, hardware, and software necessary for the instruction of covered subjects.

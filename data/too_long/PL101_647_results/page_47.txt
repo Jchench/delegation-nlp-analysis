@@ -1,0 +1,33 @@
+PUBLIC LAW 101-647-NOV. 29, 1990 104 STAT. 4835
+
+SEC. 1303. EFFECTIVE DATE.
+
+EFFECTIVE DATE.-The amendments made by this title shall take effect upon enactment and shall not apply with respect to injuries occurring before the effective date of such amendments.
+
+TITLE XIV-MONEY LAUNDERING
+
+SEC. 1401. CRIMINAL FORFEITURE IN CASES INVOLVING CMIR VIOLA TIONS.
+
+Section 982(a) of title 18, United States Code, is amended by inserting ", 5316" after "5313(a)".
+
+SEC. 1402. DEFINITION OF "FINANCIAL TRANSACTION".
+
+Section 1956(c)(4) of title 18, United States Code, is amended by—
+(1) inserting "(A)" before "a transaction" the first place it appears and inserting "(B)" before "a transaction" the second place it appears; and
+(2) inserting "(i)" before "involving" the first place it appears and inserting "(ii)" before "involving" the second place it appears.
+
+SEC. 1403. MONEY LAUNDERING FORFEITURES.
+
+Section 982(b)(2) of title 18, United States Code, is amended by inserting the following before the period: "unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period".
+
+SEC 1404. ENVIRONMENTAL CRIMES AS MONEY LAUNDERING PREDICATES.
+
+(a) Section 1956(c)(7) of title 18, United States Code, is amended by—
+(1) striking "or" before "(D)"; and
+(2) inserting "; or" and the following before the period:
+
+"ENVIRONMENTAL CRIMES
+
+"(E) a felony violation of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), the Ocean Dumping Act (33 U.S.C. 1401 et seq.), the Act to Prevent Pollution from Ships (33 U.S.C. 1901 et seq.), the Safe Drinking Water Act (42 U.S.C. 300f et seq.), or the Resources Conservation and Recovery Act (42 U.S.C. 6901 et seq.)".
+
+(b) Section 1956(e) of title 18, United States Code, is amended by adding at the end the following sentence: "Violations of this section involving offenses described in paragraph (c)(7)(E) may be investigated by such components of the Department of Justice as the Attorney General may direct, and the National Enforcement Investigations Center of the Environmental Protection Agency.

@@ -1,0 +1,167 @@
+PUBLIC LAW 110–289—JULY 30, 2008
+
+                    122 STAT. 2783
+
+“(2) any other differences that the Director considers appro priate.”. 
+
+SEC. 1202. DIRECTORS. 
+Section 7 of the Federal Home Loan Bank Act (12 U.S.C. 1427) is amended— 
+(1) by striking subsection (a) and inserting the following: 
+“(a) NUMBER; ELECTION; QUALIFICATIONS; CONFLICTS OF INTEREST.—
+“(1) IN GENERAL.—Subject to paragraphs (2) through (4), the management of each Federal Home Loan Bank shall be vested in a board of 13 directors, or such other number as the Director determines appropriate. 
+“(2) BOARD MAKEUP.—The board of directors of each Bank shall be comprised of—
+“(A) member directors, who shall comprise at least the majority of the members of the board of directors; and
+“(B) independent directors, who shall comprise not fewer than 7⁄5 of the members of the board of directors.
+“(3) SELECTION CRITERIA.— 
+“(A) IN GENERAL.—Each member of the board of director shall be—
+“(i) elected by plurality vote of the members, in accordance with procedures established under this sec tion; and
+“(ii) a citizen of the United States. 
+“(B) INDEPENDENT DIRECTOR CRITERIA.— 
+“(i) IN GENERAL.—Each independent director that is not a public interest director under clause (ii) shall have demonstrated knowledge of, or experience in, financial management, auditing and accounting, risk management practices, derivatives, project development, or organizational management, or such other knowledge or expertise as the Director may provide by regulation. 
+“(ii) PUBLIC INTEREST.—Not fewer than 2 of the independent directors shall have more than 4 years of experience in representing consumer or community interests on banking services, credit needs, housing, or financial consumer protections. 
+“(iii) CONFLICTS OF INTEREST.—No independent director may, during the term of service on the board of directors, serve as an officer of any Federal Home Loan Bank or as a director, officer, or employee of any member of a Bank, or of any person that receives advances from a Bank. 
+“(4) DEFINITIONS.—For purposes of this section, the fol lowing definitions shall apply:
+“(A) INDEPENDENT DIRECTOR.—The terms ‘independent director’ and ‘independent directorship’ mean a member of the board of directors of a Federal Home Loan Bank who is a bona fide resident of the district in which the Federal Home Loan Bank is located, or the directorship held by such a person, respectively. 
+“(B) MEMBER DIRECTOR.—The terms ‘member director’ and ‘member directorship’ mean a member of the board 
+
+                   122 STAT. 2784            PUBLIC LAW 110–289—JULY 30, 2008 
+
+of directors of a Federal Home Loan Bank who is an officer or director of a member institution that is located in the district in which the Federal Home Loan Bank is located, or the directorship held by such a person, respectively.”;
+(2) by striking “elective” each place that term appears, other than in subsections (d), (e), and (f), and inserting “member”;
+(3) in subsection (b)— 
+(A) by striking the subsection heading and all that follows through “Each elective directorship” and inserting the following: 
+“(b) DIRECTORSHIPS.—
+“(1) MEMBER DIRECTORSHIPS.—Each member directorship”; and 
+(B) by adding at the end the following:
+“(2) INDEPENDENT DIRECTORSHIPS.— 
+“(A) ELECTIONS.—Each independent director—
+“(bb) shall be elected by the members entitled to vote, from among eligible persons nominated, after consultation with the Advisory Council of the Bank, by the board of directors of the Bank; and 
+“(ii) shall be elected by a plurality of the votes of the members of the Bank at large, with each member having the number of votes for each such directorship as it has under paragraph (1) in all elections for member directorships. 
+“(B) CRITERIA.—Nominees shall meet all applicable requirements prescribed in this section. 
+“(C) NOMINATION AND ELECTION PROCEDURES.—Procedures for nomination and election of independent directors shall be prescribed by the bylaws of each Federal Home Loan Bank, in a manner consistent with the rules and regulations of the Agency.”;
+(4) in subsection (c)—
+(A) by striking “elective” each place that term appears and inserting “member”, except—
+(i) in the second sentence, the second place the term appears; and
+(ii) each place that term appears in the fifth sen tence; and
+(B) in the second sentence—
+(I) by inserting “(A) except as provided in clause (B) of this sentence,” before “if at any time”; and
+(ii) by inserting before the period at the end the following: “; and (B) clause (A) of this sentence shall not apply to the directorships of any Federal Home Loan Bank resulting from the merger of any 2 or more such Banks”;
+(5) in subsection (d)—
+(A) in the first sentence—
+(i) by striking “, whether elected or appointed,”; and 
+(ii) by striking “3 years” and inserting “4 years; and
+(B) in the second sentence— 
+
+                     122 STAT. 2785               PUBLIC LAW 110–289—JULY 30, 2008 
+
+(i) by striking “Federal Home Loan Bank System Modernization Act of 1999” and inserting “Federal Housing Finance Regulatory Reform Act of 2008”; 
+(ii) by striking “3” and inserting “4”; and
+(iii) by striking “or appointed”; and 
+(C) in the third sentence—
+(i) by striking “an elective” each place that term appears and inserting “a”; and
+(ii) by striking “in any elective directorship or elec tive directorships”; 
+(6) in subsection (f)— 
+(A) by striking paragraph (2); 
+(B) by striking “appointed or” each place that term appears; and
+(C) in paragraph (3)— 
+(i) by striking “(3) ELECTED BANK DIRECTORS—” and inserting “(2) ELECTION PROCESS.—”; and
+(ii) by striking “elective” each place that term appears; 
+(7) in subsection (i)— 
+(A) in paragraph (1), by striking “Subject to paragraph (2), each” and inserting “Each”; and 
+(B) by striking paragraph (2) and inserting the following:
+“(2) ANNUAL REPORT.—The Director shall include, in the annual report submitted to the Congress pursuant to section 1319B of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, information regarding the com pensation and expenses paid by the Federal Home Loan Banks to the directors on the boards of directors of the Banks.”; and 
+(8) by adding at the end the following: 
+“(k) TRANSITION RULE.—Any member of the board of directors of a Bank elected or appointed in accordance with this section prior to the date of enactment of this subsection may continue to serve as a member of that board of directors for the remainder of the existing term of service.”.
+SEC. 1203. DEFINITIONS. 
+Section 2 of the Federal Home Loan Bank Act (12 U.S.C. 1422) is amended—
+(1) by striking paragraphs (1), (10), and (11); 
+(2) by redesignating paragraphs (2) through (9) as para graphs (1) through (8), respectively; 
+(3) by redesignating paragraphs (12) and (13) as paragraphs (9) and (10), respectively; and 
+(4) by adding at the end the following: 
+“(11) DIRECTOR.—The term ‘Director’ means the Director of the Federal Housing Finance Agency.
+“(12) AGENCY.—The term ‘Agency’ means the Federal Housing Finance Agency, established under section 1311 of the Federal Housing Enterprises Financial Safety and Sound ness Act of 1992.”.
+
+SEC. 1204. AGENCY OVERSIGHT OF FEDERAL HOME LOAN BANKS. 
+
+The Federal Home Loan Bank Act (12 U.S.C. 1421 et seq.), other than in provisions of that Act added or amended otherwise by this Act, is amended—
+
+                        122 STAT. 2786             PUBLIC LAW 110–289—JULY 30, 2008
+
+(1) by striking sections 2A and 2B (12 U.S.C. 1422a, 1422b); 
+(2) in section 18 (12 U.S.C. 1438), by striking subsection (b); 
+(3) in section 11 (12 U.S.C. 1431)— 
+(A) in subsection (b)— 
+(i) in the first sentence—
+(I) by striking “The Board” and inserting “The Office of Finance, as agent for the Banks,”; and
+(II) by striking “the Board” and “such office”; and
+(ii) in the second and fourth sentences, by striking “the Board” each place such term appears and inserting “the Office of Finance”; 
+(B) in subsection (c)— 
+(i) by striking “the Board” the first place such term appears and inserting “the Office of Finance, as agent for the Banks,”; and
+(ii) by striking “the Board” the second place such term appears and inserting “such Office”; and
+(C) in subsection (f)— 
+(i) by striking the 2 commas after “permit” and inserting “or”; and 
+(ii) by striking the comma after “require”; 
+(4) in section 6 (12 U.S.C. 1426)— 
+(A) in subsection (b)(1), in the matter preceding subparagraph (A), by striking “Finance Board approval” and inserting “approval by the Director”; and
+(B) in each of subsections (c)(4)(B) and (d)(2), by striking “Finance Board regulations” each place that term appears and inserting “regulations of the Director”;
+(5) in section 10(b) (12 U.S.C. 1430(b))— 
+(A) in the subsection heading, by striking “FORMAL BOARD RESOLUTION” and inserting “APPROVAL OF DIRECTOR”; and 
+(B) by striking “by formal resolution”; 
+(6) in section 21(b)(5) (12 U.S.C. 1441(b)(5)), by striking “Chairperson of the Federal Housing Finance Board” and inserting “Director”; 
+(7) in section 15 (12 U.S.C. 1435), by inserting “or the Director” after “the Board”;
+(8) by striking “the Board” each place that term appears and inserting “the Director”;
+(9) by striking “the Board” each place that term appears and inserting “the Director”;
+(10) by striking “the Finance Board” each place that term appears and inserting “the Director”;
+(11) by striking “the Finance Board” each place that term appears and inserting “the Director”; and
+(12) by striking “Federal Housing Finance Board” each place that term appears and inserting “Director”.
+SEC. 1205. HOUSING GOALS.
+The Federal Home Loan Bank Act (12 U.S.C. 1421 et seq.) is amended by inserting after section 10b the following new section:
+“SEC. 10c. HOUSING GOALS. 
+“(a) IN GENERAL.—The Director shall establish housing goals with respect to the purchase of mortgages, if any, by the Federal 
+
+                     122 STAT. 2787            PUBLIC LAW 110–289—JULY 30, 2008 
+
+Home Loan Banks. Such goals shall be consistent with the goals established under sections 1331 through 1334 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992.
+“(b) CONSIDERATIONS.—In establishing the goals required by subsection (a), the Director shall consider the unique mission and ownership structure of the Federal Home Loan Banks. 
+“(c) TRANSITION PERIOD.—To facilitate an orderly transition, the Director shall establish interim target goals for purposes of this section for each of the 2 calendar years following the date of enactment of this section. 
+“(d) MONITORING AND ENFORCEMENT OF GOALS.—The requirements of section 1336 of the Federal Housing Enterprises Safety and Soundness Act of 1992, shall apply to this section, in the same manner and to the same extent as that section applies to the Federal housing enterprises’. 
+“(e) ANNUAL REPORT.—The Director shall annually report to Congress on the performance of the Banks in meeting the goals established under this section.”. 
+SEC. 1206. COMMUNITY DEVELOPMENT FINANCIAL INSTITUTIONS.
+Section 4(a)(1) of the Federal Home Loan Bank Act (12 U.S.C. 1424(a)(1)) is amended—
+(1) by inserting after “savings bank,” the following:
+“community development financial institution,”; and
+(2) in subparagraph (B), by inserting after “United States,” the following: “or, in the case of a community development financial institution that is certified as a community development financial institution under the Community Development Banking and Financial Institutions Act of 1994.”.
+
+SEC. 1207. SHARING OF INFORMATION AMONG FEDERAL HOME LOAN 
+                   BANKS. 
+
+The Federal Home Loan Bank Act is amended by inserting after section 20 (12 U.S.C. 1440) the following new section:
+“SEC. 20A. SHARING OF INFORMATION AMONG FEDERAL HOME LOAN BANKS.
+“(a) INFORMATION ON FINANCIAL CONDITION.—In order to enable each Federal Home Loan Bank to evaluate the financial condition of one or more of the other Federal Home Loan Banks individually and the Federal Home Loan Bank System (including any risks associated with the issuance or repayment of consolidated Federal Home Loan Bank bonds and debentures or other borrowings and the joint and several liabilities of the Banks incurred due to such borrowings), as well as to comply with any of its obligations un der the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), the Director shall make available to the Banks such reports, records, or other information as may be available, relating to the condition of any Federal Home Loan Bank.
+“(b) SHARING OF INFORMATION.—
+“(1) IN GENERAL.—The Director shall promulgate regula tions to facilitate the sharing of information made available under subsection (a) directly among the Federal Home Loan Banks. 
+“(2) LIMITATION.—Notwithstanding paragraph (1), a Fed eral Home Loan Bank responding to a request from another Bank or from the Director for information pursuant to this section may request that the Director determine that such 
+
+                       122 STAT. 2788           PUBLIC LAW 110–289—JULY 30, 2008   
+
+information is proprietary and that the public interest requires that such information not be shared. 
+“(c) LIMITATION.—Nothing in this section shall affect the obliga tions of any Federal Home Loan Bank under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) or the regulations issued by the Securities and Exchange Commission thereunder. 
+“(d) NO WAIVER OF PRIVILEGE.—The Director shall not be deemed to have waived any privilege applicable to any information concerning a Federal Home Loan Bank by transferring, or permit ting the transfer of, that information to any other Federal Home Loan Bank for the purposes set out in subsection (a).”.
+
+12 USC 1426a.
+
+SEC. 1208. EXCLUSION FROM CERTAIN REQUIREMENTS. 
+(a) IN GENERAL.—The Federal Home Loan Banks shall be exempt from compliance with—
+(1) sections 13(e), 14(a), and 14(c) of the Securities Exchange Act of 1934, and related Commission regulations;
+(2) section 15 of the Securities Exchange Act of 1934, and related Commission regulations, with respect to trans actions in the capital stock of a Federal Home Loan Bank; 
+(3) section 17A of the Securities Exchange Act of 1934, and related Commission regulations, with respect to the transfer of the securities of the Federal Home Loan Banks; and 
+(4) the Trust Indenture Act of 1939. 
+(b) MEMBER EXEMPTION.—The members of the Federal Home Loan Bank System shall be exempt from compliance with sections 13(d), 13(g), 14(b), and 16 of the that Act, and related Commission regulations, with respect to owner ship of or transactions in the capital stock of the Federal Home Loan Banks by such members.
+(c) EXEMPTED AND GOVERNMENT SECURITIES.—
+(1) CAPITAL STOCK.—The capital stock issued by each of the Federal Home Loan Banks under section 6 of the Federal Home Loan Bank Act are— 
+(A) exempted securities within the meaning of section 3(a)(12)A) of the Securities Exchange Act of 1934; except to the extent provided in section 38 of that Act. 
+(2) OTHER OBLIGATIONS.—The obligations issued under section 11 of the Federal Home Loan Bank Act (12 U.S.C. 1431) are—
+(A) exempted securities within the meaning of section 3(a)(2) of the Securities Act of 1933;
+(B) government securities, within the meaning of section 3(a)(42) of the Securities Exchange Act of 1934; and
+(C) government securities, within the meaning of sec tion 2(a)(16) of the Investment Company Act of 1940. 
+(3) BROKERS AND DEALERS.—A person (other than a Federal Home Loan Bank effecting transaction for members of the Federal Home Loan Bank System) that effects trans actions in the capital stock or other obligations of a Federal Home Loan Bank, for the account of others or for that person’s own account, as applicable, is a broker or dealer, as those terms are defined in paragraphs (4) and (5), respectively, of section 3(a) of the Securities Exchange Act of 1934, but is excluded from the definition of— 

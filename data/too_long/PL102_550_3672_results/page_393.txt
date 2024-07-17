@@ -1,0 +1,57 @@
+106 STAT. 4064          PUBLIC LAW 102-550—OCT. 28, 1992
+
+“§ 986. Subpoenas for bank records
+   “(a) At any time after the commencement of any action for 
+forfeiture in rem brought by the United States under section 1956, 
+1957, or 1960 of this title, section 5322 of title 31, United States 
+Code, or the Controlled Substances Act, any party may request 
+the Clerk of the Court in the district in which the proceeding 
+is pending to issue a subpoena duces tecum to any financial institu-
+tion, as defined in section 5312(a) of title 31, United States Code, 
+to produce books, records and any other documents at any place 
+designated by the requesting party. All parties to the proceeding 
+shall be notified of the issuance of any such subpoena. The proce-
+dures and limitations set forth in section 985 of this title shall 
+apply to subpoenas issued under this section.
+Mail.
+   “(b) Service of a subpoena issued pursuant to this section shall 
+be by certified mail. Records produced in response to such a sub-
+poena may be produced in person or by mail, common carrier, 
+or such other method as may be agreed upon by the party requesting 
+the subpoena and the custodian of records. The party requesting 
+the subpoena may require the custodian of records to submit an 
+affidavit certifying the authenticity and completeness of the records 
+and explaining the omission of any record called for in the subpoena.
+   “(c) Nothing in this section shall preclude any party from pursu-
+ing any form of discovery pursuant to the Federal Rules of Civil 
+Procedure”.
+   (b) CONFORMING AMENDMENT.—The chapter analysis for chap-
+ter 46 of title 18, United States Code, is amended by adding at 
+the end the following:
+‘‘986. Subpoenas for bank records.”.
+
+SEC. 1524. DELETION OF REDUNDANT AND INADVERTENTLY LIMITING PROVISION IN 18 U.S.C. 1956.
+   Section 1956(c)(7)(D) of title 18, United States Code, is 
+amended—
+      (1) by striking “section 1341 (relating to mail fraud) or 
+section 1343 (relating to wire fraud) affecting a financial institu-
+tion, section 1344 (relating to bank fraud),”; and 
+      (2) by striking “section 1822 of the Mail Order Drug Para-
+phernalia Control Act (100 Stat. 3207–51; 21 U.S.C. 857)” and 
+inserting “section 422 of the Controlled Substances Act”.
+
+SEC. 1525. STRUCTURING TRANSACTIONS TO EVADE CMIR REQUIRE-
+                MENT.
+   (a) IN GENERAL.—Section 5324 of title 31, United States Code, 
+is amended—
+      (1) by inserting “(a) DOMESTIC COIN AND CURRENCY TRANS-
+ACTIONS.—” before “No person”; and 
+      (2) by adding at the end the following:
+      (b) INTERNATIONAL MONETARY INSTRUMENT TRANSACTIONS.—
+No person shall, for the purpose of evading the reporting require-
+ments of section 5316—
+            “(1) fail to file a report required by section 5316, or cause 
+or attempt to cause a person to fail to file such a report 
+            “(2) file or cause or attempt to cause a person to file 
+a report required under section 5316 that contains a material 
+omission or misstatement of fact; or 

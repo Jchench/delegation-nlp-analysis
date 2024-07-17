@@ -1,0 +1,61 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+134 STAT. 4559
+
+        ‘‘(iv) any other information, as determined appro-
+     priate by the Director.
+           ‘‘(C) SENSITIVE INFORMATION.—Notwithstanding
+     subparagraph (D), FinCEN shall review each report
+     required under subparagraph (A) before the report is sub-
+     mitted to ensure the report does not disclose sensitive Reviews.
+     information.
+           ‘‘(D) INDEPENDENCE.— Reviews.
+                ‘‘(i) IN GENERAL.—Each report required under
+           subparagraph (A) shall be provided directly to the
+           committees listed in that subparagraph, except that
+           a relevant Federal functional regulator, State bank
+           supervisor, Office of Management and Budget, or State
+           credit union supervisor shall have an opportunity for
+           review and comment before the submission of the
+           report.
+                ‘‘(ii) RULE OF CONSTRUCTION.—Nothing in clause
+           (i) may be construed to preclude FinCEN or any other
+           department or agency from reviewing a report required
+           under subparagraph (A) for the sole purpose of pro-
+           tecting—
+                     ‘‘(I) sensitive information obtained by a law
+                enforcement agency; and
+                     ‘‘(II) classified information.
+           ‘‘(E) CLASSIFIED INFORMATION.—No report required
+     under subparagraph (A) may contain classified information.
+           ‘‘(8) DEFINITION.—In this subsection the term ‘Federal
+     functional regulator’ has the meaning given the term in section
+     6003 of the Anti-Money Laundering Act of 2020.’’.
+
+SEC. 6108. FOREIGN FINANCIAL INTELLIGENCE UNIT LIAISONS.
+     Section 310 of title 31, United States Code, as amended by
+sections 6103, 6105, and 6107 of this division, is amended by
+inserting after subsection (g) the following:
+     ‘‘(h) FINCEN FOREIGN FINANCIAL INTELLIGENCE UNIT LIAI- Appointments.
+SONS.—
+           ‘‘(1) IN GENERAL.—The Director of FinCEN shall appoint
+     not fewer than 6 Foreign Financial Intelligence Unit Liaisons,
+     who shall—
+                ‘‘(A) be knowledgeable about domestic or international
+           anti-money laundering or countering the financing of ter-
+           rorism laws and regulations;
+                ‘‘(B) possess a technical understanding of the Bank
+           Secrecy Act, the protocols of the Egmont Group of Financial
+           Intelligence Units, and the Financial Action Task Force
+           and the recommendations issued by that Task Force;
+                ‘‘(C) be co-located in a United States embassy, a similar
+           United States Government facility, or a foreign government
+           facility, as appropriate;
+                ‘‘(D) facilitate capacity building and perform outreach
+           with respect to anti-money laundering and countering the
+           financing of terrorism regulatory and analytical frame-
+works;
+                ‘‘(E) establish and maintain relationships with officials
+           from foreign intelligence units, regulatory authorities, min-
+           istries of finance, central banks, law enforcement agencies,
+           and other competent authorities;

@@ -1,0 +1,24 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009 - 496
+
+SEC. 2706. REFUND OF AMOUNTS IN DEPOSIT INSURANCE FUND IN EXCESS OF DESIGNATED RESERVE AMOUNT.
+
+Subsection (e) of section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817(e)) is amended to read as follows:
+``(e) REFUNDS.—
+``(1) OVERPAYMENTS.—In the case of any payment of an assessment by an insured depository institution in excess of the amount due to the Corporation, the Corporation may—
+``(A) refund the amount of the excess payment to the insured depository institution; or
+``(B) credit such excess amount toward the payment of subsequent semiannual assessments until such credit is exhausted.
+``(2) BALANCE IN INSURANCE FUND IN EXCESS OF DESIGNATED RESERVE.—
+``(A) IN GENERAL.—Subject to subparagraphs (B) and (C), if, as of the end of any semiannual assessment period beginning after the date of the enactment of the Deposit Insurance Funds Act of 1996, the amount of the actual reserves in—
+``(i) the Bank Insurance Fund (until the merger of such fund into the Deposit Insurance Fund pursuant to section 2704 of the Deposit Insurance Funds Act of 1996); or
+``(ii) the Deposit Insurance Fund (after the establishment of such fund),
+exceeds the balance required to meet the designated reserve ratio applicable with respect to such fund, such excess amount shall be refunded to insured depository institutions by the Corporation on such basis as the Board of Directors determines to be appropriate, taking into account the factors considered under the risk-based assessment system.
+``(B) REFUND NOT TO EXCEED PREVIOUS SEMIANNUAL ASSESSMENT.—The amount of any refund under this paragraph to any member of a deposit insurance fund for any semiannual assessment period may not exceed the total amount of assessments paid by such member to the insurance fund with respect to such period.
+``(C) REFUND LIMITATION FOR CERTAIN INSTITUTIONS.— No refund may be made under this paragraph with respect to the amount of any assessment paid for any semiannual assessment period by any insured depository institution described in clause (v) of subsection (b)(2)(A).´´.
+
+SEC. 2707. ASSESSMENT RATES FOR SAIF MEMBERS MAY NOT BE LESS THAN ASSESSMENT RATES FOR BIF MEMBERS.
+
+Section 7(b)(2)(C) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(2)(C)), as redesignated by section 2704(d)(6) of this subtitle is amended—
+(1) by striking ``and´´ at the end of clause (i);
+(2) by striking the period at the end of clause (ii) and inserting ``; and´´; and
+(3) by adding at the end of the following new clause:
+``(iii) notwithstanding any other provision of this subsection, during the period beginning on the date of enactment of the Deposit Insurance Funds Act of

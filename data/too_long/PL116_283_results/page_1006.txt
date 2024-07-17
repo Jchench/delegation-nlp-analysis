@@ -1,0 +1,44 @@
+134 STAT. 4392  PUBLIC LAW 116-283—JAN. 1, 2021
+
+Evaluation.
+
+(1) An evaluation of the non-fallout atmospheric effects of plausible scenarios for nuclear war, ranging from low-quantity regional exchanges to large-scale exchanges between major powers.
+
+Examination.
+
+(2) An examination of the effects evaluated under paragraph (1) by—
+(A) the yield, type, and number of nuclear weapons;
+(B) the types and locations of targets;
+(C) the time distribution of the explosions;
+(D) the atmospheric conditions; and
+(E) other factors that may have a significant impact on the effects.
+
+Assessment.
+
+(3) An assessment of current models of nuclear explosions, including with respect to—
+(A) the fires such explosions may cause;
+(B) the atmospheric transport of the gases from such explosions;
+(C) the radioactive material from such explosions; and
+(D) the soot and other debris from such fires and explosions and the atmospheric, terrestrial, and marine consequences of such effects, including with respect to changes in weather patterns, airborne particulate concentrations, stratospheric ozone, agriculture, and long-term regional ecosystem viability.
+
+(4) Identification of the capabilities and limitations of the models described in paragraph (3) for assessing the environmental effects of nuclear war, including—
+Evaluation.
+(A) an evaluation of the relevant uncertainties;
+(B) a highlight of the key data gaps; and
+(C) recommendations for how such models can be improved to better inform decision making.
+
+(c) REPORT.—
+(1) IN GENERAL.—Not later than 18 months after the date of the enactment of this Act, the National Academies shall submit to the Administrator, the Secretary, the Director, and the congressional defense committees a report on the study under subsection (a).
+(2) FORM.—The report under paragraph (1) shall be submitted in unclassified form but may include a classified annex.
+
+(4) PROVISION OF INFORMATION.—
+(1) SECRETARY OF DEFENSE.—The Secretary shall provide to the National Academies such information from the Department of Defense as is necessary for the National Academies to conduct the study under subsection (a), including information relating to relevant scenarios described in subsection (b).
+
+(2) DIRECTOR OF NATIONAL INTELLIGENCE.—The Director shall provide to the National Academies such information on foreign adversary capabilities as is necessary for the National Academies to conduct the study under subsection (a), including information relating to relevant scenarios described in subsection (b).
+
+SEC. 3172. REVIEW OF FUTURE OF COMPUTING BEYOND EXASCALE AT THE NATIONAL NUCLEAR SECURITY ADMINISTRATION.
+
+Consultation.
+Contracts.
+
+(a) IN GENERAL.—The Administrator for Nuclear Security, in consultation with the Secretary of Energy, shall enter into an agreement with the National Academy of Sciences to review the

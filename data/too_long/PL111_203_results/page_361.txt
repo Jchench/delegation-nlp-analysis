@@ -1,0 +1,19 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+124 STAT. 1735
+SEC. 743. OTHER AUTHORITY. 7 USC 1a note.
+Unless otherwise provided by the amendments made by this subtitle, the amendments made by this subtitle do not divest any appropriate Federal banking agency, the Commodity Futures Trading Commission, the Securities and Exchange Commission, or other Federal or State agency of any authority derived from any other applicable law.
+
+SEC. 744. RESTITUTION REMEDIES.
+Section 6c(d) of the Commodity Exchange Act (7 U.S.C 13a-1(d)) is amended by adding at the end the following:
+‘‘(3) EQUITABLE REMEDIES.—In any action brought under this section, the Commission may seek, and the court may impose, on a proper showing, on any person found in the action to have committed any violation, equitable remedies including—
+‘‘(A) restitution to persons who have sustained losses proximately caused by such violation (in the amount of such losses); and
+‘‘(B) disgorgement of gains received in connection with such violation.’’.
+
+SEC. 745. ENHANCED COMPLIANCE BY REGISTERED ENTITIES.
+(a) EFFECT OF INTERPRETATION.—Section 5c(a) of the Commodity Exchange Act (7 U.S.C. 7a-2(a)) is amended by striking paragraph (2) and inserting the following:
+‘‘(2) EFFECT OF INTERPRETATION.—An interpretation issued under paragraph (1) may provide the exclusive means for complying with each section described in paragraph (1).’’.
+(b) NEW CONTRACTS, NEW RULES, AND RULE AMENDMENTS.—Section 5c of the Commodity Exchange Act (7 U.S.C. 7a–2) is amended by striking subsection (c) and inserting the following:
+‘‘(c) NEW CONTRACTS, NEW RULES, AND RULE AMENDMENTS.—
+‘‘(1) IN GENERAL.—A registered entity may elect to list for trading or accept for clearing any new contract, or other instrument, or may elect to approve and implement any new rule or rule amendment, by providing to the Commission (and the Secretary of the Treasury, in the case of a contract of sale of a government security for future delivery (or option on such a contract) or a rule or rule amendment specifically related to such a contract) a written certification that the new contract or instrument or clearing of the new contract or instrument, new rule, or rule amendment complies with this Act (including regulations under this Act).
+‘‘(2) RULE REVIEW.—The new rule or rule amendment described in paragraph (1) shall become effective, pursuant to the certification of the registered entity and notice of such certification to its members (in a manner to be determined by the Commission), on the date that is 10 business days after the date on which the Commission receives the certification (or such shorter period as determined by the Commission for rule or regulation) unless the Commission notifies the registered entity within such time that it is staying the certification because there exist novel or complex issues that require additional time to analyze, an inadequate explanation by the submitting registered entity, or a potential inconsistency with this Act (including regulations under this Act).

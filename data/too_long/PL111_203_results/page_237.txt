@@ -1,0 +1,27 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+124 STAT. 1611
+
+“(1) FEDERAL SAVINGS ASSOCIATIONS.—The Comptroller of the Currency may, by order, exempt a transaction of a Federal savings association from the requirements of this section if—
+“(A) the Board and the Office of the Comptroller of the Currency jointly find the exemption to be in the public interest and consistent with the purposes of this section and notify the Federal Deposit Insurance Corporation of such finding; and
+“(B) before the end of the 60-day period beginning on the date on which the Federal Deposit Insurance Corporation receives notice of the finding under subparagraph (A), the Federal Deposit Insurance Corporation does not object, in writing, to the finding, based on a determination that the exemption presents an unacceptable risk to the Deposit Insurance Fund.
+“(2) STATE SAVINGS ASSOCIATION.—The Federal Deposit Insurance Corporation may, by order, exempt a transaction of a State savings association from the requirements of this section if the Board and the Federal Deposit Insurance Corporation jointly find that—
+“(A) the exemption is in the public interest and consistent with the purposes of this section; and
+“(B) the exemption does not present an unacceptable risk to the Deposit Insurance Fund.”.
+(d) EFFECTIVE DATE.—The amendments made by this section shall take effect 1 year after the transfer date.
+
+
+SEC. 609. ELIMINATING EXCEPTIONS FOR TRANSACTIONS WITH FINANCIAL SUBSIDIARIES.
+(a) AMENDMENT.—Section 23A(e) of the Federal Reserve Act (12 U.S.C. 371c(e)) is amended—
+(1) by striking paragraph (3); and 
+(2) by redesignating paragraph (4) as paragraph (3).
+
+
+(b) PROSPECTIVE APPLICATION OF AMENDMENT .—The amendments made by this section shall apply with respect to any covered transaction between a bank and a subsidiary of the bank, as those terms are defined in section 23A of the Federal Reserve Act (12 U.S.C. 371c), that is entered into on or after the date of enactment of this Act.
+(c) EFFECTIVE DATE.—The amendments made by this section shall take effect 1 year after the transfer date.
+
+
+SEC. 610. LENDING LIMITS APPLICABLE TO CREDIT EXPOSURE ON DERIVATIVE TRANSACTIONS, REPURCHASE AGREEMENTS, REVERSE REPURCHASE AGREEMENTS, AND SECURITIES LENDING AND BORROWING TRANSACTIONS.
+(a) NATIONAL BANKS.—Section 5200(b) of the Revised Statutes of the United States (12 U.S.C. 84(b)) is amended—
+(1) in paragraph (1), by striking “shall include” and all that follows through the end of the paragraph and inserting the following: “shall include—
+“(A) all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person;
+“(B) to the extent specified by the Comptroller of the Currency, any liability of a national banking association

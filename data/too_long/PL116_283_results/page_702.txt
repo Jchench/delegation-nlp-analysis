@@ -1,0 +1,24 @@
+134 STAT. 4088          PUBLIC LAW 116-283—JAN. 1, 2021
+
+reserve members of the Armed Forces, civilian employees of the Department of Defense (including the Defense intelligence agencies), and personnel of the research laboratories of the Department and the Department of Energy who have particular expertise in the areas of responsibility described in subsection (c).
+
+“(3) DEPARTMENT OF ENERGY PERSONNEL.—Any personnel assigned to the program office from among personnel of the Department of Energy shall be so assigned with the concurrence of the Secretary of Energy.
+
+“(c) RESPONSIBILITIES.—
+“(1) DESIGNATION OF MISSION ELEMENTS OF THE PROGRAM.—The Under Secretary of Defense for Policy, the Under Secretary of Defense for Acquisition and Sustainment, and the Vice Chairman of the Joint Chiefs of Staff shall identify and designate for inclusion in the Program all of the systems, critical infrastructure, kill chains, and processes, including systems and components in development, that comprise the following military missions of the Department of Defense:
+“(A) Nuclear deterrence and strike.
+“(B) Select long-range conventional strike missions germane to the warfighting plans of United States European Command and United States Indo-Pacific Command.
+“(C) Offensive cyber operations.
+“(D) Homeland missile defense.
+“(2) OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR ACQUISITION AND SUSTAINMENT.—The Office of the Under Secretary of Defense for Acquisition and Sustainment shall serve as the office of primary responsibility for the Program, providing policy, direction, and oversight regarding the execution of the National Security Agency program manager’s responsibilities described in paragraph (5).
+
+Coordination.
+
+“(3) VICE CHAIRMAN OF THE JOINT CHIEFS OF STAFF.—The Vice Chairman of the Joint Chiefs of Staff shall coordinate the identification and prioritization of the missions and mission components, and the development and approval of requirements relating to the cybersecurity of the missions and mission components, of the Program.
+
+“(4) CHIEF INFORMATION OFFICER.—The Chief Information Officer, in exercising authority, direction, and control over the Cybersecurity Directorate of the National Security Agency, shall ensure that the National Security Agency program office is responsive to the requirements and direction of the Under Secretary of Defense for Acquisition and Sustainment.
+
+“(5) PROGRAM MANAGER.—The program manager shall be responsible for—
+“(A) Conducting end-to-end vulnerability assessments of the missions of the Program and their constituent systems, infrastructure, kill chains, and processes.
+“(B) Prioritizing and facilitating the remediation of identified vulnerabilities in the constituent systems, infrastructure, kill chains, and processes of the missions of the Program.
+“(C) Conducting, prior to the Milestone B approval for any such system or infrastructure, appropriate reviews of acquisition and system engineering plans for proposed systems and infrastructure germane to the missions of

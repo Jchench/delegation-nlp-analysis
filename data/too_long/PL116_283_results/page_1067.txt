@@ -1,0 +1,65 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4453
+
+SEC. 4201. RESEARCH, DEVELOPMENT, TEST, AND EVALUATION
+(In Thousands of Dollars)
+
+Line  Program          Item                       FY 2021    Conference
+      Element                                     Request    Authorized
+
+                                        SUBTOTAL SYSTEM DEVELOPMENT &           & 3,199,798  3,064,377
+                                        DEMONSTRATION:
+
+                     MANAGEMENT SUPPORT
+185  0604256A        THREAT SIMULATOR DEVELOPMENT                 14,515     14,515
+186  0604258A        TARGET SYSTEMS DEVELOPMENT                   10,585     10,585
+187  0604759A        MAJOR T&E INVESTMENT:
+                     Program increase                                                     [5,000]
+188  0605103A        RAND ARROYO CENTER                             13,841    13,841
+189  0605301A        ARMY KWAJALEIN ATOLL                           231,824   231,824
+190  0605320A        CONCEPTS EXPERIMENTATION PROGRAM               54,898    54,898
+191  0605601A        ARMY TEST RANGES AND FACILITIES:
+                     Program increase—Army directed energy T&E &   350,259   355,259
+192                   THAAD:                                                             [5,000]
+193  0605602A        ARMY TECHNICAL TEST INSTRUMENTATION            48,475    48,475
+                     AND VEHICLES
+194  0605604A        SURVIVABILITY/LETHALITY ANALYSIS               36,001    36,001
+195  0605606A        AIRCRAFT CERTIFICATION                          7,236     7,236
+196  0605702A        METEOROLOGICAL SUPPORT TO RDT&E ACTIVITIES     6,188     6,188
+                     Program increase                                                   [1,000]
+                     MATERIALS SYSTEMS ANALYSIS                      21,898    21,898
+198  0605709A        EXPLOITATION OF FOREIGN ITEMS                   7,936     7,936   
+199  0605712A        SUPPORT OF OPERATIONAL TESTING                  54,470    54,470
+200  0605718A        ARMY EVALUATION CENTER                          6,141     6,141
+201  0605718A        ARMY MODELING & SIM X-CMD COLLABORATION & IMT&D                                            2,572     2,572
+
+                     PROGRAMWIDE ACTIVITIES                          87,472    87,472
+203  0605803A        TECHNICAL INFORMATION ACTIVITIES                26,244    26,244
+204  0605805A        MUNITIONS STANDARDIZATION, EFFECTIVENESS,       40,133    40,133
+                     AND SAFETY
+                     Conventional ammunition demilitarization carryover:                          [−1,633]
+                     Development of polymer-cased ammunition:                                                [5,000]
+                     Manufacturing technology for industrial base   transformation carryover:                                 [1,000]
+                     Program acceleration                                               [3,000]
+205  0605857A        ENVIRONMENTAL QUALITY TECHNOLOGY MANAGEMENT SUPPORT                   1,780     1,780
+206  0605898A        ARMY DIRECT REPORT HEADQUARTERS—R&D-AIA                           55,045     55,045
+208  0606902A        RONALD REAGAN BALLISTIC MISSLE DEFENSE TEST SITE:                     71,306     71,306
+                     COUNTERINTEL AND HUMAN INTEL MODERNIZATION                                      1,023      1,023 
+210  0606105A        MEDICAL PROGRAM-WIDE ACTIVITIES                                 18,491      18,491
+211  0606942A        ASSESSMENTS AND EVALUATIONS CYBER VULNERABILITIES                                 4,496       4,496
+                     SUBTOTAL MANAGEMENT SUPPORT:                                          1,833,123   1,860,490
+
+                     OPERATIONAL SYSTEMS DEVELOPMENT
+214  0603778A        MLRS PRODUCT IMPROVEMENT PROGRAM                     10,157     10,157
+216  0605024A        ANTI-TAMPER TECHNOLOGY SUPPORT                                  8,852       8,852
+217  0607131A        WEAPONS AND MUNITIONS PRODUCT IMPROVEMENT PROGRAMS:                     20,499     20,499
+219  0607134A        LONG RANGE PRECISION FIRES (LRPF):                    122,733    107,733
+                     Program reduction                                                       [−15,000]
+221  0607136A        BLACKHAWK PRODUCT IMPROVEMENT PROGRAM:                                  11,236     11,236
+                     CHINOOK PRODUCT IMPROVEMENT PROGRAM:                                     46,091     51,091
+                     Carbon composite materials for wheels and brakes                           [5,000]
+224  0607139A        IMPROVED TURBINE ENGINE PROGRAM                     249,257    245,509
+                     Unitized matrixed engineering support growth                                               [−3,748]
+225  0607142A        AVIATION ROCKET SYSTEM PRODUCT IMPROVEMENT AND DEVELOPMENT:                                                          17,155     17,155
+226  0607143A        UNMANNED AIRCRAFT SYSTEMS UNIVERSAL PRODUCTS:                                      7,743       7,743 

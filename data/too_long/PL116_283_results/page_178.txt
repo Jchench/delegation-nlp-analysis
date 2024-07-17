@@ -1,0 +1,26 @@
+134 STAT. 3564           PUBLIC LAW 116–283—JAN. 1, 2021
+
+     (b) RESERVE OFFICERS.—Section 12207(b)(1) of such title is amended—
+          (1) in the matter preceding subparagraph (A), “or a designation in” and all that follows through “education or training,” and inserting “and who has special training or experience, or advanced education (if applicable),”; and
+          (2) by striking subparagraph (D) and inserting the following new subparagraph (D):
+                    “(D) Additional credit as follows:
+                          “(i) For special training or experience in a particular officer field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned.
+                          “(ii) During fiscal years 2021 through 2025, for advanced education in an officer field so designated, if such education is directly related to the operational needs of the armed force concerned.”.
+
+10 USC 553 note.  
+Time period.  
+
+    (c) ANNUAL REPORT.—
+        (1) IN GENERAL.—Not later than February 1, 2022, and every four years thereafter, each Secretary of a military department shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the use of the authorities in subparagraph (D) of section 553(b)(1) of title 10, United States Code (as amended by subsection (a)), and subparagraph (D) of section 12207(b)(1) of such title (as amended by subsection (b)) each Secretary had used as a “constructive credit authority”) during the preceding fiscal year for the Armed Forces under the jurisdiction of such Secretary.
+        (2) ELEMENTS.—Each report under paragraph (1) shall include, for the fiscal year and Armed Forces covered by such report, the following:
+                    (A) The manner in which constructive service credit was calculated under each constructive credit authority.
+                    (B) The number of officers credited constructive service credit under each constructive credit authority.
+                    (C) A description and assessment of the utility of the constructive credit authorities in meeting the operational needs of the Armed Force concerned.
+                    (D) Such other matters in connection with the constructive credit authorities as the Secretary of the military department concerned considers appropriate.
+
+Assessment.  
+
+    SEC. 503. DIVERSITY IN SELECTION BOARDS.
+        (a) REQUIREMENT FOR DIVERSE MEMBERSHIP OF ACTIVE DUTY PROMOTION SELECTION BOARDS.—
+            (1) OFFICERS.—Section 612(a)(1) of title 10, United States Code, is amended by adding at the end the following new sentence: “The members of a selection board shall represent the divers population of the armed force concerned to the extent practicable.”.
+            (2) WARRANT OFFICERS.—Section 573(b) of title 10, United States Code, is amended by adding at the end the following new sentence: “The members of a selection board shall represent the diverse population of the armed force concerned to the extent practicable.”.

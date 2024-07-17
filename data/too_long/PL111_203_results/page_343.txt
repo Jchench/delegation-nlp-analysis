@@ -1,0 +1,20 @@
+PUBLIC LAW 111-203—JULY 21, 2010   124 STAT. 1717
+	
+“(B) DUTIES.—The chief compliance officer shall—
+“(i) report directly to the board or to the senior officer of the facility;
+“(ii) review compliance with the core principles in this subsection;
+“(iii) in consultation with the board of the facility, a body performing a function similar to that of a board, or the senior officer of the facility, resolve any conflicts of interest that may arise;
+“(iv) be responsible for establishing and administering the policies and procedures required to be established pursuant to this section;
+“(v) ensure compliance with this Act and the rules and regulations issued under this Act, including rules prescribed by the Commission pursuant to this section; and
+“(vi) establish procedures for the remediation of noncompliance issues found during compliance office reviews, look backs, internal or external audit findings, self-reported errors, or through validated complaints.
+“(C) REQUIREMENTS FOR PROCEDURES.—In establishing procedures under subparagraph (B)(vi), the chief compliance officer shall design the procedures to establish the handling, management response, remediation, retesting, and closing of noncompliance issues.
+“(D) ANNUAL REPORTS.—
+“(i) IN GENERAL.—In accordance with rules prescribed by the Commission, the chief compliance officer shall annually prepare and sign a report that contains a description of—
+“(I) the compliance of the swap execution facility with this Act; and
+“(II) the policies and procedures, including the code of ethics and conflict of interest policies, of the swap execution facility.
+“(ii) REQUIREMENTS.—The chief compliance officer shall—
+“(I) submit each report described in clause (i) with the appropriate financial report of the swap execution facility that is required to be sub- mitted to the Commission pursuant to this section; and
+“(II) include in the report a certification that, under penalty of law, the report is accurate and complete.
+	
+“(g) EXEMPTIONS.—The Commission may exempt, conditionally or unconditionally, a swap execution facility from registration under this section if the Commission finds that the facility is subject to comparable, comprehensive supervision and regulation on a consolidated basis by the Securities and Exchange Commission, a prudential regulator, or the appropriate governmental authorities in the home country of the facility.
+“(h) RULES.—The Commission shall prescribe rules governing the regulation of alternative swap execution facilities under this section.”.

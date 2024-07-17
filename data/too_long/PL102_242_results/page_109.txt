@@ -1,0 +1,23 @@
+105 STAT. 2344          PUBLIC LAW 102-242—DEC. 19, 1991
+
+(4) by redesignating subsections (e) through (g) as subsections (f) through (h), respectively, and inserting after subsection (d) the following:
+‘‘(e) RESTRICTION ON INTEREST RATE PAID.— Any insured depository institution which, under subsection (c) or (d), accepts funds obtained, directly or indirectly, by or through a deposit broker, may not pay a rate of interest on such funds which, at the time that such funds are accepted, significantly exceeds—
+    ‘‘(1) the rate paid on deposits of similar maturity in such institution’s normal market area for deposits accepted in the institution’s normal market area; or
+    ‘‘(2) the national rate paid on deposits of comparable maturity, as established by the Corporation, for deposits accepted outside the institution’s normal market area.’’;
+(5) in subsection (f), as redesignated, by striking ‘‘troubled’’; and
+(6) by striking subsection (h), as redesignated.
+
+(b) NOTIFICATION AND RECORDKEEPING. —The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by inserting after section 29 the following:
+12 USC 1831f-1.
+‘‘SEC. 29A. DEPOSIT BROKER NOTIFICATION AND RECORDKEEPING.
+
+    ‘‘(a) NOTIFICATION.— 
+        ‘‘(1) IN GENERAL.— A deposit broker, as defined in section 29(g), shall not solicit or place any deposit with an insured depository institution, unless such deposit broker has provided the Corporation with written notice that it is a deposit broker.
+        ‘‘(2) TERMINATION OF DEPOSIT BROKER STATUS.— When a deposit broker referred to in paragraph (1) ceases to act as a deposit broker it shall provide the Corporation with a written notice that it is no longer acting as a deposit broker.
+        ‘‘(3) FORM AND CONTENT. —The notices required by paragraphs (1) and (2) shall be in such form and contain such information concerning the deposit solicitation and placement activities of a deposit broker as the Corporation may prescribe as necessary or appropriate to carry out the purposes of this subsection.
+
+    ‘‘(b) RECORDS.— The Corporation may prescribe regulations requiring each deposit broker that has filed a notice under subsection (a)(1) to maintain separate records relating to the total amounts and maturities of the deposits placed by such broker for each insured depository institution during specified time periods. Such regulations shall specify the format in which and the period for which such records shall be preserved, as well as time period within which the deposit broker shall furnish to the Corporation copies of such records (or designated portions thereof) as the Corporation may request.
+
+    ‘‘(c) PERIODIC REPORTS.—
+        ‘‘(1) IN GENERAL.— The Corporation may prescribe regulations requiring each deposit broker that has filed a notice under subsection (a)(1) to file with the Corporation separate quarterly reports relating to the total amounts and maturities of the deposits placed by such broker for each depository institution during the applicable quarter. Such regulations shall specify the form and content of such reports, as well as the applicable reporting period.
+        ‘‘(2) DESIGNATED AGENT.— The Corporation may designate another entity as its agent for the purpose of receiving and

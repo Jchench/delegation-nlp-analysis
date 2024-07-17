@@ -1,0 +1,39 @@
+134 STAT. 4766         PUBLIC LAW 116-283—JAN. 1, 2021
+
+Sec. 9003. Review and analysis of inland waters seaport security.
+Sec. 9004. Department of Homeland Security reports on digital content forgery technology.
+Sec. 9005. GAO study of cybersecurity insurance.
+Sec. 9006. Strategy to secure email.
+Sec. 9007. Department of Homeland Security large-scale non-intrusive inspection scanning plan.
+
+SEC. 9001. DEPARTMENT OF HOMELAND SECURITY CISA DIRECTOR.
+
+(a) In General.—Subsection (b) of section 2202 of the Homeland Security Act of 2002 (6 U.S.C. 652) is amended by—
+(1) redesignating paragraph (2) as paragraph (3); and
+(2) inserting after paragraph (1) the following new paragraph:
+     ‘‘(2) Qualifications.—
+          ‘‘(A) In General.—The Director shall be appointed from among individuals who have—
+               ‘‘(i) extensive knowledge in at least two of the areas specified in subparagraph (B); and
+               ‘‘(ii) not fewer than five years of demonstrated experience in efforts to foster coordination and collaboration between the Federal Government, the private sector, and other entities on issues related to cybersecurity, infrastructure security, or security risk management.
+          ‘‘(B) Specified Areas.—The areas specified in this subparagraph are the following:
+               ‘‘(i) Cybersecurity.
+               ‘‘(ii) Infrastructure security.
+               ‘‘(iii) Security risk management.’’.
+
+Appointment.
+
+(b) Amendment To Position Level Of CISA Director.—Subchapter II of chapter 53 of title 5, United States Code, is amended—
+(1) in section 5313, by inserting after ‘‘Administrator of the Transportation Security Administration.’’ the following:
+       ‘‘Director, Cybersecurity and Infrastructure Security Agency.’’; and
+(2) in section 5314, by striking ‘‘Director, Cybersecurity and Infrastructure Security Agency,’’.
+
+(c) Executive Assistant Director For Cybersecurity.—
+     (1) In General.—Section 2203 of the Homeland Security Act of 2002 (6 U.S.C. 653) is amended—
+          (A) in subsection (a)—
+               (i) in paragraph (2)—
+                    (I) in the heading, by striking ‘‘Assistant Director,—’’ and inserting ‘‘Executive Assistant Director,—’’; and
+                    (II) in the matter preceding subparagraph (A)—
+                         (aa) by striking ‘‘Assistant Director for Cybersecurity’’ and inserting ‘‘Executive Assistant Director for Cybersecurity’’; and
+                         (bb) by striking ‘‘the Assistant Director’’ and inserting ‘‘the Executive Assistant Director’’; and
+               (ii) in paragraph (3)—
+                    (I) by inserting ‘‘or Assistant Director for Cybersecurity’’ after ‘‘Assistant Secretary for Cybersecurity and Communications’’; and

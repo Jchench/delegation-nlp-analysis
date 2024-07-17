@@ -1,0 +1,61 @@
+PUBLIC LAW 116–283—JAN. 1, 2021                                                                                                    134 STAT. 4225
+
+
+“(B) the costs”:
+(j) ADDITIONAL ALLOWABLE COST PROVISIONS.—
+   (1) IN GENERAL.—Chapter 273 of title 10, United States
+Code, as added by subsection (a), is amended by adding at
+the end the following new subchapter:
+“Subchapter II—Other Allowable Cost Provisions
+“Sec.
+“3761. Restructuring costs.
+“3762. Independent research and development costs: allowable costs.
+“3763. Bid and proposal costs: allowable costs.
+“3764. Excessive pass-through charges.
+“3765. Institutions of higher education: reimbursement of indirect costs under De-
+    partment of Defense contracts.”.
+“(2) TRANSFER OF SECTIONS ON RESTRUCTURING COSTS,
+ALLOWABILITY OF INDEPENDENT RESEARCH AND DEVELOPMENT
+COSTS, AND ALLOWABILITY OF BID AND PROPOSAL COSTS.—Sec-
+tions 2325, 2372, and 2372a of title 10, United States Code,
+are transferred to subchapter II of chapter 273 of such title,
+as added by paragraph (1), inserted (in that order) after the
+table of sections, and redesignated as sections 3761, 3762, and
+3763, respectively.
+“(3) AMENDMENTS TO NEW 3761.—Section 3761 of title 10,
+United States Code, as so transferred and redesignated, is
+amended—
+(A) by redesignating subsection (b) as subsection (c);
+(B) in subsection (a)—
+(i) by striking “(1)” before “The Secretary”; and
+(ii) by striking “section 2324 of this title” and
+ inserting “subchapter I”;
+(C) by redesignating paragraph (2) as subsection (b);
+(D) in subsection (b), as so redesignated—
+(i) by inserting “LIMITATION ON DELEGATION.—”
+ before “The Secretary may not”; and
+(ii) by striking “paragraph (1)” and inserting “sub-
+ section (a)”; and
+(E) in each of such subsections (a) and (b), by redesig-
+nating subparagraphs (A) and (B) as paragraphs (1) and
+(2), respectively.
+(4) AMENDMENTS TO NEW 3763.—Section 3763 of such title,
+as so transferred and redesignated by paragraph (2), is
+amended by striking “section 2324(l)” in subsection (b) and
+inserting “section 3741”.
+
+SEC. 1833. PROPRIETARY CONTRACTOR DATA AND RIGHTS IN TECH.
+                      NICAL DATA.
+
+(a) NEW CHAPTER.—
+   (1) IN GENERAL.—Part V of subtitle A of title 10, United
+States Code, as added by section 801 of the John S. McCain
+National Defense Authorization Act for Fiscal Year 2019 (Public
+Law 115–232), is amended by striking chapter 275 and
+inserting the following:
+
+“CHAPTER 275—PROPRIETARY CONTRACTOR DATA AND 
+              RIGHTS IN TECHNICAL DATA
+
+“Subchapter Sec.
+“I. Rights in Technical Data ....................................................................................................... 3771

@@ -1,0 +1,20 @@
+124 STAT. 1892             PUBLIC LAW 111–203—JULY 21, 2010
+
+Applicability.
+
+“(i) not less than 5 percent of the credit risk for any asset—
+“(I) that is not a qualified residential mortgage that is transferred, sold, or conveyed through the issuance of an asset-backed security by the securitizer; or
+“(II) that is a qualified residential mortgage that is transferred, sold, or conveyed through the issuance of an asset-backed security by the securitizer, if 1 or more of the assets that collateralize the asset-backed security are not qualified residential mortgages; or
+“(ii) less than 5 percent of the credit risk for an asset that is not a qualified residential mortgage that is transferred, sold, or conveyed through the issuance of an asset-backed security by the securitizer, if the originator of the asset meets the underwriting standards prescribed under paragraph (2)(B);
+“(C) specify—
+“(i) the permissible forms of risk retention for purposes of this section;
+“(ii) the minimum duration of the risk retention required under this section; and
+“(iii) that a securitizer is not required to retain any part of the credit risk for an asset that is transferred, sold or conveyed through the issuance of an asset-backed security by the securitizer, if all of the assets that collateralize the asset-backed security are qualified residential mortgages;
+“(D) apply, regardless of whether the securitizer is an insured depository institution;
+“(E) with respect to a commercial mortgage, specify the permissible types, forms, and amounts of risk retention that would meet the requirements of subparagraph (B), which in the determination of the Federal banking agencies and the Commission may include—
+“(i) retention of a specified amount or percentage of the total credit risk of the asset;
+“(ii) retention of the first-loss position by a third-party purchaser that specifically negotiates for the purchase of such first loss position, holds adequate financial resources to back losses, provides due diligence on all individual assets in the pool before the issuance of the asset-backed securities, and meets the same standards for risk retention as the Federal banking agencies and the Commission require of the securitizer;
+“(iii) a determination by the Federal banking agencies and the Commission that the underwriting standards and controls for the asset are adequate; and
+“(iv) provision of adequate representations and warranties and related enforcement mechanisms; and
+“(F) establish appropriate standards for retention of an economic interest with respect to collateralized debt obligations, securities collateralized by collateralized debt obligations, and similar instruments collateralized by other asset-backed securities; and
+“(G) provide for—

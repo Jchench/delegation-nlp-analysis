@@ -1,0 +1,58 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 3739
+
+    (ii) in subsection (h), by striking “, major system 
+    interface” and inserting “, modular system interface”.
+
+    (B) REGULATIONS.—Not later than 180 days after the 
+    date of the enactment of this Act, the Secretary of Defense 
+    shall update the regulations required by section 2320(a)(1) 
+    of title 10, United States Code, to reflect the amendments 
+    made by this paragraph.                                           Deadline.
+                                                                      Update.
+(c) INTERFACE REPOSITORIES.—                                     
+    (1) ESTABLISHMENT.—Not later than 90 days after the 
+    date of the enactment of this Act, the Under Secretary of Defense
+    for Acquisition and Sustainment shall—                         Deadline.
+        (A) direct the Secretaries concerned and the heads 
+        of other appropriate Department of Defense components 
+        to establish and maintain repositories for interfaces, syntax
+        and properties, documentation, and communication
+        implementations delivered pursuant to the requirements
+        established under subsection (a)(2)(B);
+
+        (B) establish and maintain a comprehensive index of 
+        interfaces, syntax and properties, documentation, and 
+        communication implementations delivered pursuant to the
+        requirements established under subsection (a)(2)(B) and
+        maintained in the repositories required under subparagraph (A); and       
+
+        (C) if practicable, establish and maintain an alternate
+        reference repository of interfaces, syntax and properties, 
+        documentation and communication implementations delivered 
+        pursuant to the requirements established under subsection (a)(2)(B).
+
+(2) DISTRIBUTION OF INTERFACES.—                           Coordination.
+        (A) IN GENERAL.—Consistent with the requirements
+        of section 2320 of title 10, United States Code, the Under
+        Secretary of Defense for Acquisition and Sustainment shall,
+        in coordination with the Director of the Defense Standardization 
+        Program Office, use the index and repositories
+        established pursuant to paragraph (1) to provide access
+        to interfaces and relevant documentation to authorized Federal Government and non-Governmental entities.
+
+        (B) NON-GOVERNMENT RECIPIENT USE LIMITS.—A non-
+        Governmental entity that receives access under subparagraph (A) may not further release, disclose, or use such data except as authorized.
+
+(d) SYSTEM OF SYSTEMS INTEGRATION TECHNOLOGY AND EXPERIMENTATION.—
+(1) DEMONSTRATION AND ASSESSMENT.—
+        (A) IN GENERAL.—Not later than one year after the
+        date of the enactment of this Act, the Director for Command, Control, Communications, and Computers/Cyber and
+        the Chief Information Officer of the Department of Defense,
+        acting through the Joint All-Domain Command and Control 
+        cross-functional team, shall conduct demonstrations and
+        complete an assessment of the technologies developed 
+        under the System of Systems Integration Technology and
+        Experimentation program of the Defense Advanced 
+        Research Projects Agency, including a covered technology,
+        and the applicability of any such technologies to the Joint 
+        All-Domain Command and Control architecture.                   Deadline.

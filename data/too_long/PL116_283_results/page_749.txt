@@ -1,0 +1,24 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+until the Under Secretary of Defense for Acquisition and Sustainment delivers to the congressional defense committees a plan for implementation of the CMMC via requirements in procurement contracts, developed in coordination with the Principal Cyber Advisor and the Chief Information Officer of the Department of Defense. The plan shall include a timeline for pilot activities, a description of the planned relationship between Department of Defense and the auditing or accrediting bodies, a funding and activity profile for the Defense Industrial Base Cybersecurity Assessment Center, and a description of efforts to ensure that the service acquisition executives and service program managers are equipped to implement the CMMC requirements and facilitate contractors’ meeting relevant requirements.
+
+SEC. 1743. EXTENSION OF SUNSET FOR PILOT PROGRAM ON REGIONAL CYBERSECURITY TRAINING CENTER FOR THE ARMY NATIONAL GUARD.
+
+Section 1651(e) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 32 U.S.C. 501 note) is amended by striking ‘‘shall expire on the date that is two years after the date of the enactment of this Act’’ and inserting ‘‘shall expire on August 31, 2022’’.
+
+SEC. 1744. NATIONAL CYBER EXERCISES.
+
+(a) REQUIREMENT.—Not later than December 31, 2023, the Secretary of Homeland Security, in coordination with the Director of National Intelligence, the Attorney General, and the Secretary of Defense, shall conduct an exercise, which may be a tabletop exercise, to test the resilience, response, and recovery of the United States to a significant cyber incident impacting critical infrastructure. The Secretary shall convene similar exercises not fewer than three times, in consultation with such officials, until 2033.
+
+(b) PLANNING AND PREPARATION.—The exercises required under subsection (a) shall be prepared by—
+(1) appropriate personnel from—
+(A) the Department of Homeland Security;
+(B) the Department of Defense; and
+(C) the Department of Justice; and
+(2) appropriate elements of the intelligence community, identified by the Director of National Intelligence.
+(c) SUBMISSION TO CONGRESS.—For each fiscal year in which an exercise is planned, the Secretary, in coordination with the Director of National Intelligence, the Attorney General, and the Secretary of Defense, shall submit to the appropriate congressional committees a plan for the exercise not later than 180 days prior to the exercise. Each such plan shall include information regarding the goals of the exercise at issue, how the exercise is to be carried out, where and when the exercise will take place, how many individuals are expected to participate from each Federal agency specified in subsection (b), and the costs or other resources associated with the exercise.
+
+(d) PARTICIPANTS.—
+(1) FEDERAL GOVERNMENT PARTICIPANTS.—Appropriate personnel from the following Federal agencies shall participate in each exercise required under subsection (a):
+(A) The Department of Homeland Security.
+(B) The Department of Defense, as identified by the Secretary of Defense.

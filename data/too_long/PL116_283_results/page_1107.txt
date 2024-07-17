@@ -1,0 +1,69 @@
+PUBLIC LAW 116–283—JAN. 1, 2021           134 STAT. 4493
+
+SEC. 4302. OPERATION AND MAINTENANCE FOR OVERSEAS CONTINGENCY OPERATIONS
+                                        (In Thousands of Dollars)
+
+Line         Item                                            FY 2021              Conference
+                                                              Request              Authorized
+200    CYBERSPACE ACTIVITIES—CYBERSPACE OPER-
+          ATIONS ..........................................................     98,461                 98,461
+210    CYBERSPACE ACTIVITIES—CYBERSECURITY ..........     21,256                 21,256
+       SUBTOTAL OPERATING FORCES ..........................     15,267,605        13,113,908
+
+       MOBILIZATION
+230    ARMY PREPOSITIONED STOCKS ............................     103,052            103,052
+       SUBTOTAL MOBILIZATION .................................     103,052           103,052
+
+       TRAINING AND RECRUITING
+290    SPECIALIZED SKILL TRAINING ............................     89,943                89,943
+320    TRAINING SUPPORT ............................................       2,550                  2,550
+       SUBTOTAL TRAINING AND RECRUITING ..........        92,493                92,493
+
+       ADMIN & SRVVDE ACTIVITIES
+390    SERVICWIDE TRANSPORTATION ..........................     521,090            921,090
+          Retrograde from Operation Freedom’s Sentinel ....                     (400,000)
+400    CENTRAL SUPPLY ACTIVITIES ................................     43,897                43,897
+410    LOGISTIC SUPPORT ACTIVITIES .............................     68,423                68,423
+420    AMMUNITION MANAGEMENT ...............................     29,162                29,162
+440    SERVICEWIDE COMMUNICATIONS .......................     11,447               11,447
+470    OTHER SERVICE SUPPORT ....................................        5,839                  5,839
+490    REAL ESTATE MANAGEMENT ...............................     48,782                48,782
+510    INTERNATIONAL MILITARY HEADQUARTERS ........     50,000              50,000
+565    CLASSIFIED PROGRAMS .........................................     895,962            895,964
+       SUBTOTAL ADMIN & SRVVDE ACTIVITIES ......... 1,674,604         2,074,604
+
+
+       TOTAL OPERATION & MAINTENANCE,
+       ARMY .................................................................    17,137,754           15,384,057
+
+
+       OPERATION & MAINTENANCE, ARMY RES
+       OPERATING FORCES
+020    ECHELONS ABOVE BRIGADE ...............................     17,193              17,193
+060    FORCE READINESS OPERATIONS SUPPORT ............          440                         440
+090    BASE OPERATIONS SUPPORT ................................    15,766              15,766
+       SUBTOTAL OPERATING FORCES ....................     33,399             33,399
+
+       TOTAL OPERATION & MAINTENANCE,
+       ARMY RES .............................................................    33,399               33,399
+
+
+       OPERATION & MAINTENANCE, ARNG
+       OPERATING FORCES
+010    MANEUVER UNITS ....................................................   25,746               25,746
+020    MODULAR SUPPORT BRIGADES ..............................        40                       40
+030    ECHELONS ABOVE BRIGADE ..................................     983                   983
+040    THEATER LEVEL ASSETS ........................................       22                        22
+060    AVIATION ASSETS ..................................................     20,624              20,624
+070    FORCE READINESS OPERATIONS SUPPORT ...........       7,914                 7,914
+100    BASE OPERATIONS SUPPORT ...............................   24,417              24,417
+       SUBTOTAL OPERATING FORCES ....................     79,746             79,746
+
+       ADMIN & SRVVDE ACTIVITIES
+170    SERVICEWIDE COMMUNICATIONS .......................          46                        46
+       SUBTOTAL ADMIN & SRVVDE ACTIVITIES .........           46                        46
+
+       TOTAL OPERATION & MAINTENANCE,
+       ARNG .................................................................     79,792               79,792
+
+       AFGHANISTAN SECURITY FORCES FUND

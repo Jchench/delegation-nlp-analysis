@@ -1,0 +1,18 @@
+122 STAT. 2904            PUBLIC LAW 110–289—JULY 30, 2008
+
+The aggregate amounts determined under subclauses (I) and (II) shall be determined without regard to any election made under subsection (b)(2)(C), (b)(3)(D), or (g)(7) and without regard to subparagraph (A)(ii).
+       “(ii) MAXIMUM AMOUNT.—The bonus depreciation amount for any taxable year shall not exceed the maximum increase amount under clause (iii), reduced (but not below zero) by the sum of the bonus depreciation amounts for all preceding taxable years.
+       “(iii) MAXIMUM INCREASE AMOUNT.—For purposes of clause (ii), the term ‘maximum increase amount’ means, with respect to any corporation, the lesser of—
+            “(I) $30,000,000, or
+            “(II) 6 percent of the sum of the business credit increase amount, and the AMT credit increase amount, determined with respect to such corporation under subparagraph (E).
+       “(iv) AGGREGATION RULE.—All corporations which are treated as a single employer under section 52(a) shall be treated—
+            “(I) as 1 taxpayer for purposes of this paragraph, and
+            “(II) as having elected the application of this paragraph if any such corporation so elects.
+   “(D) ELIGIBLE QUALIFIED PROPERTY.—For purposes of this paragraph, the term ‘eligible qualified property’ means qualified property under paragraph (2), except that in applying paragraph (2) for purposes of this paragraph—
+       “(i) ‘March 31, 2008’ shall be substituted for ‘December 31, 2007’ each place it appears in subparagraph (A) and clauses (i) and (ii) of subparagraph (E) thereof, and
+       “(ii) only adjusted basis attributable to manufacture, construction, or production after March 31, 2008, and before January 1, 2009, shall be taken into account under subparagraph (B)(ii) thereof.
+   “(E) ALLOCATION OF BONUS DEPRECIATION AMOUNTS.—
+       “(i) IN GENERAL.—Subject to clauses (ii) and (iii), the taxpayer shall, at such time and in such manner as the Secretary may prescribe, specify the portion (if any) of the bonus depreciation amount for the taxable year which is to be allocated to each of the limitations described in subparagraph (B) for such taxable year.
+       “(ii) LIMITATION ON ALLOCATIONS.—The portion of the bonus depreciation amount which may be allocated under clause (i) to the limitations described in subparagraph (B) for any taxable year shall not exceed—
+            “(I) in the case of the limitation described in subparagraph (B)(i), the excess of the business credit increase amount over the bonus depreciation amount allocated to such limitation for all preceding taxable years, and
+            “(II) in the case of the limitation described in subparagraph (B)(ii), the excess of the AMT credit increase amount over the bonus depreciation 

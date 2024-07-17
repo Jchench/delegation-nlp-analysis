@@ -1,0 +1,65 @@
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+                                              122 STAT. 3925
+
+election shall be made in such manner as may be prescribed by the Secretary and shall be made by the due date (including extensions of time) for filing the taxpayer’s return for the taxable year of the net operating loss. Such election, once made for any taxable year, shall be irrevocable for such taxable year.
+
+‘‘(4) EXCLUSION.—The term ‘qualified disaster loss’ shall not include any loss with respect to any property described in section 1400N(p)(3).’’.
+
+(c) LOSS DEDUCTION ALLOWED IN COMPUTING ALTERNATIVE MINIMUM TAXABLE INCOME.—Subsection (d) of section 56 is amended by adding at the end the following new paragraph:
+
+        ‘‘(3) NET OPERATING LOSS ATTRIBUTABLE TO FEDERALLY         26 USC 56.
+                DECLARED DISASTERS.—In the case of a taxpayer who has          Applicability.
+                a qualified disaster loss (as defined by section 172(b)(1)(J))
+                for the taxable year, paragraph (1) shall be applied by
+                increasing the amount determined under subparagraph (A)(ii)(I)
+                thereof by the sum of the carrybacks and carryovers of such 
+                loss.’’.
+
+(d) CONFORMING AMENDMENTS.—
+
+        (1) Clause (ii) of section 172(b)(1)(F) is amended by 
+        inserting ‘‘or qualified disaster loss (as defined in subsection 
+        (j))’’ before the period at the end of the last sentence.  
+    
+        (2) Paragraph (1) of section 172(j) is amended by adding 
+        at the end the following new flush sentence:
+
+                ‘‘Such term shall not include any qualified disaster loss (as 
+                defined in subsection (j)).’’.
+
+(e) EFFECTIVE DATE.—The amendments made by this section                   26 USC 56 note.
+shall apply to losses arising in taxable years beginning after 
+December 31, 2007, in connection with disasters declared after
+such date.
+
+SEC. 709. WAIVER OF CERTAIN MORTGAGE REVENUE BOND REQUIREMENTS FOLLOWING FEDERALLY DECLARED DISASTERS.
+
+(a) IN GENERAL.—Subsection (k) of section 143 is amended by adding at the end the following new paragraph:
+
+‘‘(12) SPECIAL RULES FOR RESIDENCES DESTROYED IN FEDER-
+                   ALLY DECLARED DISASTERS.—
+
+        ‘‘(A) PRINCIPAL RESIDENCE DESTROYED.—At the election of
+               the taxpayer, if the principal residence (within the 
+               meaning of section 121) of such taxpayer is—
+        
+                ‘‘(i) rendered unsafe for use as a residence by rea-
+                     son of a federally declared disaster occurring before
+                      January 1, 2010, or
+
+                ‘‘(ii) demolished or relocated by reason of an order 
+                      of the government of a State or political subdivision
+                      thereof on account of a federally declared disaster
+                      occurring before such date,
+
+          then, for the 2-year period beginning on the date of the
+          disaster declaration, subsection (d)(1) shall not apply with 
+          respect to such taxpayer and subsection (e) shall be applied 
+          by substituting ‘110’ for ‘90’ in paragraph (1) thereof.
+
+         ‘‘(B) PRINCIPAL RESIDENCE DAMAGED.—
+                 ‘‘(i) IN GENERAL.—At the election of the taxpayer, 
+                       if the principal residence (within the meaning of section
+                       121) of such taxpayer was damaged as the result 
+                       of a federally declared disaster occurring before January

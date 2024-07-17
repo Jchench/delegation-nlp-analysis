@@ -1,0 +1,26 @@
+124 STAT. 1926          PUBLIC LAW 111-203—JULY 21, 2010
+
+(2) CONSULTATION.—In conducting the study required under paragraph (1), the Comptroller General shall consult with the principal organizations representing State governors, legislators, local elected officials, and State and local finance officers.
+(3) REPORT.—Not later than 180 days after the date of enactment of this Act, the Comptroller General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the study required under paragraph (1).
+
+15 USC 78o-4a.
+Establishment.
+
+SEC. 979. COMMISSION OFFICE OF MUNICIPAL SECURITIES.
+(a) IN GENERAL.—There shall be in the Commission an Office of Municipal Securities, which shall—
+(1) administer the rules of the Commission with respect to the practices of municipal securities brokers and dealers, municipal securities advisors, municipal securities investors, and municipal securities issuers; and
+(2) coordinate with the Municipal Securities Rulemaking Board for rulemaking and enforcement actions as required by law. 
+(b) DIRECTOR OF THE OFFICE.—The head of the Office of Municipal Securities shall be the Director, who shall report to the Chairman.
+(c) STAFFING.—
+(1) IN GENERAL.—The Office of Municipal Securities shall be staffed sufficiently to carry out the requirements of this section.
+(2) REQUIREMENT.—The staff of the Office of Municipal Securities shall include individuals with knowledge of and expertise in municipal finance.
+
+Subtitle I—Public Company Accounting 
+Oversight Board, Portfolio Margining,
+and Other Matters
+
+SEC. 981. AUTHORITY TO SHARE CERTAIN INFORMATION WITH FOREIGN AUTHORITIES.
+(a) DEFINITION.—Section 2(a) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201(a)) is amended by adding at the end the following:
+‘‘(17) FOREIGN AUDITOR OVERSIGHT AUTHORITY.—The term ‘foreign auditor oversight authority’ means any governmental body or other entity empowered by a foreign government to conduct inspections of public accounting firms or otherwise to administer or enforce laws related to the regulation of public accounting firms.’’.
+(b) AVAILABILITY TO SHARE INFORMATION.—Section 105(b)(5) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5)) is amended by adding at the end the following:
+‘‘(C) AVAILABILITY TO FOREIGN OVERSIGHT AUTHORITIES.—Without the loss of its status as confidential and privileged in the hands of the Board, all information referred to in subparagraph (A) that relates to a public accounting firm that a foreign government has empowered

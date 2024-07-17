@@ -1,0 +1,74 @@
+PUBLIC LAW 116-283—JAN. 1, 2021                                   134 STAT. 4447
+
+
+SEC. 4102. PROCUREMENT FOR OVERSEAS CONTINGENCY OPERATIONS
+    (In Thousands of Dollars)
+----------------------------------------------------------------------------
+Line                  Item                                                 FY 2021                Conference
+                                                                               Request           Authorized
+----------------------------------------------------------------------------
+001          ROCKETS ....................................................   19,489                    19,489
+              CARTRIDGES
+002          -- CARTRIDGES............................................   40,434                     40,434
+              BOMBS
+004          -- GENERAL PURPOSE BOMBS ..........................  369,566               369,566
+006          -- JOINT DIRECT ATTACK MUNITION ...........   237,723               237,723
+              FLARES
+015           -- FLARES ...................................................... 21,171                     21,171
+             FUZES
+016           -- FUZES ....................................................... 107,855                 107,855
+           SMALL ARMS
+            ----UNDISTRIBUTED
+017          -- SMALL ARMS.............................................   6,217                          6,217
+           ----TOTAL PROCUREMENT OF AMMUNITION, AIR
+                  FORCE ..........................................................  802,455                802,455
+----------------------------------------------------------------------------
+OTHER PROCUREMENT, AIR FORCE
+            PASSENGER CARRYING VEHICLES
+001        ----PASSENGER CARRYING VEHICLES .......... 1,302                       1,302
+            ----CARGO AND UTILITY VEHICLES
+002        ----MEDIUM TACTICAL VEHICLE ....................   3,400                        3,400
+004        -- CARGO AND UTILITY VEHICLES ................. 12,475                    12,475
+             SPECIAL PURPOSE VEHICLES
+005        ----JOINT LIGHT TACTICAL VEHICLE .............. 26,150                   26,150
+006        -- SPECIAL PURPOSE VEHICLES ....................  51,254                   51,254
+            ----FIRE FIGHTING EQUIPMENT
+008        ----FIRE FIGHTING/CRASH RESCUE VEHICLES . 24,903               24,903
+009         -- MATERIALS HANDLING EQUIPMENT .......... 14,167                14,167
+            BASE MAINTENANCE SUPPORT
+010        ----RUNWAY SNOW REMOVAL AND CLEANING EQU
+                                                                                    5,753                      5,753
+011        -- BASE MAINTENANCE SUPPORT VEHICLES . 20,853                  20,853
+            SPCL COM. ELECTRONICS PROJECTS                                                                                   
+026       ----GENERAL INFORMATION TECHNOLOGY....... 5,100                       5,100
+029       -- AIR FORCE PHYSICAL SECURITY SYSTEMS ... 56,496                    56,496
+           ORGANIZATION AND BASE
+049        BASE COMM INFRASTRUCTURE ........................ 30,717                30,717
+            BASE SUPPORT EQUIPMENT
+055        ENGINEERING AND EOD EQUIPMENT............  13,712                   13,712
+056        -- MOBILITY EQUIPMENT..................................  33,494                     33,494
+057       ----BASE SUPPORT EQUIPMENT (PSE) ...........  1,777                        1,777
+058       -- BASE MAINTENANCE AND SUPPORT EQUIPMENT 31,620             31,620
+            SPECIAL SUPPORT PROJECTS
+061       ----DCGS-AF ......................................................... 18,700                   18,700
+            SPARES AND REPAIR PARTS
+065       ----SPARES AND REPAIR PARTS......................   4,000                        4,000
+           ----TOTAL OTHER PROCUREMENT, AIR FORCE .... 355,339              355,339
+----------------------------------------------------------------------------
+PROCUREMENT, DEFENSE-WIDE
+           MAJOR EQUIPMENT, DISA
+016       ----DEFENSE INFORMATION SYSTEM NETWORK .... 6,120                6,120
+           MAJOR EQUIPMENT, DEFENSE THREAT REDUCTION
+             AGENCY                                                                                                                                                                               030               COUNTER IMPROVISED THREAT TECHNOLOGIES ...... 2,540                     2,540
+           ----CLASSIFIED PROGRAMS
+054A    -- CLASSIFIED PROGRAMS....................................   3,500                     3,500
+           AVIATION PROGRAMS
+056       ----MC130E ISR ....................................................  5,000                       45,100
+            --------Combat loss replacement—DHC-8 ..........                                                           [40,100]
+057       ----MC-12 ...........................................................    5,000                         5,000
+060        --- UNMANNED ISR .............................................   8,207                         8,207
+062       ----U-2S ..............................................................   -- [24,711]
+                  -----Combat loss replacement ..............................                                                          [24,711]
+074        AMMUNITION PROGRAMS                                                                                                 ---ORDNANCE ITEMS 45SM ....................................... 105,355                   105,355
+077      OTHER PROCUREMENT PROGRAMS
+071      ---INTELLIGENCE SYSTEMS ................................. 16,234                    16,234                                                 

@@ -1,0 +1,60 @@
+124 STAT. 1852            PUBLIC LAW 111–203—JULY 21, 2010
+
+SEC. 927. EQUAL TREATMENT OF SELF-REGULATORY ORGANIZATION
+                      RULES.
+    Section 29(a) of the Securities Exchange Act of 1934 (15 U.S.C.
+78cc(a) is amended by striking “an exchange required thereby”
+and inserting “a self-regulatory organization,”.
+
+SEC. 928. CLARIFICATION THAT SECTION 205 OF THE INVESTMENT
+                      ADVISERS ACT OF 1940 DOES NOT APPLY TO STATE-REG-
+                      ISTERED ADVISERS.
+    Section 205(a) of the Investment Advisers Act of 1940 (15
+U.S.C. 80b–5(a)) is amended, in the matter preceding paragraph
+(1)—
+            (1) by striking “, unless exempt from registration pursuant
+                 to section 203(b),” and inserting “registered or required to be
+                 registered with the Commission”;
+            (2) by striking “make use of the mails or any means or
+                 instrumentality of interstate commerce, directly or indirectly,
+                 to”; and
+            (3) by striking “to” after “in any way”.
+
+SEC. 929. UNLAWFUL MARGIN LENDING.
+    Section 7(c)(1)(A) of the Securities Exchange Act of 1934 (15
+U.S.C. 78g(c)(1)(A)) is amended by striking “, and” and inserting
+“;, or”.
+
+SEC. 929A. PROTECTION FOR EMPLOYEES OF SUBSIDIARIES AND
+                      AFFILIATES OF PUBLICLY TRADED COMPANIES.
+    Section 1514A of title 18, United States Code, is amended
+by inserting “including any subsidiary or affiliate whose financial
+information is included in the consolidated financial statements
+of such company” after “the Securities Exchange Act of 1934 (15
+U.S.C. 78d(d))”.
+
+SEC 929B. FAIR FUND AMENDMENTS.
+    Section 308 of the Sarbanes-Oxley Act of 2002 (15 U.S.C.
+7246(a)) is amended—
+           (1) by striking subsection (a) and inserting the following:
+	   “(a) CIVIL PENALTIES TO BE USED FOR THE RELIEF OF VICTIMS.—
+If, in any judicial or administrative action brought by the Comm-
+ission under the securities laws, the Commission obtains a civil
+penalty against any person for a violation of such laws, or such
+person agrees, in settlement of any such action, to such civil penalty,
+the amount of such civil penalty shall, on the motion or at the
+direction of the Commission, be added to and become part of a
+disgorgement fund or other fund established for the benefit of
+the victims of such violation.”;
+	   (2) in subsection (b)—
+		      (A) by striking “for a disgorgement fund described in
+			    subsection (a)” and inserting “for a disgorgement fund or
+			    other fund described in subsection (a)”; and
+		      (B) by striking “in the disgorgement fund” and
+			    inserting “in such fund”; and
+	   (3) by striking subsection (e).
+
+SEC. 929C. INCREASING THE BORROWING LIMIT ON TREASURY LOANS.
+    Section 4(h) of the Securities Investor Protection Act of 1970
+(15 U.S.C. 78ddd(h)) is amended in the first sentence, by striking
+“$1,000,000,000” and inserting “$2,500,000,000”.

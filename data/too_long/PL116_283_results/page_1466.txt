@@ -1,0 +1,19 @@
+134 STAT. 4852	 PUBLIC LAW 116–283—JAN. 1, 2021
+
+by subparagraph (A) and not less frequently than once every two years thereafter for a period of 10 years, the Comptroller General of the United States shall submit to Congress a report on the activities carried out under this subsection.
+
+(b) NATIONAL NETWORK FOR MICROELECTRONICS RESEARCH AND DEVELOPMENT.—
+(1) IN GENERAL.—Subject to the availability of appropriations for such purposes, the Secretary of Defense may establish a national network for microelectronics research and development—
+(A) to enable the laboratory to fabrication transition microelectronics innovations in the United States; and
+(B) to expand the global leadership in microelectronics of the United States.
+(2) ACTIVITIES.—The national network for microelectronics research and development shall—
+(A) enable cost effective exploration of new materials, devices, and architectures, and prototyping in domestic facilities to safeguard domestic intellectual property;
+(B) accelerate the transition of new technologies to domestic microelectronics manufacturers; and
+(C) conduct other relevant activities deemed necessary by the Secretary of Defense for accomplishing the purposes of the national network for microelectronics research and development.
+
+15 USC 4654.	SEC. 9904. DEPARTMENT OF COMMERCE STUDY ON STATUS OF MICROELECTRONICS TECHNOLOGIES IN THE UNITED STATES INDUSTRIAL BASE.
+(a) IN GENERAL.—Beginning not later than 180 days after the date of the enactment of this Act, the Secretary, in consultation with the heads of other Federal departments and agencies, as appropriate, including the Secretary of Defense, Secretary of Homeland Security, and the Secretary of Energy, shall undertake a review, which shall include a survey, using authorities in section 705 of the Defense Production Act of 1950 (50 U.S.C. 4555), to assess the capabilities of the United States industrial base to support the national defense in light of the global nature of the supply chain and significant interdependencies between the United States industrial base and the industrial bases of foreign countries with respect to the manufacture, design, and end use of microelectronics.
+(b) RESPONSE TO SURVEY.—To the extent authorized by section 705 of the Defense Production Act of 1950 (50 U.S.C. 4555) and section 702 of title 15, Code of Federal Regulations, the Secretary shall ensure all relevant potential respondents reply to the survey, including the following:
+(1) Corporations, partnerships, associations, or any other organized groups domiciled and with substantial operations in the United States.
+(2) Corporations, partnerships, associations, or any other organized groups with a physical presence of any kind in the United States.
+(3) Foreign domiciled corporations, partnerships, associations, or any other organized groups with a physical presence of any kind in the United States.

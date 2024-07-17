@@ -1,0 +1,58 @@
+124 STAT. 1696           PUBLIC LAW 111–203—JULY 21, 2010
+
+execution facility or board of trade designated as a contract market
+that posts swaps or makes swaps available for trading.
+
+SEC. 727. PUBLIC REPORTING OF SWAP TRANSACTION DATA.
+
+Section 2(a) of the Commodity Exchange Act (7 U.S.C. 2(a))
+is amended by adding at the end the following:
+    ‘‘(13) PUBLIC AVAILABILITY OF SWAP TRANSACTION DATA.—
+            ‘‘(A) DEFINITION OF REAL-TIME PUBLIC REPORTING.—
+            In this paragraph, the term ‘real-time public reporting’
+            means to report data relating to a swap transaction,
+            including price and volume, as soon as technologically prac-
+            ticable after the time at which the swap transaction has
+            been executed.
+            ‘‘(B) PURPOSE.—The purpose of this section is to
+            authorize the Commission to make swap transaction and
+            pricing data available to the public in such form and at
+            such times as the Commission determines appropriate to
+            enhance price discovery.
+            ‘‘(C) GENERAL RULE.—The Commission is authorized
+            and required to provide by rule for the public availability
+            of swap transaction and pricing data as follows:
+                ‘‘(i) With respect to those swaps that are subject
+                to the mandatory clearing requirement described in
+                subsection (h)(1) (including those swaps that are
+                excepted from the requirement pursuant to subsection
+                (h)(7)), the Commission shall require real-time public
+                reporting for such transactions.
+                ‘‘(ii) With respect to those swaps that are not sub-
+                ject to the mandatory clearing requirement described
+                in subsection (h)(1), but are cleared at a registered
+                derivatives clearing organization, the Commission shall
+                require real-time public reporting for such trans-
+                actions.
+                ‘‘(iii) With respect to swaps that are not cleared
+                at a registered derivatives clearing organization and
+                which are reported to a swap data repository or the
+                Commission under subsection (h)(6), the Commission
+                shall require real-time public reporting for such trans-
+                actions, in a manner that does not disclose the business
+                transactions and market positions of any person.
+                ‘‘(iv) With respect to swaps that are determined
+                to be required to be cleared under subsection (h)(2)
+                but are not cleared, the Commission shall require real-
+                time public reporting for such transactions.
+            ‘‘(D) REGISTERED ENTITIES AND PUBLIC REPORTING.—
+            The Commission may require registered entities to publicly
+            disseminate the swap transaction and pricing data required
+            to be reported under this paragraph.
+            ‘‘(E) RULEMAKING REQUIRED.—With respect to the rule
+            providing for the public availability of transaction and
+            pricing data for swaps described in clauses (i) and (ii)
+            of subparagraph (C), the rule promulgated by the Commis-
+            sion shall contain provisions—
+                    ‘‘(i) to ensure such information does not identify
+                    the participants;

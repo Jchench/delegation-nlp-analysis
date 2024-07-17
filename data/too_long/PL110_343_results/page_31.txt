@@ -1,0 +1,21 @@
+PUBLIC LAW 110–343—OCT. 3, 2008
+122 STAT. 3795
+
+“(II) any person that aids or abets a violation of this paragraph by a person described in subclause (I); and
+“(ii) for purposes of enforcing the requirements of this paragraph, the authority of the Corporation under—
+“(I) section 10(c) to conduct investigations; and
+“(II) subsections (b), (c) (d) and (i) of section 8 to conduct enforcement actions.
+“(F) OTHER ACTIONS PRESERVED.—No provision of this paragraph shall be construed as barring any action other-wise available, under the laws of the United States or any State, to any Federal or State agency or individual.”.
+(b) ENFORCEMENT ORDERS.—Section 8(c) of the Federal Deposit Insurance Act (12 U.S.C. 1818(c)) is amended by adding at the end the following new paragraph:
+“(4) FALSE ADVERTISING OR MISUSE OF NAMES TO INDICATE INSURED STATUS.—
+“(A) TEMPORARY ORDER.—
+“(i) IN GENERAL.—If a notice of charges served under subsection (b)(1) specifies on the basis of particular facts that any person engaged or is engaging in conduct described in section 18(a)(4), the Corporation or other appropriate Federal banking agency may issue a temporary order requiring—
+“(I) the immediate cessation of any activity or practice described, which gave rise to the notice of charges; and
+“(II) affirmative action to prevent any further, or to remedy any existing, violation.
+“(ii) EFFECT OF ORDER.—Any temporary order issued under this subparagraph shall take effect upon service.
+“(B) EFFECTIVE PERIOD OF TEMPORARY ORDER.—A temporary order issued under subparagraph (A) shall remain effective and enforceable, pending the completion of an administrative proceeding pursuant to subsection (b)(1) in connection with the notice of charges—
+“(i) until such time as the Corporation or other appropriate Federal banking agency dismisses the charges specified in such notice; or
+“(ii) if a cease-and-desist order is issued against such person, until the effective date of such order.
+“(C) CIVIL MONEY PENALTIES.—Any violation of section 18(a)(4) shall be subject to civil money penalties, as set forth in subsection (i), except that for any person other than an insured depository institution or an institution-affiliated party that is found to have violated this paragraph, the Corporation or other appropriate Federal banking agency shall not be required to demonstrate any loss to an insured depository institution.”.
+(c) UNENFORCEABILITY OF CERTAIN AGREEMENTS.—Section 13(c) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)) is amended by adding at the end the following new paragraph:
+‘(11) UNENFORCEABILITY OF CERTAIN AGREEMENTS.—No provision contained in any existing or future standstill, confidentiality, or other agreement that, directly or indirectly—

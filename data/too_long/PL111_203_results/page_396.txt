@@ -1,0 +1,60 @@
+124 STAT. 1770		PUBLIC LAW 111–203—JULY 21, 2010
+
+
+	“(1) IN GENERAL.—No person may operate a facility for
+the trading or processing of security-based swaps unless the
+facility is registered as a security-based swap execution facility
+or as a national securities exchange under this section.
+	“(2) DUAL REGISTRATION.—Any person that is registered
+as a security-based swap execution facility under this section
+shall register with the Commission regardless of whether the
+person also is registered with the Commodity Futures Trading
+Commission as a swap execution facility.
+	“(b) TRADING AND TRADE PROCESSING.—A security-based swap
+execution facility that is registered under subsection (a) may—
+		“(1) make available for trading any security-based swap,
+and
+		“(2) facilitate trade processing of any security-based swap.
+	“(c) IDENTIFICATION OF FACILITY USED TO TRADE SECURITY-
+BASED SWAPS BY NATIONAL SECURITIES EXCHANGES.—A national
+securities exchange shall, to the extent that the exchange also
+operates a security-based swap execution facility and uses the same
+electronic trade execution system for listing and executing trades
+of security-based swaps on or through the exchange and the facility,
+identify whether electronic trading of such security-based swaps
+is taking place on or through the national securities exchange
+or the security-based swap execution facility.
+	“(d) CORE PRINCIPLES FOR SECURITY-BASED SWAP EXECUTION
+FACILITIES.—
+		“(1) COMPLIANCE WITH CORE PRINCIPLES.—
+			“(A) IN GENERAL.—To be registered, and maintain reg
+istration, as a security-based swap execution facility, the
+security-based swap execution facility shall comply with—
+				“(i) the core principles described in this subsection;
+and
+				“(ii) any requirement that the Commission may
+impose by rule or regulation.
+			“(B) REASONABLE DISCRETION OF SECURITY-BASED SWAP
+EXECUTION FACILITY.—Unless otherwise determined by the
+Commission, by rule or regulation, a security-based swap
+execution facility described in subparagraph (A) shall have
+reasonable discretion in establishing the manner in which
+it complies with the core principles described in this sub
+section.
+		“(2) COMPLIANCE WITH RULES.—A security-based swap
+execution facility shall—
+			“(A) establish and enforce compliance with any rule
+established by such security-based swap execution facility,
+including—
+				“(i) the terms and conditions of the security-based
+swaps traded or processed on or through the facility;
+and
+				“(ii) any limitation on access to the facility;
+			“(B) establish and enforce trading, trade processing,
+and participation rules that will deter abuses and have
+the capacity to detect, investigate, and enforce those rules,
+including means—
+				“(i) to provide market participants with impartial
+access to the market; and
+				“(ii) to capture information that may be used in
+establishing whether rule violations have occurred; and

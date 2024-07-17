@@ -1,0 +1,24 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4359
+
+extended or made permanent, the likely positive and negative impacts of expansion to cover all or additional combatant commands; and
+
+(2) the recommendations of the Secretary regarding whether the pilot program should be extended or made permanent and expanded.
+
+SEC. 2864. PILOT PROGRAM TO TEST USE OF EMERGENCY DIESEL GENERATORS IN A MICROGRID CONFIGURATION AT CERTAIN MILITARY INSTALLATIONS.
+
+(a) PILOT PROGRAM AUTHORIZED.—The Secretary of Defense may conduct a pilot program (to be known as the “Emergency Diesel Generator Microgrid Program”) to evaluate the feasibility and cost effectiveness of connecting existing diesel generators at a military installation selected pursuant to subsection (c) to create and support one or more microgrid configurations at the installation capable of providing full-scale electrical power for the defense critical facilities located at the installation during an emergency involving the loss of external electric power supply caused by an extreme weather condition, manmade intentional infrastructure damage, or other circumstance.
+
+(b) GOALS OF PILOT PROGRAM.—The goals of the Emergency Diesel Generator Microgrid Program are—
+(1) to test assumptions about lower operating and maintenance costs, parts interchangeability, lower emissions, lower fuel usage, increased resiliency, increased reliability, and reduced need for emergency diesel generators; and
+(2) to establish design criteria that could be used to build and sustain emergency diesel generator microgrids at other military installations.
+
+(c) PILOT PROGRAM LOCATIONS.—As the locations to conduct the Emergency Diesel Generator Microgrid Program, the Secretary of Defense shall select two major military installations located in different geographical regions of the United States that the Secretary determines—
+(1) are defense critical electric infrastructure sites or contain, or are served by, defense critical electric infrastructure;
+(2) contain more than one defense critical function for national defense purposes and the mission assurance of such critical defense facilities are paramount to maintaining national defense and force projection capabilities at all times; and
+(3) face unique electric energy supply, delivery, and distribution challenges that, based on the geographic location of the installations and the overall physical size of the installations, adversely impact rapid electric infrastructure restoration after an interruption.
+
+(d) SPECIFICATIONS OF DIESEL GENERATORS AND MICROGRID.—
+(1) GENERATOR SPECIFICATIONS.—The Secretary of Defense shall use existing diesel generators that are sized >/= 750kW output.
+(2) MICROGRID SPECIFICATIONS.—The Secretary of Defense shall create the microgrid using commercially available and proven designs and technologies. The existing diesel generators used for the microgrid should be spaced within 1.0 to 1.5 mile of each other and, using a dedicated underground electric cable network, be tied into a microgrid configuration sufficient to supply mission critical facilities within the service area of

@@ -1,0 +1,30 @@
+PUBLIC LAW 116–283—JAN. 1, 2021      134 STAT. 4553
+
+(c) EXPANSION OF REPORTING AUTHORITIES TO COMBAT MONEY LAUNDERING.—Section 5318(a)(2) of title 31, United States Code, is amended—
+(1) by inserting ‘‘, including the collection and reporting of certain information as the Secretary of the Treasury may prescribe by regulation,’’ after ‘‘appropriate procedures’’; and
+(2) by inserting ‘‘, the financing of terrorism, or other forms of illicit finance’’ after ‘‘money laundering’’.
+(d) VALUE THAT SUBSTITUTES FOR CURRENCY.—
+(1) DEFINITIONS.—Section 5312(a) of title 31, United States Code, is amended—
+(A) in paragraph (1), by striking ‘‘, or a transaction in money, credit, securities, or gold’’ and inserting ‘‘, a transaction in money, credit, securities or gold, or a service provided with respect to money, securities, futures, precious metals, stones and jewels, or value that substitutes for currency’’;
+(B) in paragraph (2)—
+(i) in subparagraph (J), by inserting ‘‘, or a business engaged in the exchange of currency, funds, or value that substitutes for currency or funds’’ before the semicolon at the end; and
+(ii) in subparagraph (R), by striking ‘‘funds,’’ and inserting ‘‘currency, funds, or value that substitutes for currency,’’; and
+(C) in paragraph (3)—
+(i) in subparagraph (B), by striking ‘‘and’’ at the end;
+(ii) in subparagraph (C), by striking the period at the end and inserting ‘‘; and’’; and
+(iii) by adding at the end the following:
+‘‘(D) as the Secretary shall provide by regulation, value that substitutes for any monetary instrument described in subparagraph (A), (B), or (C).’’.
+(2) REGISTRATION OF MONEY TRANSMITTING BUSINESSES.—Section 5330(d) of title 31, United States Code, is amended—
+(A) in paragraph (1)(A)—
+(i) by striking ‘‘funds,’’ and inserting ‘‘currency, funds, or value that substitutes for currency,’’; and
+(ii) by striking ‘‘system;’’ and inserting ‘‘system;’’;
+and
+(B) in paragraph (2)—
+(i) by striking ‘‘currency or funds denominated in the currency of any country’’ and inserting ‘‘currency, funds, or value that substitutes for currency’’; 
+(ii) by striking ‘‘currency or funds, or the value of the currency or funds,’’ and inserting ‘‘currency, funds, or value that substitutes for currency,’’; and 
+(iii) by inserting ‘‘, including’’ after ‘‘means’’.
+
+SEC. 6103. FINCEN EXCHANGE.
+Section 310 of title 31, United States Code, is amended— (1) by redesignating subsection (d) as subsection (1); and (2) by inserting after subsection (c) the following:
+‘‘(d) FINCEN EXCHANGE.—
+‘‘(1) ESTABLISHMENT.—The FinCEN Exchange is hereby established within FinCEN.

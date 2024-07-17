@@ -1,0 +1,17 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+124 STAT. 2115
+‘‘(dd) any requirements imposed on the recipient with respect to employee compensation, distribution of dividends, or any other corporate decision in exchange for the assistance; and
+‘‘(ee) the expected costs to the taxpayers of such assistance; and
+‘‘(ii) once every 30 days, with respect to any outstanding loan or other financial assistance under this paragraph, written updates on—
+‘‘(I) the value of collateral;
+‘‘(II) the amount of interest, fees, and other revenue or items of value received in exchange for the assistance; and
+‘‘(III) the expected or final cost to the taxpayers of such assistance.
+‘‘(D) The information required to be submitted to Congress under subparagraph (C) related to—
+‘‘(i) the identity of the participants in an emergency lending program or facility commenced under this paragraph;
+‘‘(ii) the amounts borrowed by each participant in any such program or facility;
+‘‘(iii) identifying details concerning the assets or collateral held by, under, or in connection with such a program or facility, shall be kept confidential, upon the written request of the Chairman of the Board, in which case such information shall be made available only to the Chairpersons or Ranking Members of the Committees described in subparagraph (C).
+‘‘(E) If an entity to which a Federal reserve bank has provided a loan under this paragraph becomes a covered financial company, as defined in section 201 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, at any time while such loan is outstanding, and the Federal reserve bank incurs a realized net loss on the loan, then the Federal reserve bank shall have a claim equal to the amount of the net realized loss against the covered entity, with the same priority as an obligation to the Secretary of the Treasury under section 210(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act.’’.
+(b) CONFORMING AMENDMENT.—Section 507(a)(2) of title 11, United States Code, is amended by inserting ‘‘unsecured claims of any Federal reserve bank related to loans made through programs or facilities authorized under section 13(3) of the Federal Reserve Act (12 U.S.C. 343),’’ after ‘‘this title,’’.
+(c) REFERENCES.—On and after the date of enactment of this Act, any reference in any provision of Federal law to the third undesignated paragraph of section 13 of the Federal Reserve Act (12 U.S.C. 343) shall be deemed to be a reference to section 13(3) of the Federal Reserve Act, as so designated by this section.
+SEC. 1102. AUDITS OF SPECIAL FEDERAL RESERVE CREDIT FACILITIES.
+(a) AUDITS.—Section 714 of title 31, United States Code, is amended by adding at the end the following:

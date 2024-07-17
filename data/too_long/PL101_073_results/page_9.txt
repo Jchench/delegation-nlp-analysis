@@ -1,0 +1,28 @@
+PUBLIC LAW 101-73-AUG. 9, 1989    103 STAT. 191
+
+"(A) any building and loan association, savings and loan association, or homestead association; or 
+"(B) any cooperative bank (other than a cooperative bank which is a State bank as defined in subsection (a)(2)), which is organized and operating according to the laws of the State (as defined in subsection (a)(3)) in which it is chartered or organized.".
+
+(c) DEFINITIONS RELATING TO DEPOSITORY INSTITUTIONS.-Section 3(c) of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)) is amended to read as follows:
+"(c) DEFINITIONS RELATING TO DEPOSITORY INSTITUTIONS.-
+"(1) DEPOSITORY INSTITUTION.-The term 'depository institution' means any bank or savings association.
+"(2) INSURED DEPOSITORY INSTITUTION.-The term 'insured depository institution' means any bank or savings association the deposits of which are insured by the Corporation pursuant to this Act.
+"(3) INSTITUTIONS INCLUDED FOR CERTAIN PURPOSES.-The term 'insured depository institution' includes any uninsured branch or agency of a foreign bank or a commercial lending company owned or controlled by a foreign bank for purposes of section 8 of this Act.
+"(4) FEDERAL DEPOSITORY INSTITUTION.-The term 'Federal depository institution' means any national bank, any Federal savings association, and any Federal branch.
+"(5) STATE DEPOSITORY INSTITUTION.-The term 'State deposi- tory institution' means any State bank, any State savings association, and any insured branch which is not a Federal branch.".
+
+(d) DEFINITIONS RELATING TO MEMBER BANKS.-Section 3(d) of the Federal Deposit Insurance (12 U.S.C. 1813(d)) is amended to read as follows:
+"(d) DEFINITIONS RELATING TO MEMBER BANKS.-
+"(1) NATIONAL MEMBER BANK.-The term 'national member bank' means any national bank which is a member of the Federal Reserve System.
+"(2) STATE MEMBER BANK.-The term 'State member bank' means any State bank which is a member of the Federal Reserve System.".
+
+(e) DEFINITIONS RELATING TO NONMEMBER BANKS.-Section 3(e) of the Federal Deposit Insurance Act (12 U.S.C. 1813(e)) is amended to read as follows:
+"(e) DEFINITIONS RELATING TO NONMEMBER BANKS.-
+"(1) NATIONAL NONMEMBER BANK.-The term 'national nonmember bank' means any national bank which-
+"(A) is located in any territory of the United States, Puerto Rico, Guam, American Samoa, the Virgin Islands, or the Northern Mariana Islands; and
+"(B) is not a member of the Federal Reserve System.
+"(2) STATE NONMEMBER BANK.-The term 'State nonmember bank' means any State bank which is not a member of the Federal Reserve System.".
+
+(f) ADDITIONAL AMENDMENTS TO DEFINITIONS.-Section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813) is amended-
+(1) in subsection (j), by inserting "or savings association" after "of a bank";
+(2) in subsection (I)-

@@ -1,0 +1,19 @@
+134 STAT. 3470					PUBLIC LAW 116–283—JAN. 1, 2021
+
+breathing hypersonic weapons capabilities within the period of three years following such date of enactment.
+Consultation.	(d) REPORT.—In addition to the strategy and plan required under subsection (c), not later than 60 days after the date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering, in consultation with the Director of Operational Test and Evaluation, shall submit to the congressional defense committees a report on the testing capabilities and infrastructure used for hypersonic weapons development. The report shall include—
+Assessment.	(1) an assessment of the sufficiency of the testing capabilities and infrastructure used for fielding hypersonic weapons; and
+(2) a description of any investments in testing capabilities and infrastructure that may be required to support in-flight and ground-based testing for such weapons.
+42 USC 6605.	SEC. 223. DISCLOSURE OF FUNDING SOURCES IN APPLICATIONS FOR FEDERAL RESEARCH AND DEVELOPMENT AWARDS.
+(a) DISCLOSURE REQUIREMENT.—Each Federal research agency shall require, as part of any application for a research and development award from such agency—
+(1) that each covered individual listed on the application—
+(A) disclose the amount, type, and source of all current and pending research support received by, or expected to be received by, the individual as of the time of the disclosure;
+(B) certify that the disclosure is current, accurate, and complete; and
+(C) agree to update such disclosure at the request of the agency prior to the award of support and at any subsequent time the agency determines appropriate during the term of the award; and
+(2) that any entity applying for such award certify that each covered individual who is employed by the entity and listed on the application has been made aware of the requirements under paragraph (1).
+(b) CONSISTENCY.—The Director of the Office of Science and Technology Policy, acting through the National Science and Technology Council and in accordance with the authority provided under section 1746(a) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 42 U.S.C. 6601 note) shall ensure that the requirements issued by Federal research agencies under subsection (a) are consistent.
+(c) ENFORCEMENT.—
+(1) REJECTION FOR VIOLATION OF LAW OR AGENCY TERMS.—
+	A Federal research agency may reject an application for a research and development award if the current and pending research support disclosed by an individual under subsection (a) violates Federal law or agency terms and conditions.
+(2) ENFORCEMENT FOR NONCOMPLIANCE.—Subject to paragraph (3), in the event that a covered individual listed on an entity’s application for a research and development award knowingly fails to disclose information under subsection (a), a Federal research agency may take one or more of the following actions:
+(A) Reject the application.

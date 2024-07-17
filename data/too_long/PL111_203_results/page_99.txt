@@ -1,0 +1,23 @@
+PUBLIC LAW 111-203—JULY 21, 2010 124 STAT. 1473
+
+include an unperformed promise to furnish support to the covered financial company; and
+(ii) subparagraph (B)—
+(I) the covered financial company is presumed to have been insolvent on and during the 90-day period immediately preceding the date of appointment of the Corporation as receiver; and
+(II) the term “insolvent” has the same meaning as in section 101(32) of the Bankruptcy Code.
+
+(12) SETOFF.—
+(A) GENERALLY.—Except as otherwise provided in this title, any right of a creditor to offset a mutual debt owed by the creditor to any covered financial company that arose before the Corporation was appointed as receiver for the covered financial company against a claim of such creditor may be asserted if enforceable under applicable noninsolvency law, except to the extent that—
+(i) the claim of the creditor against the covered financial company is disallowed;
+(ii) the claim was transferred, by an entity other than the covered financial company, to the creditor—
+(I) after the Corporation was appointed as receiver of the covered financial company; or
+(II)(aa) after the 90-day period preceding the date on which the Corporation was appointed as receiver for the covered financial company; and
+(bb) while the covered financial company was insolvent (except for a setoff in connection with a qualified financial contract); or
+(iii) the debt owed to the covered financial company was incurred by the covered financial company—
+(I) after the 90-day period preceding the date on which the Corporation was appointed as receiver for the covered financial company;
+(II) while the covered financial company was insolvent; and
+(III) for the purpose of obtaining a right of setoff against the covered financial company (except for a setoff in connection with a qualified financial contract).
+
+(B) INSUFFICIENCY.—
+(i) IN GENERAL.—Except with respect to a setoff in connection with a qualified financial contract, if a creditor offsets a mutual debt owed to the covered financial company against a claim of the covered financial company on or within the 90-day period preceding the date on which the Corporation is appointed as receiver for the covered financial company, the Corporation may recover from the creditor the amount so offset, to the extent that any insufficiency on the date of such setoff is less than the insufficiency on the later of—
+(I) the date that is 90 days before the date on which the Corporation is appointed as receiver for the covered financial company; or
+(II) the first day on which there is an insufficiency during the 90-day period preceding the date

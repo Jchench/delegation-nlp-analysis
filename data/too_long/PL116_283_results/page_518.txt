@@ -1,0 +1,35 @@
+134 STAT. 3904            PUBLIC LAW 116–283—JAN. 1, 2021
+
+“SEC. 403. HEAD OF PROGRAM SUPERVISED BY HEAD OF AGENCY.
+   “The head of each Federal agency’s Equal Employment Opportunity Program shall report directly to the head of the agency.
+“SEC. 404. REFERRALS OF FINDINGS OF DISCRIMINATION.
+
+   “(a) EEOC FINDINGS OF DISCRIMINATION.—
+       “(1) IN GENERAL.—Not later than 30 days after the date on which the Equal Employment Opportunity Commission (referred to in this section as the ‘Commission’) receives, or should have received, a Federal agency report required under section 203(c), the Commission may refer the matter to which the report relates to the Office of Special Counsel if the Commission determines that the Federal agency did not take appropriate action with respect to the finding that is the subject of the report.
+       “(2) NOTIFICATIONS.—The Commission shall—
+          “(A) notify the applicable Federal agency if the Commission refers a matter to the Office of Special Counsel under paragraph (1); and
+          “(B) with respect to a fiscal year, include in the Annual Report of the Federal Workforce of the Commission covering that fiscal year—
+              “(i) the number of referrals made under paragraph (1) during that fiscal year; and 
+              “(ii) a brief summary of each referral described in clause (i).
+
+   “(b) REFERRALS TO SPECIAL COUNSEL.—The Office of Special Counsel shall accept and review a referral from the Commission under subsection (a)(1) for purposes of pursuing disciplinary action under the authority of the Office against a Federal employee who commits an act of discrimination (including retaliation).
+   
+   “(c) NOTIFICATION.—The Office of Special Counsel shall notify the Commission and the applicable Federal agency in a case in which—
+       “(1) the Office of Special Counsel pursues disciplinary action under subsection (b); and
+       “(2) the Federal agency imposes some form of disciplinary action against a Federal employee who commits an act of discrimination (including retaliation).
+   
+   “(d) SPECIAL COUNSEL APPROVAL.—A Federal agency may not take disciplinary action against a Federal employee for an alleged act of discrimination (including retaliation) referred by the Commission under this section, except in accordance with the requirements of section 1214(f) of title 5, United States Code.”.
+   
+   (c) CONFORMING AMENDMENTS.—The table of contents in section 1(b) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (5 U.S.C. 2301 note) is amended—
+       (1) by inserting after the item relating to section 206 the following:
+
+“Sec. 207. Complaint tracking.
+“Sec. 208. Notation in personnel record.”; and 
+
+       (2) by adding at the end the following:
+
+“TITLE IV—PROCESSING AND REFERRAL
+   “Sec. 401. Processing and resolution of complaints.
+   “Sec. 402. No limitation on advice or counsel.
+   “Sec. 403. Head of Program supervised by head of agency.
+   “Sec. 404. Referrals of findings of discrimination.”.

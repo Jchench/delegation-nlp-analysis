@@ -1,0 +1,51 @@
+Federal Trade Commission                                                                                             Pt. 698, App. G
+
+Duties After Notice of Dispute from Consumer
+
+     If a consumer notifies a furnisher, at an address specified for the furnisher for such 
+notice, that specific information is inaccurate, and the information is, in fact, inaccurate, the 
+furnisher must thereafter report the correct information to CRAs. Section 623(a)(1)(B).
+    
+     If a consumer notifies a furnisher that the consumer disputes the completeness or 
+accuracy of any information reported by the furnisher, the furnisher may not subsequently report 
+that information to a CRA without providing notice of the dispute. Section 623(a)(3).
+    
+     The federal banking and credit union regulators and the FTC will issue regulations that 
+will identify when an information furnisher must investigate a dispute made directly to the 
+furnisher by a consumer. Once these regulations are issued, furnishers must comply with them 
+and complete an investigation within 30 days (or 45 days, if the consumer later provides relevant 
+additional information) unless the dispute is frivolous or irrelevant or comes from a “credit repair 
+organization.” The FTC regulations will be available at www.ftc.gov/credit. Section 623(a)(8).
+
+Duties After Notice of Dispute from Consumer Reporting Agency
+
+     If a CRA notifies a furnisher that a consumer disputes the completeness or accuracy of 
+information provided by the furnisher, the furnisher has a duty to follow certain procedures. The 
+furnisher must:
+•     Conduct an investigation and review all relevant information provided by the 
+CRA, including information given to the CRA by the consumer. Sections 
+623(b)(1)(A) and (b)(1)(B).
+•     Report the results to the CRA that referred the dispute, and if, the investigation 
+establishes that the information was, in fact, incomplete or inaccurate, report the 
+results to all CRAs to which the furnisher provided the information that compile 
+and maintain files on a nationwide basis. Sections 623(b)(1)(C) and (b)(1)(D).
+•     Complete the above steps within 30 days from the date the CRA received the 
+dispute (or 45 days, if the consumer later provides relevant additional information  
+to the CRA). Section 623(b)(2).
+•     Promptly modify or delete the information, or block its reporting. Section 
+623(b)(1)(E)
+
+Duty to Report Voluntary Closing of Credit Accounts
+
+     If a consumer voluntarily closes a credit account, any person who regularly and in the 
+ordinary course of business furnishes information to one or more CRAs must report this fact 
+when it provides information to CRAs for the time period in which the account was closed. 
+Section 623(a)(4).
+
+Duty to Report Dates of Delinquencies
+
+     If a furnisher reports information concerning a delinquent account placed for collection, 
+charged to profit or loss, or subject to any similar action, the furnisher must, within 90 days after 
+reporting the information, provide the CRA with the month and the year of the commencement 
+
+                                                                                                                                                                  647

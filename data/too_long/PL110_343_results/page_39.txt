@@ -1,0 +1,20 @@
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+the basis of which in the hands of the applicable financial institution at the time of the sale or exchange is the same as the basis in the hands of the person which held such stock on such date, or
+(2) the applicable financial institution is a partner in a partnership which—
+(A) held such stock on September 6, 2008, and later sold or exchanged such stock, or
+(B) sold or exchanged such stock during the period described in subsection (b)(2)(B).
+(e) REGULATORY AUTHORITY.—The Secretary of the Treasury or the Secretary’s delegate may prescribe such guidance, rules, or regulations as are necessary to carry out the purposes of this section.
+(f) EFFECTIVE DATE.—This section shall apply to sales or exchanges occurring after December 31, 2007, in taxable years ending after such date.
+
+SEC. 302. SPECIAL RULES FOR TAX TREATMENT OF EXECUTIVE COMPENSATION OF EMPLOYERS PARTICIPATING IN THE TROUBLED ASSETS RELIEF PROGRAM.
+(a) DENIAL OF DEDUCTION.—Subsection (m) of section 162 of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+‘‘(5) SPECIAL RULE FOR APPLICATION TO EMPLOYERS PARTICIPATING IN THE TROUBLED ASSETS RELIEF PROGRAM.—
+‘‘(A) IN GENERAL.—In the case of an applicable employer, no deduction shall be allowed under this chapter—
+‘‘(i) in the case of executive remuneration for any applicable taxable year which is attributable to services performed by a covered executive during such applicable taxable year, to the extent that the amount of such remuneration exceeds $500,000, or
+‘‘(ii) in the case of deferred deduction executive remuneration for any taxable year for services performed during any applicable taxable year by a covered executive, to the extent that the amount of such remuneration exceeds $500,000 reduced (but not below zero) by the sum of—
+‘‘(I) the executive remuneration for such applicable taxable year, plus
+‘‘(II) the portion of the deferred deduction executive remuneration for such services which was taken into account under this clause in a preceding taxable year.
+‘‘(B) APPLICABLE EMPLOYER.—For purposes of this paragraph—
+‘‘(i) IN GENERAL.—Except as provided in clause (ii), the term ‘applicable employer’ means any employer from whom 1 or more troubled assets are acquired under a program established by the Secretary under section 101(a) of the Emergency Economic Stabilization Act of 2008 if the aggregate amount of the assets so acquired for all taxable years exceeds $300,000,000.
+‘‘(ii) DISREGARD OF CERTAIN ASSETS SOLD THROUGH DIRECT PURCHASE.—If the only sales of troubled assets

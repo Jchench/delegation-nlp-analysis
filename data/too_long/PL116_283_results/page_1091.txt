@@ -1,0 +1,89 @@
+PUBLIC LAW 116-283—JAN. 1, 2021  
+
+134 STAT. 4477  
+
+SEC. 4202. RESEARCH, DEVELOPMENT, TEST, AND EVALUATION FOR OVERSEAS CONTIN-  
+GENCY OPERATIONS.  
+(In Thousands of Dollars)  
+
+Line   Program Element              Item                    FY 2021      Conference  
+        Number                                                Request        Authorized  
+                                                                                      
+131     0604741A       AIR DEFENSE COMMAND, CONTROL AND INTEL-             27,000        27,000  
+                          LIGENCE—ENG DEV.                               
+159     0605035A       COMMON INFRARED COUNTERMEASURES (CIRCM          2,300          2,300  
+                         
+168     0605015A       AIRCRAFT SURVIVABILITY DEVELOPMENT ..........      64,265        64,265  
+183     0304270A       ELECTRONIC WARFARE DEVELOPMENT ..................     3,900           3,900  
+                          SUBTOTAL SYSTEM DEVELOPMENT & DEM-          
+                          ONSTRATION                                       97,825      97,825  
+
+                 MANAGEMENT SUPPORT  
+
+198     0605709A       EXPLOITATION OF FOREIGN ITEMS  ....................        1,000           1,000  
+209     0606010A       COUNTERINTEL AND HUMAN INTEL MODERNIZA-  
+                               TION ...........................................        4,137            4,137  
+                               SUBTOTAL MANAGEMENT SUPPORT..........       5,137            5,137   
+
+                 OPERATIONAL SYSTEMS DEVELOPMENT  
+
+239     0203802A       OTHER MISSILE PRODUCT IMPROVEMENT PRO-  
+                               GRAMS ...........................................         2,300            2,300  
+248     0305203A       SECURITY AND INTELLIGENCE ACTIVITIES.............    23,867          23,867  
+257     0305204A       TACTICAL UNMANNED AERIAL VEHICLES...............     34,100          34,100  
+258     0305206A       AIRBORNE RECONNAISSANCE SYSTEMS...................   15,775          15,775  
+                               SUBTOTAL OPERATIONAL SYSTEMS DEVEL-          
+                               OPMENT ............................................        75,342          75,342  
+
+                          TOTAL RESEARCH, DEVELOPMENT, TEST                  
+                          & EVAL, ARMY.............................................       182,824        182,824  
+
+                  RESEARCH, DEVELOPMENT, TEST & EVAL, NAVY  
+
+ADVANCED COMPONENT DEVELOPMENT &          
+PROTOTYPES  
+
+039     0603527N       FRIGATE LARCH.........................................        36,500          36,500  
+058     0603654N       JOINT SERVICE EXPLOSIVE ORDNANCE DEVELOP-  
+                               MENT ..................................................        14,461         14,461  
+063     0603724N       CHALK CORAL ............................................            3,000           3,000  
+071     0603795N       LAND ATTACK TECHNOLOGY .........................            1,457           1,457  
+                                SUBTOTAL ADVANCED COMPONENT DEVEL-            
+                                OPMENT & PROTOTYPES........................           55,418        55,418  
+
+                 SYSTEM DEVELOPMENT & DEMONSTRATION  
+
+142      0604755N          SHiP SELF DEFENSE (DETECT & CONTROL .) ...       1,144            1,144     
+                                SUBTOTAL SYSTEM DEVELOPMENT & DEM-      
+                                ONSTRATION...........................................     1,144          1,144  
+
+              OPERATIONAL SYSTEMS DEVELOPMENT  
+
+229     0206825M       USMC INTELLIGENCE/ELECTRONIC WARFARE SYS-  
+                                TEMS (MPI). ...........................................        3,000         3,000  
+                                SUBTOTAL OPERATIONAL SYSTEMS DEVEL-      
+                                OPMENT.................................................         3,000          3,000  
+
+                          TOTAL RESEARCH, DEVELOPMENT, TEST               
+                           & EVAL, NAVY........................................           59,562        59,562  
+
+                  RESEARCH, DEVELOPMENT, TEST & EVAL, AF  
+
+                           UNDISTRIBUTED  
+
+185     0205617F           JOINT COUNTER IED/ID ELECTRONIC WARFARE .....    4,080         4,080  
+228     0208285F           INTEL DATA APPLICATIONS ...............................          1,224         1,224  
+                                SUBTOTAL OPERATIONAL SYSTEMS DEVEL-      
+                                OPMENT................................................          5,304          5,304  
+
+                            TOTAL RESEARCH, DEVELOPMENT, TEST          
+                            & EVAL, AF .........................................            5,304          5,304  
+
+                  RESEARCH, DEVELOPMENT, TEST & EVAL, DW  
+
+                  APPLIED RESEARCH  
+
+010     06021314BR          COUNTER IMPROVISED-THREAT ADVANCED STUD-   
+
+IES.............................................................           3,699            3,699  
+                                SUBTOTAL APPLIED RESEARCH.........................  3,699            3,699

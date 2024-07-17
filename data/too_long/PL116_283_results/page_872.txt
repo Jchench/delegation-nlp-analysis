@@ -1,0 +1,33 @@
+134 STAT. 4258
+
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+(1) TRANSFER OF SECTION 2410P.—Section 2410p of title 10, United States Code, is transferred to subchapter V of chapter 322, as added by subsection (a), inserted after the table of sections, and redesignated as section 4292.
+(2) TRANSFER OF SECTION 2436.—Section 2436 of such title is transferred to chapter 322 of such title, inserted after section 4292, as added by paragraph (1), and redesignated as section 4293.
+
+SEC. 1848. LIFE-CYCLE AND SUSTAINMENT.
+
+(a) NEW CHAPTER.—Part V of subtitle A of title 10, United States Code, as added by section 801 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115-232), is amended by inserting after chapter 322, as added by the preceding section, the following new chapter:
+
+“CHAPTER 323—LIFE-CYCLE AND SUSTAINMENT
+
+“Sec.
+“4321. Development of major defense acquisition programs: sustainment of system to be replaced.
+“4322. [Reserved].
+“4323. Sustainment reviews.
+“4324. Major systems: life-cycle management and product support.
+“4325. Major weapon systems: assessment, management, and control of operating and support costs.
+“4326. [Reserved].
+“4327. [Reserved].
+“4328. Weapon system design: sustainment factors.”.
+
+(b) TRANSFER OF SECTION 2437.—Section 2437 of title 10, United States Code, is transferred to chapter 323 of such title, as added by subsection (a), inserted after the table of sections at the beginning, and redesignated as section 4321.
+(c) TRANSFER OF SECTION 2441.—Section 2441 of title 10, United States Code, is transferred to chapter 323 of such title, as added by subsection (a), inserted after section 4321, as transferred and redesignated by subsection (b), redesignated as section 4323, and amended by striking “sections 2337 and 2337a” in subsection (c) and inserting “sections 4324 and 4325”.
+(d) TRANSFER OF SECTIONS 2337 AND 2337a.—
+(1) TRANSFER.—Sections 2337 and 2337a of title 10, United States Code, are transferred to chapter 323 of such title, as added by subsection (a), inserted (in that order) after section 4323, as transferred and redesignated by subsection (c), and redesignated as sections 4324 and 4325, respectively.
+(2) AMENDMENT TO TRANSFERRED SECTION 4324.—Section 4324 of title 10, United States Code, as transferred and redesignated by paragraph (1), is amended by striking “section 2302(4)” in subsection (c)(5) and inserting “section 3014(c)(1)”.
+(3) AMENDMENTS TO TRANSFERRED SECTION 4325.—
+(A) Section 4325 of such title, as transferred and redesignated by paragraph (1), is amended—
+(i) in subsection (b)(1), by striking “section 2337” and inserting “section 4324”; and
+(ii) in subsection (d), by striking “section 2379(f)” and inserting “section 3455(f)”.
+(B) The heading of such section is amended to read as follows:

@@ -1,0 +1,89 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+                                       134 STAT. 4443
+
+                    SEC. 4101. PROCUREMENT
+                           (In Thousands of Dollars)
+
+Line                Item                                           FY 2021                            Conference
+                                                                     Request                        Authorized
+
+068      C-130 MODIFICATIONS .........................                                  20,414                              20,414
+                   SHIPBUILDING
+069      UNDERWATER SYSTEMS .......................                                    20,556                              20,556
+                   AMMUNITION PROGRAMS
+070      ORDNANCE ITEMS 6SM ........................                                186,197                            186,197
+                   OTHER PROCUREMENT PROGRAMS
+071      INTELLIGENCE SYSTEMS ....................                                  94,982                              94,982
+072      DISTRIBUTED COMMON GROUND/SURFACE SYSTEMS ..               11,645                              11,645
+073      OTHER ITEMS 6SM .................................                             96,333                            84,107
+                                                                                                 AMP excess to need 
+                                                                                                                 [-12,226]
+
+074      COMBATANT CRAFT SYSTEMS ...............                                    17,278                              17,278
+075      SPECIAL PROGRAMS .........................                                    78,555                              78,555
+                                                                                                 Program decrease .. 
+                                                                                                                 [-1,500]
+
+076      TACTICAL VEHICLES .........................                                    30,158                              30,158
+077      WEAPONS SYSTEMS 6SM ...................                                  290,783                            290,783
+078      COMBAT MISSION REQUIREMENTS .........                              19,148                              19,148
+079      GLOBAL VIDEO SURVEILLANCE ACTIVITIES ..                            2,401                               2,401
+080      OPERATIONAL ENHANCEMENTS INTELLIGENCE ...                        13,861                              13,861
+081      OPERATIONAL ENHANCEMENTS .................                                247,058                            247,058
+
+ 
+082      CHEMICAL BIOLOGICAL SITUATIONAL AWARENESS ....           147,150                            147,150
+083      CB PROTECTION & HAZARD MITIGATION ........                          149,944                            149,944
+                    TOTAL PROCUREMENT, DEFENSE-WIDE ..                5,924,847                        5,835,941
+
+                    TOTAL PROCUREMENT .............................            130,684,146                    136,583,222
+     
+     SEC. 4102. PROCUREMENT FOR OVERSEAS CONTINGENCY OPER-
+                                                       ATIONS
+
+                   SEC. 4102. PROCUREMENT FOR OVERSEAS CONTINGENCY OPERATIONS
+                                               (In Thousands of Dollars)
+
+Line                Item                                           FY 2021                            Conference
+                                                                     Request                        Authorized
+
+002      AIRCRAFT PROCUREMENT, ARMY
+                   FIXED WING
+009      MQ-1 UAV ..............................................                            110,000                           110,000
+                                                                                                      Additional aircraft 
+                                                                                                      Rescission .......... 
+                                                                                                               [110,000]
+
+012      ROTARY
+       AH-64 APACHE BLOCK III NEW BUILD ........                           69,154                              69,154
+014      CH-47 HELICOPTER ...............................                            50,472                              50,472
+       MODIFICATION OF AIRCRAFT
+017      MQ-1 PAYLOAD (AMP) .........................                               5,968                                [-5,968]
+020      LAHTI SENSOR BASE RECON (AMP) ........                           122,520                           122,520
+025      EMARSS SENSOR (AMP) ......................                            26,460                             26,460
+030      DEGRADED VISUAL ENVIRONMENT ..........                              1,916                               1,916
+037      GROUND SUPPORT AVIONICS .................                             149,162                           149,162
+
+038      COMMON INFRARED COUNTERMEASURES (CIRCM) ...             32,400                             32,400
+
+       OTHER SUPPORT
+       UNDISTRIBUTED
+041      AIRCRAFT INTEGRATED SYSTEMS ............                               3,028                               3,028
+
+       TOTAL AIRCRAFT PROCUREMENT, ARMY ..                 461,808                           565,112
+
+       MISSILE PROCUREMENT, ARMY
+       SURFACE-TO-AIR MISSILE SYSTEM
+002      M SHORAD—PROCUREMENT ....................                           158,300                           158,300
+005      MEADS MISSILE .......................................                          176,585                           176,585
+       AIR-TO-SURFACE MISSILE SYSTEM
+006      HELFIRE SYS ARCHER MMMSARY ...........                            236,265                           236,265
+       ANTI-TANK/ASSAULT MISSILE SYS
+011      GUIDED MLRS ROCKET (GMLRS) .............                         127,015                           127,015
+015      LETHAL MINIATURE AERIAL MISSILE SYSTEM (LMAMS)                           89,903                           89,903
+                                                                                              Contract delays .. 
+                                                                                                                [-5,500]
+
+       MODIFICATIONS
+017      ATACMS MODS .........................................                             78,434                             78,434

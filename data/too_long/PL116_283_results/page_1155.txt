@@ -1,0 +1,19 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 4541
+
+fields and research areas that will contribute to the development and deployment of trustworthy artificial intelligence systems, and fields and research areas that address the application of artificial intelligence systems to scientific discovery and societal challenges;
+(2) use the existing programs of the National Science Foundation, in collaboration with other Federal departments and agencies, as appropriate to—
+(A) improve the teaching and learning of topics related to artificial intelligence systems in K-12 education and postsecondary educational programs, including workforce training and career and technical education programs, undergraduate and graduate education programs, and in informal settings; and
+(B) increase participation in artificial intelligence related fields, including by individuals identified in sections 33 and 34 of the Science and Engineering Equal Opportunity Act (42 U.S.C. 1885a, 1885b);
+(3) support partnerships among institutions of higher education, Federal laboratories, nonprofit organizations, State, local, and Tribal governments, industry, and potential users of artificial intelligence systems that facilitate collaborative research, personnel exchanges, and workforce development and identify emerging research needs with respect to artificial intelligence systems;
+(4) ensure adequate access to research and education infrastructure with respect to artificial intelligence systems, which may include the development of new computing resources and partnership with the private sector for the provision of cloud-based computing services;
+(5) conduct prize competitions, as appropriate, pursuant to section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719);
+(6) coordinate research efforts funded through existing programs across the directorates of the National Science Foundation;
+(7) provide guidance on data sharing by grantees to public and private sector organizations consistent with the standards and guidelines developed under section 22(a)(e) of the National Institute of Standards and Technology Act (as added by section 5301 of this division); and
+(8) evaluate opportunities for international collaboration with strategic allies on artificial intelligence research and development.
+
+(c) ENGINEERING SUPPORT.—In general, the Director shall permit applicants to include in their proposed budgets funding for software engineering support to assist with the proposed research.
+
+(d) ETHICS.—
+(1) SENSE OF CONGRESS.—It is the sense of Congress that—
+(A) a number of emerging areas of research, including artificial intelligence, have potential ethical, social, safety, and security risks that might be apparent as early as the basic research stage;
+(B) the incorporation of ethical, social, safety, and security considerations into the research design and review

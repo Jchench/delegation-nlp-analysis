@@ -1,0 +1,19 @@
+134 STAT. 4334          PUBLIC LAW 116–283—JAN. 1, 2021
+
+installation even when the installation is not connected to energy sources located off the installation.
+    ‘‘(C) Reduction in periodic refueling needs from sources off the installation to not more than once every two years.
+    ‘‘(3) In this subsection, the term ‘microgrid’ means an integrated energy system consisting of interconnected loads and energy resources that, if necessary, can be removed from the local utility grid and function as an integrated, stand-alone system.’’.
+    (b) EVALUATION OF FEASIBILITY OF EXPANDING USE OF ON-
+SITE ENERGY PRODUCTION.—
+        (1) PROJECTS AUTHORIZED.—Subsection (h) of section 2911 of title 10, United States Code, as added by subsection (a), is amended by inserting after paragraph (1) the following new paragraph:
+            ‘‘(2)(A) Using amounts made available for military construction projects under section 2914 of this title, the Secretary of Defense shall carry out at least four projects to promote installation energy security and energy resilience in the manner described in paragraph (1).
+            ‘‘(B) At least one project shall be designed to develop technology that demonstrates the ability to connect an existing on-site energy generation facility that uses solar power with one or more installation facilities performing critical missions in a manner that allows the generation facility to continue to provide electrical power to these facilities even if the installation is disconnected from the commercial power supply.
+            ‘‘(C) At least one project shall be designed to develop technology that demonstrates that one or more installation facilities performing critical missions can be isolated, for purposes of electrical power supply, from the remainder of the installation and from the commercial power supply in a manner that allows an on-site energy generation facility that uses a renewable energy source, other than solar energy, to provide the necessary power exclusively to these facilities.
+            ‘‘(D) At least two projects shall be designed to develop technology that demonstrates the ability to store sufficient electrical energy from an on-site energy generation facility that uses a renewable energy source to provide the electrical energy required to continue operation of installation facilities performing critical missions during nighttime operations.
+            ‘‘(E) The authority of the Secretary of Defense to commence a project under this paragraph expires on September 30, 2025.’’.
+        (2) BRIEFING.—Not later than March 1, 2021, the Secretary of Defense shall brief the congressional defense committees regarding the plan to carry out the on-site energy production projects authorized by paragraph (2) of section 2911(h) of title 10, United States Code, as added by paragraph (1).
+
+SEC. 2826. IMPROVED ELECTRICAL METERING OF DEPARTMENT OF 
+DEFENSE INFRASTRUCTURE SUPPORTING CRITICAL MISSIONS.
+
+    (a) OPTIONS TO IMPROVE ELECTRICAL METERING.—The Secretary of Defense and the Secretaries of the military departments shall improve the metering of electrical energy usage of covered defense structures to accurately determine energy consumption by such a structure to increase energy efficiency and improve energy

@@ -1,0 +1,22 @@
+105 STAT. 2250		PUBLIC LAW 102-242—DEC. 19, 1991
+
+Subtitle C—Accounting Reforms
+
+SEC. 121. ACCOUNTING OBJECTIVES, STANDARDS, AND REQUIREMENTS.
+(a) IN GENERAL.—The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended by inserting after section 36 (as added by section 112 of this title) the following new section:
+“SEC. 37. ACCOUNTING OBJECTIVES, STANDARDS, AND REQUIREMENTS.
+“(a) IN GENERAL.—
+“(1) OBJECTIVES.—Accounting principles applicable to reports or statements required to be filed with Federal banking agencies by insured depository institutions should—
+“(A) result in financial statements and reports of condition that accurately reflect the capital of such institutions;
+“(B) facilitate effective supervision of the institutions; and
+“(C) facilitate prompt corrective action to resolve the institutions at the least cost to the insurance funds.
+“(2) STANDARDS.—
+“(A) UNIFORM ACCOUNTING PRINCIPLES CONSISTENT WITH GAAP.—Subject to the requirements of this Act and any other provision of Federal law, the accounting principles applicable to reports or statements required to be filed with Federal banking agencies by all insured depository institutions shall be uniform and consistent with generally accepted accounting principles.
+“(B) STRINGENCY.—If the appropriate Federal banking agency or the Corporation determines that the application of any generally accepted accounting principle by any insured depository institution is inconsistent with the objectives described in paragraph (1), the agency or the Corporation may, with respect to reports or statements required to be filed with such agency or Corporation, prescribe an accounting principle which is applicable to such institutions which is no less stringent than generally accepted accounting principles.
+“(3) REVIEW AND IMPLEMENTATION OF ACCOUNTING PRINCIPLES REQUIRED.—Before the end of the 1-year period beginning on the date of the enactment of the Federal Deposit Insurance Corporation Improvement Act of 1991, each appropriate Federal banking agency shall take the following actions:
+“(A) REVIEW OF ACCOUNTING PRINCIPLES.—Review—
+“(i) all accounting principles used by depository institutions with respect to reports or statements required to be filed with a Federal banking agency;
+“(ii) all requirements established by the agency with respect to such accounting procedures; and
+“(iii) the procedures and format for reports to the agency, including reports of condition.
+“(B) MODIFICATION OF NONCOMPLYING MEASURES.—Modify or eliminate any accounting principle or reporting requirement of such Federal agency which the agency determines fails to comply with the objectives and standards established under paragraphs (1) and (2).
+“(C) INCLUSION OF ‘OFF BALANCE SHEET’ ITEMS.—Develop and prescribe regulations which require that all assets and

@@ -1,0 +1,16 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 4379
+
+    (B) the plan for providing that official with resources sufficient to conduct the monitoring required by subsection (a).
+(2) SUBSEQUENT BRIEFINGS.—Not later than April 1, 2022, and annually thereafter through 2024, the Administrator shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on activities carried out under this section that includes an assessment of the progress made by the official designated under subsection (a) in conducting the monitoring required by that subsection.
+	
+SEC. 3114. PLUTONIUM PIT PRODUCTION.
+(a) INDEPENDENT COST ESTIMATE.—
+(1) REQUIREMENT.—The Secretary of Energy shall obtain an independent cost estimate for each covered project in accordance with Department of Energy Order 413.3B (relating to program management and project management for the acquisition of capital assets), as in effect on the day before the date of the enactment of this Act.
+(2) CONFIDENCE LEVEL.—An independent cost estimate under paragraph (1) with respect to a covered project shall assign a confidence level, expressed as a percentage, with respect to whether the Secretary will be able to carry out the covered project within the estimated schedule and cost objectives of the Department of Energy consistent with the document of the Government Accountability Office entitled “Cost Estimating and Assessment Guide” (GAO–09–3SP) and dated March 2009.
+(3) SUBMISSION.—Not later than 30 days after obtaining an independent cost estimate under paragraph (1) with respect to a covered project, the Secretary shall submit to the congressional defense committees the estimate, including the confidence level assigned under paragraph (2).
+(b) CONDITIONAL REPORTS AND CERTIFICATIONS.—
+(1) LOW CONFIDENCE.—If an independent cost estimate for a covered project under subsection (a) assigns a high-end cost for the project that is 15 percent or more higher than the high-end project cost position approved by the Department of Energy for the project at critical decision 1 in the acquisition process—
+(A) not later than 90 days after approval of critical decision 1, the Secretary shall submit to the congressional defense committees the report described in paragraph (2) with respect to the covered project; and
+(B) not later than 90 days after the date on which the Secretary submits the independent cost estimate to the congressional defense committees under subsection (a)(3), the Commander of the United States Strategic Command shall certify to those committees that—
+(i) the requirement to produce war reserve plutonium pits under section 4219 of the Atomic Energy Defense Act (50 U.S.C. 2538a) cannot be altered or extended by not more than five years without—
+(I) degrading the capabilities of the Command to accomplish its assigned nuclear deterrence missions; or

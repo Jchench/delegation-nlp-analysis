@@ -1,0 +1,21 @@
+122 STAT. 3806  PUBLIC LAW 110–343—OCT. 3, 2008
+
+shall be treated as a reference to any payment made during an applicable taxable year of the employer on account of such applicable severance from employment.
+   ‘‘(C) Any reference to a corporation shall be treated as a reference to an applicable employer.
+   ‘‘(D) The provisions of subsections (b)(2)(C), (b)(4), (b)(5), and (d)(5) shall not apply.
+‘‘(2) DEFINITIONS AND SPECIAL RULES.—For purposes of this subsection:
+      ‘‘(A) DEFINITIONS.—Any term used in this subsection which is also used in section 162(m)(5) shall have the meaning given such term by such section.
+      ‘‘(B) APPLICABLE SEVERANCE FROM EMPLOYMENT.—The term ‘applicable severance from employment’ means any severance from employment of a covered executive—
+         ‘‘(i) by reason of an involuntary termination of the executive by the employer, or
+         ‘‘(ii) in connection with any bankruptcy, liquidation, or receivership of the employer.
+      ‘‘(C) COORDINATION AND OTHER RULES.—
+         ‘‘(i) IN GENERAL.—If a payment which is treated as a parachute payment by reason of this subsection is also a parachute payment determined without regard to this subsection, this subsection shall not apply to such payment.
+         ‘‘(ii) REGULATORY AUTHORITY.—The Secretary may prescribe such guidance, rules, or regulations as are necessary—
+            ‘‘(I) to carry out the purposes of this subsection and the Emergency Economic Stabilization Act of 2008, including the extent to which this subsection applies in the case of any acquisition, merger, or reorganization of an applicable employer,
+            ‘‘(II) to apply this section and section 4999 in cases where one or more parachute payments with respect to any individual are treated as parachute payments by reason of this subsection, and other payments with respect to such individual are treated as parachute payments under this section without regard to this subsection, and
+            ‘‘(III) to prevent the avoidance of the application of this section through the mischaracterization of a severance from employment as other than an applicable severance from employment.’’.
+     (c) EFFECTIVE DATES.—
+         (1) IN GENERAL.—The amendment made by subsection (a) shall apply to taxable years ending on or after the date of the enactment of this Act.
+26 USC 162 note.
+26 USC 280G note.
+         (2) GOLDEN PARACHUTE RULE.—The amendments made by subsection (b) shall apply to payments with respect to severances occurring during the period during which the authorities under section 101(a) of this Act are in effect (determined under section 120 of this Act).

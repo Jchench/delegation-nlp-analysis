@@ -1,0 +1,21 @@
+PUBLIC LAW 101-73—AUG. 9, 1989 103 STAT. 337
+
+"(i) a savings association chartered as part of a transaction described in paragraph (1); or
+"(ii) a mutual savings association acquired pursuant to paragraph (5)(B),
+shall have the same ownership rights with respect to the mutual holding company as persons described in subparagraph (A) of this paragraph.
+"(5) PERMITTED ACTIVITIES.—A mutual holding company may engage only in the following activities:
+"(A) Investing in the stock of a savings association.
+"(B) Acquiring a mutual association through the merger of such association into a savings association subsidiary of such holding company or an interim savings association subsidiary of such holding company.
+"(C) Subject to paragraph (6), merging with or acquiring another holding company, one of whose subsidiaries is a savings association.
+"(D) Investing in a corporation the capital stock of which is available for purchase by a savings association under Federal law or under the law of any State where the subsidiary savings association or associations have their home offices.
+"(E) Engaging in the activities described in subsection (c)(2), except subparagraph (B).
+(6) LIMITATIONS ON CERTAIN ACTIVITIES OF ACQUIRED HOLDING COMPANIES—
+"(A) NEW ACTIVITIES.—If a mutual holding company acquires or merges with another holding company under paragraph (5)(C), the holding company acquired or the holding company resulting from such merger or acquisition may only invest in assets and engage in activities which are authorized under paragraph (5).
+(B) GRACE PERIOD FOR DIVESTING PROHIBITED ASSETS OR DISCONTINUING PROHIBITED ACTIVITIES.—Not later than 2 years following a merger or acquisition described in paragraph (5)(C), the acquired holding company or the holding company resulting from such merger or acquisition shall—
+
+"(i) dispose of any asset which is an asset in which a mutual holding company may not invest under paragraph (5); and
+"(ii) cease any activity which is an activity in which a mutual holding company may not engage under paragraph (5).
+
+"(7) REGULATION.—A mutual holding company shall be chartered by the Director and shall be subject to such regulations as the Director may prescribe. Unless the context otherwise requires, a mutual holding company shall be subject to the other requirements of this section regarding regulation of holding companies.
+"(8) CAPITAL IMPROVEMENT.—
+"(A) PLEDGE OF STOCK OF SAVINGS ASSOCIATION SUBSIDIARY.—This section shall not prohibit a mutual holding company from pledging all or a portion of the stock of a savings association chartered as part of a transaction described in paragraph (1) to raise capital for such savings association.

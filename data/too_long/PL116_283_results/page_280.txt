@@ -1,0 +1,63 @@
+134 STAT. 3666           PUBLIC LAW 116-283—JAN. 1, 2021
+
+       by striking the item relating to section 2193b and inserting the 
+       following new item:
+       "2193b. Improvement of education in technical fields: program for support of ele-
+       mentary and secondary education in science, technology, engineering, 
+       art and design, and mathematics.".
+
+SEC. 592. INCLUSION OF CERTAIN OUTLYING AREAS IN THE DEPART-
+       MENT OF DEFENSE STARBASE PROGRAM.
+   Section 2193b(h) of title 10, United States Code, is amended 
+   by inserting "the Commonwealth of the Northern Mariana Islands,
+   American Samoa," before "and Guam".
+
+SEC. 593. POSTPONEMENT OF CONDITIONAL DESIGNATION OF EXPLO-
+       SIVE ORDNANCE DISPOSAL CORPS AS A BASIC BRANCH 
+       OF THE ARMY.
+   Section 582(b) of the National Defense Authorization Act for 
+   Fiscal Year 2018 (Public Law 115-91; 10 U.S.C. 7063 note) is 
+   amended—
+       (1) in paragraph (1), by striking "October 1, 2020" and 
+            inserting "October 1, 2025"; and 
+       (2) in paragraph (2)—
+            (A) in the matter preceding subparagraph (A), by 
+                 striking "September 30, 2020" and inserting "September 
+                 30, 2025";
+            (B) in subparagraph (B), by inserting ", the explosive 
+                 ordnance disposal commandant (chief of explosive ordnance 
+                 disposal)," before "qualified"; and 
+            (C) by adding at the end the following new subpara-
+              graph:
+        "(G) The explosive ordnance disposal commandant 
+       (chief of explosive ordnance disposal) has determined 
+       whether explosive ordnance disposal soldiers have the 
+       appropriate skills necessary to support missions of special 
+       operations forces (as identified in section 167(j) of title 
+       10, United States Code). Such skills may include airbourne, 
+       air assault, combat diver, fast roping insertion and extrac-
+       tion, helocasting, military free-fall, and off-road driving.".
+
+                                                             10 USC 7063
+                                                             note.
+
+SEC. 594. ARMED SERVICES VOCATIONAL APTITUDE BATTERY TEST 
+       SPECIAL PURPOSE ADJUNCT TO ADDRESS COMPUTA-
+       TIONAL THINKING.
+   Not later than one year after the date of the enactment of 
+   this Act, the Secretary of Defense shall establish a special purpose 
+   test adjunct to the Armed Services Vocational Aptitude Battery 
+   test to address computational thinking skills relevant to military 
+   applications, including problem decomposition, abstraction, pattern 
+   recognition, analytical ability, the identification of variables 
+   involved in data representation, and the ability to create algorithms 
+   and solution expressions.
+
+SEC. 595. EXTENSION OF REPORTING DEADLINE FOR THE ANNUAL 
+       REPORT ON THE ASSESSMENT OF THE EFFECTIVENESS 
+       OF ACTIVITIES OF THE FEDERAL VOTING ASSISTANCE 
+       PROGRAM.
+   (a) ELIMINATION OF REPORTS FOR NON-ELECTION YEARS.—Sec-
+   tion 105A(b) of the Uniformed and Overseas Citizens Absentee 
+   Voting Act (52 U.S.C. 20308(b)) is amended, in the matter preceding 
+   paragraph (1)—

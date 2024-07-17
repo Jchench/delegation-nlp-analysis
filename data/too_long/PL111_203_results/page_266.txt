@@ -1,0 +1,22 @@
+124 STAT. 1640             PUBLIC LAW 111–203—JULY 21, 2010
+
+and to the same extent as if the company described in paragraph (1)(A) were a savings and loan holding company.
+“(B) APPLICATION OF OTHER ACT.—Any violation of this subsection by a grandfathered unitary savings and loan holding company that controls an intermediate holding company may also be treated as a violation of the Federal Deposit Insurance Act for purposes of subparagraph (A).
+“(C) NO EFFECT ON OTHER AUTHORITY.—No provision of this paragraph shall be construed as limiting any authority of the Board or any other Federal agency under any other provision of law.
+“(c) REGULATIONS.—The Board—
+“(1) shall promulgate regulations to establish the criteria for determining whether to require a grandfathered unitary savings and loan holding company to establish an intermediate holding company under subsection (b); and
+“(2) may promulgate regulations to establish any restrictions or limitations on transactions between an intermediate holding company or a parent of such company and its affliates, as necessary to prevent unsafe and unsound practices in connection with transactions between the intermediate holding company, or any subsidiary thereof, and its parent company or affiliates that are not subsidiaries of the intermediate holding company, except that such regulations shall not restrict or limit any transaction in connection with the bona fide acquisition or lease by an unaffiliated person of assets, goods, or services.
+‘‘(d) RULES OF CONSTRUCTION.—
+“(1) ACTIVITIES.—Nothing in this section shall be construed to require a grandfathered unitary savings and loan holding company to conform its activities to permissible activities.
+“(2) PERMISSIBLE CORPORATE REORGANIZATION.—The formation of an intermediate holding company as required in subsection (b) shall be presumed to be a permissible corporate reorganization as described in section 10(c)(9)(D).”.
+
+SEC. 627. INTEREST-BEARING TRANSACTION ACCOUNTS AUTHORIZED.
+(a) REPEAL OF PROHIBITION ON PAYMENT OF INTEREST ON DEMAND DEPOSITS.—
+(1) FEDERAL RESERVE ACT.—Section 19(i) of the Federal Reserve Act (12 U.S.C. 371a) is amended to read as follows:
+“(i) [Repealed]”.
+(2) HOME OWNERS’ LOAN ACT.—The first sentence of section 5(b)(1)(B) of the Home Owners’ Loan Act (12 U.S.C. 1464(b)(1)(B)) is amended by striking “savings association may not—” and all that follows through “(ii) permit any” and inserting “savings association may not permit any”.
+(3) FEDERAL DEPOSIT INSURANCE ACT.—Section 18(g) of the Federal Deposit Insurance Act (12 U.S.C. 1828(g)) is amended to read as follows:
+“(g) [Repealed]”.
+(b) EFFECTIVE DATE.—The amendments made by subsection (a) shall take effect 1 year after the date of the enactment of this Act.
+SEC. 628. CREDIT CARD BANK SMALL BUSINESS LENDING.
+Section 2(c)(2)(F)(v) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(F)(v)) is amended by inserting before the

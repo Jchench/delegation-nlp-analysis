@@ -1,0 +1,17 @@
+134 STAT. 4318 PUBLIC LAW 116–283—JAN. 1, 2021
+
+(b) ADDITIONAL CONDITIONS ON SOURCE OF FUNDS.—Section 2808(a) of title 10, United States Code, is amended by striking the second sentence and inserting the following new subsection:
+“(b) CONDITIONS ON SOURCES OF FUNDS.—A military construction project to be undertaken using the construction authority described in subsection (a) may be undertaken only within the total amount of funds that have been appropriated for military construction, excluding funds appropriated for family housing, that—
+“(1) remain unobligated as of the date on which the first contract would be entered into in support of the national emergency declaration described in subsection (a); and
+“(2) are available because the military construction project for which the funds were appropriated—
+“(A) has been canceled; or
+“(B) has reduced costs as a result of project modifications or other cost savings.”.
+(c) WAIVER OF OTHER PROVISIONS OF LAW.—Section 2808 of title 10, United States Code, is amended by inserting after subsection (c), as added by subsection (a), the following new subsection:
+“(d) WAIVER OF OTHER PROVISIONS OF LAW IN EVENT OF NATIONAL EMERGENCY.—In the event of a declaration by the President of a national emergency in which the construction authority described in subsection (a) is used, the authority provided by this subsection to waive or disregard another provision of law that would otherwise apply to a military construction project authorized by this section may be used only if—
+“(1) such other provision of law does not provide a means by which compliance with the requirements of the law may be waived, modified, or expedited; and
+Determination. “(2) the Secretary of Defense determines that the nature of the national emergency necessitates the noncompliance with the requirements of the law.”.
+(d) ADDITIONAL NOTIFICATION REQUIREMENTS.—Subsection (e) of section 2808 of title 10, United States Code, as redesignated by subsection (a)(1), is amended—
+(1) by striking “of the decision” and all that follows through the end of the subsection and inserting the following: “of the following:
+“(A) The reasons for the decision to use the construction authority described in subsection (a), including, in the event of a declaration by the President of a national emergency, the reasons why use of the armed forces is required in response to the declared national emergency.
+“(B) The construction projects to be undertaken using the construction authority described in subsection (a), including, in the event of a declaration by the President of a national emergency, an explanation of how each construction project directly supports the immediate security, logistical, or short-term housing and ancillary supporting facility needs of the members of the armed forces used in the national emergency.
+Cost estimate. “(C) The estimated cost of the construction projects to be undertaken using the construction authority described in subsection (a), including the cost of any real estate action pertaining to the construction projects, and certification of compliance with the funding conditions imposed by subsections (b) and (c).

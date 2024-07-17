@@ -1,0 +1,23 @@
+PUBLIC LAW 102-550—OCT. 28, 1992
+106 STAT. 3779
+
+“(11) The Board shall terminate on January 1, 1995.”.
+
+SEC. 503. MAXIMUM MORTGAGE AMOUNT.
+
+(a) IN GENERAL.—The first sentence of section 203(b)(2) of the National Housing Act (12 U.S.C. 1709(b)(2)) is amended to read as follows: “Involve a principal obligation (including such initial service charges, appraisal, inspection, and other fees as the Secretary shall approve) in an amount—
+“(A) not to exceed the lesser of—
+“(i) in the case of a 1-family residence, 95 percent of the median 1-family house price in the area, as determined by the Secretary; in the case of a 2-family residence, 107 percent of such median price; in the case of a 3-family residence, 130 percent of such median price; or in the case of a 4-family residence, 150 percent of such median price; or
+“(ii) 75 percent of the dollar amount limitation determined under section 305(a)(2) of the Federal Home Loan Mortgage Corporation Act (as in effect on September 30, 1992) for a residence of the applicable size;
+except that the applicable dollar amount limitation in effect for any area under this subparagraph (A) may not be less than the dollar amount limitation in effect under this section for the area on May 12, 1992; and
+“(B) except as otherwise provided in this paragraph (2), not to exceed an amount equal to the sum of—
+“(i) 97 percent of $25,000 of the appraised value of the property, as of the date the mortgage is accepted for insurance;
+“(ii) 95 percent of such value in excess of $25,000 but not in excess of $125,000; and
+“(iii) 90 percent of such value in excess of $125,000.”.
+(b) APPLICABILITY.—The amendment made by subsection (a) shall apply only to mortgages executed on or after January 1, 1993.
+(c) CONFORMING AMENDMENTS.—
+(1) TITLE I—LOANS.—Notwithstanding any other provision of law, section 2(b)(1) of the National Housing Act (12 U.S.C. 1703(b)(1)) is amended by striking subparagraphs (C), (D), and (E) and inserting the following new subparagraphs:
+“(C) $48,600 if made for the purpose of financing the purchase of a manufactured home;
+“(D) $64,800 if made for the purpose of financing the purchase of a manufactured home and a suitably developed lot on which to place the home; and
+“(E) $16,200 if made for the purpose of financing the purchase, by an owner of a manufactured home which is the principal residence of that owner, of a suitably developed lot on which to place that manufactured home, and if the owner certifies that he or she will place the manufactured home on the lot acquired with such loan within 6 months after the date of such loan.”.
+(2) HOME EQUITY CONVERSION MORTGAGES FOR ELDERLY HOMEOWNERS. —Section 255(g) of the National Housing Act (12 U.S.C. 1715z-20(g)) is amended by striking “for a 1-family residence” and inserting “for 1-family residences in the area

@@ -1,0 +1,26 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 3491
+
+(B) excepted service authorities;
+(C) personnel exchange authorities;
+(D) authorities for hiring special government employees and highly qualified experts;
+(E) special pay authorities; and
+(F) private sector best practices to attract and retain technical talent.
+(3) METRICS.—The Secretary of Defense shall develop metrics to evaluate the effectiveness of the pilot program in contributing to the ability of the Department of Defense to attract and retain technical talent.
+(4) PLAN REQUIRED.—The Secretary of Defense shall develop a plan for the implementation of the pilot program.
+(b) REPORTS.—
+(1) REPORT ON PLAN.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report that sets forth the plan required under subsection (a)(4).
+(2) REPORT ON PILOT PROGRAM.—Not later than three years after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the results of the pilot program.
+(c) DEFINITIONS.—In this section:
+(1) The term ‘‘covered human resources personnel’’ means members of the Armed Forces and civilian employees of the Department of Defense, including human resources professionals, hiring managers, and recruiters, who are responsible for hiring technical talent.
+(2) The term ‘‘technical talent’’ means individuals with expertise in high priority technical disciplines.
+(d) TERMINATION.—The requirement to carry out the pilot program under this section shall terminate five years after the date of the enactment of this Act.
+
+SEC. 247. PILOT PROGRAM ON THE USE OF ELECTRONIC PORTFOLIOS TO EVALUATE CERTAIN APPLICANTS FOR TECHNICAL POSITIONS.
+
+(a) PILOT PROGRAM.—Beginning not later than one year after the date of the enactment of this Act, the Secretary of Defense shall carry out a pilot program under which certain applicants for technical positions within the Department of Defense will be evaluated, in part, based on electronic portfolios of the applicant’s work, as described in subsection (b).
+(b) ACTIVITIES.—Under the pilot program, the human resources manager of each organization of the Department of Defense participating in the program, in consultation with relevant subject matter experts, shall—
+(1) identify a subset of technical positions for which the evaluation of electronic portfolios would be appropriate as part of the hiring process; and
+(2) as appropriate, assess applicants for such positions by reviewing electronic portfolios of the applicants’ best work, as selected by the applicant concerned.
+(c) SCOPE OF PROGRAM.—The Secretary of Defense shall carry out the pilot program under subsection (a) in—
+(1) the Joint Artificial Intelligence Center;
+(2) the Defense Digital Service;

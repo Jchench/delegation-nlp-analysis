@@ -1,0 +1,16 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+“(F) designate a Department of Defense entity to develop, apply, and continually refine an assessment capability for defining and measuring the impact of Department information operations, which entity shall be organizationally independent of Department components performing or otherwise engaged in operational support to Department information operations.”.
+ 
+SEC. 1750. REPORT ON USE OF ENCRYPTION BY DEPARTMENT OF DEFENSE NATIONAL SECURITY SYSTEMS.
+Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to Congress a report detailing the mission need and efficacy of full disk encryption across Non-classified Internet Protocol Router Network (NIPRNet) and Secretary Internet Protocol Router Network (SIPRNet) endpoint computer systems. Such report shall cover matters relation to cost, mission impact, and implementation timeline.
+
+SEC. 1751. GUIDANCE AND DIRECTION ON USE OF DIRECT HIRING PROCESSES FOR ARTIFICIAL INTELLIGENCE PROFESSIONALS AND OTHER DATA SCIENCE AND SOFTWARE DEVELOPMENT PERSONNEL.
+(a) GUIDANCE REQUIRED.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall review applicable Department of Defense guidance and where beneficial issue new guidance to the secretaries of the military departments and the heads of the defense components on improved use of the direct hiring processes for artificial intelligence professionals and other data science and software development personnel.
+(b) OBJECTIVE.—The objective of the guidance issued under subsection (a) shall be to ensure that organizational leaders assume greater responsibility for the results of civilian hiring of artificial intelligence professionals and other data science and software development personnel.
+(c) CONTENTS OF GUIDANCE.—At a minimum, the guidance required by subsection (a) shall—
+(1) instruct human resources professionals and hiring authorities to utilize available direct hiring authorities (including excepted service authorities) for the hiring of artificial intelligence professionals and other data science and software development personnel, to the maximum extent practicable;
+(2) instruct hiring authorities, when using direct hiring authorities, to prioritize utilization of panels of subject matter experts over human resources professionals to assess applicant qualifications and determine which applicants are best qualified for a position;
+(3) authorize and encourage the use of ePortfolio reviews to provide insight into the previous work of applicants as a tangible demonstration of capabilities and contribute to the assessment of applicant qualifications by subject matter experts; and
+(4) encourage the use of referral bonuses for recruitment and hiring of highly qualified artificial intelligence professionals and other data science and software development personnel in accordance with volume 451 of Department of Defense Instruction 1400.25.
+(d) REPORT.—

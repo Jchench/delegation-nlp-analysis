@@ -1,0 +1,26 @@
+PUBLIC LAW 116–283—JAN. 1, 2021 134 STAT. 4801
+
+(i) the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate;
+(ii) the Committee on Energy and Commerce of the House of Representatives; and
+(iii) any other committee of Congress, upon request to the working group.
+(c) ASSESSING SPECTRUM NEEDS.—
+(1) IN GENERAL.—The Commission, in consultation with the National Telecommunications and Information Administration, shall issue a notice of inquiry seeking public comment on the current, as of the date of enactment of this Act, and future spectrum needs to enable better connectivity relating to the Internet of Things.
+(2) REQUIREMENTS.—In issuing the notice of inquiry under paragraph (1), the Commission shall seek comments that consider and evaluate—
+(A) whether adequate spectrum is available, or is planned for allocation, for commercial wireless services that could support the growing Internet of Things;
+(B) if adequate spectrum is not available for the purposes described in subparagraph (A), how to ensure that adequate spectrum is available for increased demand with respect to the Internet of Things;
+(C) what regulatory barriers may exist to providing any needed spectrum that would support uses relating to the Internet of Things; and
+(D) what the role of unlicensed and licensed spectrum is and will be in the growth of the Internet of Things.
+(3) REPORT.—Not later than 1 year after the date of enactment of this Act, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the comments submitted in response to the notice of inquiry issued under paragraph
+(1).
+
+TITLE XCIII—INTELLIGENCE MATTERS
+
+Sec. 9301. Requirement for facilitation of establishment of social media data and threat analysis center.
+Sec. 9302. Independent study on identifying and addressing threats that individually or collectively affect national security, financial security, or both.
+
+SEC. 9301. REQUIREMENT FOR FACILITATION OF ESTABLISHMENT OF SOCIAL MEDIA DATA AND THREAT ANALYSIS CENTER.
+
+(a) REQUIREMENT TO FACILITATE ESTABLISHMENT.—Subsection (c)(1) of section 5323 of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020 (division E of Public Law 116–92; 50 U.S.C. 3369) is amended—
+(1) by striking “The Director” and inserting “Not later than June 1, 2021, the Director”; and
+(2) by striking “may” and inserting “shall”.
+(b) REPORTING ON FOREIGN MALIGN INFLUENCE CAMPAIGNS ON SOCIAL MEDIA PLATFORMS TARGETING ELECTIONS FOR FEDERAL OFFICE.—Such section is amended—

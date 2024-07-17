@@ -1,0 +1,24 @@
+106 STAT. 3944                 PUBLIC LAW 102-550—OCT. 28, 1992
+
+(17) STATE. — The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+(18) TOTAL CAPITAL. — The term “total capital” means, with respect to an enterprise, the sum of the following:
+(A) The core capital of the enterprise;
+(B) A general allowance for foreclosure losses, which—
+(i) shall include an allowance for portfolio mortgage losses, an allowance for nonreimbursable foreclosure costs on government claims, and an allowance for liabilities reflected on the balance sheet for the enterprise for estimated foreclosure losses on mortgage-backed securities; and
+(ii) shall not include any reserves of the enterprise made or held against specific assets.
+(C) Any other amounts from sources of funds available to absorb losses incurred by the enterprise, that the Director by regulation determines are appropriate to include in determining total capital.
+(19) VERY LOW-INCOME. — The term “very low-income” means—
+(A) in the case of owner-occupied units, income not in excess of 60 percent of area median income; and
+(B) in the case of rental units, income not in excess of 60 percent of area median income, with adjustments for smaller and larger families, as determined by the Secretary.
+
+SEC. 1304. PROTECTION OF TAXPAYERS AGAINST LIABILITY.
+
+This title and the amendments made by this title may not be construed as obligating the Federal Government, either directly or indirectly, to provide any funds to the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, or the Federal Home Loan Banks, or to honor, reimburse, or otherwise guarantee any obligation or liability of the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, or the Federal Home Loan Banks. This title and the amendments made by this title may not be construed as implying that any such enterprise or Bank, or any obligations or securities of such an enterprise or Bank, are backed by the full faith and credit of the United States.
+
+Subtitle A—Supervision and Regulation of Enterprises
+
+PART 1—FINANCIAL SAFETY AND SOUNDNESS REGULATOR
+
+SEC. 1311. ESTABLISHMENT OF OFFICE OF FEDERAL HOUSING ENTERPRISE OVERSIGHT.
+
+There is hereby established an office within the Department of Housing and Urban Development, which shall be known as the Office of Federal Housing Enterprise Oversight.

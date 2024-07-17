@@ -1,0 +1,23 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 3901
+
+respect to a finding of discrimination (including retaliation), the head of the Federal agency subject to the finding shall provide notice—
+    ‘‘(A) on the public internet website of the agency, in a clear and prominent location linked directly from the home page of that website;
+    ‘‘(B) stating that a finding of discrimination (including retaliation) has been made; and
+    ‘‘(C) which shall remain posted for not less than 1 year.
+    ‘‘(2) EVENTS DESCRIBED.—An event described in this paragraph is any of the following:
+        ‘‘(A) All appeals of a final action by a Federal agency involving a finding of discrimination (including retaliation) prohibited by a provision of law covered by paragraph (1) or (2) of section 201(a) have been exhausted.
+        ‘‘(B) All appeals of a final decision by the Equal Employment Opportunity Commission involving a finding of discrimination (including if the finding included a finding of retaliation) prohibited by a provision of law covered by paragraph (1) or (2) of section 201(a) have been exhausted.
+        ‘‘(C) A court of jurisdiction issues a final judgment involving a finding of discrimination (including retaliation) prohibited by a provision of law covered by paragraph (1) or (2) of section 201(a).
+    ‘‘(3) CONTENTS.—A notification provided under paragraph (1) with respect to a finding of discrimination (including retaliation) shall—
+        ‘‘(A) identify the date on which the finding was made, the date on which each discriminatory act occurred, and the law violated by each such discriminatory act; and
+       ‘‘(B) advise Federal employees of the rights and protections available under the provisions of law covered by paragraphs (1) and (2) of section 201(a).’’.
+
+SEC. 1134. REPORTING REQUIREMENTS.
+
+(a) ELECTRONIC FORMAT REQUIREMENT.—
+    (1) IN GENERAL.—Section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (5 U.S.C. 2301 note) is amended in the matter preceding paragraph (1)—
+        (A) by inserting ‘‘Homeland Security and’’ before ‘‘Governmental Affairs’’;
+        (B) by striking ‘‘on Government Reform’’ and inserting ‘‘on Oversight and Reform’’; and
+        (C) by inserting ‘‘in an electronic format prescribed by the Director of the Office of Personnel Management,’’ after ‘‘an annual report’’.
+    (2) EFFECTIVE DATE.—The amendment made by paragraph (1)(C) shall take effect on the date that is 1 year after the date of enactment of this Act.
+    (3) TRANSITION PERIOD.—Notwithstanding the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (5 U.S.C. 2301 note), the report required under such section 203(a) may be submitted in an electronic format, as prescribed by

@@ -1,0 +1,149 @@
+122 STAT. 2868                                                            PUBLIC LAW 110–289—JULY 30, 2008
+
+as are appropriate in conjunction with such consultation to simplify the coordination of rules, regulations, forms, and approval requirements for multifamily housing projects for which assistance is provided by such Department in conjunction with any low-income housing tax credits under section 42 of the Internal Revenue Code of 1986 or tax-exempt housing bonds.
+
+(c) RECOMMENDATIONS.—In implementing the changes required under this section, the Secretary shall solicit recommendations regarding such changes from project owners and sponsors, investors and stakeholders in housing tax credits, State and local housing finance agencies, public housing agencies, tenant advocates, and other stakeholders in such projects.
+
+(d) REPORT.—Not later than the expiration of the 9-month period beginning on the date of the enactment of this Act, the Secretary shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate that—
+
+(1) identifies the actions taken by the Secretary to comply with this section;
+
+(2) includes information regarding any resulting improvements in the expedited approval for multifamily housing projects;
+
+(3) identifies recommendations made pursuant to subsection (c);
+
+(4) identifies actions taken by the Secretary to implement the provisions in the amendments made by sections 2834 and 2835 of this Act; and
+
+(5) makes recommendations for any legislative changes that are needed to facilitate prompt approval of assistance for such projects.
+
+SEC. 2833. PROJECT APPROVALS BY RURAL HOUSING SERVICE.
+
+Section 515(h) of the Housing Act of 1949 (42 U.S.C. 1485) is amended—
+
+(1) by inserting ‘‘(1) CONDITION.—’’ after ‘‘(h)’’; and (2) by adding at the end the following new paragraphs:
+
+‘‘(2) ACTIONS TO EXPEDITE PROJECT APPROVALS.—
+
+‘‘(A) IN GENERAL.—The Secretary shall take actions to facilitate timely approval of requests to transfer ownership or control, for the purpose of rehabilitation or preservation, of multifamily housing projects for which assistance is provided by the Secretary of Agriculture in conjunction with any low-income housing tax credits under section 42 of the Internal Revenue Code of 1986 or tax-exempt housing bonds.
+
+‘‘(B) CONSULTATION.—The Secretary of Agriculture shall consult with the Commissioner of the Internal Revenue Service and take such actions as are appropriate in conjunction with such consultation to simplify the coordination of rules, regulations, forms (including applications forms for project transfers), and approval requirements multifamily housing projects for which assistance is provided by the Secretary of Agriculture in conjunction with any low-income housing tax credits under section 42 of the Internal Revenue Code of 1986 or tax-exempt housing bonds.
+
+122 STAT. 2869                                                           PUBLIC LAW 110–289—JULY 30, 2008
+
+‘‘(C) EXISTING REQUIREMENTS.—Any actions taken pursuant to this paragraph shall be taken in a manner that provides for full compliance with any existing requirements under law or regulation that are designed to protect families receiving Federal housing assistance, including income targeting, rent, and fair housing provisions, and shall also comply with requirements regarding environmental review and protection and wages paid to laborers.
+
+‘‘(D) RECOMMENDATIONS.—In implementing the changes required under this paragraph, the Secretary shall solicit recommendations regarding such changes from project owners and sponsors, investors and stakeholders in housing tax credits, State and local housing finance agencies, tenant advocates, and other stakeholders in such projects.’’.
+
+SEC. 2834. USE OF FHA LOANS WITH HOUSING TAX CREDITS.
+
+(a) SUBSIDY LAYERING REQUIREMENTS.—Subsection (d) of section 102 of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C. 3545(d)) is amended—
+
+(1) in the first sentence, by inserting after ‘‘assistance within the jurisdiction of the Department’’ the following: ‘‘, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.)’’; and
+
+(2) in the second sentence, by inserting ‘‘such’’ before ‘‘assistance’’.
+
+(b) COST CERTIFICATION.—Section 227 of National Housing Act (12 U.S.C. 1715r) is amended—
+
+(1) in the matter preceding paragraph (a) (relating to a definition of ‘‘new or rehabilitated multifamily housing’’)—
+
+(A) in the first sentence—
+
+(i) by striking ‘‘Notwithstanding’’ and inserting ‘‘Except as provided in subsection (b) and notwithstanding’’; and
+
+(ii) by redesignating clauses (a) and (b) as clauses (A) and (B), respectively; and
+
+(B) by striking ‘‘As used in this section—’’;
+
+(2) in paragraph (c) (relating to a definition of ‘‘actual cost’’)—
+
+(A) in clause (i), by redesignating clauses (1) and (2) as clauses (I) and (II), respectively; and
+
+(B) in clause (ii), by redesignating clauses (1) and (2) as clauses (I) and (II), respectively;
+
+(3) by redesignating paragraphs (a), (b), and (c) as paragraphs (1), (2), and (3), respectively;
+
+(4) by inserting before paragraph (1) (as so redesignated by paragraph (3) of this subsection) the following:
+
+‘‘(b) EXEMPTION FOR CERTAIN PROJECTS ASSISTED WITH LOW-INCOME HOUSING TAX CREDIT .—In the case of any mortgage insured under any provision of this title that is executed in connection with the construction, rehabilitation, purchase, or refinancing of a multifamily housing project for which equity provided through any low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 (26 U.S.C. 42), if the Secretary determines at the time of issuance of the firm commitment for
+
+122 STAT. 2870                                                           PUBLIC LAW 110–289—JULY 30, 2008
+
+insurance that the ratio of the loan proceeds to the actual cost of the project is less than 80 percent, subsection (a) of this section shall not apply.
+
+‘‘(c) DEFINITIONS.—For purposes of this section, the following definitions shall apply.’’; and
+
+(5) by inserting ‘‘(A) REQUIREMENT.—’’ after ‘‘227.’’
+
+(c) OTHER PROVISIONS REGARDING TREATMENT OF MORTGAGES COVERING TAX CREDIT PROJECTS.—Title II of the National Housing Act is amended by inserting after section 227 (12 U.S.C. 1715r) the following new section:
+
+‘‘SEC. 228. TREATMENT OF MORTGAGES COVERING TAX CREDIT PROJECTS.
+
+‘‘(a) DEFINITION.—For purposes of this section, the term ‘insured mortgage covering a tax credit project’ means a mortgage insured under any provision of this title that is executed in connection with the construction, rehabilitation, purchase, or refinancing of a multifamily housing project for which equity provided through any low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 (26 U.S.C. 42).
+
+‘‘(b) ACCEPTANCE OF LETTERS OF CREDIT.—In the case of an insured mortgage covering a tax credit project, the Secretary may not require the escrowing of equity provided by the sale of any low-income housing tax credits for the project pursuant to section 42 of the Internal Revenue Code of 1986, or any other form of security, such as a letter of credit.
+
+‘‘(c) ASSET MANAGEMENT REQUIREMENTS.—In the case of an insured mortgage covering a tax credit project for which the project applicable tax credit allocating agency is required to performed periodic inspections in compliance with the requirements of section 42 of the Internal Revenue Code of 1986, such project shall be exempt from requirements imposed by the Secretary regarding periodic inspections of the property by the mortgagee. To the extent that other compliance monitoring is being performed with respect to such a project by such an allocating agency pursuant to such section 42, the Secretary shall, to the extent that the Secretary determines such monitoring is sufficient to ensure compliance with any requirements established by the Secretary, accept such agency’s evidence of compliance for purposes of determining compliance with the Secretary’s requirements.
+
+‘‘(d) STREAMLINED PROCESSING PILOT PROGRAM.—
+
+‘‘(1) IN GENERAL.—The Secretary shall establish a pilot program to demonstrate the effectiveness of streamlining the review process, which shall include all applications for mortgage insurance under any provision of this title for mortgages executed in connection with the construction, rehabilitation, purchase, or refinancing of a multifamily housing project for which equity provided through any low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986. The Secretary shall issue instructions for implementing the pilot program under this subsection not later than the expiration of the 180-day period beginning upon the date of the enactment of the Housing Tax Credit Coordination Act of 2008.
+
+‘‘(2) REQUIREMENTS.—Such pilot program shall provide for—
+
+122 STAT. 2871                                                           PUBLIC LAW 110–289—JULY 30, 2008
+
+‘‘(A) the Secretary to appoint designated underwriters, who shall be responsible for reviewing such mortgage insurance applications and making determinations regarding the eligibility of such applications for such mortgage insurance in lieu of the processing functions regarding such applications that are otherwise performed by other employees of the Department of Housing and Urban Development;
+
+‘‘(B) submission of applications for such mortgage insurance by mortgagees who have previously been expressly approved by the Secretary; and
+
+‘‘(C) determinations regarding the eligibility of such applications for such mortgage insurance to be made by the chief underwriter pursuant to requirements prescribed by the Secretary, which shall include requiring submission of reports regarding applications of proposed mortgagees by third-party entities expressly approved by the chief underwriter.’’.
+
+SEC. 2835. OTHER HUD PROGRAMS.
+
+(a) SECTION 8 ASSISTANCE.—
+
+(1) PHA PROJECT-BASED ASSISTANCE.—Section 8(o)(13) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(13)) is amended—
+
+(A) in subparagraph (D)(i)—
+
+(i) by striking ‘‘building’’ and inserting ‘‘project’’;
+
+(ii) by adding at the end the following: ‘‘For purposes of this subparagraph, the term’ ‘project’‘ means a single building, multiple contiguous buildings, or multiple buildings on contiguous parcels of land.’’;
+
+(B) in the first sentence of subparagraph (F), by striking ‘‘10 years’’ and inserting ‘‘15 years’’;
+
+(C) in subparagraph (G)—
+
+(i) by inserting after the period at the end of the first sentence the following: ‘‘Such contract may, at the election of the public housing agency and the owner of the structure, specify that such contract shall be extended for renewal terms of up to 15 years each, if the agency makes the determination required by this subparagraph and the owner is in compliance with the terms of the contract.’’; and
+
+(ii) by adding at the end the following: ‘‘A public housing agency may agree to enter into such a contract at the time it enters into the initial agreement for a housing assistance payment contract or at any time thereafter that is before the expiration of the housing assistance payment contract.’’;
+
+(D) in subparagraph (H), by inserting before the period at the end of the first sentence the following: ‘‘, except that in the case of a contract unit that has been allocated low-income housing tax credits and for which the rent limitation pursuant to such section 42 is less than the amount that would otherwise be permitted under this subparagraph, the rent for such unit may, in the sole discretion of a public housing agency, be established at the higher section 8 rent, subject only to paragraph (10)(A)’’;
+
+122 STAT. 2872                                                           PUBLIC LAW 110–289—JULY 30, 2008
+
+(E) in subparagraph (I)(i), by inserting before the semicolon the following: ‘‘, except that the contract may provide that the maximum rent permitted for a dwelling unit shall not be less than the initial rent for the dwelling unit under the initial housing assistance payments contract covering the unit.’’; and
+
+(F) by adding at the end the following new subparagraphs:
+
+‘‘(L) USE IN COOPERATIVE HOUSING AND ELEVATOR BUILDINGS.—A public housing agency may enter into a housing assistance payments contract under this paragraph with respect to—
+
+‘‘(i) dwelling units in cooperative housing; and
+
+‘‘(ii) notwithstanding subsection (c), dwelling units in a high-rise elevator project, including such a project that is occupied by families with children, without review and approval of the contract by the Secretary.
+
+‘‘(M) REVIEWS.—
+
+‘‘(i) SUBSIDY LAYERING.—A subsidy layering review in accordance with section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C. 3545(d)) shall not be required for assistance under this paragraph in the case of an existing structure, or if a subsidy layering review has been conducted by the applicable State or local agency.
+
+‘‘(ii) ENVIRONMENTAL REVIEW.—A public housing agency shall not be required to undertake any environmental review before entering into a housing assistance payments contract under this paragraph for an existing structure, except to the extent such a review is otherwise required by law or regulation.’’.
+
+(2) VOUCHER PROGRAM RENT REASONABLENESS.—Section 8(o)(10) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(10)) is amended by adding at the end the following new subparagraph:
+
+‘‘(F) TAX CREDIT PROJECTS.—In the case of a dwelling unit receiving tax credits pursuant to section 42 of the Internal Revenue Code of 1986 or for which assistance is provided under subtitle A of title II of the Cranston Gonzalez National Affordable Housing Act of 1990, for which a housing assistance contract not subject to paragraph (13) of this subsection is established, rent reasonableness shall be determined as otherwise provided by this paragraph, except that—
+
+‘‘(i) comparison with rent for units in the private, unassisted local market shall not be required if the rent is equal to or less than the rent for other comparable units receiving such tax credits or assistance in the project that are not occupied by families assisted with tenant-based assistance under this subsection; and
+
+‘‘(ii) the rent shall not be considered reasonable for purposes of this paragraph if it exceeds the greater of—
+
+‘‘(I) the rents charged for other comparable units receiving such tax credits or assistance in

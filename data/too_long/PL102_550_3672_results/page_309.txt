@@ -1,0 +1,33 @@
+106 STAT. 3980
+
+PUBLIC LAW 102-550--OCT. 28, 1992
+
+SEC. 1367. APPOINTMENT OF CONSERVATORS FOR CRITICALLY UNDERCAPITALIZED ENTERPRISES.
+
+(a) APPOINTMENT.-- 
+(1) IN GENERAL.--Upon a determination and notice under section 1368(d) that an enterprise is critically undercapitalized and not later than 30 days after providing notice under section 1369(a)(3), the Director shall appoint a conservator for the enterprise in accordance with the provisions of section 1369 (excluding subsections (a)(1) and (2)). 
+(2) EXCEPTION.--Notwithstanding paragraph (1), the Director may determine not to appoint a conservator for an enterprise classified as critically undercapitalized, but only pursuant to a written finding by the Director, with the written concurrence of the Secretary of the Treasury, that-- 
+(A) the appointment of a conservator would have serious adverse effects on economic conditions of national financial markets or on the financial stability of the housing finance market; and 
+(B) the public interest would be better served by taking some other enforcement action authorized under this title. 
+
+(b) AUTHORITY.--The Director shall have the authority to take any actions under sections 1365 and 1366 with respect to an enterprise under conservatorship. 
+
+(c) APPROVAL OF ACTIVITIES.-- 
+(1) CONSERVATOR.--The conservator of any enterprise classified as critically undercapitalized may undertake an activity subject to the approval of the Secretary under section 1322 of this title only with the additional approval of the Director. 
+(2) NO CONSERVATOR.--If the Director determines under subsection (a)(2) not to appoint a conservator for an enterprise classified as critically undercapitalized, the provisions of section 1366 shall apply with respect to the enterprise. 
+
+(d) EFFECTIVE DATE.--This section shall take effect upon the first classification of the enterprises within capital classifications that occurs under section 1364.
+
+SEC. 1368. NOTICE OF CLASSIFICATION AND ENFORCEMENT ACTION. 
+
+(a) NOTICE.--Before taking any action referred to in subsection (b), the Director shall provide to the enterprise written notice of the proposed action, which states the reasons for the proposed action and the information on which the proposed action is based. 
+
+(b) APPLICABILITY.--The requirements of subsection (a) shall apply to the following actions: 
+(1) Classification or reclassification of an enterprise within a particular capital classification under section 1364.
+(2) Any discretionary supervisory action pursuant to section 1365. 
+(3) Any discretionary supervisory action pursuant to section 1366 except a decision to appoint a conservator under section 1366(b)(6).
+
+Notice of classification under paragraph (1) and notice of supervisory actions under paragraph (2) or (3) may be provided together in a single notice under subsection (a). 
+
+(c) RESPONSE PERIOD.-- 
+(1) IN GENERAL.--During the 30-day period beginning on the date that an enterprise is provided notice under subsection (a) of a proposed action, the enterprise may submit to the

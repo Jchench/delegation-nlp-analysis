@@ -1,0 +1,49 @@
+Federal Trade Commission
+  
+Pt. 600, App.
+
+the notice. Similarly, a party that uses credit or other information in a consumer report
+as a basis for refusing to accept payment by check need not comply with this section. Checks have historically been treated as cash items, and thus such refusal does not
+involve a denial of credit, insurance or employment.
+
+11. Adverse Action Based on Non-derogatory Adverse Information
+
+A party taking adverse action concerning credit or insurance or denying employment, “wholly or partly because of information contained in a consumer report,” must provide the required notice, even if the information is not derogatory. For example, the user must give the notice if the denial is based wholly or partly on the absence of a file or on the fact that the file contained insufficient references.
+
+12. Name and Address of the Consumer Reporting Agency
+
+The “section 615(a)” notice must include the consumer reporting agency's street address, not just a post office box address.
+
+13. Agency To Be Identified
+
+The consumer report user should provide the name and address of the consumer reporting agency from which it obtained the consumer report, even if that agency obtained all or part of the report from another agency.
+
+14. Denial Based Partly on a Consumer Report
+
+A “section 615(a)” notice must be sent even if the adverse action is based partly on a consumer report.
+
+15. Denial of Credit Based on Information From “Third Parties”
+
+Subsection (b) imposes requirements on a creditor when it denies (or increases the charge for) credit for personal, family or household purposes involving a consumer, based on information from a “third party” source, which means a source other than a consumer reporting agency, the creditor’s own files, or the consumer's application (e.g., another employer, landlord, or the public record). Where a creditor denies a consumer's application based on information obtained directly from another lender, even if the lender's name was furnished to the creditor by a consumer reporting agency, the creditor must give a “third party” disclosure.
+
+16. Substance of Required “Third Party” Disclosure
+
+When the adverse action is communicated to the consumer, the creditor must clearly and accurately disclose to the consumer his or her right to make a written request for the disclosure of the nature of the third party information that led to the adverse action. Upon timely receipt of such a request, however, the creditor need disclose only the nature of the information that led to the adverse action (e.g., history of late rent payments or bad checks); it need not identify the source that provided the information or the criteria that led to the adverse action. A creditor may comply with subsection (b) by providing a statement of the nature of the third party information that led to the denial when it notifies the consumer of the denial. A statement of principal, specific reasons for adverse action based on third party information that is sufficient to comply with the requirements of the Equal Credit Opportunity Act (e.g., “unable to verify employment”) is sufficient to constitute disclosure of the “nature of the information” under subsection (b).
+
+Section 616—Civil Liability for Willful Noncompliance
+
+Section 616 permits consumers who sue and prove willful noncompliance with the Act to recover actual damages, punitive damages, and the costs of the action, together with reasonable attorney's fees.
+
+Section 617—Civil Liability for Negligent Noncompliance
+
+Section 617 permits consumers who sue and prove negligent noncompliance with the Act to recover actual damages and the costs of the action, together with reasonable attorney's fees.
+
+Section 618—Jurisdiction of Courts; Limitation of Actions
+
+Section 618 provides that any action brought under section 616 or section 617 may be brought in any United States district court or other court of competent jurisdiction, Such suit must be brought within two years from the date on which liability arises, unless a defendant has materially and willfully misrepresented information the Act requires to be disclosed, and the information misrepresented is material to establishment of the defendant's liability. In that event, the action must be brought within two years after the individual discovers the misrepresentation.
+
+Section 619—Obtaining Information Under False Pretenses
+
+Section 619 provides criminal sanctions against any person who knowingly and willfully obtains information on a consumer from a consumer reporting agency under false pretenses.
+  
+  571

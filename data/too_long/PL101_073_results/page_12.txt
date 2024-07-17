@@ -1,0 +1,23 @@
+103 STAT. 194
+
+PUBLIC LAW 101-73—AUG. 9, 1989
+
+"(1) DEFAULT.—The term 'default' means, with respect to an insured depository institution, any adjudication or other official determination by any court of competent jurisdiction, the appropriate Federal banking agency, or other public authority pursuant to which a conservator, receiver, or other legal custodian is appointed for an insured depository institution or, in the case of a foreign bank having an insured branch, for such branch.
+"(2) IN DANGER OF DEFAULT.—The term 'in danger of default' means an insured depository institution with respect to which (or in the case of a foreign bank having an insured branch, with respect to such insured branch) the appropriate Federal banking agency or State chartering authority has advised the Corporation (or, if the appropriate Federal banking agency is the Corporation, the Corporation has determined) that—
+"(A) in the opinion of such agency or authority—
+"(i) the depository institution or insured branch is not likely to be able to meet the demands of the institution's or branch's depositors or pay the institution's or branch's obligations in the normal course of business; and
+"(ii) there is no reasonable prospect that the depository institution or insured branch will be able to meet such demands or pay such obligations without Federal assistance; or
+"(B) in the opinion of such agency or authority—
+"(i) the depository institution or insured branch has incurred or is likely to incur losses that will deplete all or substantially all of its capital; and
+"(ii) there is no reasonable prospect that the capital of the depository institution or insured branch will be replenished without Federal assistance.".
+
+SEC. 205. INSURED SAVINGS ASSOCIATIONS.
+Section 4 of the Federal Deposit Insurance Act (12 U.S.C. 1814) is amended—
+(1) in subsection (a)—
+(A) by striking out "(a) Every bank" and inserting in lieu thereof the following:
+"(a) CONTINUATION OF INSURANCE.—
+"(1) BANKS—Each bank"; and
+(B) by adding at the end thereof the following new paragraph:
+"(2) SAVINGS ASSOCIATIONS—Each savings association the accounts of which were insured by the Federal Savings and Loan Insurance Corporation on the day before the date of the enactment of the Financial Institutions Reform, Recovery , and Enforcement Act of 1989, shall be, without application or approval, an insured depository institution.";
+(2) in subsection (b)—
+(A) by inserting after the 1st sentence the following new sentences: "Any application or notice for membership or to commence or resume business shall be promptly provided by the appropriate Federal banking agency to the Corporation and the Corporation shall have a reasonable period of time to provide comments on such application or notice. Any comments submitted by the Corporation to the appro

@@ -1,0 +1,19 @@
+PUBLIC LAW 101-73-AUG. 9, 1989           103 STAT. 489
+
+(1) by striking out "(a) Any insured bank." and all that follows through the period at the end of the 4th sentence and inserting in lieu thereof the following:
+
+"(a) TERMINATION OF INSURANCE.-
+"(1) VOLUNTARY TERMINATION.-Any insured depository institution which is not—
+"(A) a national member bank;
+"(B) a State member bank;
+"(C) a Federal branch;
+"(D) a Federal savings association; or
+"(E) an insured branch which is required to be insured under subsection (a) or (b) of section 6 of the International Banking Act of 1978,
+may terminate such depository institution's status as an insured depository institution if such insured institution provides written notice to the Corporation of the institution's intent to terminate such status not less than 90 days before the effective date of such termination.
+"(2) INVOLUNTARY TERMINATION.-
+"(A) NOTICE TO PRIMARY REGULATOR.-If the Board of Directors determines that—
+"(i) an insured depository institution or the directors or trustees of an insured depository institution have engaged or are engaging in unsafe or unsound practices in conducting the business of the depository institution;
+"(ii) an insured depository institution is in an unsafe or unsound condition to continue operations as an insured institution; or
+"(iii) an insured depository institution or the directors or trustees of the insured institution have violated any applicable law, regulation, order, condition imposed in writing by the Corporation in connection with the approval of any application or other request by the insured depository institution, or written agreement entered into between the insured depository institution and the Corporation,
+the Board of Directors shall notify the appropriate Federal banking agency with respect to such institution (if other than the Corporation) or the State banking supervisor of such institution (if the Corporation is the appropriate Federal banking agency) of the Board’s determination and the facts and circumstances on which such determination is based for the purpose of securing the correction of such practice, condition, or violation. Such notice shall be given to the appropriate Federal banking agency not less than 30 days before the notice required by subparagraph (B), except that this period for notice to the appropriate Federal banking agency may be reduced or eliminated with the agreement of such agency.
+"(B) NOTICE OF INTENTION TO TERMINATE INSURANCE.-If, after giving the notice required under subparagraph (A) with respect to an insured depository institution, the Board of Directors determines that any unsafe or unsound practice or condition or any violation specified in such notice requires the termination of the insured status of the insured depository institution, the Board shall-

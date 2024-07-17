@@ -1,0 +1,79 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+134 STAT. 4475
+
+SEC. 4201. RESEARCH, DEVELOPMENT, TEST, AND EVALUATION
+(In Thousands of Dollars)
+
+Line Program     
+Element
+
+Item
+
+FY 2021       
+Conference    
+Request        Authorized
+
+OPERATIONAL SYSTEMS DEVELOPMENT
+199 0604130V ENTERPRISE SECURITY SYSTEM (ESS) ................................ 14,278       14,278
+200 0604522K JOINT ARTIFICIAL INTELLIGENCE ...................................... 132,058     132,058
+201 0605127T REGIONAL INTERNATIONAL OUTREACH (RIO) ............... 1,986          1,986
+AND PARTNERSHIP FOR PEACE INFORMA-
+TION MANA
+202 0605147T OVERSEAS HUMANITARIAN ASSISTANCE ............................. 316             316
+SHARED INFORMATION SYSTEM (OHASIS).
+203 0607210D8Z INDUSTRIAL BASE ANALYSIS AND ...............................................   9,151         9,151
+SUSTAINMENT SUPPORT:
+Advanced machine tool research ......................................................... [20,000]
+Cold spray manufacturing technologies.................................................  [5,000]
+Domestic organic light emitting diode microdis- ..............................   [15,000]
+play manufacturing tool research.
+Domestic tungsten ........................................................... [5,000]
+Manufacturing for reuse of NdFeB magnets .............................    [16,000]
+Program increase ............................................................ [15,000]
+Submarine workforce development and training ..............................................  [8,000]
+Ultra-hard armor ........................................................... [15,000]
+204 0607310D8Z CWMD SYSTEMS: OPERATIONAL SYSTEMS DE-
+VELOPMENT ............................................................................................ 19,082    19,082
+205 0607327T GLOBAL THEATER SECURITY COOPERATION ........................ 3,992       3,992
+MANAGEMENT INFORMATION SYSTEMS (G-
+TSCMIS).
+206 0607348BP CHEMICAL AND BIOLOGICAL DEFENSE (OPER- ........................ 39,530        39,530
+ATIONAL SYSTEMS DEVELOPMENT:
+207 0208041A1 PLANNING AND DECISION AID SYSTEM (PDAS): .................... 3,039          3,039
+PLANNING AND DECISION AID SYSTEMS—ENGINEER-
+ING AND INTEGRATION.
+213 0303126K LONG-HAUL COMMUNICATIONS—DCS .................................... 11,884       11,884
+214 0303131K MINIMIZE LONG-TERM EMERGENCY COMMU .................... 5,560          5,560
+NICATIONS NETWORK (MERCURY).
+215 0303148G KEY MANAGEMENT INFRASTRUCTURE (KMI) ..................... 73,356        73,356
+216 0305140D8Z INFORMATION SYSTEMS SECURITY PROGRAM ........................... 46,677          46,677
+217 0303140G INFORMATION SYSTEMS SECURITY PROGRAM .............................. 356,173       348,173
+(Non-Cyber ......................................................................... [18,000]
+Workforce Transformation Cyber Initiative Pilot Program .......................................................................... [20,000]
+218 0303141Q INFORMATION SYSTEMS SECURITY PROGRAM ........................................................................... 8,922        8,922
+219 0305160K GLOBAL COMMAND AND CONTROL SYSTEM ............... 89,213          89,213
+221 0305213K DEFENSE SPECTRUM ORGANIZATION ............................ 103,113      103,113
+222 0305222K JOINT REGIONAL SECURITY STACKS (JRSS) ........................... 9,728          9,728
+223 0305218V SECURITY AND INVESTIGATIVE ACTIVITIES ................ 5,700         5,700
+224 0305168BZ POLICY AND PROGRAMS ................................................. 1,744             1,744
+Program decrease .......................................................... [-3,841]
+236 0305199D8Z NET CENTRICITY ............................................................... 21,793        21,793
+238 0305208BB DISTRIBUTED COMMON GROUND/SURFACE .............. 6,066        6,066
+SYSTEMS.
+245 0305870D8Z HOMELAND DEFENSE TECHNOLOGY TRANS- ................. 2,190           2,190
+FER PROGRAM.
+252 0708012K LOGISTICS SUPPORT ACTIVITIES .......................................... 1,654        1,654
+253 0708012G PACIFIC DISASTER CENTRES ............................................. 1,785          1,785
+254 0708047S DEFENSE PROPERTY ACCOUNTABILITY SYS- ................. 7,301         7,301
+TEM.
+256 1160419BB MQ-9 UAV .............................................................................................. 21,265       21,265
+259 1160408BB GLOBAL HAWK SYSTEMS ................................................... 203,812    203,812
+259 1160409BB INTELLIGENCE SYSTEMS DEVELOPMENT ................. 19,158         19,158
+260 1160408BB OPERATIONAL ENHANCEMENTS ................................... 136,041      146,041
+Maintenance and repair of technologies to enable reliable naval ....................................................................... [10,000]
+261 1160413BB WARPED SYSTEMS .......................................................................... 59,511          58,233
+MMR excess to need ................................................................... [-1,178]
+262 1160423BB SPECIAL PROGRAMS ....................................................................... 10,500           7,500
+Classified adjustment—excess to need ....................................................................................................... [-3,000]
+263 1160434BB UNMANNED ISR .......................................................................... 19,154          15,154
+Underexecution ......................................................................... [-4,000]

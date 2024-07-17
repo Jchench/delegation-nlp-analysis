@@ -1,0 +1,57 @@
+134 STAT. 4126      PUBLIC LAW 116–283—JAN. 1, 2021
+
+                (2) develop policies and procedures governing access to 
+   user activity monitoring data or data derived from user activity 
+   monitoring by cybersecurity operators; and 
+                (3) develop processes and capabilities for using metadata 
+   on host and network activity for user activity monitoring in 
+   support of the insider threat mission.
+   Deadline.        (c) CONGRESSIONAL BRIEFING.—Not later than October 1, 2021, 
+   the Secretary shall provide a briefing to the congressional defense 
+   committees on actions taken to carry out this section.
+   
+SEC. 1736. DEFENSE INDUSTRIAL BASE CYBERSECURITY SENSOR 
+             ARCHITECTURE PLAN.
+   Deadline.        (a) DEFENSE INDUSTRIAL BASE CYBERSECURITY SENSOR 
+   ARCHITECTURE PROGRAM ASSESSMENT.—Not later than 180 days 
+   after the date of the enactment of this Act, the Principal Cyber 
+   Advisor of the Department of Defense, in consultation with the 
+   Chief Information Officer of the Department, the Under Secretary 
+   of Defense for Acquisition and Sustainment, the Under Secretary 
+   of Defense for Intelligence and Security, and the Commander of 
+   United States Cyber Command, shall complete an assessment of 
+   the feasibility, suitability, and resourcing required to establish a 
+   Defense Industrial Base Cybersecurity Sensor Architecture Progran, responsible for deploying commercial-off-the-shelf solutions 
+to remotely monitor the public-facing internet attack surface of 
+the defense industrial base.
+                   (b) ELEMENTS.—The assessment required under subsection (a) 
+   shall include the following:
+                         (1) Definition of an architecture, concept of operations, 
+    and governance structure that— 
+                                  (A) will allow for the instrumentation and collection 
+    of cybersecurity data on the public-facing internet attack 
+    surfaces of defense industrial base contractors in a manner 
+    that is compatible with the Department’s existing or future 
+    capabilities for analysis, and instrumentation and collec- 
+    tion, as appropriate, of cybersecurity data within the 
+    Department of Defense Information Network;
+                                  (B) includes the expected scale, schedule, and guiding 
+    principles of deployment;
+                                  (C) is consistent with the defense industrial base cyber- 
+    security policies and programs of the Under Secretary of 
+    Defense for Acquisition and Sustainment and the Chief 
+    Information Officer; and 
+                                  (D) includes an acquisition strategy for sensor capabili- 
+    ties that optimizes required capability, scalability, cost, 
+    and intelligence and cybersecurity requirements.
+                         (2) Roles and responsibilities of the persons referred to 
+   in subsection (a) in implementing and executing the plan.
+    Consultation.        (c) CONSULTATION.—In conducting the assessment required 
+   under subsection (a), the Principal Cyber Advisor shall consult 
+   with and solicit recommendations from representative industry 
+   stakeholders across the defense industrial base regarding the ele- 
+   ments described in subsection (b) and potential stakeholder costs 
+   of compliance.
+                 (d) BRIEFING.—Upon completion of the assessment required 
+   under subsection (a), the Principal Cyber Advisor shall provide 
+   a briefing to the Committee on Armed Services of the Senate

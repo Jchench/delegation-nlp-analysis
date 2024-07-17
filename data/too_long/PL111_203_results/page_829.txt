@@ -1,0 +1,28 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+
+124 STAT. 2203
+
+(3) REPORT.—The Secretary shall report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate regarding the implementation of this provision. The report shall also describe the steps taken to implement this subsection.
+
+SEC. 1482. HOME AFFORDABLE MODIFICATION PROGRAM GUIDELINES.
+
+(a) NET PRESENT VALUE INPUT DATA.—The Secretary of the Treasury (in this section referred to as the ‘‘Secretary’’) shall revise the supplemental directives and other guidelines for the Home Affordable Modification Program of the Making Home Affordable initiative of the Secretary of the Treasury, authorized under the Emergency Economic Stabilization Act of 2008 (Public Law 110– 343), to require each mortgage servicer participating in such program to provide each borrower under a mortgage whose request for a mortgage modification under the Program is denied with all borrower-related and mortgage-related input data used in any net present value (NPV) analyses performed in connection with the subject mortgage. Such input data shall be provided to the borrower at the time of such denial.
+
+(b) WEB-BASED SITE FOR NPV CALCULATOR AND APPLICATION.—
+
+(1) NPV CALCULATOR.—In carrying out the Home Affordable Modification Program, the Secretary shall establish and maintain a site on the World Wide Web that provides a calculator for net present value analyses of a mortgage, based on data provided by the user, using methodology for calculating such value, that mortgagors can use to enter information regarding their own mortgages and that provides a determination after entering such information regarding a mortgage of whether such mortgage would be accepted or rejected for modification under the Program, using such methodology.
+
+(2) DISCLOSURE.—Such Web site shall also prominently disclose that each mortgage servicer participating in such Program may use a method for calculating net present value of a mortgage that is different than the method used by such calculator.
+
+(3) APPLICATION.—The Secretary shall make a reasonable effort to include on such World Wide Web site a method for homeowners to apply for a mortgage modification under the Home Affordable Modification Program.
+
+(c) PUBLIC AVAILABILITY OF NPV METHODOLOGY, COMPUTER MODEL, AND VARIABLES.—The Secretary shall make publicly available, including by posting on a World Wide Web site of the Secretary—
+
+(1) the Secretary’s methodology and computer model, including all formulae used in such computer model, used for calculating net present value of a mortgage that is used by the calculator established pursuant to subsection (b); and
+
+(2) all non-proprietary variables used in such net present value analysis.
+
+SEC. 1483. PUBLIC AVAILABILITY OF INFORMATION OF MAKING HOME AFFORDABLE PROGRAM.
+
+(a) REVISIONS TO PROGRAM GUIDELINES.—The Secretary of the Treasury (in this section referred to as the ‘‘Secretary’’) shall revise the guidelines for the Home Affordable Modification Program of the Making Home Affordable initiative of the Secretary of the
+

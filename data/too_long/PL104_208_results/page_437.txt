@@ -1,0 +1,66 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996     110 STAT. 3009-436
+
+(B) to whom a consumer report is provided by the
+agency).
+
+a notice of such person's responsibilities under this title.
+
+(2) CONTENT OF NOTICE.—The Federal Trade Commission
+shall prescribe the content of notices under paragraph (1),
+and a consumer reporting agency shall be in compliance with
+this subsection if it provides a notice under paragraph (1)
+that is substantially similar to the Federal Trade Commission
+prescription under this paragraph.”.
+
+(c) RECORD OF IDENTITY OF USERS AND PURPOSES CERTIFIED
+BY USERS OF REPORTS.—Section 607 of the Fair Credit Reporting
+Act (15 U.S.C. 1681e) is amended by adding after subsection (d)
+(as added by subsection (b) of this section) the following new sub-
+section:
+
+(e) PROCUREMENT OF CONSUMER REPORT FOR RESALE.—
+
+(1) DISCLOSURE.—A person may not procure a consumer
+report for purposes of reselling the report (or any information
+in the report) unless the person discloses to the consumer
+reporting agency that originally furnishes the report—
+(A) the identity of the end-user of the report (or
+information); and
+(B) each permissible purpose under section 604
+for which the report is furnished to the end-user of the report (or information).
+
+(2) RESPONSIBILITIES OF PROCURERS FOR RESALE.—A per-
+son who procures a consumer report for purposes of reselling
+the report (or any information in the report) shall—
+(A) establish and comply with reasonable procedures
+designed to ensure that the report (or information) is resold
+by the person only for a purpose for which the report
+may be furnished under section 604, including by requiring
+that each person to which the report (or information) is
+resold and that resells or provides the report (or informa-
+tion) to any other person—
+(i) identifies each end user of the resold report
+(or information);
+(ii) certifies each purpose for which the report
+(or information) will be used; and
+(iii) certifies that the report (or information) will
+be used for no other purpose; and
+(B) before reselling the report, make reasonable efforts
+to verify the identifications and certifications made under
+subparagraph (A).”.
+
+SEC. 2408. CONSUMER DISCLOSURES.
+
+(a) ALL INFORMATION IN CONSUMER’S FILE REQUIRED TO BE
+DISCLOSED.—Section 609(a)(1) of the Fair Credit Reporting Act
+(15 U.S.C.1681g(a)(1)) is amended to read as follows:
+
+(1) All information in the consumer’s file at the time
+of the request, except that nothing in this paragraph shall
+be construed to require a consumer reporting agency to disclose
+to a consumer any information concerning credit scores or any
+other risk scores or predictors relating to the consumer.”.
+
+(b) MORE INFORMATION CONCERNING RECIPIENTS OF REPORTS
+REQUIRED.—Section 609(a)(3) of the Fair Credit Reporting Act (15
+U.S.C. 1681g(a)) is amended to read as follows:

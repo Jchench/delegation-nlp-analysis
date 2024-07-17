@@ -1,0 +1,27 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+
+124 STAT. 2139
+
+(2) by inserting after section 129A (as so redesignated) the following new section:
+
+‘‘§ 129B. Residential mortgage loan origination 
+
+15 USC 1639b.
+‘‘(a) FINDING AND PURPOSE.—
+‘‘(1) FINDING.—The Congress finds that economic stabilization would be enhanced by the protection, limitation, and regulation of the terms of residential mortgage credit and the practices related to such credit, while ensuring that responsible, affordable mortgage credit remains available to consumers.
+‘‘(2) PURPOSE.—It is the purpose of this section and section 129C to assure that consumers are offered and receive residential mortgage loans on terms that reasonably reflect their ability to repay the loans and that are understandable and not unfair, deceptive or abusive.
+‘‘(b) DUTY OF CARE.—
+‘‘(1) STANDARD.—Subject to regulations prescribed under this subsection, each mortgage originator shall, in addition to the duties imposed by otherwise applicable provisions of State or Federal law—
+‘‘(A) be qualified and, when required, registered and licensed as a mortgage originator in accordance with applicable State or Federal law, including the Secure and Fair Enforcement for Mortgage Licensing Act of 2008; and
+‘‘(B) include on all loan documents any unique identifier of the mortgage originator provided by the Nationwide Mortgage Licensing System and Registry.
+‘‘(2) COMPLIANCE PROCEDURES REQUIRED.—The Board shall prescribe regulations requiring depository institutions to establish and maintain procedures reasonably designed to assure and monitor the compliance of such depository institutions, the subsidiaries of such institutions, and the employees of such institutions or subsidiaries with the requirements of this section and the registration procedures established under sectiaon 1507 of the Secure and Fair Enforcement for Mortgage Licensing Act of 2008.’’.
+(b) CLERICAL AMENDMENT.—The table of sections for chapter 2 of the Truth in Lending Act is amended by inserting after the item relating to section 129 the following new items:
+‘‘129A. Fiduciary duty of servicers of pooled residential mortgages.
+‘‘129B. Residential mortgage loan origination.’’.
+SEC. 1403. PROHIBITION ON STEERING INCENTIVES.
+
+Section 129B of the Truth in Lending Act (as added by section 1402(a)) is amended by inserting after subsection (b) the following new subsection:
+‘‘(c) PROHIBITION ON STEERING INCENTIVES.—
+‘‘(1) IN GENERAL.—For any residential mortgage loan, no mortgage originator shall receive from any person and no person shall pay to a mortgage originator, directly or indirectly, compensation that varies based on the terms of the loan (other than the amount of the principal).
+‘‘(2) RESTRUCTURING OF FINANCING ORIGINATION FEE.—
+‘‘(A) IN GENERAL.—For any mortgage loan, a mortgage originator may not receive from any person other than the consumer and no person, other than the consumer, who knows or has reason to know that a consumer has

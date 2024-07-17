@@ -1,0 +1,27 @@
+134 STAT. 3758         PUBLIC LAW 116–283—JAN. 1, 2021
+
+and feed the data back into models and simulations for better software development and testing;
+(B) individual acquisition programs representing—
+    (i) one or more defense business systems;
+    (ii) one or more command and control systems;
+    (iii) one or more middle tier of acquisition programs;
+    (iv) programs featuring a cost-plus contract type, and a fixed-price contract type, and a transaction authorized under section 2371 or 2371b of title 10, United States Code; and
+    (v) at least one program in each military department.
+(3) EXECUTION OF DEMONSTRATION ACTIVITIES.—As part of the demonstration activities under paragraph (1), the Secretary shall—
+    (A) conduct a comparative analysis that assesses the risks and benefits of the digital management and analytics capability used in each of the programs participating in the demonstration activities relative to the traditional data collection, reporting, exposing, and analysis approaches of the Department;
+    (B) ensure that the intellectual property strategy for each of the programs participating in the demonstration activities is best aligned to meet the goals of the program; and
+    (C) develop a workforce and infrastructure plan to support any new policies and guidance implemented in connection with the demonstration activities, including any policies and guidance implemented after the completion of such activities.
+(d) POLICIES AND GUIDANCE REQUIRED.—Not later than March 15, 2022, based on the results of the demonstration activities carried out under subsection (c), the Secretary of Defense shall issue or modify policies and guidance to—
+    (1) promote the use of digital data management and analytics capabilities; and
+    (2) address roles, responsibilities, and procedures relating to such capabilities.
+(e) STEERING COMMITTEE.—
+    (1) IN GENERAL.—The Secretary of Defense shall establish a steering committee to assist the Secretary in carrying out subsections (a) through (c).
+    (2) MEMBERSHIP.—The steering committee shall be composed of the following members or their designees:
+        (A) The Deputy Secretary of Defense.
+        (B) The Chief Information Officer.
+        (C) The Director of Cost Assessment and Program Evaluation.
+        (D) The Under Secretary of Defense for Research and Engineering.
+        (E) The Under Secretary of Defense for Acquisition and Sustainment.
+        (F) The Director of Operational Test and Evaluation.
+        (G) The Service Acquisition Executives.
+        (H) The Director for Force Structure, Resources, and Assessment of the Joint Staff.

@@ -1,0 +1,22 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 3737
+
+(B) EXTENSION OF SCOPE.—Not earlier than 1 year before, and not later than 2 years after the regulations and guidance required under paragraph (1) are issued for weapon systems, the Under Secretary of Defense for Acquisition and Sustainment may extend such regulations and guidance to apply to software-based non-weapon systems, including business systems and cybersecurity systems.
+(4) INCLUSION OF COMPONENTS.—For the purposes of paragraph (2)(A), each component that meets the following requirements shall be treated as a modular system:
+(A) A component that is able to execute without requiring coincident execution of other weapon systems or components and can communicate across component boundaries and through interfaces.
+(B) A component that can be separated from and recombined with other weapon systems or components to achieve various effects, missions, or capabilities.
+(C) A component that is covered by a unique contract line item.
+(5) MACHINE-READABLE DEFINITION.—Where appropriate and available, the requirement in paragraph (2)(B)(ii) for a machine-readable definition may be satisfied by using a covered technology.
+(b) EXTENSION OF MODULAR OPEN SYSTEMS APPROACH AND RIGHTS IN INTERFACE SOFTWARE.—
+(1) REQUIREMENT FOR MODULAR OPEN SYSTEM APPROACH.—
+Section 2446a of title 10, United States Code, is amended—
+(A) in subsection (a), by adding at the end the following:
+“Other defense acquisition programs shall also be designed and developed, to the maximum extent practicable, with a modular open system approach to enable incremental development and enhance competition, innovation, and interoperability.”;
+(B) in subsection (b)—
+(i) in paragraph (1)—
+(I) in subparagraph (A), by striking “major system interfaces” and all that follows and inserting “modular system interfaces between major systems, major system components and modular systems.”;
+(II) in subparagraph (B), by striking “major system interfaces” and all that follows and inserting the following: “that relevant modular system interfaces—
+“(i) comply with, if available and suitable, widely supported and consensus-based standards; or
+“(ii) are delivered pursuant to the requirements established in subsection (a)(2)(B) of section 804 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, including the delivery of—
+“(I) software-defined interface syntax and properties, specifically governing how values are validly passed and received between major subsystems and components, in machine-readable format;

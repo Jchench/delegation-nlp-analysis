@@ -1,0 +1,63 @@
+124 STAT. 1710        PUBLIC LAW 111–203—JULY 21, 2010
+
+  ‘‘(ii) before the initiation of the transaction, disclose
+    to the Special Entity in writing the capacity in which
+    the swap dealer is acting; and
+  ‘‘(B) the Commission may establish such other stand-
+ards and requirements as the Commission may determine
+are appropriate in the public interest, for the protection
+of investors, or otherwise in furtherance of the purposes
+of this Act.
+‘‘(6) RULES.—The Commission shall prescribe rules under
+this subsection governing business conduct standards for swap
+dealers and major swap participants.
+
+ ‘‘(7) APPLICABILITY.—This section shall not apply with
+respect to a transaction that is—
+  ‘‘(A) initiated by a Special Entity on an exchange or
+swap execution facility; and
+  ‘‘(B) one in which the swap dealer or major swap
+participant does not know the identity of the counterparty
+to the transaction.
+
+‘‘(i) DOCUMENTATION STANDARDS.—
+  ‘‘(1) IN GENERAL.—Each registered swap dealer and major
+swap participant shall conform with such standards as may
+be prescribed by the Commission by rule or regulation that
+relate to timely and accurate confirmation, processing, netting,
+documentation, and valuation of all swaps.
+
+  ‘‘(2) RULES.—The Commission shall adopt rules governing
+documentation standards for swap dealers and major swap
+participants.
+
+‘‘(j) DUTIES.—Each registered swap dealer and major swap
+participant at all times shall comply with the following require-
+ments:
+
+  ‘‘(1) MONITORING OF TRADING.—The swap dealer or major
+swap participant shall monitor its trading in swaps to prevent
+violations of applicable position limits.
+
+  ‘‘(2) RISK MANAGEMENT PROCEDURES.—The swap dealer or
+major swap participant shall establish robust and professional
+risk management systems adequate for managing the day-
+to-day business of the swap dealer or major swap participant.
+  ‘‘(3) DISCLOSURE OF GENERAL INFORMATION.—The swap
+dealer or major swap participant shall disclose to the Commis-
+sion and to the prudential regulator for the swap dealer or
+major swap participant, as applicable, information concerning—
+    ‘‘(A) terms and conditions of its swaps;
+    ‘‘(B) swap trading operations, mechanisms, and prac-
+tices;
+    ‘‘(C) financial integrity protections relating to swaps;
+and
+    ‘‘(D) other information relevant to its trading in swaps.
+  ‘‘(4) ABILITY TO OBTAIN INFORMATION.—The swap dealer
+or major swap participant shall—
+    ‘‘(A) establish and enforce internal systems and proce-
+dures to obtain any necessary information to perform any
+of the functions described in this section; and
+    ‘‘(B) provide the information to the Commission and
+to the prudential regulator for the swap dealer or major
+swap participant, as applicable, on request.

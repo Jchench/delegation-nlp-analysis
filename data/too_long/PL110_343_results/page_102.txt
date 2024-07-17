@@ -1,0 +1,54 @@
+122 STAT. 3866        PUBLIC LAW 110-343—OCT. 3, 2008
+
+             "after December 31, 2007" and inserting "after December 31, 2009".
+        (b) TERMINATION OF ALTERNATIVE INCREMENTAL CREDIT.—Sec- 
+    tion 41(h) is amended by redesignating paragraph (2) as paragraph 
+    (3), and by inserting after paragraph (1) the following new para- 
+    graph:   
+        "(2) TERMINATION OF ALTERNATIVE INCREMENTAL CREDIT.—  
+        No election under subsection (c)(4) shall apply to taxable years 
+        beginning after December 31, 2008.”.
+        (c) MODIFICATION OF ALTERNATIVE SIMPLIFIED CREDIT.—Para- 
+    graph (5)(A) of section 41(c) (relating to election of alternative 
+    simplified credit) is amended by striking “12 percent” and inserting 
+    "14 percent (12 percent in the case of taxable years ending before 
+    January 1, 2009)". 
+        (d) TECHNICAL CORRECTION.—Paragraph (3) of section 41(h) 
+    is amended to read as follows:                                      
+       "(3) COMPUTATION FOR TAXABLE YEAR IN WHICH CREDIT
+       TERMINATES.—In the case of any taxable year with respect
+       to which this section applies to a number of days which is
+       less than the total number of days in such taxable year— 
+             "(A) the amount determined under subsection (c)(1)(B)
+             with respect to such taxable year shall be the amount
+             which bears the same ratio to such amount (determined
+             without regard to this paragraph) as the number of days
+             in such taxable year to which this section applies bears
+             to the total number of days in such taxable year, and
+             "(B) for purposes of subsection (c)(5), the average quali-
+             fied research expenses for the preceding 3 taxable years
+             shall be the amount which bears the same ratio to such
+             average qualified research expenses (determined without
+             regard to this paragraph) as the number of days in such
+             taxable year to which this section applies bears to the
+             total number of days in such taxable year.".
+       (e) EFFECTIVE DATE.— 
+  26 USC 41 note.         (1) IN GENERAL.—Except as provided in paragraph (2), the amendments made by this section shall apply to taxable years beginning after December 31, 2007.
+                               (2) EXTENSON.—The amendments made by subsection (a) 
+       shall apply to amounts paid or incurred after December 31, 
+       2007.
+ SEC. 302. NEW MARKETS TAX CREDIT.
+        Subparagraph (D) of section 45D(f)(1) (relating to national 
+      limitation on amount of investments designated) is amended by 
+     striking "and 2008" and inserting "2008, and 2009". 
+ SEC. 303. SUBPART F EXCEPTION FOR ACTIVE FINANCING INCOME.
+     (a) EXEMPT INSURANCE INCOME.—Paragraph (10) of section 
+     953(e) (relating to application) is amended— 
+            (1) by striking "January 1, 2009" and inserting "January 
+                    1, 2010", and 
+            (2) by striking "December 31, 2008" and inserting 
+            "December 31, 2009".
+        (b) EXCEPTION TO TREATMENT AS FOREIGN PERSONAL HOLDING
+        COMPANY INCOME.—Paragraph (9) of section 954(h) (relating to 
+        application) is amended by striking "January 1, 2009" and inserting 
+          "January 1, 2010".

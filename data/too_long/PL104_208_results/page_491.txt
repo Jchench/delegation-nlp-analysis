@@ -1,0 +1,27 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009-490
+
+(12) AMENDMENTS TO THE HOME OWNERS’ LOAN ACT.—The Home Owners’ Loan Act (12 U.S.C. 1461 et seq.) is amended—
+
+(A) in section 5—
+(i) in subsection (c)(5)(A), by striking “that is a member of the Bank Insurance Fund”;
+
+(ii) in subsection (c)(6), by striking “As used in this subsection—” and inserting “For purposes of this subsection, the following definitions shall apply:”; 
+(iii) in subsection (o)(1), by striking “that is a Bank Insurance Fund member”; 
+(iv) in subsection (o)(2)(A), by striking “a Bank Insurance Fund member until such time as it changes its status to a Savings Association Insurance Fund member” and inserting “insured by the Deposit Insurance Fund”; 
+(v) in subsection (t)(5)(D)(iii)(II), by striking “affected deposit insurance fund” and inserting “Deposit Insurance Fund”; 
+(vi) in subsection (t)(7)(C)(i)(I), by striking “affected deposit insurance fund” and inserting “Deposit Insurance Fund”; and 
+(vii) in subsection (v)(2)(A)(i), by striking “, the Savings Association Insurance Fund” and inserting “or the Deposit Insurance Fund”; and 
+(B) in section 10—
+(i) in subsection (c)(1)(A)(iii)(VII), by adding “or” at the end;
+(ii) in subsection (c)(1)(A)(iv), by adding “and” at the end;
+(iii) in subsection (c)(1)(B), by striking “Savings Association Insurance Fund or Bank Insurance Fund” and inserting “Deposit Insurance Fund”; 
+(iv) in subsection (c)(2), by striking “Savings Association Insurance Fund or the Bank Insurance Fund” and inserting “Deposit Insurance Fund”; and 
+(v) in subsection (m)(3), by striking subparagraph (E), and by redesignating subparagraphs (F), (G), and (H) as subparagraphs (E), (F), and (G), respectively.
+
+(13) AMENDMENTS TO THE NATIONAL HOUSING ACT.—The National Housing Act (12 U.S.C. 1701 et seq.) is amended—
+
+(A) in section 317(b)(1)(B) [12 U.S.C. 1723i(b)(1)(B)], by striking “Bank Insurance Fund for banks or through the Savings Association Insurance Fund for savings associations” and inserting “Deposit Insurance Fund”; and (B) in section 526(b)(1)(B)(ii) (12 U.S.C. 1735f14(b)(1)(B)(ii)), by striking “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations” and inserting “Deposit Insurance Fund”.
+
+(14) FURTHER AMENDMENTS TO THE FEDERAL DEPOSIT INSURANCE ACT.—The Federal Deposit Insurance Act (12 U.S.C. 1811 et seq.) is amended—
+(A) in section 3(a)(1) (12 U.S.C. 1813(a)(1)), by striking subparagraph (B) and inserting the following:
+“(B) includes any former savings association.”;

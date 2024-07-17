@@ -1,0 +1,29 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+ 
+124 STAT. 1435
+
+SEC. 170. SAFE HARBOR.
+ 
+(a) REGULATIONS.—The Board of Governors shall promulgate regulations on behalf of, and in consultation with, the Council setting forth the criteria for exempting certain types or classes of U.S. nonbank financial companies or foreign nonbank financial companies from supervision by the Board of Governors.
+ 
+(b) CONSIDERATIONS.—In developing the criteria under subsection (a), the Board of Governors shall take into account the factors for consideration described in subsections (a) and (b) of section 113 in determining whether a U.S. nonbank financial company or foreign nonbank financial company shall be supervised by the Board of Governors. 
+
+(c) RULE OF CONSTRUCTION.—Nothing in this section shall be construed to require supervision by the Board of Governors of a U.S. nonbank financial company or foreign nonbank financial company, if such company does not meet the criteria for exemption established under subsection (a).
+ 
+(d) REVISIONS.— 
+
+(1) IN GENERAL.—The Board of Governors shall, in consultation with the Council, review the regulations promulgated under subsection (a), not less frequently than every 5 years, and based upon the review, the Board of Governors may revise such regulations on behalf of, and in consultation with, the Council to update as necessary the criteria set forth in such regulations. 
+
+(2) TRANSITION PERIOD.—No revisions under paragraph (1) shall take effect before the end of the 2-year period after the date of publication of such revisions in final form.
+ 
+(e) REPORT.—The Chairman of the Board of Governors and the Chairperson of the Council shall submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 30 days after the date of the issuance of final form of regulations under subsection (a), or any subsequent revision to such regulations under subsection (d), as applicable. Such report shall include, at a minimum, the rationale for exemption and empirical evidence to support the criteria for exemption. 
+
+SEC. 171. LEVERAGE AND RISK-BASED CAPITAL REQUIREMENTS.
+
+(a) DEFINITIONS.—For purposes of this section, the following definitions shall apply:
+
+(1) GENERALLY APPLICABLE LEVERAGE CAPITAL REQUIREMENTS.—The term ‘‘generally applicable leverage capital requirements’’ means—
+
+(A) the minimum ratios of tier 1 capital to average total assets, as established by the appropriate Federal banking agencies to apply to insured depository institutions under the prompt corrective action regulations implementing section 38 of the Federal Deposit Insurance Act, regardless of total consolidated asset size or foreign financial exposure; and 
+
+(B) includes the regulatory capital components in the numerator of that capital requirement, average total assets in the denominator of that capital requirement, and the required ratio of the numerator to the denominator.

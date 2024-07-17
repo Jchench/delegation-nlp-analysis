@@ -1,0 +1,23 @@
+106 STAT. 4062      PUBLIC LAW 102-550--OCT. 28, 1992
+
+"(vi) enacted laws for the sharing of seized narcotics assets with other governments;
+"(vii) cooperated, when requested, with appropriate law enforcement agencies of other governments investigating financial crimes related to narcotics; and
+"(viii) addressed the problem on international transportation of illegal-source currency and monetary instruments, The report shall also detail instances of refusals to cooperate with foreign governments, and any actions taken by the United States Government and any international organization to address such obstacles, including the imposition of sanctions or penalties.
+"(C) The report shall also include information on multilateral and bilateral strategies pursed by the Department of State, the Department of Justice, the Department of the Treasury, and other relevant United States Government agencies, either collectively or individually, to ensure the cooperation of foreign governments with respect to narcotics-related money laundering.
+"(D) The report shall include specific detail to demonstrate that all United States Government agencies are pursuing a common strategy with respect to achieving international cooperation against money laundering and are pursuing a common strategy with respect to major money laundering countries, including a summary of United States objectives on a country-by-country basis.
+"(E) As used in this paragraph, the term 'major money laundering country' means a country whose financial intitutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking.";
+(c) DEFINITION OF MAJOR DRUG-TRANSIT COUNTRY.--Section 481(i)(5) of that Act (22 U.S.C. 2291(i)(5)) is amended--
+  (1) by inserting "or" at the end of subparagraph (A);
+  (2) by striking out "or" at the end of subparagraph (B) and inserting in lieu thereof a period; and
+  (3) by striking out subparagraph (C).
+Subtitle C--Money Laundering
+        Enforcement Improvements
+SEC. 1521. JURISDICTION IN CIVIL FORFEITURE CASES.
+Section 1355 of title 28, United States Code, is amended--
+  (1) by inserting "(a)" before "The district"; and
+  (2) by adding at the end the following new subsections:
+  "(b)(1) A forfeiture action or proceeding may be brought in--
+     "(A) the district court for the district in which any of the acts or omissions giving rise to the forfeiture occurred, or
+     "(B) any other district where venue for the forfeiture action or proceeding is specifically provide for in section 1395 of this title or any other statute.
+  "(2) Whenever property subject to forfeiture under the laws of the United States is located in a foreign country, or has been detained or seized pursuant to legal process or competent authorities of a foreign government, an action or proceeding for forfeiture may be brought as provided in paragraph (1), or in the United States District court for the District of Columbia.
+  "(c) In any case in which a final order disposing of property in a civil forfeiture action or proceeding is appealed, removal of

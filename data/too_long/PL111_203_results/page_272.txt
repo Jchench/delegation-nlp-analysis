@@ -1,0 +1,28 @@
+124 STAT. 1646
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+if this title requires the Commodity Futures Trading Commis- sion and the Securities and Exchange Commission to issue joint regulations to implement the provision.
+Deadline.
+
+( e) GLOBAL RULEMAKING TIMEFRAME.—Unless otherwise pro- vided in this title, or an amendment made by this title, the Com- modity Futures Trading Commission or the Securities and Exchange Commission, or both, shall individually, and not jointly, promulgate rules and regulations required of each Commission under this title or an amendment made by this title not later than 360 days after the date of enactment of this Act.
+
+( f) RULES AND REGISTRATION BEFORE FINAL EFFECTIVE DATES.—Beginning on the date of enactment of this Act and not- withstanding the effective date of any provision of this Act, the Commodity Futures Trading Commission and the Securities and Exchange Commission may, in order to prepare for the effective dates of the provisions of this Act—
+
+(1) promulgate rules, regulations, or orders permitted or required by this Act;
+
+(2) conduct studies and prepare reports and recommenda- tions required by this Act;
+
+(3) register persons under the provisions of this Act; and
+
+(4) exempt persons, agreements, contracts, or transactions from provisions of this Act, under the terms contained in this Act,
+provided, however, that no action by the Commodity Futures Trading Commission or the Securities and Exchange Commission described in paragraphs (1) through (4) shall become effective prior to the effective date applicable to such action under the provisions of this Act.
+
+
+SEC. 713. PORTFOLIO MARGINING CONFORMING CHANGES.
+
+( a) SECURITIES EXCHANGE ACT OF 1934.—Section 15(c)(3) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(c)(3)) is amended by adding at the end the following:
+      ‘‘( C ) Notwithstanding any provision of sections 2(a)(1)(C)(i) or 4d(a)(2) of the Commodity Exchange Act and the rules and regulations thereunder, and pursuant to an exemption granted by the Commission under section 36 of this title or pursuant to a rule or regulation, cash and securities may be held by a broker or dealer registered pursuant to subsection (b)(1) and also registered as a futures commission merchant pursuant to section 4f(a)(1) of the Commodity Exchange Act, in a portfolio margining account carried as a futures account subject to section 4d of the Commodity Exchange Act and the rules and regulations thereunder, pursuant to a portfolio margining program approved by the Commodity Futures Trading Commission, and subject to subchapter IV of chapter 7 of title 11 of the United States Code and the rules and regulations thereunder. The Commission shall consult with the Commodity Futures Trading Commission to adopt rules to ensure that such transactions and accounts are subject to comparable requirements to the extent practicable for similar products.’’.
+Consultation.
+
+( b) COMMODITY EXCHANGE ACT.—Section 4d of the Commodity Exchange Act (7 U.S.C. 6d) is amended by adding at the end the following:

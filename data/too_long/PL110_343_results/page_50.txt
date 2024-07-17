@@ -1,0 +1,36 @@
+122 STAT. 3814
+
+PUBLIC LAW 110–343—OCT. 3, 2008
+
+26 USC 48 note.
+
+(c) QUALIFIED SMALL WIND ENERGY PROPERTY.—Section 48(c), as amended by section 103, is amended by adding at the end the following new paragraph:
+‘‘(4) QUALIFIED SMALL WIND ENERGY PROPERTY.—
+‘‘(A) IN GENERAL.—The term ‘qualified small wind energy property’ means property which uses a qualifying small wind turbine to generate electricity.
+‘‘(B) LIMITATION.—In the case of qualified small wind energy property placed in service during the taxable year, the credit otherwise determined under subsection (a)(1) for such year with respect to all such property of the taxpayer shall not exceed $4,000.
+‘‘(C) QUALIFYING SMALL WIND TURBINE.—The term ‘qualifying small wind turbine’ means a wind turbine which has a nameplate capacity of not more than 100 kilowatts.
+‘‘(D) TERMINATION.—The term ‘qualified small wind energy property’ shall not include any property for any period after December 31, 2016.’’.
+
+(d) CONFORMING AMENDMENT.—Section 48(a)(1), as amended by section 103, is amended by striking ‘‘paragraphs (1)(B), (2)(B), and (3)(B)’’ and inserting ‘‘paragraphs (1)(B), (2)(B), (3)(B), and (4)(B)’’.
+
+(e) EFFECTIVE DATE.—The amendments made by this section shall apply to periods after the date of the enactment of this Act, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
+
+26 USC 48 note.
+
+SEC. 105. ENERGY CREDIT FOR GEOTHERMAL HEAT PUMP SYSTEMS.
+
+(a) IN GENERAL.—Subparagraph (A) of section 48(a)(3), as amended by this Act, is amended by striking ‘‘or’’ at the end of clause (v), by inserting ‘‘or’’ at the end of clause (vi), and by adding at the end the following new clause:
+‘‘(vii) equipment which uses the ground or ground water as a thermal energy source to heat a structure or as a thermal energy sink to cool a structure, but only with respect to periods ending before January 1, 2017,’’.
+
+(b) EFFECTIVE DATE.—The amendments made by this section shall apply to periods after the date of the enactment of this Act, in taxable years ending after such date, under rules similar to the rules of section 48(m) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
+
+SEC. 106. CREDIT FOR RESIDENTIAL ENERGY EFFICIENT PROPERTY.
+
+(a) EXTENSION.—Section 25D(g) is amended by striking ‘‘December 31, 2008’’ and inserting ‘‘December 31, 2016’’.
+
+(b) REMOVAL OF LIMITATION FOR SOLAR ELECTRIC PROPERTY.—
+(1) IN GENERAL.—Section 25D(b)(1), as amended by subsections (c) and (d), is amended—
+(A) by striking subparagraph (A), and
+(B) by redesignating subparagraphs (B) through (E) as subparagraphs (A) through (D), respectively.
+(2) CONFORMING AMENDMENT.—Section 25D(e)(4)(A), as amended by subsections (c) and (d), is amended—
+(A) by striking clause (i), and

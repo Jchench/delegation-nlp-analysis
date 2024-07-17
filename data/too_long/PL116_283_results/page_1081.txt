@@ -1,0 +1,85 @@
+PUBLIC LAW 116-283—JAN. 1, 2021                                                                              134 STAT. 4467
+
+SEC. 4201. RESEARCH, DEVELOPMENT, TEST, AND EVALUATION
+(In Thousands of Dollars)
+
+Line  Program               Item                                              FY 2021           Conference
+        Element                                                              Request          Authorized
+          ------------------------------------------------------------------------------------------------------------------------
+243  0303142F        GLOBAL FORCE MANAGEMENT—DATA INITIA-
+                              TIVE ..........................................................  1,346               1,346
+
+246  0304260F        AIRBORNE SIGINT ENTERPRISE ............................  128,110         128,110
+247  0304310F        COMMERCIAL ECONOMIC ANALYSIS .....................  4,042               4,042
+251  0305020F        COMM INTELLIGENCE INFORMATION TECH-
+                              NOLOGY .......................................................  1,649               1,649
+
+252  0305022F        ISR MODERNIZATION & AUTOMATION DIVMT
+                              (IMAD) ..........................................................  19,265          19,265
+253  0305090F        GLOBAL AIR TRAFFIC MANAGEMENT (GATM) ...  4,645              4,645
+254  0305103F        CYBER SECURITY INITIATIVE ...............................  834                 834
+255  0305111F        WEATHER SERVICE ...............................................  23,640           23,640
+
+                  Commercial weather pilot .....................................  [7,200]
+
+256  0305114F        AIR TRAFFIC CONTROL, APPROACH, AND
+                              LANDING SYSTEM (ATCALS) .......................  6,533               6,533
+257  0305116F        AERIAL TARGETS .....................................................  442                    442
+258  0305128F        SECURITY AND INVESTIGATIVE ACTIVITIES ..........  432                    432
+262  0305146F        DEFENSE JOINT COUNTERINTELLIGENCE AC-
+                              TIVITIES .........................................................  4,890              4,890
+
+264  0305197F        INTEGRATED BROADCAST SERVICE (IBS) ...............  8,864               8,864
+265  0305202F        DRAGON U-2 .........................................................  18,659            26,650
+                   Air Force requested transfer from line 267 ..........                    [18,000]
+267  0305206F        AIRBORNE RECONNAISSANCE SYSTEMS ...............  121,512         121,612
+                   Air Force requested transfer to line 265 ..............                    [-18,000]
+                   Overseas Star Wide Area Motion Imagery pro-
+                              gram increase .............................................. [18,000]
+                   Sensor Open Systems Architecture ....................                     [15,000]
+268  0305207F        MANNED RECONNAISSANCE SYSTEMS .................  14,711           14,711
+269  0305208F        DISTRIBUTED COMMON GROUND/SURFACE
+                              SYSTEMS ........................................................ 14,124            14,124
+
+270  0305209F        RQ-4 UAV ............................................................  134,589         134,589
+
+271  0305221F        NETWORK-CENTRIC COLLABORATIVE TAR-
+                              GETING ..........................................................  15,049           15,049
+272  0305238F        NATO AGS ............................................................  36,731             36,731
+273  0305240F        SUPPORT TO DCGS ENTERPRISE .........................  33,547           33,547
+274  0306040F        INTERNATIONAL INTELLIGENCE TECH-
+                              NOLOGY AND ARCHITECTURES ..................  13,715           13,715
+                              PDI: Mission Partner Environment BICES-X
+                              Project ..............................................................        [5,680]
+
+275  0305818F        RAPID CYBER ACQUISITION ................................  4,262             4,262
+276  0305844F        PERSONNEL RECOVERY COMMAND & CTRL .........  2,207            2,207
+
+277  0401117F        INTELLIGENCE MISSION DATA (IMD) .....................  6,277             6,277
+278  0401119F        C-130 AIRLIFT SQUADRON ..................................  41,739           41,739
+279  0401130F        C-17 AIRLIFT SQUADRONS (IF) ..............................  32,950             32,950
+280  0401139F        C-5 AIRCRAFT ......................................................  99,091             99,091
+281  0401132F        C-130 PROGRAM .................................................  10,674           10,674
+282  0401342F        LARGE AIRCRAFT IR COUNTERMEASURES
+                              (LAIRCM) .......................................................  5,507             5,507
+283  0401218F        KC-135 .................................................................  4,591              4,591
+286  0401318F        CV-22 .................................................................  18,419            18,419
+287  0402011F        SPECIAL TACTICS / COMBAT CONTROL ..................  7,673               7,673
+288  0708050F        MAINTENANCE, REPAIR & OVERHAUL SYSTEM
+                              (MRO) .............................................................  34,213           34,213
+291  0708016F        LOGISTICS INFORMATION TECHNOLOGY
+                              (LOGIT) .........................................................  34,225           34,225
+                              For polar war carryover ................................. [3,700]
+
+292  0708611F        SUPPORT SYSTEMS DEVELOPMENT ......................  11,838           11,838
+293  0804743F        FLIGHT TRAINING ..................................................  2,192               2,192
+294  0901022F        JOINT PERSONNEL RECOVERY AGENCY .................  3,092               3,092
+295  0901216F        CIVILIAN COMPENSATION PROGRAM .....................  8,589               8,589
+296  0901220F        PERSONNEL ADMINISTRATION ..............................  1,547               1,547
+297  0901594F        AIR FORCE STUDIES AND ANALYSIS AGENCY ........  1,194               1,194
+298  0901582F        FINANCIAL MANAGEMENT AND INFORMATION SYS-
+                              TEMS DEVELOPMENT ........................................  7,006            7,006
+299  0901594F        DEFENSE ENTERPRISE ACTING AND MGT SYS
+                              (DEAMS) ..........................................................  46,638          46,638
+301  1201017F        GLOBAL SENSOR INTEGRATED ON NETWORK
+                              (GSIN) ...........................................................  1,889             0

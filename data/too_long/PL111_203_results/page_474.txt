@@ -1,0 +1,28 @@
+124 STAT. 1848          PUBLIC LAW 111-203—JULY 21, 2010
+
+or appropriate to implement the provision of this section consistent with the purposes of this section.”.
+(b) PROTECTION FOR EMPLOYEES OF NATIONALLY RECOGNIZED STATISTICAL RATING ORGANIZATIONS.—Section 1514A(a) of title 18, United States Code, is amended—
+(1) by inserting “or nationally recognized statistical rating organization (as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c),” after “780(d),”); and
+(2) by inserting “or nationally recognized statistical rating organization” after “such company”.
+(c) SECTION 1514A OF TITLE 18, UNITED STATES CODE.—
+(1) STATUTE OF LIMITATIONS; JURY TRIAL.—Section 1514A(b)(2) of title 18, United States Code, is amended—
+(A) in subparagraph (D)—
+(i) by striking “90” and inserting “180”; and
+(ii) by striking the period at the end and inserting “, or after the date on which the employee became aware of the violation,”; and
+(B) by adding at the end the following:
+“(E) JURY TRIAL.—A party to an action brought under paragraph (1)(B) shall be entitled to trial by jury.”.
+(2) PRIVATE SECURITIES LITIGATION WITNESSES; NONENFORCEABILITY; INFORMATION.—Section 1514A of title 18, United States Code, is amended by adding at the end the following:
+“(e) NONENFORCEABILITY OF CERTAIN PROVISIONS WAIVING RIGHTS AND REMEDIES OR REQUIRING ARBITRATION OF DISPUTES.—
+“(1) WAIVER OF RIGHTS AND REMEDIES.—The rights and remedies provided for in this section may not be waived by any agreement, policy form, or condition of employment, including by a predispute arbitration agreement.
+“(2) PREDISPUTE ARBITRATION AGREEMENTS.—No predispute arbitration agreement shall be valid or enforceable, if the agreement requires arbitration of a dispute arising under this section.”.
+(d) STUDY OF WHISTLEBLOWER PROTECTION PROGRAM.—
+(1) STUDY.—The Inspector General of the Commission shall conduct a study of the whistleblower protections established under the amendments made by this section, including—
+(A) whether the final rules and regulations issued under the amendments made by this section have made the whistleblower protection program (referred to in this subsection as the “program”) clearly defined and user-friendly;
+(B) whether the program is promoted on the website of the Commission and has been widely publicized;
+(C) whether the Commission is prompt in—
+(i) responding to—
+(I) information provide by whistleblowers; and
+(II) applications for awards filed by whistleblowers;
+(ii) updating whistleblowers about the status of their applications; and
+(iii) otherwise communicating with the interested parties;
+(D) whether the minimum and maximum reward levels are adequate to entice whistleblowers to come forward with

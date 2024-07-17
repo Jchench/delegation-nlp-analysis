@@ -1,0 +1,15 @@
+110 STAT. 3009-663        PUBLIC LAW 104-208-SEPT. 30, 1996
+
+described in paragraphs (3) and (4) of subsection (a), but only if the person or entity retains the form and makes it available for inspection in the same manner as in the case of an I-9 form under section 274A(b)(3).
+(4) WAIVER OF DOCUMENT PRESENTATION REQUIREMENT IN
+CERTAIN CASES.-
+(A) IN GENERAL.-In the case of a person or entity that elects, in a manner specified by the Attorney General consistent with subparagraph (B), to participate in the pilot program under this paragraph, if an individual being hired (or recruited or referred) attests (in the manner described in paragraph (3)) to United States citizenship and the person or entity retains the form on which the attestation is made and makes it available for inspection in the same manner as in the case of an I-9 form under section 274A(b)(3), the person or entity is not required to comply with the procedures described in section 274A(b).
+(B) RESTRICTION.-The Attorney General shall restrict the election under this paragraph to no more than 1,000 employers and, to the extent practicable, shall select among employers seeking to make such election in a manner that provides for such an election by a representative sample of employers.
+(5) NONREVIEWABLE DETERMINATIONS.-The determinations of the Attorney General under paragraphs (2) and (4) are within the discretion of the Attorney General and are not subject to judicial or administrative review.
+(c) MACHINE-READABLE-DOCUMENT PILOT PROGRAM.
+(1) IN GENERAL.-Except as provided in paragraph (3), the procedures applicable under the machine-readable-document pilot program under this subsection shall be the same procedures as those under the basic pilot program under subsection (a).
+(2) STATE DOCUMENT REQUIREMENT TO PARTICIPATE IN PILOT
+PROGRAM.-The Attorney General may not provide for the operation of the machine-readable-document pilot program in a State unless driver's licenses and similar identification documents described in section 274A(b)(1)(D)(i) issued by the State include a machine-readable social security account number.
+(3) USE OF MACHINE-READABLE DOCUMENTS.-If the individual whose identity and employment eligibility must be confirmed presents to the person or entity hiring (or recruiting or referring) the individual a license or other document described in paragraph (2) that includes a machine-readable social security account number, the person or entity must make an inquiry through the confirmation system by using a machine-readable feature of such document. If the individual does not attest to United States citizenship under section 274A(b)(2), the individual's identification or authorization number described in subsection (a)(1)(B) shall be provided as part of the inquiry.
+(d) PROTECTION FROM LIABILITY FOR ACTIONS TAKEN ON THE BASIS OF INFORMATION PROVIDED BY THE CONFIRMATION SYSTEM.-
+No person or entity participating in a pilot program shall be civilly or criminally liable under any law for any action taken in good faith reliance on information provided through the confirmation system.

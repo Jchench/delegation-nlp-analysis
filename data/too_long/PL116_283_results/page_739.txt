@@ -1,0 +1,24 @@
+PUBLIC LAW 116-283—JAN. 1, 2021 134 STAT. 4125
+
+(1) TIMING VARIABILITY IN DEPARTMENT NETWORKS.—The Chief Information Officer shall characterize—
+    (A) timing variability across Department information technology and operational technology networks, appliances, devices, applications, and sensors that generate time-stamped data and metadata used for cybersecurity purposes;
+    (B) how timing variability affects current, planned, and potential capabilities for detecting network intrusions that rely on correlating events and the sequence of events; and
+    (C) how to harmonize standard of timing across Department networks.
+    
+(2) USE OF NETWORK ADDRESS TRANSLATION.—The Chief Information Officer shall characterize—
+    (A) why and how the Department is using Network Address Translation (NAT) and multiple layers and nesting of Network Address Translation;
+    (B) how using Network Address Translation affects the ability to link malicious communications detected at various network tiers to specific endpoints or hosts to enable prompt additional investigations, quarantine decisions, and remediation activities; and
+    (C) what steps and associated cost and schedule are necessary to eliminate the use of Network Address Translation or to otherwise provide transparency to network defenders, including options to accelerate the transition from Internet Protocol version 4 to Internet Protocol version 6.
+    
+(b) RECOMMENDATION.—The Chief Information Officer and the Principal Cyber Advisor shall submit to the Secretary of Defense a recommendation to address the assessments conducted under subsection (a), including whether and how to revise the cyber strategy of the Department.
+
+(c) BRIEFING.—Not later than April 1, 2021, the Chief Information Officer shall brief the congressional defense committees on the findings of the Chief Information Officer with respect to the assessments conducted under subsection (a) and the recommendation submitted under subsection (b).
+
+Deadline.
+
+SEC. 1735. INTEGRATION OF DEPARTMENT OF DEFENSE USER ACTIVITY MONITORING AND CYBERSECURITY.
+
+(a) INTEGRATION OF PLANS, CAPABILITIES, AND SYSTEMS.—The Secretary of Defense shall integrate the plans, capabilities, and systems for user activity monitoring, and the plans, capabilities, and systems for endpoint cybersecurity and the collection of metadata on network activity for cybersecurity to enable mutual support and information sharing.
+
+(b) REQUIREMENTS.—In carrying out subsection (a), the Secretary shall—
+    (1) consider using the Big Data Platform instances that host cybersecurity metadata for storage and analysis of all user activity monitoring data collected across the Department of Defense Information Network at all security classification levels;

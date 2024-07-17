@@ -1,0 +1,26 @@
+PUBLIC LAW 102-550—OCT. 28, 1992         106 STAT. 4057
+
+by this section or to file a report containing a material omission or misstatement of fact.
+"(d) AVAILABILITY OF REPORTS.—The Secretary shall provide reports filed under subsection (b) to appropriate State financial institution supervisory agencies for supervisory purposes.
+"(e) DEPOSITORY INSTITUTION DEFINED.—For purposes of this section, the term 'depository institution' means any financial institution described in subparagraph (A), (B), (C), (D), (E), or (F) of section 5312(a)(2)."
+(b) TECHNICAL AND CONFORMING AMENDMENT.—Section 5321(a) of title 31, United States Code, is amended by adding at the end the following new paragraph:
+"(7) FINANCIAL INSTITUTION IDENTIFICATION VIOLATIONS.—
+"(A) PENALTY AUTHORIZED.—The Secretary may impose a civil money penalty on any person who willfully violates any provision of section 5327 or any regulation prescribed under such section. 
+"(B) MAXIMUM AMOUNT LIMITATION.—The amount of any civil money penalty imposed under subparagraph (A) shall not exceed $10,000 per day for each day during which a report remains unfiled or a report containing a material omission or misstatement of fact remains uncorrected."
+"(c) CLERICAL AMENDMENT.—The table of sections for chapter 53 of title 31, United States Code, is amended by inserting after the item relating to section 5326 the following new item:
+
+"5327. Identification of financial institutions." 
+
+(d) EFFECTIVE DATE OF REGULATIONS.—The initial final regulations prescribed pursuant to section 5327 of title 31, United States Code (as added by subsection (a) of this section) shall take effect before January 1, 1994.
+   31 use 5327 
+note. 
+SEC. 1512. PROHIBITION OF ILLEGAL MONEY TRANSMITTING BUSINESSES.
+(a) IN GENERAL.—Chapter 95 of title 18, United States Code, is amended by adding at the end the following section:
+''§1960. Prohibition of illegal money transmitting businesses
+
+"(a) Whoever conducts, controls, manages, supervises, directs, or owns all or part of a business, knowing the business is an illegal money transmitting business, shall be fined in accordance with this title or imprisoned not more than 5 years, or both.
+"(b) As used in this section—
+"(1) the term 'illegal money transmitting business' means a money transmitting business that affects interstate or foreign commerce in any manner or degree and which is knowingly operated in a State—
+"(A) without the appropriate money transmitting State license; and
+"(B) where such operation is punishable as a misdemeanor or a felony under State law;
+"(2) the term 'money transmitting' includes but is not limited to transferring funds on behalf of the public by any and all means including but not limited to transfers within this country or to locations abroad by wire, check, draft, facsimile, or courier; and

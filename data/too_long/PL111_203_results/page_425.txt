@@ -1,0 +1,17 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+“(C) the Commodity Futures Trading Commission;
+“(D) the Financial Stability Oversight Council; and
+“(E) the Department of Justice.
+“(d) IDENTICAL DATA.—In prescribing rules under this section, the Commission shall require individuals and entities described in subsection (b) to submit to the Commission a report that contains data that is not less comprehensive than the data required to be collected by security-based swap data repositories under this title.”.
+(b) BENEFICIAL OWNERSHIP REPORTING.—Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended—
+(1) in subsection (d)(1), by inserting ‘‘or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and’’ after ‘‘Alaska Native Claims Settlement Act,’’; and
+(2) in subsection (g)(1), by inserting ‘‘or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule’’ after ‘‘subsection (d)(1) of this section’’.
+(c) REPORTS BY INSTITUTIONAL INVESTMENT MANAGERS.—Section 13(f)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(f)(1)) is amended by inserting ‘‘or otherwise becomes or is deemed to become a beneficial owner of any security of a class described in subsection (d)(1) upon the purchase or sale of a security-based swap that the Commission may define by rule,’’ after ‘‘subsection (d)(1) of this section’’.
+(d) ADMINISTRATIVE PROCEEDING AUTHORITY.—Section 15(b)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78o(b)(4)) is amended—
+(1) in subparagraph (C), by inserting ‘‘security-based swap dealer, major security-based swap participant,’’ after ‘‘government securities dealer,’’; and
+(2) in subparagraph (F), by striking ‘‘broker or dealer’’ and inserting ‘‘broker, dealer, security-based swap dealer, or a major security-based swap participant’’.
+(e) SECURITY-BASED SWAP BENEFICIAL OWNERSHIP.—Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is amended by adding at the end the following:
+‘‘(o) BENEFICIAL OWNERSHIP.—For purposes of this section and section 16, a person shall be deemed to acquire beneficial ownership of an equity security based on the purchase or sale of a security-based swap, only to the extent that the Commission, by rule, determines after consultation with the prudential regulators and the Secretary of the Treasury, that the purchase or sale of the security-based swap, or class of security-based swap, provides incidents of ownership comparable to direct ownership of the equity security, and that it is necessary to achieve the purposes of this section that the purchase or sale of the security-based swap, or class of security-based swap, be deemed the acquisition of beneficial ownership of the equity security.’’.
+SEC. 767. STATE GAMING AND BUCKET SHOP LAWS.
+Section 28(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78bb(a)) is amended to read as follows:
+‘‘(a) LIMITATION ON JUDGMENTS.—

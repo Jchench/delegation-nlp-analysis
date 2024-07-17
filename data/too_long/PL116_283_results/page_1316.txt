@@ -1,0 +1,38 @@
+134 STAT. 4702
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+Applicability.
+46 USC 4502 note.
+
+(c) FISHING SAFETY GRANTS.—The cap on the Federal share of the cost of any activity carried out with a grant under subsections (i) and (j) of section 4502 of title 46, United States Code, as in effect prior to the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018, shall apply to any funds appropriated under the Consolidated Appropriations Act, 2017 (Public Law 115–31) for the purpose of making such grants.
+
+SEC. 8322. MEDICAL STANDARDS.
+
+46 USC 3509. Applicability.
+
+(a) IN GENERAL.—Chapter 35 of title 46, United States Code, is amended by adding at the end the following:
+
+“§ 3509. Medical standards
+“The owner of a vessel to which section 3507 applies shall ensure that—
+        “(1) a physician is always present and available to treat any passengers who may be on board the vessel in the event of an emergency situation;
+        “(2) the vessel is in compliance with the Health Care Guidelines for Cruise Ship Medical Facilities established by the American College of Emergency Physicians; and
+        “(3) the initial safety briefing given to the passengers on board the vessel includes—
+            “(A) the location of the vessel’s medical facilities; and
+            “(B) the appropriate steps passengers should follow during a medical emergency.”.
+
+(b) CLERICAL AMENDMENT.—The analysis for chapter 35 of title 46, United States Code, is amended by adding at the end the following:
+
+“3509. Medical standards.”.
+
+Subtitle C—Advisory Committees
+
+SEC. 8331. ADVISORY COMMITTEES.
+
+(a) NATIONAL OFFSHORE SAFETY ADVISORY COMMITTEE; REPRESENTATION.—Section 15106(c)(3) of title 46, United States Code, is amended—
+        (1) in subparagraph (C), by striking “mineral and oil operations, including geophysical services” and inserting “operations”;
+        (2) in subparagraph (D), by striking “exploration and recovery”;
+        (3) in subparagraph (E), by striking “engaged in diving services related to offshore construction, inspection, and maintenance” and inserting “providing diving services to the offshore industry”;
+        (4) in subparagraph (F), by striking “engaged in safety and training services related to offshore exploration and construction” and inserting “providing safety and training services to the offshore industry”;
+        (5) in subparagraph (G), by striking “engaged in pipe laying services related to offshore construction” and inserting “providing subsea engineering, construction, or remotely operated vehicle support to the offshore industry”;
+        (6) in subparagraph (H), by striking “mineral and energy”;

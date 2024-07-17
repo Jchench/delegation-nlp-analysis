@@ -1,0 +1,26 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+(ii) to a self-regulatory organization, in the case of an investigation that concerns an audit report for a broker or dealer that is under the jurisdiction of such self-regulatory organization.’’. 
+
+(j) USE OF DOCUMENTS RELATED TO AN INSPECTION OR INVESTIGATION.—Section 105(b)(5)(B)(ii) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(b)(5)(B)(ii)) is amended— 
+(1) in subclause (III), by striking ‘‘and’’ at the end; 
+(2) in subclause (IV), by striking the comma and inserting ‘‘; and’’; and 
+(3) by inserting after subclause (IV) the following: 
+‘‘(V) a self-regulatory organization, with respect to an audit report for a broker or dealer that is under the jurisdiction of such self-regulatory organization,’’. 
+
+SEC. 983. PORTFOLIO MARGINING.
+
+(a) ADVANCES.—Section 9(a)(1) of the Securities Investor Protection Act of 1970 (15 U.S.C. 78fff3(a)(1)) is amended by inserting ‘‘or options on commodity futures contracts’’ after ‘‘claim for securities’’.
+
+(b) DEFINITIONS.—Section 16 of the Securities Investor Protection Act of 1970 (15 U.S.C. 78lll) is amended— 
+(1) by striking paragraph (2) and inserting the following: 
+‘‘(2) CUSTOMER.— 
+‘‘(A) IN GENERAL.—The term ‘customer’ of a debtor means any person (including any person with whom the debtor deals as principal or agent) who has a claim on account of securities received, acquired, or held by the debtor in the ordinary course of its business as a broker or dealer for or for the securities accounts of such person for safekeeping, with a view to sale, to cover consummated sales, pursuant to purchases, as collateral, security, or for purposes of effecting transfer. 
+‘‘(B) INCLUDED PERSONS.—The term ‘customer’ includes— 
+‘‘(i) any person who has deposited cash with the debtor for the purpose of purchasing securities; 
+‘‘(ii) any person who has a claim against the debtor for cash, securities, futures contracts, or options on futures contracts received, acquired, or held in a portfolio margining account carried as a securities account pursuant to a portfolio margining program approved by the Commission; and 
+‘‘(iii) any person who has a claim against the debtor arising out of sales or conversions of such securities. 
+‘‘(C) EXCLUDED PERSONS.—The term ‘customer’ does not include any person, to the extent that— 
+‘‘(i) the claim of such person arises out of transactions with a foreign subsidiary of a member of SIPC; or 
+‘‘(ii) such person has a claim for cash or securities which by contract, agreement, or understanding, or by operation of law, is part of the capital of the debtor, or is subordinated to the claims of any or all creditors of the debtor, notwithstanding that some ground exists
+

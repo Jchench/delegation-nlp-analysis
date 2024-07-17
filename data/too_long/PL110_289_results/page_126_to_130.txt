@@ -1,0 +1,143 @@
+122 STAT. 2778            PUBLIC LAW 110–289—JULY 30, 2008
+
+SEC. 1158. SUBPOENA AUTHORITY.
+   (a) IN GENERAL.—Section 1379B of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4641) is amended—
+      (1) in subsection (a)—
+         (A) in the matter preceding paragraph (1)—
+            (i) by striking “administrative”;
+            (ii) by inserting “, examination, or investigation” after “proceeding”;
+            (iii) by striking “subtitle” and inserting “title”; and
+            (iv) by inserting “or any designated representative thereof, including any person designated to conduct any hearing under this subtitle” after “Director”; and
+         (B) in paragraph (4), by striking “issued by the Director”;
+      (2) in subsection (b), by inserting “or in any territory or other place subject to the jurisdiction of the United States” after “State”;
+      (3) by striking subsection (c) and inserting the following:
+      “(c) ENFORCEMENT.—
+         “(1) IN GENERAL.—The Director, or any party to proceedings under this subtitle, may apply to the United States District Court for the District of Columbia, or the United States district court for the judicial district of the United States in any territory in which such proceeding is being conducted, or where the witness resides or carries on business, for enforcement of any subpoena or subpoena duces tecum issued pursuant to this section.
+         “(2) POWER OF COURT.—The courts described under paragraph (1) shall have the jurisdiction and power to order and require compliance with any subpoena issued under paragraph (1).”; 
+      (4) in subsection (d), by inserting “enterprise-affiliated party” before “may allow”; and
+      (5) by adding at the end the following:
+      “(e) PENALTIES.—A person shall be guilty of a misdemeanor, and upon conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for a term of not more than 1 year, or both, if that person willfully fails or refuses, in disobedience of a subpoena issued under subsection (c), to—
+         “(1) attend court;
+         “(2) testify in court;
+         “(3) answer any lawful inquiry; or
+         “(4) produce books, papers, correspondence, contracts, agreements, or such other records as requested in the subpoena.”.
+
+                Subtitle E—General Provisions
+
+SEC. 1161. CONFORMING AND TECHNICAL AMENDMENTS.
+   (a) AMENDMENTS TO 1992 ACT.—The Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.), as amended by this Act, is amended—
+      (1) in section 1315 (12 U.S.C. 4515)—
+         (A) in subsection (a)—
+
+               122 STAT. 2779            PUBLIC LAW 110–289—JULY 30, 2008
+
+            (i) by striking “(a) OFFICE PERSONNEL.—The” and inserting “(a) IN GENERAL.—Subject to title III of the Federal Housing Finance Regulatory Reform Act of 2008, the”; and
+            (ii) by striking “the Office” each place that term appears and inserting “the Agency”;
+         (B) in subsection (c), by striking “the Office” and inserting “the Agency”;
+         (C) in subsection (e), by striking “the Office” and inserting “the Agency”;
+         (D) by striking subsection (d) and redesignating subsections (e) as subsection (d); and
+         (E) by striking subsection (f);
+      (2) in section 1319A (12 U.S.C. 4520)—
+         (A) by striking “(a) IN GENERAL.—”; and
+         (B) by striking subsection (b);
+      (3) in section 1364(c) (12 U.S.C. 4614(c)), by striking the last sentence;
+      (4) by striking section 1383 (12 U.S.C. 1451 note);
+      (5) in each of sections 1319D, 1319E, and 1319F (12 U.S.C. 4523, 4524, 4525) by striking “the Office” each place that term appears and inserting “the Agency”; and
+      (6) in each of sections 1319B and 1369A(a)(3) (12 U.S.C. 4521, 4619(a)(3)), by striking “Committee on Banking, Finance and Urban Affairs’’ each place such term appears and inserting “Committee on Financial Services”.
+   (b) AMENDMENTS TO FANNIE MAE CHARTER ACT.—The Federal National Mortgage Association Charter Act (12 U.S.C. 1716 et seq.) is amended—
+      (1) in each of sections 303(c)(2) (12 U.S.C. 1718(c)(2)), 309(d)(3)(B) (12 U.S.C. 1723a(d)(3)(B)), and 309(k)(1) (12 U.S.C. 1723a(k)(1)), by striking “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development” each place that term appears, and inserting “Director of the Federal Housing Finance Agency”;
+      (2) in section 309—
+         (A) in subsection (m) (12 U.S.C. 1723a(m))—
+            (i) in paragraph (1), by striking “to the Secretary, in a form determined by the Secretary” and inserting “to the Director of the Federal Housing Finance Agency, in a form determined by the Director”; and
+            (ii) in paragraph (2), by striking “to the Secretary, in a form determined by the Secretary” and inserting “to the Director of the Federal Housing Finance Agency, in a form determined by the Director”; 
+         (B) in subsection (n) (12 U.S.C. 1723a(n))—
+            (i) in paragraph (1), by striking “and the Secretary” and inserting “and the Director of the Federal Housing Finance Agency”; and 
+            (ii) in paragraph (2), by striking “Secretary” each place that term appears and inserting “Director of the Federal Housing Finance Agency”; and
+         (C) in paragraph (3)(B), by striking “Secretary” and inserting “Director of the Federal Housing Finance Agency”.
+
+
+               122 STAT. 2780            PUBLIC LAW 110–289—JULY 30, 2008
+
+   (c) AMENDMENTS TO FREDDIE MAC CHARTER ACT.—The Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1451 et seq.) is amended—
+      (1) in each of sections 303(b)(2) (12 U.S.C. 1452(b)(2)), 303(h)(2) (12 U.S.C. 1452(h)(2)), and section 307(c)(1) (12 U.S.C. 1456(c)(1)), by striking “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development” each place that term appears and inserting “Director of the Federal Housing Finance Agency”;
+      (2) in section 306 (12 U.S.C. 1455)—
+         (A) in subsection (c)(2), by inserting “the” after “Secretary of”;
+         (B) in subsection (i)—
+            (i) by striking “section 1316(c)” and inserting “section 306(c)”; and
+            (ii) by striking “section 106” and inserting “section 1316”; and
+         (C) in subsection (j)(2), by striking “of substantially” and inserting “or substantially”; and
+      (3) in section 307 (12 U.S.C. 1456)—
+         (A) in subsection (e)—
+            (i) in paragraph (1), by striking “to the Secretary, in a form determined by the Secretary” and inserting “to the Director of the Federal Housing Finance Agency, in a form determined by the Director”; and
+            (ii) in paragraph (2), by striking “to the Secretary, in a form determined by the Secretary” and inserting “to the Director of the Federal Housing Finance Agency, in a form determined by the Director”;
+         (B) in subsection (f)—
+            (i) in paragraph (1), by striking “and the Secretary” and inserting “and the Director of the Federal Housing Finance Agency”; and
+            (ii) in paragraph (2), by striking “the Secretary” each place that term appears and inserting “the Director of the Federal Housing Finance Agency”; and
+            (iii) in paragraph (3)(B), by striking “Secretary” and inserting “Director of the Federal Housing Finance Agency”.
+   (d) AMENDMENT TO TITLE 18, UNITED STATES CODE.—Section 1905 of title 18, United States Code, is amended by striking “Office of Federal Housing Enterprise Oversight” and inserting “Federal Housing Finance Agency”.
+   (e) AMENDMENTS TO FLOOD DISASTER PROTECTION ACT OF 1973.—Section 102(f)(3)(A) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012a(f)(3)(A)) is amended by striking ‘‘Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development’’ and inserting ‘‘Director of the Federal Housing Finance Agency’’.
+   (f) AMENDMENT TO DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT ACT.—Section 5 of the Department of Housing and Urban Development Act (42 U.S.C. 3534) is amended by striking subsection (d).
+   (g) AMENDMENTS TO TITLE 5, UNITED STATES CODE.—Title 5, United States Code, is amended—
+      (1) in section 5313, by striking the item relating to the Director of the Office of Federal Housing Enterprise Oversight,
+
+               122 STAT. 2781           PUBLIC LAW 110–289—JULY 30, 2008
+
+         Department of Housing and Urban Development and inserting the following new item:
+         “Director of the Federal Housing Finance Agency.”; and
+         (2) in section 5313(2)A)(1)—
+         (A) in subparagraph (B), by striking “, and” and inserting “, and”;
+         (B) in subparagraph (D)—
+            (i) by striking “the Federal Housing Finance Board”;
+            (ii) by striking “the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development” and inserting “the Federal Housing Finance Agency”; and
+            (iii) by striking “or at the end;
+         (C) in subparagraph (E), as added by section 8(d)(1)(B)(ii) of Public Law 170–123, by adding “or” at the end; and
+         (D) by redesignating subparagraph (A), as added by section 1070(c)(1)(C) of Public Law 107–171, as subparagraph (F).
+   (h) AMENDMENT TO SARBANES–OXLEY ACT.—Section 105(b)(5)(B)(ii)(lI) of the Sarbanes–Oxley Act of 2002 (15 U.S.C. 7215(b)(5)(B)(ii)(II)) is amended by inserting “and the Director of the Federal Housing Finance Agency,” after “Commission,”.
+   (i) AMENDMENT TO FEDERAL DEPOSIT INSURANCE ACT.—Section 11(t)(2)(A) of the Federal Deposit Insurance Act (12 U.S.C. 1821(t)(2)(A)) is amended by adding at the end the following:
+“(vii) Federal Housing Finance Agency.”.
+
+SEC. 1162. PRESIDENTIALLY-APPOINTED DIRECTORS OF ENTERPRISES.
+   (a) FANNIE MAE.—
+      (1) IN GENERAL.—Section 308(b) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1723(b)) is amended—
+         (A) in the first sentence, by striking “eighteen persons, five of whom shall be appointed annually by the President of the United States, and the remainder of whom” and inserting “13 persons, or such other number that the Director determines appropriate, who”; 
+         (B) in the second sentence, by striking “appointed by the President”;
+         (C) in the third sentence— 
+            (i) by striking “appointed or”; and
+            (ii) by striking “, except that any such appointed member may be removed from office by the President for good cause”;
+         (D) in the fourth sentence, by striking “elective”; and
+         (E) by striking the fifth sentence.
+      (2) TRANSITIONAL PROVISION.—The amendments made by paragraph (1) shall not apply to any appointed position of the board of directors of the Federal National Mortgage Association until the expiration of the annual term for such position during which the effective date under section 1163 occurs.
+   (b) FREDDIE MAC.—
+
+               122 STAT. 2782              PUBLIC LAW 110–289—JULY 30, 2008
+
+      (1) IN GENERAL.—Section 303(a)(2) of the Federal Home Loan Mortgage Corporation Act (12 U.S.C. 1452(a)(2)) is amended—
+         (A) in subparagraph (A)—
+            (i) in the first sentence, by striking “18 persons, 5 of whom shall be appointed annually by the President of the United States and the remainder of whom” and inserting “13 persons, or such in number as the Director determines appropriate, who”; and
+            (ii) in the second sentence, by striking “appointed by the President of the United States”;
+         (B) in subparagraph (B)—
+            (i) by striking “such or”; and
+            (ii) by striking “, except that any appointed member may be removed from office by the President for good cause”; and
+         (C) in subparagraph (C)—
+            (i) by striking the first sentence; and 
+            (ii) by striking “elective”.
+      (2) TRANSITIONAL PROVISION.—The amendments made by paragraph (1) shall not apply to any appointed position of the board of directors of the Federal Home Loan Mortgage Corporation until the expiration of the annual term for such position during which the effective date under section 1163 occurs.
+
+12 USC 1452 note.
+
+SEC. 1163. EFFECTIVE DATE.
+   Except as otherwise specifically provided in this title, this title and the amendments made by this title shall take effect on, and shall apply beginning on, the date of enactment of this Act.
+
+5 USC 13132 note.
+
+              TITLE II—FEDERAL HOME LOAN BANKS
+
+SEC. 1201. RECOGNITION OF DISTINCTIONS BETWEEN THE ENTERPRISES AND THE FEDERAL HOME LOAN BANKS.
+   Section 1313 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4513) is amended by adding at the end the following:
+   “(f) RECOGNITION OF DISTINCTIONS BETWEEN THE ENTERPRISES AND THE FEDERAL HOME LOAN BANKS.—Prior to promulgating any regulation or taking any other formal or informal agency action of general applicability and future effect relating to the Federal Home Loan Banks (other than any regulation, advisory document, or examination guidance of the Federal Housing Finance Board that the Director reissues after the authority of the Director over the Federal Home Loan Banks takes effect), including the issuance of an advisory document or examination guidance, the Director shall consider the differences between the Federal Home Loan Banks and the enterprises with respect to—
+         “(1) the Banks—
+            “(A) cooperative ownership structure;
+            “(B) the mission of providing liquidity to members;
+            “(C) affordable housing and community development mission;
+            “(D) capital structure; and
+            “(E) joint and several liability; and

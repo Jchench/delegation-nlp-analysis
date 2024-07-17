@@ -1,0 +1,21 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+“(I) any commodity for future delivery, security futures product, or swap; or
+“(II) any commodity option authorized under section 4c; or
+“(iii) who is registered with the Commission as a floor broker.
+“(B) FURTHER DEFINITION.—The Commission, by rule or regulation, may include within, or exclude from, the term ‘floor broker’ any person in or surrounding any pit, ring, post, or other place provided by a contract market for the meeting of persons similarly engaged who trades for any other person if the Commission determines that the rule or regulation will effectuate the purposes of this Act.”;
+(11) by striking paragraph (23) (as redesignated by paragraph (1)) and inserting the following:
+“(23) FLOOR TRADER.—
+“(A) IN GENERAL.—The term ‘floor trader’ means any person—
+“(i) who, in or surrounding any pit, ring, post, or other place provided by a contract market for the meeting of persons similarly engaged, purchases, or sells solely for such person’s own account—
+“(I) any commodity for future delivery, security futures product, or swap; or
+“(II) any commodity option authorized under section 4c; or
+“(ii) who is registered with the Commission as a floor trader.
+“(B) FURTHER DEFINITION.—The Commission, by rule or regulation, may include within, or exclude from, the term ‘floor trader’ any person in or surrounding any pit, ring, post, or other place provided by a contract market for the meeting of persons similarly engaged who trades solely for such person’s own account if the Commission determines that the rule or regulation will effectuate the purposes of this Act.”;
+(12) by inserting after paragraph (23) (as redesignated by paragraph (1)) the following:
+“(24) FOREIGN EXCHANGE FORWARD.—The term ‘foreign exchange forward’ means a transaction that solely involves the exchange of 2 different currencies on a specific future date at a fixed rate agreed upon on the inception of the contract covering the exchange.
+“(25) FOREIGN EXCHANGE SWAP.—The term ‘foreign exchange swap’ means a transaction that solely involves—
+“(A) an exchange of 2 different currencies on a specific date at a fixed rate that is agreed upon on the inception of the contract covering the exchange; and
+“(B) a reverse exchange of the 2 currencies described in subparagraph (A) at a later date and at a fixed rate that is agreed upon on the inception of the contract covering the exchange.”;
+(13) by striking paragraph (28) (as redesignated by paragraph (1)) and inserting the following:
+“(28) FUTURES COMMISSION MERCHANT.—

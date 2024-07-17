@@ -1,0 +1,16 @@
+134 STAT. 4134              PUBLIC LAW 116-283—JAN. 1, 2021
+
+shall include, for each component that does not achieve at least level 3 status (referred to as "good cyber hygiene" in CMMC Model ver. 1.02), a determination as to whether and details as to how—
+(A) such component will implement relevant security measures to achieve a desired CMMC or other appropriate capability and performance threshold prior to March 1, 2022; and
+(B) such component will mitigate potential risks until such measures are implemented.
+(2) COMPTROLLER GENERAL REPORT REQUIRED.—Not later than 180 days after the submission of the report required under paragraph (1), the Comptroller General of the United States shall conduct an independent review of the report and provide a briefing to the congressional defense committees on the findings of the review.
+(b) BRIEFING ON IMPLEMENTATION OF CERTAIN CYBERSECURITY RECOMMENDATIONS.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees a briefing regarding the plans of the Secretary to implement certain cybersecurity recommendations to ensure—
+(1) the Chief Information Officer of the Department of Defense takes appropriate steps to ensure implementation of Department of Defense Cybersecurity Culture and Compliance Initiative (DC3I) tasks;
+(2) Department components develop plans with scheduled completion dates to implement any remaining Cybersecurity Discipline Implementation Plan (CDIP) tasks overseen by the Chief Information Officer;
+(3) the Deputy Secretary of Defense identifies a Department component to oversee the implementation of any CDIP tasks not overseen by the Chief Information Officer and reports on progress relating to such implementation;
+(4) Department components accurately monitor and report information on the extent that users have completed Cyber Awareness Challenge training, as well as information for users whose access to the Department network was revoked because such users have not completed such training;
+(5) the Chief Information Officer ensures all Department components, including Defense Advanced Research Projects Agency (DARPA), require their users to take Cyber Awareness Challenge training; and
+(6) the Chief Information Officer assesses the extent to which senior leaders of the Department have more complete information to make risk-based decisions, and revise the recurring reports (or develop a new report) accordingly, including information relating to the Department’s progress on implementing—
+(A) cybersecurity practices identified in cyber hygiene initiatives; and
+(B) cyber hygiene practices to protect Department networks from key cyberattack techniques.
+(c) CYBERSECURITY MATURITY MODEL CERTIFICATION FUNDING LIMITATION.—Of the funds authorized to be appropriated by this Act for fiscal year 2021 for implementation of the CMMC, not more than 60 percent of such funds may be obligated or expended

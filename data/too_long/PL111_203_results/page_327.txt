@@ -1,0 +1,42 @@
+PUBLIC LAW 111-203—JULY 21, 2010	124 STAT. 1701
+
+conflicts of interest, protect data, ensure compliance, and
+guarantee the safety and security of the swap data repository.
+	
+	‘‘(g) REQUIRED REGISTRATION FOR SWAP DATA REPOSITORIES.—
+Any person that is required to be registered as a swap data repository under this section shall register with the Commission regardless of whether that person is also licensed as a bank or registered with the Securities and Exchange Commission as a swap data repository.
+		
+		‘‘(h) RULES.—The Commission shall adopt rules governing persons that are registered under this section.’’.
+
+SEC. 729. REPORTING AND RECORDKEEPING.
+
+The Commodity Exchange Act is amended by inserting after section 4q (7 U.S.C. 6o–1) the following:
+
+‘‘SEC. 4r. REPORTING AND RECORDKEEPING FOR UNCLEARED SWAPS.
+		7 USC 6q.
+	
+	‘‘(a) REQUIRED REPORTING OF SWAPS NOT ACCEPTED BY ANY DERIVATIVES CLEARING ORGANIZATION.—
+		
+		‘‘(1) IN GENERAL.—Each swap that is not accepted for clearing by any derivatives clearing organization shall be reported to—
+		
+		‘‘(A) a swap data repository described in section 21; or
+		
+		‘‘(B) in the case in which there is no swap data repository that would accept the swap, to the Commission pursuant to this section within such time period as the Commission may by rule or regulation prescribe.
+		
+	‘‘(2) TRANSITION RULE FOR PREENACTMENT SWAPS.—
+		
+		‘‘(A) SWAPS ENTERED INTO BEFORE THE DATE OF ENACTMENT OF THE WALL STREET TRANSPARENCY AND ACCOUNTABILITY ACT OF 2010.—Each swap entered into before the date of enactment of the Wall Street Transparency and Accountability Act of 2010, the terms of which have not expired as of the date of enactment of that Act, shall be reported to a registered swap data repository or the Commission by a date that is not later than—
+		
+		‘‘(i) 30 days after issuance of the interim final rule; or
+		
+		‘‘(ii) such other period as the Commission determines to be appropriate.
+		
+		‘‘(B) COMMISSION RULEMAKING.—The Commission shall promulgate an interim final rule within 90 days of the date of enactment of this section providing for the reporting of each swap entered into before the date of enactment as referenced in subparagraph (A).
+		
+		‘‘(C) EFFECTIVE DATE.—The reporting provisions described in this section shall be effective upon the enactment of this section.
+		
+	‘‘(3) REPORTING OBLIGATIONS.—
+		
+		‘‘(A) SWAPS IN WHICH ONLY 1 COUNTERPARTY IS A SWAP DEALER OR MAJOR SWAP PARTICIPANT.—With respect to a swap in which only 1 counterparty is a swap dealer or major swap participant, the swap dealer or major swap participant shall report the swap as required under paragraphs (1) and (2).
+		
+		‘‘(B) SWAPS IN WHICH 1 COUNTERPARTY IS A SWAP DEALER AND THE OTHER A MAJOR SWAP PARTICIPANT.—With

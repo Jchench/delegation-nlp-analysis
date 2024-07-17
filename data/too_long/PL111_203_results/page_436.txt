@@ -1,0 +1,21 @@
+124 STAT. 1810
+
+PUBLIC LAW 111–203—JULY 21, 2010
+
+operational, or other risks to the financial markets or to the financial stability of the United States.
+(C) WRITTEN DETERMINATION.—Any determination by the Board of Governors under subparagraph (B) shall be provided in writing to the Commodity Futures Trading Commission or the Commission, as applicable, and the Council, and shall explain why existing prudential requirements, considered as a whole, are insufficient to ensure that the operations and activities of the designated clearing entities or the activities of financial institutions described in subparagraph (B) will not pose significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States. The Board of Governors’ determination shall contain a detailed analysis supporting its findings and identify the specific prudential requirements that are insufficient.
+(D) CFTC AND COMMISSION RESPONSE.—The Commodity Futures Trading Commission or the Commission, as applicable, shall within 60 days either object to the Board of Governors’ determination with a detailed analysis as to why existing prudential requirements are sufficient, or submit an explanation to the Council and the Board of Governors describing the actions to be taken in response to the Board of Governors’ determination.
+(E) AUTHORIZATION.—Upon an affirmative vote by not fewer than 2⁄3 of members then serving on the Council, the Council shall either find that the determination made under subparagraph (D) is sufficient, or require the Commodity Futures Trading Commission, or the Commission, as applicable, to prescribe such risk management standards as the Council determines is necessary to address the specific prudential requirements that are determined to be insufficient.’’
+(b) OBJECTIVES AND PRINCIPLES.—The objectives and principles for the risk management standards prescribed under subsection (a) shall be to—
+(1) promote robust risk management;
+(2) promote safety and soundness;
+(3) reduce systemic risks; and
+(4) support the stability of the broader financial system.
+(c) SCOPE.—The standards prescribed under subsection (a) may address areas such as—
+(1) risk management policies and procedures;
+(2) margin and collateral requirements;
+(3) participant or counterparty default policies and procedures;
+(4) the ability to complete timely clearing and settlement of financial transactions;
+(5) capital and financial resource requirements for designated financial market utilities; and
+(6) other areas that are necessary to achieve the objectives and principles in subsection (b).
+(d) LIMITATION ON SCOPE.—Except as provided in subsections (e) and (f) of section 807, nothing in this title shall be construed to permit the Council or the Board of Governors to take any action or exercise any authority granted to the Commodity Futures Trading Commission under section 2(h) of the Commodity Exchange

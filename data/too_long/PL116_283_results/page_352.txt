@@ -1,0 +1,57 @@
+134 STAT. 3738         PUBLIC LAW 116–283—JAN. 1, 2021
+
+“(II) a machine-readable definition of the rela- Definition of the 
+      tionship between the delivered interface and 
+      existing common standards or interfaces available
+      in Department interface repositories; and 
+        “(III) documentation with functional descrip-
+      tions of software-defined interfaces, conveying 
+      semantic meaning of interface elements, such as
+      the function of a given interface field;’’; and
+      (III) in subparagraph (C), by inserting ‘‘and 
+      modular systems’’ after ‘‘severable major system
+      components’’;
+      (ii) in paragraph (3)(A), by striking ‘‘well-defined
+     major system interfaces’’ and inserting ‘‘modular 
+     system interfaces’’;
+      (iii) by amending paragraph (4) to read as follows:
+        ‘‘(4) The term ‘modular system interface’ means a shared 
+        boundary between major systems, major system components,
+Definition.           or modular systems, defined by various physical, logical, and 
+functional characteristics, such as electrical, mechanical, fluidic, 
+optical, radio frequency, data, networking, or software ele-
+ments.’’;
+         (iv) by redesignating paragraphs (5) through (8)
+         as paragraphs (6) through (9), respectively; and 
+         (v) by inserting after paragraph (4) the following
+         new paragraph:
+          ‘‘(5) The term ‘modular system’ refers to a weapon system
+          or weapon system component that— 
+              ‘‘(A) is able to execute without requiring coincident
+              execution of other specific weapon systems or components; 
+              ‘‘(B) can communicate across component boundaries
+              and through interfaces; and
+              ‘‘(C) functions as a module that can be separated, 
+              recombined, and connected with other weapon systems or weapon system components in order to achieve various effects, missions, or capabilities.’’
+          (2) RIGHTS IN TECHNICAL DATA.—
+            (A) IN GENERAL.—Section 2320 of title 10, United
+           States Code, is amended—
+             (i) in subsection (a)(2), by amending subparagraph 
+                                (G) to read as follows:
+                                ‘‘(G) MODULAR SYSTEM INTERFACES DEVELOPED EXCLU-
+                                SIVELY AT PRIVATE EXPENSE OR WITH MIXED FUNDING.—Notwith-
+Determination.            standing subparagraphs (B) and (E), the United States shall 
+have government purpose rights in technical data pertaining 
+to a modular system interface developed exclusively at private 
+expense or in part with Federal funds and in part at private 
+expense and used in a modular open system approach pursuant 
+to section 2446a of this title, except in any case in which 
+the Secretary of Defense determines that negotiation of dif-
+ferent rights in such technical data would be in the best interest 
+of the United States. Such modular system interface shall be 
+identified in the contract solicitation and the contract. For 
+technical data pertaining to a modular system interface devel-
+oped exclusively at private expense for which the United States 
+asserts government purpose rights, the Secretary of Defense 
+shall negotiate with the contractor the appropriate and reason-
+able compensation for such technical data.’’; and

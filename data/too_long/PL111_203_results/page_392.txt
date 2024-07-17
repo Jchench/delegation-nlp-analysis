@@ -1,0 +1,61 @@
+124 STAT. 1766
+
+PUBLIC LAW 111-203—JULY 21, 2010
+
+nature, as defined in section 4(k) of the Bank Holding
+Company Act of 1956.
+“(B) EXCLUSION.—The Commission shall consider
+whether to exempt small banks, savings associations, farm
+credit system institutions, and credit unions, including—
+“(i) depository institutions with total assets of
+$10,000,000,000 or less;
+“(ii) farm credit system institutions with total
+assets of $10,000,000,000 or less; or
+“(iii) credit unions with total assets of
+$10,000,000,000 or less.
+
+“(4) TREATMENT OF AFFILIATES.—
+“(A) IN GENERAL.—An affiliate of a person that qualifies
+for an exception under this subsection (including affiliate 
+entities predominantly engaged in providing financing for 
+the purchase of the merchandise or manufactured goods of 
+the person) may qualify for the exception only if the 
+affiliate, acting on behalf of the person and as an agent, 
+uses the security-based swap to hedge or mitigate the 
+commercial risk of the person or other affiliate of the 
+person that is not a financial entity.
+“(B) PROHIBITION RELATING TO CERTAIN AFFILIATES.—
+The exception in subparagraph (A) shall not apply if the 
+affiliate is—
+“(i) a swap dealer;
+“(ii) a security-based swap dealer;
+“(iii) a major swap participant;
+“(iv) a major security-based swap participant;
+“(v) an issuer that would be an investment com-
+pany, as defined in section 3 of the Investment Com-
+pany Act of 1940 (15 U.S.C. 80a–3), but for paragraph 
+(1) or (7) of subsection (c) of that Act (15 U.S.C. 80a–
+3(c));
+“(vi) a commodity pool; or
+“(vii) a bank holding company with over
+$50,000,000,000 in consolidated assets.
+“(C) TRANSITION RULE FOR AFFILIATES.—An affiliate,
+subsidiary, or a wholly owned entity of a person that quali-
+fies for an exception under subparagraph (A) and is 
+predominantly engaged in providing financing for the pur-
+chase or lease of merchandise or manufactured goods of 
+the person shall be exempt from the margin requirement 
+described in section 15F(e) and the clearing requirement 
+described in subsection (a) with regard to security-based 
+swaps entered into to mitigate the risk of the financing 
+activities for not less than a 2-year period beginning on 
+the date of enactment of this subparagraph.
+“(5) ELECTION OF COUNTERPARTY.—
+“(A) SECURITY-BASED SWAPS REQUIRED TO BE 
+CLEARED.—With respect to any security-based swap that 
+is subject to the mandatory clearing requirement under 
+subsection (a) and entered into by a security-based swap 
+dealer or a major security-based swap participant with 
+a counterparty that is not a swap dealer, major swap 
+participant, security-based swap dealer, or major security-
+based swap participant, the counterparty shall have the

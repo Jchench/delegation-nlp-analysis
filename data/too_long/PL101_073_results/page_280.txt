@@ -1,0 +1,22 @@
+103 STAT. 462                   PUBLIC LAW 101-73—AUG. 9, 1989
+
+the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such holding company (whether such date occurs before, on, or after the date of the enactment of this subsection).".
+
+(j) SAVINGS AND LOAN HOLDING COMPANIES.—Section 10(i) of the Home Owners' Loan Act (as amended by section 301 of this Act) is amended by adding at the end thereof the following new paragraph:
+
+"(5) NOTICE UNDER THIS SECTION AFTER SEPARATION FROM SERVICE.—The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 3(u) of the Federal Deposit Insurance Act) with respect to a savings and loan holding company or subsidiary thereof (including a separation caused by the deregistration of such a company or such a subsidiary) shall not affect the jurisdiction and authority of the Director to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such holding company or its subsidiary (whether such date occurs before, on, or after the date of the enactment of this paragraph).".
+SEC. 906 EXPANSION OF REMOVAL POWERS FOR STATE CRIMINAL PROCEEDINGS.
+(a) DEPOSITORY INSTITUTIONS INSURED BY THE FDIC.—Section 8(g)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1818(g)(1)) is amended—
+   (1) in the 1st sentence, by striking "authorized by a United States attorney"; and
+   (2) in the 4th sentence, by striking "with respect to such crime" and inserting in lieu thereof "or an agreement to enter a pre-trial diversion or other similar program”.
+(b) CREDIT UNIONS INSURED BY THE NCUA.—Section 206(g)(1) of the Federal Credit Union Act (12 U.S.C. 1786(j)(1)) is amended—
+   (1) in the 1st sentence, by striking "authorized by a United States Attorney"; and
+   (2) in the 4th sentence, by striking "with respect to such crime" and inserting in lieu thereof "or an agreement to enter a pre-trial diversion or other similar program”.
+SEC. 907. AMENDMENTS TO EXPAND AND INCREASE CIVIL MONEY PENALTIES.
+(a) GENERAL PROVISIONS FOR DEPOSITORY INSTITUTIONS INSURED BY THE FDIC.—Section 8(i)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1818(i)(2)) is amended to read as follows:
+"(2) CIVIL MONEY PENALTY.— 
+"(A) FIRST TIER.—Any insured depository institution which, and any institution-affiliated party who—
+   "(i) violates any law or regulation;
+   "(ii) violates any final order or temporary order issued pursuant to subsection (b), (c), (e), (g), or (s);
+   "(iii) violates any condition imposed in writing by the appropriate Federal banking agency in connection with the grant of any application or other request by such depository institution; or
+   "(iv) violates any written agreement between such depository institution and such agency,

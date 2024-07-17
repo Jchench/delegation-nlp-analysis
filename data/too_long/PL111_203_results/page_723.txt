@@ -1,0 +1,32 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+
+124 STAT. 2097
+
+Bureau and any person subject to this subtitle, but not with respect to the standards under section 501.”.
+    (5) in section 505(b)(1) (15 U.S.C. 6805(b)(1)), by inserting ‘‘, other than the Bureau of Consumer Financial Protection,’’ after ‘‘subsection (a)’’; and
+    (6) in section 507(b) (15 U.S.C. 6807), by striking ‘‘Federal Trade Commission’’ and inserting ‘‘Bureau of Consumer Financial Protection’’.
+
+SEC. 1094. AMENDMENTS TO THE HOME MORTGAGE DISCLOSURE ACT OF 1975.
+
+The Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.) is amended—
+    (1) by striking ‘‘Board’’ each place that term appears, other than in sections 303, 304(h), 305(b) (as amended by this section), and 307(a) (as amended by this section) and inserting ‘‘Bureau’’.
+    (2) in section 303 (12 U.S.C. 2802)—
+        (A) by redesignating paragraphs (1) through (6) as paragraphs (2) through (7), respectively; and
+        (B) by inserting before paragraph (2) the following:
+    ‘‘(1) the term ‘Bureau’ means the Bureau of Consumer Financial Protection;’’;
+    (3) in section 304 (12 U.S.C. 2803)—
+        (A) in subsection (b)—
+            (i) in paragraph (4), by inserting ‘‘age,’’ before ‘‘and gender’’;
+            (ii) in paragraph (3), by striking ‘‘and’’ at the end;
+            (iii) in paragraph (4), by striking the period at the end and inserting a semicolon; and
+            (iv) by adding at the end the following:
+    ‘‘(5) the number and dollar amount of mortgage loans grouped according to measurements of—
+        ‘‘(A) the total points and fees payable at origination in connection with the mortgage as determined by the Bureau, taking into account 15 U.S.C. 1602(aa)(4);
+        ‘‘(B) the difference between the annual percentage rate associated with the loan and a benchmark rate or rates for all loans;
+        ‘‘(C) the term in months of any prepayment penalty or other fee or charge payable on repayment of some portion of principal or the entire principal in advance of scheduled payments; and
+        ‘‘(D) such other information as the Bureau may require;
+    and
+    ‘‘(6) the number and dollar amount of mortgage loans and completed applications grouped according to measurements of—
+        ‘‘(A) the value of the real property pledged or proposed to be pledged as collateral;
+        ‘‘(B) the actual or proposed term in months of any introductory period after which the rate of interest may change;
+        ‘‘(C) the presence of contractual terms or proposed contractual terms that would allow the mortgagor or applicant to make payments other than fully amortizing payments during any portion of the loan term;

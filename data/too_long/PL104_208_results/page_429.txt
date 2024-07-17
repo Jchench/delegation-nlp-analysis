@@ -1,0 +1,26 @@
+PUBLIC LAW 104-208—SEPT. 30, 1996 110 STAT. 3009-428
+
+“(2) collecting the account.”.
+	(d) STATE.—Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) as amended by subsection (c) of this section) is amended by adding at the end the following new subsection:
+	“(n) STATE.—The term ‘State’ means any State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States.”.
+	(e) DEFINITION OF CONSUMER REPORT.—Section 603(d) of the
+Fair Credit Reporting Act (15 U.S.C. 1681a(d)) is amended—
+	(1) by striking “(d) The term” and inserting the following:
+	“(d) CONSUMER REPORT.—
+		“(1) IN GENERAL.—The term”;
+	(2) by striking “for (1) credit” and inserting the following:
+		“for—
+		“(A) credit”;
+	(3) by striking “purposes, or (2)” and all that follows through “section 604.” and inserting the following: “purposes;
+		“(B) employment purposes; or
+		“(C) any other purpose authorized under section 604.”;
+	and
+	(4) by striking the second sentence and inserting the following: “(2) EXCLUSIONS.—The term ‘consumer report’ does not include—
+		“(A) any—
+			“(i) report containing information solely as to transactions or experiences between the consumer and the person making the report;
+			“(ii) communication of that information among persons related by common ownership or affiliated by corporate control; or
+			“(iii) any communication of other information among persons related by common ownership or affiliated by corporate control, if it is clearly and conspicuously disclosed to the consumer that the information may be communicated among such persons and the consumer is given the opportunity, before the time that the information is initially communicated, to direct that such information not be communicated among such persons;
+		“(B) any authorization or approval of a specific extension of credit directly or indirectly by the issuer of a credit card or similar device;
+		“(C) any report in which a person who has been requested by a third party to make a specific extension of credit directly or indirectly to a consumer conveys his or her decision with respect to such request, if the third party advises the consumer of the name and address of the person to whom the request was made, and such person makes the disclosures to the consumer required under section 615; or
+		“(D) a communication described in subsection (o).”.
+	(f) EXCLUSION OF CERTAIN COMMUNICATIONS BY EMPLOYMENT AGENCIES FROM DEFINITION OF CONSUMER REPORT.—Section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a) is amended by adding at the end the following new subsection:

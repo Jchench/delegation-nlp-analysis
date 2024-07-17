@@ -1,0 +1,24 @@
+124 STAT. 1774           PUBLIC LAW 111–203—JULY 21, 2010
+
+ “(I) the compliance of the security-based swap execution facility with this title; and 
+“(II) the policies and procedures, including the code of ethics and conflict of interest policies, of the security-based security-based swap execution facility.
+‘‘(ii) REQUIREMENTS.—The chief compliance officer shall—
+‘‘(I) submit each report described in clause (i) with the appropriate financial report of the security-based swap execution facility that is required to be submitted to the Commission pursuant to this section; and
+‘‘(II) include in the report a certification that, under penalty of law, the report is accurate and complete.
+
+‘‘(e) EXEMPTIONS.—The Commission may exempt, conditionally or unconditionally, a security-based swap execution facility from registration under this section if the Commission finds that the facility is subject to comparable, comprehensive supervision and regulation on a consolidated basis by the Commodity Futures Trading Commission.
+
+‘‘(f) RULES.—The Commission shall prescribe rules governing the regulation of security-based swap execution facilities under this section.”. 
+
+ (d) SEGREGATION OF ASSETS HELD AS COLLATERAL IN SECURITY-BASED SWAP TRANSACTIONS.—The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 3D (as added by subsection (b) the following:
+
+15 USC 78c–5.
+
+‘‘SEC. 3E. SEGREGATION OF ASSETS HELD AS COLLATERAL IN SECUR- RITY-BASED SWAP TRANSACTIONS.
+
+‘‘(a) REGISTRATION REQUIREMENT.—It shall be unlawful for any person to accept any money, securities, or property (or to extend any credit in lieu of money, securities, or property) from, for, or on behalf of a security-based swaps customer to margin, guarantee, or secure a security-based swap cleared by or through a clearing agency (including money, securities, or property accruing to the customer as the result of such a security-based swap), unless the person shall have registered under this title with the Commission as a broker, dealer, or security-based swap dealer, and the registration shall not have expired nor been suspended nor revoked.
+
+‘‘(b) CLEARED SECURITY-BASED SWAPS.—
+
+‘‘(1) SEGREGATION REQUIRED.—A broker, dealer, or security- based swap dealer shall treat and deal with all money, securi- ties, and property of any security-based swaps customer received to margin, guarantee, or secure a security-based swap cleared by or though a clearing agency (including money, securi- ties, or property accruing to the security-based swaps customer as the result of such a security-based swap) as belonging to the security-based swaps customer.
+‘‘(2) COMMINGLING PROHIBITED.— Money, securities, and property of a security-based swaps customer described in para- graph (1) shall be separately accounted for and shall not be commingled with the funds of the broker, dealer, or security- based swap dealer or be used to margin, secure, or guarantee

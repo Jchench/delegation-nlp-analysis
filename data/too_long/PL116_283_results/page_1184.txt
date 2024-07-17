@@ -1,0 +1,29 @@
+134 STAT. 4570
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+greater integration between financial institution systems and the electronic filing system to allow for automatic population of report fields and the automatic submission of transaction data for suspicious transactions, without bypassing the obligation of each reporting financial institution to assess the specific risk of the transactions reported;
+(I) the appropriate manner in which to ensure the security and confidentiality of personal information;
+(J) how to improve the cross-referencing of individuals or entities operating at multiple financial institutions and across international borders;
+(K) whether there are ways to improve currency transaction report aggregation for entities with common ownership;
+(L) whether financial institutions should be permitted to streamline or otherwise adjust, with respect to particular types of customers or transactions, the process for determining whether activity is suspicious or the information included in the narrative of a suspicious activity report; and
+(M) any other matter the Secretary determines is appropriate.
+
+Consultation. (c) REPORT.—Not later than 1 year after the date of enactment of this Act, the Secretary, in consultation with the Attorney General, Federal law enforcement agencies, the Director of National Intelligence, the Secretary of Homeland Security, and the Federal functional regulators, shall—
+
+Determinations. (1) submit to Congress a report that contains all findings and determinations made in carrying out the review required under subsection (a); and
+
+Regulations. (2) propose rulemakings, as appropriate, to implement the findings and determinations described in paragraph (1).
+
+Consultation.
+31 USC 5313
+note.
+Determinations.
+
+SEC. 6205. CURRENCY TRANSACTION REPORTS AND SUSPICIOUS ACTIVITY REPORTS THRESHOLDS REVIEW.
+
+(a) REVIEW OF THRESHOLDS FOR CERTAIN CURRENCY TRANS- ACTION REPORTS AND SUSPICIOUS ACTIVITY REPORTS.—The Secretary, in consultation with the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other relevant stakeholders, shall review and determine whether the dollar thresholds, including aggregate thresholds, under sections 5313, 5318(g), and 5331 of title 31, United States Code, including regulations issued under those sections, should be adjusted.
+
+(b) CONSIDERATIONS.—In making the determinations required under subsection (a), the Secretary, in consultation with the Attorney General, the Director of National Intelligence, the Secretary of Homeland Security, the Federal functional regulators, State bank supervisors, State credit union supervisors, and other relevant stakeholders, shall—
+(1) rely substantially on information obtained through the BSA Data Value Analysis Project conducted by FinCEN and on information obtained through the Currency Transaction Report analyses conducted by the Comptroller General of the United States; and
+(2) consider—

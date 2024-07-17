@@ -1,0 +1,20 @@
+PUBLIC LAW 111–203—JULY 21, 2010
+124 STAT. 2091
+
+‘‘(i) DUTY OF BUREAU.—The Bureau shall prescribe a brief model disclosure that a financial institution may use to comply with subparagraph (A), which shall not exceed 30 words.
+‘‘(ii) USE OF MODEL NOT REQUIRED.—No provision of this paragraph may be construed to require a financial institution to use any such model form prescribed by the Bureau.
+‘‘(iii) COMPLIANCE USING MODEL.—A financial institution shall be deemed to be in compliance with subparagraph (A) if the financial institution uses any model form prescribed by the Bureau under this subparagraph, or the financial institution uses any such model form and rearranges its format.’’;
+(B) in subsection (a)(8), by inserting ‘‘, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration,’’ before ‘‘shall jointly’’; and
+(C) by striking subsection (e) and inserting the following:
+‘‘(e) ACCURACY GUIDELINES AND REGULATIONS REQUIRED.—
+
+‘‘(1) GUIDELINES.—The Bureau shall, with respect to persons or entities that are subject to the enforcement authority of the Bureau under section 621—
+‘‘(A) establish and maintain guidelines for use by each person that furnishes information to a consumer reporting agency regarding the accuracy and integrity of the information relating to consumers that such entities furnish to consumer reporting agencies, and update such guidelines as often as necessary; and
+‘‘(B) prescribe regulations requiring each person that furnishes information to a consumer reporting agency to establish reasonable policies and procedures for implementing the guidelines established pursuant to subparagraph (A).
+
+‘‘(2) CRITERIA.—In developing the guidelines required by paragraph (1)(A), the Bureau shall—
+‘‘(A) identify patterns, practices, and specific forms of activity that can compromise the accuracy and integrity of information furnished to consumer reporting agencies;
+‘‘(B) review the methods (including technological means) used to furnish information relating to consumers to consumer reporting agencies;
+‘‘(C) determine whether persons that furnish information to consumer reporting agencies maintain and enforce policies to ensure the accuracy and integrity of information furnished to consumer reporting agencies; and
+‘‘(D) examine the policies and processes that persons that furnish information to consumer reporting agencies employ to conduct reinvestigations and correct inaccurate information relating to consumers that has been furnished to consumer reporting agencies.’’;
+(12) in section 628(a)(1) (15 U.S.C. 1681w(a)(1)), by striking ‘‘Not later than’’ and all that follows through ‘‘Exchange Commission,’’ and inserting ‘‘The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies,

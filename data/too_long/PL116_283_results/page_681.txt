@@ -1,0 +1,19 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4067
+
+(1) certified to the congressional defense committees that the Director has conducted not fewer than two successful intercept flight tests of the next generation interceptor; and
+(2) provided to such committees a briefing on the details of such tests, including with respect to the operational realism of such tests.
+
+SEC. 1648. REPORT ON AND LIMITATION ON AVAILABILITY OF FUNDS FOR LAYERED HOMELAND MISSILE DEFENSE SYSTEM.
+
+(a) REPORT.—
+(1) REQUIREMENT.—Not later than March 1, 2021, the Secretary of Defense shall submit to the congressional defense committees a report on the proposal for a layered homeland missile defense architecture included in the budget justification materials submitted to Congress in support of the budget for the Department of Defense for fiscal year 2021 (as submitted with the budget of the President for such fiscal year under section 1105(a) of title 31, United States Code).
+(2) ELEMENTS REQUIRED.—The report under paragraph (1) shall include the following:
+(A) A description of the requirements for the proposed layered homeland missile defense architecture that are—
+(i) based on an assessment by the intelligence community of threats to be addressed at the time of deployment of such a system; and
+(ii) validated by the Joint Requirements Oversight Council.
+(B) An assessment of how such requirements addressed by the proposed layered homeland missile defense architecture relate to those addressed by the existing ground-based midcourse defense system, including deployed ground-based interceptors and planned upgrades to such ground-based interceptors.
+(C) An analysis of weapon system and interceptor solutions to meet such requirements, including the Aegis ballistic missile defense system, the standard missile–3 block IIA, and the terminal high altitude area defense system, with the number of locations required for deployment and the production numbers of such weapon systems and interceptors.
+(D) A description of any improvements needed to the missile defense system command and control, battle management, and communications system to support the proposed layered homeland missile defense architecture.
+(E) A description of the sensors required, with respect to both sensors organic to the weapon systems and the sensors needed for tracking and discrimination provided through the command and control, battle management, and communications system, for the proposed layered homeland missile defense architecture, including how the cancellation, or indefinite postponement, of the discrimination radar for homeland defense in Hawaii will impact the ability of such architecture to defend against current and future missile threats to Hawaii, with respect to both the capacity and capability of such architecture.

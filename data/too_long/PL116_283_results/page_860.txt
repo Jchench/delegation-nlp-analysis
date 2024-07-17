@@ -1,0 +1,61 @@
+134 STAT. 4246            PUBLIC LAW 116–283—JAN. 1, 2021
+
+
+are transferred to chapter 307 of such title, as added by sub-
+section (a), inserted (in that order), after the table of sections,
+and redesignated as shown in the right-hand column:
+
+Section                   Redesignated Section
+
+2353                        4141
+2371a                     4143
+2681                       4144
+23501                    4145
+2368                       4146
+2367                       4147
+
+
+(2) CLERICAL AMENDMENTS.—
+(A) The table of sections at the beginning of subchapter
+II of chapter 138 of title 10, United States Code, is amended
+by striking the item relating to section 23501.
+(B) The table of sections at the beginning of chapter
+159 of such title is amended by striking the item relating
+to section 2681.
+
+(c) CONFORMING AMENDMENTS TO TRANSFERRED SECTION
+4146.—Section 4146 of such title, as transferred and redesignated
+by subsection (b), is amended—
+(1) in subsection (b)(3)(B)(ii), by striking “2358,  2371, 2511,
+2539b,” and inserting “4001, 4002, 4831, 4892,”; and 
+(2) in subsection (d)(2), by striking “section 219” and all
+that follows and inserting  “section 4103 of this title.”.
+(d) TRANSFER OF SECTION 2364(B) AND (C).—
+(1) HEADING.—Chapter 307 of title 10, United States Code,
+as amended by subsection (a), is further amended by inserting
+after section 4141, as transferred and redesignated by sub-
+section (b), the following:
+    
+    “§ 4142. Functions of Defense research facilities”.
+
+
+(2) TEXT.—Subsections (b) and (c) of section 2364 of such
+title are transferred to chapter 307 of such title, as so amended,
+inserted after the section heading for  section 4142 added by
+paragraph (1), and redesignated as subsections (a) and (b),
+respectively.
+(e) CONFORMING CROSS-REFERENCE AMENDMENTS.—
+(1) Section 114(b) of title 10, United States Code, is
+amended by striking “section 2353” and inserting “section
+4141”.
+(2) Section 1644(f)(2) of the John S. McCain National
+Defense Authorization Act for Fiscal Year 2019 (Public Law
+115–232; 10 U.S.C. 2224 note) is amended by striking “section
+2368” and inserting “section 4146”.
+
+SEC. 1845. TEST AND EVALUATION.
+(a) NEW CHAPTER.—Part V of subtitle A of title 10, United
+States Code, as added by section 801 of the John S. McCain National
+Defense Authorization Act for Fiscal Year 2019 (Public Law 115–
+232), is amended by inserting after chapter 307, as added by the
+preceding section, the following new chapter:

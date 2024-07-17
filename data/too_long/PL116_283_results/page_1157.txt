@@ -1,0 +1,18 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 4543
+
+in artificial intelligence and related fields and research areas, including technology ethics; and
+(II) paying salary and benefits for the academic year of newly recruited tenure-track or tenured faculty members for a duration of up to three years.
+(iii) ELIGIBLE INSTITUTIONS OF HIGHER EDUCATION.—For purposes of this subparagraph, an eligible institution of higher education is—
+(I) a Historically Black College and University (within the meaning of the term "part B institution" under section 322 of the Higher Education Act of 1965), Tribal College or University, or other minority-serving institution, as defined in section 371(a) of the Higher Education Act of 1965;
+(II) an institution classified under the Carnegie Classification of Institutions of Higher Education as a doctorate-granting university with a high level of research activity; or
+(III) an institution located in a State jurisdiction eligible to participate in the National Science Foundation's Established Program to Stimulate Competitive Research.
+(B) FACULTY TECHNOLOGY ETHICS FELLOWSHIPS.—
+(i) IN GENERAL.—The Director of the National Science Foundation shall establish a program to award fellowships to tenure-track and tenured faculty in social and behavioral sciences, ethics, law, and related fields to develop new research projects and partnerships in technology ethics.
+(ii) PURPOSES.—The purposes of such fellowships are to enable researchers in social and behavioral sciences, ethics, law, and related fields to establish new research and education partnerships with researchers in artificial intelligence and related fields; learn new techniques and acquire systematic knowledge in artificial intelligence and related fields; and mentor and advise graduate students and postdocs pursuing research in technology ethics.
+(iii) USES OF FUNDS.—A fellowship may include salary and benefits for up to one academic year, expenses to support coursework or equivalent training in artificial intelligence systems, and additional such expenses that the Director deems appropriate.
+(C) UPDATE TO ROBERT NOYCE TEACHER SCHOLARSHIP PROGRAM.—Section 10(i)(5) of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1(i)(5)) is amended by inserting "and artificial intelligence" after "computer science".
+(3) UPDATE TO ADVANCED TECHNOLOGICAL EDUCATION PROGRAM.—
+(A) IN GENERAL.—Section 3(b) of the Scientific and Advanced-Technology Act of 1992 (42 U.S.C. 1862i(b)) is amended by striking "10" and inserting "12".
+(B) ARTIFICIAL INTELLIGENCE CENTERS OF EXCELLENCE.—The Director of the National Science Foundation shall establish national centers of scientific and technical

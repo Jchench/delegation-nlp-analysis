@@ -1,0 +1,27 @@
+PUBLIC LAW 101-73—AUG. 9, 1989 			ON STAT. 505
+
+Institution, shall order that the person forfeit to the United States any property constituting, or derived from, proceeds the person obtained directly or indirectly, as the result of such violation.’’, and
+		(2) in subsection (b), by striking ‘‘(b) The provisions’’ and all that follows through ‘‘However, the’’ and inserting in lieu thereof the following:
+		‘‘(b)(1) Property subject to forfeiture under this section, any sei-zure and disposition thereof, and any administrative or judicial proceeding in relation thereto, shall be governed—
+		‘‘(A) in the case of a forfeiture under subsection (a)(1) of this section, by subsections (c) and (e) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853); and
+		‘‘(B) in the case of a forfeiture under subsection (a)(2) of this section, by subsections (b), (c), (e), and (g) through (p) of section 413 of such Act.
+			‘‘(2) The’’. 
+
+SEC. 964. GRAND JURY SECRECY.
+	(a) IN GENERAL.—Chapter 215 of title 18, United States Code, is amended by striking section 3322 and all that follows through section 3328 and inserting the following:
+
+	‘‘§ 3322. Disclosure of certain matters occurring before grand jury 
+		‘‘(a) A person who is privy to grand jury information concerning a banking law violation—
+			‘‘(1) received in the course of duty as an attorney for the government; or
+			‘‘(2) disclosed under rule 6(e)(3)(A)(ii) of the Federal Rules of Criminal Procedure;
+		may disclose that information to an attorney for the government for use in enforcing section 951 of the Financial Institutions Reform, Recovery and Enforcement Act of 1989 or for use in connection with civil forfeiture under section 981 of title 18, United States Code, of property described in section 981(a)(1)(C) of such title.
+		‘‘(b)(1) Upon motion of an attorney for the government, a court may direct disclosure of matters occurring before a grand jury during an investigation of a banking law violation to identified personnel of a financial institution regulatory agency—
+			‘‘(A) for use in relation to any matter within the jurisdiction of such regulatory agency; or
+			‘‘(B) to assist an attorney for the government to whom matters have been disclosed under subsection (a).
+			‘‘(2) A court may issue an order under paragraph (1) upon a finding of a substantial need.
+		‘‘(c) A person to whom matter has been disclosed under this section shall not use such matter other than for the purpose for which such disclosure was authorized.
+		‘‘(d) As used in this section—
+			‘‘(1) the term ‘banking law violation’ means a violation of, or a conspiracy to violate—
+				‘‘(A) section 215, 656, 657, 1005, 1006, 1007, 1014, or 1344; or
+				‘‘(B) section 1341 or 1343 affecting a financial institution;
+			‘‘(2) the term ‘attorney for the government’ has the meaning given such term in the Federal Rules of Criminal Procedure; and

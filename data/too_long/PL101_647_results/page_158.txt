@@ -1,0 +1,24 @@
+104 STAT. 4946		PUBLIC LAW 101-647---NOV. 29, 1990
+
+be continuing and shall terminate only as provided in section 3205(c)(10). 
+"(b) WRIT.-(I) Subsections (b)(2) and (c) of section 3205 shall apply with respect to garnishment under this section, except that for purposes of this section- 
+"(A) earnings of the debtor shall not be subject to garnishment; and 
+"(B) a reference in such subsections to a judgment debtor shall be deemed to be a reference to a debtor. 
+"(2) The United States shall include in its application for a writ of garnishment- 
+"(A) the amount of the claim asserted by the United States for a debt; and 
+"(B) the date the writ is issued. 
+"(c) LIMITATION.-The value of property garnished shall not exceed the amount by which the sum of the amount of the debt claimed by the United States and the amount of interest and costs reasonably likely to be assessed against the debtor by the court exceeds the aggregate value of the nonexempt interest of the debtor in any-- 
+"(1) property securing the debt; and 
+"(2) property attached or in receivership, or income sequestered, under this subchapter.
+
+"§3105. Sequestration 
+"(a) PROPERTY SUBJECT TO SEQUESTRATION.-(1) Any income from property in which the debtor has a substantial nonexempt interest may be sequestered pursuant to a writ of sequestration in an action or proceeding against a debtor on a claim for a debt and may be held as security to satisfy such judgment, and interest and costs, as the United States may recover on such claim. 
+"(2) The amount of income sequestered shall not exceed the amount by which the sum of the amount of the debt claimed by the United States and the amount of interest and costs reasonably likely to be assessed against the debtor by the court exceeds the aggregate value of the nonexempt interest of the debtor in any--
+"(A) property securing the debt; and 
+"(B) property attached, garnished, or in receivership under this subchapter. 
+"(b) AVAILABILITY OF SEQUESTRATION.-If the requirements of section 3101 are satisfied, a court shall issue a writ authorizing the United States to sequester income from property in which the debtor has a substantial nonexempt interest, as security for such judgment (and interest and costs) as the United States may recover on a claim for a debt- 
+"(1) in an action on a contract, express or implied, against the debtor for payment of money, only if the United States shows reasonable cause to believe that-- 
+"(A) the contract is not fully secured by real or personal property; or 
+"(B) the value of the original security is substantially diminished, without any act of the United States or the person to whom the security was given, below the amount of the debt; 
+"(2) in an action against the debtor for damages in tort; 
+"(3) if the debtor resides outside the jurisdiction of the United States; or

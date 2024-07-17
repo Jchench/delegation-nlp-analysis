@@ -1,0 +1,51 @@
+124 STAT. 1778           PUBLIC LAW 111-203—JULY 21, 2010
+
+shall, for the purposes of this subsection, by rules and regulations define, and prescribe means reasonably designed to prevent, such transactions, acts, practices, and courses of business as are fraudulent, deceptive, or manipulative, and such quotations as are fictitious.’’.
+
+15 USC 78j–2.              (h) POSITION LIMITS AND POSITION ACCOUNTABILITY FOR
+                           SECURITY-BASED SWAPS.—The Securities Exchange Act of 1934 is
+                           amended by inserting after section 10A (15 U.S.C. 78j–1) the fol-
+                           lowing:
+
+Fraud.
+Regulations.              ‘‘SEC. 10B. POSITION LIMITS AND POSITION ACCOUNTABILITY FOR
+                               SECURITY-BASED SWAPS AND LARGE TRADER REPORTING.
+
+                               ‘‘(a) POSITION LIMITS.—As a means reasonably designed to pre-
+                           vent fraud and manipulation, the Commission shall, by rule or regulation, as necessary or appropriate in the public interest or for the protection of investors, establish limits (including related hedge exemption provisions) on the size of positions in any security- based swap that may be held by any person. In establishing such limits, the Commission may require any person to aggregate posi- tions in—
+                                     ‘‘(1) any security-based swap and any security or loan or
+                               group of securities or loans on which such security-based swap
+                               references, or to which
+                               such security-based swap is related as described in paragraph
+                               (68) of section 3(a), and any other instrument relating to such
+                               security or loan or group or index of securities or loans;
+                                     ‘‘(2) any security-based swap and—
+                                            ‘‘(A) any security or group or index of securities, the
+                                      price, yield, value, or volatility of which, or of which any
+                                      interest therein, is the basis for a material term of such
+                                      security-based swap as described in paragraph (68) of
+                                      section 3(a); and
+                                            ‘‘(B) any other instrument relating to the same security
+                                      or group or index of securities described under subpara-
+                                      graph (A).
+
+                               ‘‘(b) EXEMPTIONS.—The Commission, by rule, regulation, or
+                           order, may conditionally or unconditionally exempt any person or
+                           class of persons, any security-based swap or class of security-based
+                           swaps, or any transaction or class of transactions from any require-
+                           ment the Commission may establish under this section with respect
+                           to position limits.
+                               ‘‘(c) SRO RULES.—
+                                     ‘‘(1) IN GENERAL.—As a means reasonably designed to pre-
+                               vent fraud or manipulation, the Commission, by rule, regula-
+                               tion, or order, as necessary or appropriate in the public interest,
+                               for the protection of investors, or otherwise in furtherance
+                               of the purposes of this title, may direct a self-regulatory
+                               organization—
+                                            ‘‘(A) to adopt rules regarding the size of positions in
+                                      any security-based swap that may be held by—
+                                                 ‘‘(i) any member of such self-regulatory organiza-
+                                            tion; or
+                                                 ‘‘(ii) any person for whom a member of such self-
+                                            regulatory organization effects transactions in such
+                                            security-based swap; and

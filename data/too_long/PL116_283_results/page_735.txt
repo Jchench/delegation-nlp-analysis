@@ -1,0 +1,19 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+the Director of the Federal Bureau of Investigation, and the Director of National Intelligence, shall submit to the relevant congressional committees a report on Federal cybersecurity centers and the potential for better coordination of Federal cybersecurity efforts at an integrated cybersecurity center within the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security in furtherance of the functions specified in section 2209 of the Homeland Security Act of 2002 (6 U.S.C. 659).
+
+(b) CONTENTS.—To prepare the report required by subsection (a), the Secretary of Homeland Security shall aggregate information from components of the Department of Homeland Security with information provided to the Secretary of Homeland Security by the Secretary of Defense, the Attorney General, the Director of the Federal Bureau of Investigation, and the Director of National Intelligence. Such aggregated information shall relate to the following topics:
+
+(1) Any challenges regarding capacity and funding identified by the Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, the Attorney General, the Secretary of Defense, and the Director of National Intelligence that negatively impact coordination with the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security in furtherance of the security and resilience of critical infrastructure.
+(2) Distinct statutory authorities identified by the Secretary of Homeland Security, the Attorney General, the Director of the Federal Bureau of Investigation, the Secretary of Defense, or the Director of National Intelligence that should not be leveraged by an integrated cybersecurity center within the Cybersecurity and Infrastructure Security Agency.
+(3) Any challenges associated with effective mission coordination and deconfliction between the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security and other Federal agencies that could be addressed with the creation of an integrated cybersecurity center within the Cybersecurity and Infrastructure Security Agency.
+(4) How capabilities or missions of existing Federal cyber centers could benefit from greater integration or collocation to support cybersecurity collaboration with critical infrastructure at an integrated cybersecurity center within the Cybersecurity and Infrastructure Security Agency, including the following Federal cyber centers:
+(A) The National Security Agency’s Cyber Threat Operations Center.
+(B) United States Cyber Command’s Joint Operations Center.
+(C) Elements of the Office of the Director of National Intelligence, as determined appropriate by the Director
+(D) The Federal Bureau of Investigation’s National Cyber Investigative Joint Task Force.
+(E) The Department of Defense’s Defense Cyber Crime Center.
+
+(c) ELEMENTS.—The report required under subsection (a) shall—
+
+(1) identify any challenges regarding the Cybersecurity and Infrastructure Security Agency’s current authorities, structure, resources, funding, ability to recruit and retain its workforce,

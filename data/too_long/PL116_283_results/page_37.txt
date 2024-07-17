@@ -1,0 +1,40 @@
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+134 STAT. 3423
+
+Sec. 152. Transfer of responsibilities and functions relating to electromagnetic spectrum operations.
+Sec. 153. Cryptographic modernization schedules.
+Sec. 154. Department of Defense participation in the Special Federal Aviation Regulation Working Group.
+Sec. 155. Integrated air and missile defense assessment.
+Sec. 156. Joint strategy for air base defense against missile threats.
+Sec. 157. Joint All Domain Command and Control requirements.
+Sec. 158. Expansion of economic order quantity contracting authority for F–35 aircraft program.
+Sec. 159. Documentation relating to the F–35 aircraft program.
+Sec. 160. F–35 aircraft munitions.
+Sec. 161. Redesign strategy for the Autonomic Logistics Information System for the F–35 aircraft.
+Sec. 162. Briefing on software regression testing for F–35 aircraft.
+Sec. 163. Prohibition on use of funds for the Armed Overwatch Program.
+Sec. 164. Acceleration of development and fielding of counter unmanned aircraft systems across the joint force.
+Sec. 165. Airborne intelligence, surveillance, and reconnaissance acquisition roadmap for the United States Special Operations Command.
+Sec. 166. Prohibition of divestiture of manned intelligence, surveillance, and reconnaissance aircraft operated by United States Special Operations Command.
+Sec. 167. Notification on efforts to replace inoperable ejection seat aircraft locator beacons.
+
+Subtitle A—Authorization of Appropriations
+
+SEC. 101. AUTHORIZATION OF APPROPRIATIONS.
+
+Funds are hereby authorized to be appropriated for fiscal year 2021 for procurement for the Army, the Navy and the Marine Corps, the Air Force and the Space Force, and Defense-wide activities, as specified in the funding table in section 4101.
+
+Subtitle B—Army Programs
+
+SEC. 111. MODIFICATIONS TO REQUIREMENT FOR AN INTERIM CRUISE 
+MISSILE DEFENSE CAPABILITY.
+
+(a) PLAN.—Not later than January 15, 2021, the Secretary of the Army shall submit to the congressional defense committees the plan, including a timeline, to operationally deploy or forward station the interim cruise missile defense capability procured pursuant to section 112 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1660) in an operational theater or theaters.
+
+(b) MODIFICATION OF WAIVER.—Paragraph (4) of section 112(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (132 Stat. 1661) is amended to read as follows:
+
+“(4) WAIVER.—The Secretary of the Army may waive the deadlines specified in paragraph (1):
+“(A) For the deadline specified in paragraph (1)(A), if the Secretary determines that sufficient funds have not been appropriated to enable the Secretary to meet such deadline.
+“(B) For the deadline specified in paragraph (1)(B), if the Secretary submits to the congressional defense committees a certification that—
+“(i) allocating resources toward procurement of an integrated enduring capability would provide robust tiered and layered protection to the joint force; or

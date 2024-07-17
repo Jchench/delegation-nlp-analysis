@@ -1,0 +1,18 @@
+124 STAT. 2066          PUBLIC LAW 111–203—JULY 21, 2010
+
+Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the status of the automated clearinghouse system and its progress in complying with the requirements of this subsection. The report shall include an analysis of adoption rates of International ACH Transactions rules and formats, the efficacy of increasing adoption rates, and potential recommendations to increase adoption.
+
+(c) EXPANSION OF FINANCIAL INSTITUTION PROVISION OF REMITTANCE TRANSFERS.—
+(1) PROVISION OF GUIDELINES TO INSTITUTIONS.—Each of the Federal banking agencies and the National Credit Union Administration shall provide guidelines to financial institutions under the jurisdiction of the agency regarding the offering of low-cost remittance transfers and no-cost or low-cost basic consumer accounts, as well as agency service to remittance transfer providers.
+
+(2) ASSISTANCE TO FINANCIAL LITERACY COMMISSION.—As part of its duties as members of the Financial Literacy and Education Commission, the Bureau, the Federal banking agencies, and the National Credit Union Administration shall assist the Financial Literacy and Education Commission in executing the Strategy for Assuring Financial Empowerment (or the ‘‘SAFE Strategy’’), as it relates to remittances.
+
+(d) FEDERAL CREDIT UNION ACT CONFORMING AMENDMENT.— Paragraph (12) of section 107 of the Federal Credit Union Act (12 U.S.C. 1757) is amended to read as follows:
+‘‘(12) in accordance with regulations prescribed by the Board—
+‘‘(A) to sell, to persons in the field of membership, negotiable checks (including travelers checks), money orders, and other similar money transfer instruments (including international and domestic electronic fund transfers and remittance transfers, as defined in section 919 of the Electronic Fund Transfer Act); and
+‘‘(B) to cash checks and money orders for persons in the field of membership for a fee;’’
+
+(e) REPORT ON FEASIBILITY OF AND IMPEDIMENTS TO USE OF REMITTANCE HISTORY IN CALCULATION OF CREDIT SCORE.—Before the end of the 365-day period beginning on the date of enactment of this Act, the Director shall submit a report to the President, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives regarding—
+(1) the manner in which the remittance history of a consumer could be used to enhance the credit score of the consumer;
+(2) the current legal and business model barriers and impediments that impede the use of the remittance history of the consumer to enhance the credit score of the consumer; and
+(3) recommendations on the manner in which maximum transparency and disclosure to consumers of exchange rates for remittance transfers subject to this title and the amendments made by this title may be accomplished, whether or not such exchange rates are known at the time of origination or payment by the consumer for the remittance transfer, including disclosure to the sender of the actual exchange rate

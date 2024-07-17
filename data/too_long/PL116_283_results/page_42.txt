@@ -1,0 +1,34 @@
+134 STAT. 3428             PUBLIC LAW 116–283—JAN. 1, 2021
+
+(e) MILESTONE DECISION AUTHORITY DEFINED.—In this section, the term “milestone decision authority” has the meaning given the term in section 2366a(d) of title 10, United States Code.
+
+SEC. 125. LAND-BASED TEST PROGRAM FOR THE FFG(X) FRIGATE PROGRAM.
+
+(a) TEST PROGRAM FOR ENGINEERING PLANT REQUIRED.—Prior to the delivery date of the lead ship in the FFG(X) Frigate class of vessels, the Secretary of the Navy shall commence a land-based test program for the engineering plant of such class of vessels.
+
+(b) ADMINISTRATION.—The test program required by subsection (a) shall be administered by the Senior Technical Authority for the FFG(X) Frigate class of vessels.
+
+(c) ELEMENTS.—The test program required by subsection (a) shall include, at a minimum, testing of the following equipment in vessel-representative form:
+    (1) Main Reduction Gear.
+    (2) Electrical Propulsion Motors.
+    (3) Other propulsion drive train components.
+    (4) Main propulsion system.
+    (5) Auxiliary propulsion unit.
+    (6) Electrical generation system.
+    (7) Shipboard control systems.
+    (8) Power control modules.
+
+(d) TEST OBJECTIVES.—The test program required by subsection (a) shall include, at a minimum, the following test objectives demonstrated across the full range of engineering plant operations for the FFG(X) Frigate class of vessels:
+    (1) Test of the full propulsion drive train.
+    (2) Test and facilitation of machinery control systems integration.
+    (3) Simulation of the full range of electrical demands to enable the investigation of load dynamics between the Hull, Mechanical and Electrical equipment, Combat System, and auxiliary equipment.
+
+(e) COMPLETION DATE.—The Secretary shall complete the test program required by subsection (a) by not later than the date on which the lead ship in the FFG(X) Frigate class of vessels is scheduled to be available for tasking by operational military commanders.
+
+(f) DEFINITIONS.—In this section:
+    (1) DELIVERY DATE.—The term “delivery date” has the meaning provided for in section 8671 of title 10, United States Code.
+    (2) SENIOR TECHNICAL AUTHORITY.—The term “Senior Technical Authority” has the meaning provided for in section 8669b of title 10, United States Code.
+
+10 USC 221 note. SEC. 126. TREATMENT IN FUTURE BUDGETS OF THE PRESIDENT OF SYSTEMS ADDED BY CONGRESS.
+
+In the event the procurement quantity for a system authorized by Congress in a National Defense Authorization Act for a fiscal year, and for which funds for such procurement quantity are appropriated by Congress in the Shipbuilding and Conversion, Navy account for such fiscal year, exceeds the procurement quantity specified in the budget of the President, as submitted to Congress under section 1105 of title 31, United States Code, for such fiscal year, such excess procurement quantity shall not be specified as

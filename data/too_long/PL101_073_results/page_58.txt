@@ -1,0 +1,17 @@
+103 STAT. 240             PUBLIC LAW 101-73 —AUG. 9, 1989
+
+"(A) IN GENERAL. —If—
+(i) the conservator or receiver for an insured depository institution in default makes any transfer of the assets and liabilities of such institution; and
+(ii) the transfer includes any qualified financial con-tract,
+the conservator or receiver shall use such conservator's or receiver's best efforts to notify any person who is a party to any such contract of such transfer by 12:00, noon (local time) on the business day following such transfer.
+(B) BUSINESS DAY DEFINED. —For purposes of this para-graph, the term "business day" means any day other than any Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
+(11) CERTAIN SECURITY INTERESTS NOT AVOIDABLE. —No provision of this subsection shall be construed as permitting the avoidance of any legally enforceable or perfected security interest in any of the assets of any depository institution except where such an interest is taken in contemplation of the institu-tion's insolvency or with the intent to hinder, delay, or defraud the institution or the creditors of such institution.
+(12) AUTHORITY TO ENFORCE CONTRACTS. —
+(A) IN GENERAL. —The conservator or receiver may enforce any contract, other than a director's or officer's liability insurance contract or a depository institution bond, entered into by the depository institution notwithstanding any provision of the contract providing for termination, default, acceleration, or exercise of rights upon, or solely by reason of, insolvency or the appointment of a conservator or receiver.
+(B) CERTAIN RIGHTS NOT AFFECTED. —No provision of this paragraph may be construed as impairing or affecting any right of the conservator or receiver to enforce or recover under a directors or officers liability insurance contract or depository institution bond under other applicable law.
+(13) EXCEPTION FOR FEDERAL RESERVE AND FEDERAL HOME LOAN BANKS. —No provision of this subsection shall apply with respect to—
+(A) any extension of credit from any Federal home loan bank or Federal Reserve bank to any insured depository institution; or
+(B) any security interest in the assets of the institution securing any such extension of credit.
+(f) PAYMENT OF INSURED DEPOSITS.—
+(1) IN GENERAL. —In case of the liquidation of, or other closing or winding up of the affairs of, any insured depository institution, payment of the insured deposits in such institution shall be made by the Corporation as soon as possible, subject to the provisions of subsection (g), either by cash or by making available to each depositor a transferred deposit in a new insured depository institution in the same community or in another insured depository institution in an amount equal to the insured deposit of such depositor, except that—
+(A) all payments made pursuant to this section on account of a closed Bank Insurance Fund member shall be made only from the Bank Insurance Fund, and

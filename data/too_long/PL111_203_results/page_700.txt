@@ -1,0 +1,58 @@
+124 STAT. 2074          PUBLIC LAW 111–203—JULY 21, 2010
+
+  ‘‘(A) an agency (as defined in section 101 of title 31,
+ United States Code); and
+  ‘‘(B) a Government corporation (as defined in section
+  103 of title 5, United States Code).
+  ‘‘(7) INSTITUTION OF HIGHER EDUCATION.—The term ‘insti-
+ tution of higher education’ has the same meaning as in 101
+ and 102 of the Higher Education Act of 1965 (20 U.S.C. 1001,
+ 1002).
+  ‘‘(8) INTERCHANGE TRANSACTION FEE.—The term ‘inter-
+ change transaction fee’ means any fee established, charged
+ or received by a payment card network for the purpose of
+ compensating an issuer for its involvement in an electronic
+ debit transaction.
+  ‘‘(9) ISSUER.—The term ‘issuer’ means any person who
+ issues a debit card, or credit card, or the agent of such person
+ with respect to such card.
+  ‘‘(10) NETWORK FEE.—The term ‘network fee’ means any
+ fee charged and received by a payment card network with
+ respect to an electronic debit transaction, other than an inter-
+ change transaction fee.
+  ‘‘(11) PAYMENT CARD NETWORK.—The term ‘payment card
+ network’ means an entity that directly, or through licensed
+ members, processors, or agents, provides the proprietary serv-
+ ices, infrastructure, and software that route information and
+ data to conduct debit card or credit card transaction authoriza-
+ tion, clearance, and settlement, and that a person uses in
+ order to accept as a form of payment a brand of debit card,
+ credit card or other device that may be used to carry out
+ debit or credit transactions.
+ ‘‘(d) ENFORCEMENT.—
+  ‘‘(1) IN GENERAL.—Compliance with the requirements
+ imposed under this section shall be enforced under section
+ 918.
+  ‘‘(2) EXCEPTION.—Sections 916 and 917 shall not apply
+ with respect to this section or the requirements imposed pursu-
+ ant to this section.’’.
+ (b) AMENDMENT TO THE FOOD AND NUTRITION ACT OF 2008.—
+ Section 7(h)(10) of the Food and Nutrition Act of 2008 (7 U.S.C.
+ 2016(h)(10)) is amended to read as follows:
+  ‘‘(10) FEDERAL LAW NOT APPLICABLE.—Section 920 of the
+ Electronic Fund Transfer Act shall not apply to electronic ben-
+ efit transfer or reimbursement systems under this Act.’’.
+ (c) AMENDMENT TO THE FARM SECURITY AND RURAL INVESTMENT
+ ACT OF 2002.—Section 4402 of the Farm Security and Rural Invest-
+ ment Act of 2002 (7 U.S.C. 3007) is amended by adding at the end
+ the following new subsection:
+  ‘‘(f) FEDERAL LAW NOT APPLICABLE.—Section 920 of the Elec-
+ tronic Fund Transfer Act shall not apply to electronic benefit
+ transfer systems established under this section.’’.
+  (d) AMENDMENT TO THE CHILD NUTRITION ACT OF 1966.—Sec-
+ tion 11 of the Child Nutrition Act of 1966 (42 U.S.C. 1780) is
+ amended by adding at the end the following:
+  ‘‘(c) FEDERAL LAW NOT APPLICABLE.—Section 920 of the Elec-
+ tronic Fund Transfer Act shall not apply to electronic benefit
+ transfer systems established under this Act or the Richard B.
+ Russell National School Lunch Act (42 U.S.C. 1751 et seq.).’’.

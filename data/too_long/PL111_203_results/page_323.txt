@@ -1,0 +1,23 @@
+PUBLIC LAW 111-203—JULY 21, 2010
+
+(ii) to specify the criteria for determining what constitutes a large notional swap transaction (block trade) for particular markets and contracts;
+(iii) to specify the appropriate time delay for reporting large notional swap transactions (block trades) to the public; and
+(iv) that take into account whether the public disclosure will materially reduce market liquidity.
+(F) TIMELINESS OF REPORTING. — Parties to a swap (including agents of the parties to a swap) shall be responsible for reporting swap transaction information to the appropriate registered entity in a timely manner as may be prescribed by the Commission.
+(G) REPORTING OF SWAPS TO REGISTERED SWAP DATA REPOSITORIES. — Each swap (whether cleared or uncleared) shall be reported to a registered swap data repository.
+(14) SEMIANNUAL AND ANNUAL PUBLIC REPORTING OF AGGREGATE SWAP DATA. —
+(A) IN GENERAL. — In accordance with subparagraph (B), the Commission shall issue a written report on a semiannual and annual basis to make available to the public information relating to —
+(i) the trading and clearing in the major swap categories; and
+(ii) the market participants and developments in new products.
+(B) USE; CONSULTATION. — In preparing a report under subparagraph (A), the Commission shall —
+(i) use information from swap data repositories and derivatives clearing organizations; and
+(ii) consult with the Office of the Comptroller of the Currency, the Bank for International Settlements, and such other regulatory bodies as may be necessary.
+(C) AUTHORITY OF THE COMMISSION. — The Commission may, by rule, regulation, or order, delegate the public reporting responsibilities of the Commission under this paragraph in accordance with such terms and conditions as the Commission determines to be appropriate and in the public interest.”.
+
+SEC. 728. SWAP DATA REPOSITORIES.
+The Commodity Exchange Act is amended by inserting after section 20 (7 U.S.C. 24) the following:
+“SEC. 21. SWAP DATA REPOSITORIES.
+(a) REGISTRATION REQUIREMENT. —
+(1) REQUIREMENT; AUTHORITY OF DERIVATIVES CLEARING ORGANIZATION. —
+(A) IN GENERAL. — It shall be unlawful for any person, unless registered with the Commission, directly or indirectly to make use of the mails or any means or instrumentality of interstate commerce to perform the functions of a swap data repository.
+(B) REGISTRATION OF DERIVATIVES CLEARING ORGANIZATIONS. — A derivatives clearing organization may register as a swap data repository.

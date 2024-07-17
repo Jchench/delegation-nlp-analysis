@@ -1,0 +1,30 @@
+103 STAT. 436		PUBLIC LAW 101-73—AUG. 9, 1989
+
+	(2) LENDING ACTIVITIES.—Section 304(a)(2) of the Federal National Mortgage Association Charter Act (12 U.S.C. 1719(a)(2)) is amended—
+	(A) by inserting after the 3rd sentence the following new sentence: "The corporation shall not be permitted to use its lending authority (A) to advance funds to a mortgage seller on an interim basis, using mortgage loans as collateral, pending the sale of the mortgages in the secondary market; or (B) to originate mortgage loans."; and
+	(B) by striking the 1st and 2d sentences.
+	(3) AUDITS BY GAO.—Section 309 of the Federal National Mortgage Association Charter Act (12 U.S.C. 1723a) is amended by adding at the end the following new subsection:
+	"(j) The mortgage transactions of the corporation may be subject to audit by the Comptroller General of the United States in accord- ance with the principles and procedures applicable to commercial corporation transactions under such rules and regulations as may be prescribed by the Comptroller General. The representatives of the General Accounting Office shall have access to other books, accounts, financial records, reports, files, and such other papers, things, or property belonging to or in use by the corporation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by deposi- tories, fiscal agents, and custodians. A report on each such audit shall be made by the Comptroller General to the Congress. The corporation shall reimburse the General Accounting Office for the full cost of any such audit as billed therefor by the Comptroller General.".
+
+Subtitle C—Technical and Conforming Amendments
+
+SEC. 741. REPEAL OF LIMITATION OF OBLIGATION FOR ADMINISTRATIVE EXPENSES. 
+	
+Section 7(b) of the First Deficiency Appropriation Act of 1936 (15 U.S.C. 712a(b)) is amended by striking the following: 
+"1. Federal Home Loan Bank Board;". 1
+"2. Home Owners' Loan Corporation;"; and
+"11. Federal Savings and Loan Insurance Corporation;".
+
+SEC. 742 AMENDMENT OF TITLE 5, UNITED STATES CODE.
+	(a) EXECUTIVE SCHEDULE.—
+	(1) Section 5314 of title 5, United States Code (5 U.S.C. 5315) is amended—
+	(A) by striking 
+	"Chairman of the Federal Home Loan Bank Board;"; and
+	(B) by adding at the end thereof the following:
+	"Director of the Office of Thrift Supervision.
+	Chairperson of the Federal Housing Finance Board."
+	(2) Section 5315 of title 5, United States Code (5 U.S.C. 5315) is amended—
+	(A) by striking out 
+	"Members, Federal Home Loan Bank Board." and
+	(B) by inserting 
+	"Directors, Federal Housing Finance Board.".

@@ -1,0 +1,58 @@
+PUBLIC LAW 116-283—JAN. 1, 2021           134 STAT. 3483
+
+dated June 27, 2018, and titled ‘Establishment of the Joint Artificial Intelligence Center’, or any successor to such Center.’’.
+SEC. 233. BOARD OF ADVISORS FOR THE JOINT ARTIFICIAL INTEL-
+LIGENCE CENTER.
+   (a) ESTABLISHMENT.—The Secretary of Defense shall establish 
+a board of advisors for the Joint Artificial Intelligence Center.
+   (b) DUTIES.—The duties of the board of advisors shall include 
+the following:
+        (1) Provide independent strategic advice and technical 
+ expertise to the Secretary and the Director on matters relating 
+ to the development and use of artificial intelligence by the 
+ Department of Defense.
+        (2) Evaluate and advise the Secretary and the Director 
+ on ethical matters relating to the development and use of 
+ artificial intelligence by the Department.
+        (3) Conduct long-term and long-range studies on matters 
+ relating to artificial intelligence, as required.
+        (4) Evaluate and provide recommendations to the Secretary 
+ and the Director regarding the Department’s development of 
+ a robust workforce proficient in artificial intelligence.
+        (5) Assist the Secretary and the Director in developing 
+ strategic level guidance on artificial intelligence-related hard-
+ware procurement, supply chain matters, and other technical 
+ matters relating to artificial intelligence.
+   (c) MEMBERSHIP.—The board of advisors shall be composed 
+of appropriate experts from academic or private sector organizations 
+outside the Department of Defense, who shall be appointed by 
+the Secretary.
+   (d) CHAIRPERSON.—The chairperson of the board of advisors 
+shall be selected by the Secretary.
+   (e) MEETINGS.—The board of advisors shall meet not less than 
+once each fiscal quarter and may meet at other times at the call 
+of the chairperson or a majority of its members.
+   (f) REPORTS.—Not later than September 30 of each year through 
+September 30, 2024, the board of advisors shall submit to the 
+congressional defense committees a report that summarizes the 
+activities of the board over the preceding year.
+   (g) DEFINITIONS.—In this section:
+        (1) The term ‘‘artificial intelligence’’ has the meaning given 
+that term in section 238(g) of the John S. McCain National 
+Defense Authorization Act for Fiscal Year 2019 (Public Law 
+115-232; 10 U.SC. 2358 note).
+        (2) The term ‘‘Director’’ means the Director of the Joint 
+ Artificial Intelligence Center.
+        (3) The term ‘‘Joint Artificial Intelligence Center’’ means 
+ the Joint Artificial Intelligence Center of the Department of 
+ Defense established pursuant to the memorandum of the Sec-
+ retary of Defense dated June 27, 2018, and titled ‘‘Establish-
+ ment of the Joint Artificial Intelligence Center’’, or any suc-
+ cessor to such Center.
+        (4) The term ‘‘Secretary’’ means the Secretary of Defense.
+
+SEC. 234. APPLICATION OF ARTIFICIAL INTELLIGENCE TO THE 
+DEFENSE REFORM PILLAR OF THE NATIONAL DEFENSE 
+STRATEGY.
+   (a) IDENTIFICATION OF USE CASES.—The Secretary of Defense, 
+acting through such officers and employees of the Department of

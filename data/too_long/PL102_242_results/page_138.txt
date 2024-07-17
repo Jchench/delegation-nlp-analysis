@@ -1,0 +1,23 @@
+PUBLIC LAW 102-242—DEC. 19, 1991  105 STAT. 2373
+
+(C) a corporation chartered under section 25(a) of the Federal Reserve Act; or
+(D) a corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act.
+(7) FAILED FINANCIAL INSTITUTION.—The term “failed financial institution” means a financial institution that—
+(A) fails to satisfy a covered contractual payment obligation when due;
+(B) has commenced or had commenced against it insolvency, liquidation, reorganization, receivership (including the appointment of a receiver), conservatorship, or similar proceedings; or
+(C) has generally ceased to meet its obligations when due.
+(8) FAILED MEMBER.—The term “failed member” means any member that—
+(A) fails to satisfy a covered clearing obligation when due,
+(B) has commenced or had commenced against it insolvency, liquidation, reorganization, receivership (including the appointment of a receiver), conservatorship, or similar proceedings, or
+(C) has generally ceased to meet its obligations when due.
+(9) FINANCIAL INSTITUTION.—The term “financial institution” means a broker or dealer, a depository institution, a futures commission merchant, or any other institution as determined by the Board of Governors of the Federal Reserve System.
+(10) FUTURES COMMISSION MERCHANT.—The term “futures commission merchant” means a company that is registered or licensed under Federal law to engage in the business of selling futures and options in commodities.
+(11) MEMBER.—The term “member” means a member of or participant in a clearing organization, and includes the clearing organization.
+(12) NET ENTITLEMENT.—The term “net entitlement” means the amount by which the covered contractual payment entitlements of a financial institution or member exceed the covered contractual payment obligations of the institution or member after netting under a netting contract.
+(13) NET OBLIGATION.—The term “net obligation” means the amount by which the covered contractual payment obligations of a financial institution or member exceed the covered contractual payment entitlements of the institution or member after netting under a netting contract.
+(14) NETTING CONTRACT.—
+(A) IN GENERAL.—The term “netting contract”—
+(i) means a contract or agreement between 2 or more financial institutions or members, that—
+(I) is governed by the laws of the United States, any State, or any political subdivision of any State, and
+(II) provides for netting present or future payment obligations or payment entitlements (including liquidation or close-out values relating to the obligations or entitlements) among the parties to the agreement; and
+(ii) includes the rules of a clearing organization.

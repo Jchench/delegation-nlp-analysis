@@ -1,0 +1,38 @@
+134 STAT. 4226
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+“II. Validation of Proprietary Data Restrictions ........................................... 3781
+“III. Other Provisions Relating to Proprietary Contractor Data and Rights in Technical Data ...................................................................... 3791
+
+10 USC 3771 
+prec. “SUBCHAPTER I—RIGHTS IN TECHNICAL DATA
+“Sec.
+“3771. Rights in technical data: regulations.
+“3772. Rights in technical data: provisions required in contracts.
+“3773. Domestic business concerns: programs for replenishment parts.
+“3774. Major weapon systems and subsystems: long-term technical data needs.
+“3775. Definitions.
+
+10 USC 3771. “§ 3771. Rights in technical data: regulations
+10 USC 3772. “§ 3772. Rights in technical data: provisions required in contracts
+10 USC 3773. “§ 3773. Domestic business concerns: programs for replenishment parts
+10 USC 3774. “§ 3774. Major weapon systems and subsystems: long-term technical data needs
+10 USC 3775. “§ 3775. Definitions”.
+
+(2) TABLES OF CHAPTERS AMENDMENTS.—The tables of chapters at the beginning of subtitle A, and at the beginning of part V of subtitle A, of title 10, United States Code, are amended by striking the item relating to chapter 275 and inserting the following new item:
+“275. Proprietary Contractor Data and Rights in Technical Data ............................ 3771”.
+
+(b) TRANSFER OF SUBSECTION (a) OF SECTION 2320.— 
+(1) TRANSFER.—Subsection (a) of section 2320 of title 10, United States Code, is transferred to section 3771 of such title, as added by subsection (a), inserted after the section heading, and amended by redesignating paragraphs (2) and (3) as subsections (b) and (c), respectively.
+(2) INTERNAL REDESIGNATIONS AND INSERTION OF HEADINGS IN NEW 3771(a).—Subsection (a) of such section, as so transferred and amended, is amended—
+(A) by striking “(1) The Secretary of” and inserting “REGULATIONS REQUIRED.—
+“(1) IN GENERAL.—The Secretary of”; and
+(B) by designating the third sentence as paragraph (2) and in that paragraph—
+(i) by striking “Such regulations may not” and inserting “OTHER RIGHTS NOT IMPAIRED.—Regulations prescribed under paragraph (1) may not”;
+(ii) by striking “impair any right of the” and inserting “impair—
+“(A) any right of the”; and
+(iii) by striking “by law” and all that follows through “the right of a contractor” and inserting “by law; or
+“(B) the right of a contractor”.
+(3) INTERNAL REDESIGNATIONS AND INSERTION OF HEADINGS IN NEW 3771(b).—Subsection (b) of such section, as so transferred and redesignated, is amended—
+(A) by striking “Such regulations” and inserting “REQUIRED PROVISIONS.—Regulations prescribed under subsection (a)”;

@@ -1,0 +1,48 @@
+PUBLIC LAW 116-283—JAN. 1, 2021
+
+(1) Subtitle IV of title 46, United States Code, is amended by adding at the end the following:
+
+“PART D—FEDERAL MARITIME COMMISSION
+
+“CHAPTER 461—FEDERAL MARITIME COMMISSION”.
+
+(2) Chapter 3 of title 46, United States Code, is redes- ignated as chapter 461 of part D of subtitle IV of such title and transferred to appear in such part.
+
+(3) Sections 301 through 308 of such title are redesignated as sections 46101 through 46108, respectively, of such title.
+(b) CONFORMING AMENDMENTS.—
+
+(1) Section 46101(c)(3)(A)(v) of title 46, United States Code, as so redesignated, is amended by striking ‘‘304’’ and inserting ‘‘46104’’.
+
+(2) section 322(b) of the Coast Guard Personnel and Mari- time Safety Act of 2002 (31 U.S.C. 1113 note) is amended by striking ‘‘208 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1118)’’ and inserting ‘‘46106(a) of title 46, United States Code’’.
+
+(3) Section 1031(23) of the National Defense Authorization Act for Fiscal Year 2000 (31 U.S.C. 1113 note) is amended by striking ‘‘208, 901(b)(2), and 1211 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1118, 1241(b)(2), 1291)’’ and inserting ‘‘44106(a) and 55305(d) of title 46, United States Code’’.
+
+(4) The analysis for subtitle I of title 46, United States Code, is amended by striking the item relating to chapter 3.
+
+(5) The analysis for subtitle IV of such title is amended by adding at the end the following:
+
+“Part D—Federal Maritime Commission
+
+“461. Federal Maritime Commission ..........................................................46101”.
+
+(6) The analysis for chapter 461 of part D of subtitle IV of such title, as so redesignated, is amended to read as follows:
+“Sec.
+“46101. General organization.
+“46102. Quorum. 
+“46103. Meetings.
+“46104. Delegation of authority.
+“46105. Regulations.
+“46106. Annual report.
+“46107. Expenditures.
+“46108. Authorization of appropriations.”.
+
+(c) TECHNICAL CORRECTION.—Section 46103(c)(3) of title 46, United States Code, as so redesignated, is amended by striking ‘‘555(b)(2)’’ and inserting ‘‘552(b)(2)”.
+
+DIVISION H—OTHER MATTERS
+
+TITLE XC—HOMELAND SECURITY MATTERS
+
+Sec. 9001. Department of Homeland Security CISA Director. 
+Sec. 9002. Sector risk management agencies.
+
+134 STAT. 4765

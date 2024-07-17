@@ -1,0 +1,28 @@
+134 STAT. 4812
+
+PUBLIC LAW 116–283—JAN. 1, 2021
+
+“(A) the results of the evaluation under paragraph (1);
+“(B) the disparity in any reporting between scholarship recipients and their respective institutions of higher education; and
+“(C) any recent statistics regarding the size, composition, and educational requirements of the Federal cyber workforce.”.
+
+SEC. 9405. CYBERSECURITY IN PROGRAMS OF THE NATIONAL SCIENCE FOUNDATION.
+  (a) COMPUTER SCIENCE AND CYBERSECURITY EDUCATION RESEARCH.—Section 310 of the American Innovation and Competitiveness Act (42 U.S.C. 1862s–7) is amended—
+  (1) in subsection (b)—
+     (A) in paragraph (1), by inserting “and cybersecurity” after “computer science”; and
+     (B) in paragraph (2)—
+        (i) in subparagraph (C), by striking “ and” after the semicolon;
+        (ii) in subparagraph (D), by striking the period at the end and inserting “ ; and” ; and
+        (iii) by adding at the end the following:
+          “(E) tools and models for the integration of cybersecurity and other interdisciplinary efforts into computer science education and computational thinking at secondary and postsecondary levels of education.” ; and
+  (2) in subsection (c), by inserting “, cybersecurity,” after “computing”.
+  (b) SCIENTIFIC AND TECHNICAL EDUCATION.—Section 3(9)(J) of the Scientific and Advanced-Technology Act of 1992 (42 U.S.C. 1862i(9)(J)) is amended by inserting “and cybersecurity” after “computer science”.
+  (c) LOW-INCOME SCHOLARSHIP PROGRAM.—Section 414(d) of the American Competitiveness and Workforce Improvement Act of 1998 (42 U.S.C. 1869c) is amended—
+  (1) in paragraph (1), by striking “or computer science” and inserting “computer science, or cybersecurity” ;
+  (2) in paragraph 2(A)(iii), by inserting “cybersecurity,” after “computer science.” ;
+  (d) PRESIDENTIAL AWARDS FOR TEACHING EXCELLENCE.—The Director of the National Science Foundation shall ensure that educators and mentors in fields relating to cybersecurity can be considered for—
+     (1) Presidential Awards for Excellence in Mathematics and Science Teaching made under section 117 of National Science Foundation Authorization Act of 1988 (42 U.S.C. 1881b); and
+     (2) Presidential Awards for Excellence in STEM Mentoring administered under section 307 of the American Innovation and Competitiveness Act (42 U.S.C. 11862s–6).
+
+SEC. 9406. CYBERSECURITY IN STEM PROGRAMS OF THE NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.
+  In carrying out any STEM education program of the National Aeronautics and Space Administration (referred to in this section as “NASA”), including a program of the Office of STEM Engagement, the Administrator of NASA shall, to the maximum extent 

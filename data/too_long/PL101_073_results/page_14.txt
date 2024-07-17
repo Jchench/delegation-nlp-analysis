@@ -1,0 +1,18 @@
+103 STAT. 196            PUBLIC LAW 101-73—AUG. 9, 1989
+
+"(3) INTERIM FEDERAL SAVINGS ASSOCIATIONS.—In the case of any interim Federal savings association which is chartered by the Director of the Office of Thrift Supervision and will not open for business, such association shall be an insured depository institution upon the issuance of such association's charter by the Director.
+"(4) CERTIFICATE REQUIREMENTS.—Any certificate issued to the Corporation under paragraph (2) shall state that the Federal savings association is authorized to transact business as a savings association and that consideration has been given to the factors enumerated in section 6.
+"(5) REVIEW REQUIREMENTS.—In reviewing any certificate and application referred to in paragraph (2), the Board of Directors shall consider the factors described in paragraphs (1), (2), (3), (4), and (5) of section 6 in determining whether to deny insurance. 
+"(6) NOTICE OF DENIAL OF APPLICATION.—If the Board of Directors, after giving due deference to the determination of the Director of the Office of Thrift Supervision with respect to such factors, does not concur in the determination of the Director, the Board of Directors shall promptly notify the Director that insurance has been denied, giving specific reasons in writing for the Corporation's determination with reference to the factors described in paragraphs (1), (2), (3), (4), and (5) of section 6, and no insurance shall be granted.
+"(7) VOTING REQUIREMENTS.—The authority of the Board of Directors to make any determination to deny insurance under this subsection may not be delegated by the Board of Directors and any such determination may be made only upon a vote of ¾ of all members of the Board of Directors (excluding the Director of the Office of Thrift Supervision).";
+(5) in subsection (b)(4), by inserting "and fitness" after character;
+(6) in subsection (b)—
+(A) by redesignating paragraphs (5), (6), and (7) as paragraphs (6), (7), and (8), respectively; and
+(B) by inserting after paragraph (4) the following:
+"(5) the risk presented to the Bank Insurance Fund or the Savings Association Insurance Fund;"; and
+(7) by adding at the end thereof the following new subsections:
+"(d) INSURANCE FEES.—
+"(1) UNINSURED INSTITUTIONS.—
+"(A) IN GENERAL.—Any institution that becomes insured by the Corporation, and any noninsured branch that becomes insured by the Corporation, shall pay the Corporation any fee which the Corporation may by regulation prescribe, after giving due consideration to the need to establish and maintain reserve ratios in the Bank Insurance Fund and the Savings Association Insurance Fund as required by section 7.
+"(B) FEE CREDITED TO APPROPRIATE FUND.—The fee paid by the depository institution shall be credited to the Bank Insurance Fund if the depository institution becomes a Bank Insurance Fund member, and to the Savings Association Insurance Fund if the depository institution becomes a Savings Association Insurance Fund member.
+"(C) EXCEPTION FOR CERTAIN DEPOSITORY INSTITUTIONS.—Any depository institution that becomes an insured deposi

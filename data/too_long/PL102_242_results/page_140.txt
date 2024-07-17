@@ -1,0 +1,25 @@
+PUBLIC LAW 102-242—DEC. 19, 1991      105 STAT. 2375
+
+in accordance with, and subject to the conditions of, the applicable netting contract.
+(f) LIMITATION ON CLAIMS FOR ENTITLEMENT.—A failed member of a clearing organization shall have no recognizable claim against any member of a clearing organization for any amount based on such covered contractual payment entitlements other than its net entitlement.
+(g) EFFECTIVENESS NOTWITHSTANDING STATUS AS MEMBER—This section shall be given effect notwithstanding that a member is a failed member.
+
+SEC. 405. PREEMPTION.
+No stay, injunction, avoidance, moratorium, or similar proceeding or order, whether issued or granted by a court, administrative agency, or otherwise, shall limit or delay application of otherwise enforceable netting contracts in accordance with sections 403 and 404.
+
+SEC. 406. RELATIONSHIP TO OTHER PAYMENTS SYSTEMS.
+This subtitle shall have no effect by implication or otherwise on the validity or legal enforceability of a netting arrangement of any payment system which is not subject to this subtitle.
+
+SEC. 407. NATIONAL EMERGENCIES.
+The provisions of this subtitle may not be construed to limit the authority of the President under the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) or the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
+
+Subtitle B—Right to Financial Privacy Act of 1978
+
+SEC. 411. AMENDMENTS TO THE RIGHT TO FINANCIAL PRIVACY ACT OF 1978.
+The Right to Financial Privacy Act of 1978 is amended—
+(1) in section 1112(f)(2) (12 U.S.C. 3412(f)(2))—
+(A) by inserting "for civil actions under section 951 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, or for forfeiture under sections 981 or 982 of title 18, United States Code" after "purposes"; and
+(B) by adding at the end the following new sentence: "No agency or department so transferring such records shall be deemed to have waived any privilege applicable to those records under law.";
+(2) in section 1113(h)(1)(A) (12 U.S.C. 3413(h)(1)(A)), by striking "the financial institution in possession of such records" and inserting "a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer)";
+(3) in section 1113(h)(4) (12 U.S.C. 3413(h)(4)) by striking "the financial institution in possession of such records" and inserting "a financial institution (whether or not such proceeding, investigation, examination, or inspection is also directed at a customer)"; and 
+(4) in section 1113(i) (12 U.S.C. 3413(i)), by adding after paragraph (2) the following new sentence:
