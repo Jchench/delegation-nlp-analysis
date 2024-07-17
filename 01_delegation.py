@@ -1,24 +1,28 @@
 import spacy
 import pandas as pd
-import sqlite3
 
-# see https://web.archive.org/web/20201106053441id_/http://dlc.dlib.indiana.edu/dlc/bitstream/handle/10535/10485/VannoniAshMorelli_2019.pdf?sequence=1&isAllowed=y
+# Load the text file
+with open("data/PL094_240.txt", "r") as file:
+    text = file.read()
 
-# Create a SQL connection to our SQLite database
-con = sqlite3.connect("/Users/stevenrashin/Dropbox/Threatening Rules/Threatening Rules/Data/df_text.sqlite")
-cur = con.cursor()
-df = pd.read_sql_query("SELECT * from textdata", con)
+# Split the text into sections based on typical section headers
+sections = text.split('SEC.')
 
-# Verify that result of SQL query is stored in the dataframe
-print(df.head())
+# Create a DataFrame with the sections data
+data = []
+for i, section in enumerate(sections):
+    if section.strip():  # Ensure the section is not empty
+        section_name = f"Section {i}"
+        citation = "Public Law 94-240"
+        section_id = i
+        data.append({'name': section_name, 'citation': citation, 'id': section_id, 'text': section.strip()})
 
-# Be sure to close the connection
-con.close()
+df = pd.DataFrame(data)
 
 # Load NLP
-nlp = spacy.load('myenv/lib/python3.12/site-packages/en_core_web_sm/en_core_web_sm-3.7.1')
+nlp = spacy.load('en_core_web_lg')
 
-# List the modals
+# List the modals and verbs
 strict_modals = ['shall', 'must', 'will']
 permissive_modals = ['may', 'can']
 other_modals = ['should', 'would', 'could', 'might']
@@ -28,134 +32,83 @@ permission_verbs = ['allow', 'permit', 'authorize']
 entitlement_verbs = ['have', 'receive', 'retain']
 special_verbs = obligation_verbs + constraint_verbs + permission_verbs + entitlement_verbs
 
-# create all the functions
-# for the functions all have the same input (even the unused args) to make calling function easier
+# Define the functions as before
 def permission(dep_dict, tokentg_dict, lemma_dict, token_dict, speech_dict, special_verbs, strict_modals,
-               permissive_modals, other_modals, obligation_verbs, contraint_verbs, permission_verbs, entitlement_verbs):
-
+               permissive_modals, other_modals, obligation_verbs, constraint_verbs, permission_verbs, entitlement_verbs):
     way1 = any(set(permission_verbs).intersection(lemma_dict.keys())) and "neg" not in dep_dict
     way2 = any(set(permissive_modals).intersection(lemma_dict.keys())) and "VERB" in speech_dict.keys() and not any(
         set(special_verbs).intersection(lemma_dict.keys())) and "neg" not in dep_dict
     way3 = "neg" in dep_dict and any(set(constraint_verbs).intersection(lemma_dict.keys()))
-
     anyTrue = way1 or way2 or way3
-
-    if anyTrue == True:
-        return 1
-    else:
-        return 0
-
+    return 1 if anyTrue else 0
 
 def obligation(dep_dict, tokentg_dict, lemma_dict, token_dict, speech_dict, special_verbs, strict_modals,
-               permissive_modals, other_modals, obligation_verbs, contraint_verbs, permission_verbs, entitlement_verbs):
-
+               permissive_modals, other_modals, obligation_verbs, constraint_verbs, permission_verbs, entitlement_verbs):
     if "neg" in dep_dict:
         return 0
-    else:
-        way1 = any(set(strict_modals).intersection(lemma_dict.keys())) and 'be' not in lemma_dict
-        way2 = any(set(strict_modals).intersection(lemma_dict.keys())) and any(
-            set(obligation_verbs).intersection(lemma_dict.keys()))
-        way3 = 'MD' not in tokentg_dict and any(set(obligation_verbs).intersection(lemma_dict.keys()))
-        anyTrue = way1 or way2 or way3
-        if anyTrue == True:
-            return 1
-        else:
-            return 0
-
+    way1 = any(set(strict_modals).intersection(lemma_dict.keys())) and 'be' not in lemma_dict
+    way2 = any(set(strict_modals).intersection(lemma_dict.keys())) and any(
+        set(obligation_verbs).intersection(lemma_dict.keys()))
+    way3 = 'MD' not in tokentg_dict and any(set(obligation_verbs).intersection(lemma_dict.keys()))
+    anyTrue = way1 or way2 or way3
+    return 1 if anyTrue else 0
 
 def constraint(dep_dict, tokentg_dict, lemma_dict, token_dict, speech_dict, special_verbs, strict_modals,
-               permissive_modals, other_modals, obligation_verbs, contraint_verbs, permission_verbs, entitlement_verbs):
-                 
+               permissive_modals, other_modals, obligation_verbs, constraint_verbs, permission_verbs, entitlement_verbs):
     way1 = "neg" in dep_dict and 'MD' in tokentg_dict and not any(set(obligation_verbs).intersection(lemma_dict.keys()))
     way2 = "neg" not in dep_dict and any(set(strict_modals).intersection(lemma_dict.keys())) and any(
         set(constraint_verbs).intersection(lemma_dict.keys()))
     way3 = "neg" in dep_dict and any(set(permission_verbs).intersection(lemma_dict.keys()))
     anyTrue = way1 or way2 or way3
-    if anyTrue == True:
-        return 1
-    else:
-        return 0
-
+    return 1 if anyTrue else 0
 
 def entitlement(dep_dict, tokentg_dict, lemma_dict, token_dict, speech_dict, special_verbs, strict_modals,
-                permissive_modals, other_modals, obligation_verbs, contraint_verbs, permission_verbs,entitlement_verbs):
-    
+                permissive_modals, other_modals, obligation_verbs, constraint_verbs, permission_verbs,entitlement_verbs):
     way1 = "neg" not in dep_dict and any(set(entitlement_verbs).intersection(lemma_dict.keys()))
-
     way2 = "neg" not in dep_dict and any(set(strict_modals).intersection(lemma_dict.keys())) and 'be' in lemma_dict
-
     way3 = "neg" in dep_dict and any(set(obligation_verbs).intersection(lemma_dict.keys()))
-
     anyTrue = way1 or way2 or way3
-    if anyTrue == True:
-        return 1
-    else:
-        return 0
-
+    return 1 if anyTrue else 0
 
 def mandatory_delegation(dep_dict, tokentg_dict, lemma_dict, token_dict, speech_dict, special_verbs, strict_modals,
-                permissive_modals, other_modals, obligation_verbs, contraint_verbs, permission_verbs,entitlement_verbs):
-
+                permissive_modals, other_modals, obligation_verbs, constraint_verbs, permission_verbs,entitlement_verbs):
     way1 = "neg" not in dep_dict and any(set(strict_modals).intersection(lemma_dict.keys()))
-
     anyTrue = way1
-    if anyTrue == True:
-        return 1
-    else:
-        return 0
+    return 1 if anyTrue else 0
 
 def permissive_delegation(dep_dict, tokentg_dict, lemma_dict, token_dict, speech_dict, special_verbs, strict_modals,
-                permissive_modals, other_modals, obligation_verbs, contraint_verbs, permission_verbs,entitlement_verbs):
-
+                permissive_modals, other_modals, obligation_verbs, constraint_verbs, permission_verbs,entitlement_verbs):
     way1 = "neg" not in dep_dict and any(set(permissive_modals).intersection(lemma_dict.keys())) and any(set(obligation_verbs).intersection(lemma_dict.keys()))
-
     anyTrue = way1
-    if anyTrue == True:
-        return 1
-    else:
-        return 0
+    return 1 if anyTrue else 0
 
 def permissive_provision(dep_dict, tokentg_dict, lemma_dict, token_dict, speech_dict, special_verbs, strict_modals,
-                permissive_modals, other_modals, obligation_verbs, contraint_verbs, permission_verbs,entitlement_verbs):
-
+                permissive_modals, other_modals, obligation_verbs, constraint_verbs, permission_verbs,entitlement_verbs):
     way1 = "neg" not in dep_dict and any(set(permissive_modals).intersection(lemma_dict.keys())) and any(set(obligation_verbs).intersection(lemma_dict.keys()))
-
     anyTrue = way1
-    if anyTrue == True:
-        return 1
-    else:
-        return 0
+    return 1 if anyTrue else 0
 
 def mandatory_provision(dep_dict, tokentg_dict, lemma_dict, token_dict, speech_dict, special_verbs, strict_modals,
-                permissive_modals, other_modals, obligation_verbs, contraint_verbs, permission_verbs,entitlement_verbs):
-
+                permissive_modals, other_modals, obligation_verbs, constraint_verbs, permission_verbs,entitlement_verbs):
     way1 = "neg" not in dep_dict and any(set(strict_modals).intersection(lemma_dict.keys())) and any(set(obligation_verbs).intersection(lemma_dict.keys()))
-
     anyTrue = way1
-    if anyTrue == True:
-        return 1
-    else:
-        return 0
+    return 1 if anyTrue else 0
 
 def constraining_provision(dep_dict, tokentg_dict, lemma_dict, token_dict, speech_dict, special_verbs, strict_modals,
-                permissive_modals, other_modals, obligation_verbs, contraint_verbs, permission_verbs,entitlement_verbs):
-
+                permissive_modals, other_modals, obligation_verbs, constraint_verbs, permission_verbs,entitlement_verbs):
     way1 = "neg" in dep_dict and any(set(strict_modals).intersection(lemma_dict.keys())) and any(set(obligation_verbs).intersection(lemma_dict.keys()))
-
     anyTrue = way1
-    if anyTrue == True:
-        return 1
-    else:
-        return 0
+    return 1 if anyTrue else 0
 
 cols = ['name','citation','id','obligation', 'constraint','permission','entitlement','MandatoryDelegation',
         'Permissive Delegation', 'PermissiveProvision','MandatoryProvision', 'Constraining Provision']
 
-# tokenize everything
+# Tokenize the text
 docs = list(nlp.pipe(df.text))
 provisions_lst = []
 
 for index, provision in enumerate(docs):
+    # This is the provision level where we want to aggregate the OCPE tagging
     obligation_lst = []
     constraint_lst = []
     permission_lst = []
@@ -191,6 +144,7 @@ for index, provision in enumerate(docs):
         entitle = entitlement(dep_dict, tokentg_dict, lemma_dict, token_dict, speech_dict, special_verbs, strict_modals,
                               permissive_modals, other_modals, obligation_verbs, constraint_verbs, permission_verbs,
                               entitlement_verbs)
+        #Nir Kosti additions
         mand_del = mandatory_delegation(dep_dict, tokentg_dict, lemma_dict, token_dict, speech_dict, special_verbs, strict_modals,
                               permissive_modals, other_modals, obligation_verbs, constraint_verbs, permission_verbs,
                               entitlement_verbs)
@@ -211,6 +165,7 @@ for index, provision in enumerate(docs):
         constraint_lst.append(const)
         permission_lst.append(permis)
         entitlement_lst.append(entitle)
+        # Nir add-ons
         mand_del_lst.append(mand_del)
         perm_del_lst.append(perm_del)
         perm_prov_lst.append(perm_prov)
@@ -230,4 +185,4 @@ for index, provision in enumerate(docs):
 
 df1 = pd.DataFrame(provisions_lst, columns=cols)
 
-df1.to_csv("provisions.csv")
+df1.to_csv("PL094_240_provisions.csv")
