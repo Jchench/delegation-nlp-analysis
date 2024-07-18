@@ -173,8 +173,8 @@ for rl in rules:
 # Convert the list of provisions to a DataFrame
 df1 = pd.DataFrame(provisions_lst, columns=cols)
 
-folder_path = "/path/to/your/folder/"
-nms = folder_path + "public_laws_2" + ".csv"
+folder_path = "script_1_output/"
+nms = folder_path + "public_laws_1" + ".csv"
 
 df1.to_csv(nms, index=False)
 
