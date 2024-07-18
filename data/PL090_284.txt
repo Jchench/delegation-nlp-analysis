@@ -1,50 +1,5 @@
-G:\COMP\CIVILRTS\CIVIL RIGHTS ACT OF 1968.XML
 
 Sec. 601           CIVIL RIGHTS ACT OF 1968          18
-
-               TITLE VI—EMPLOYMENT OF LEGAL COUNSEL
-                                   APPROVAL
-SEC. 601. Notwithstanding any other provision of law, if any 
-application made by an Indian, Indian tribe, Indian council, or any 
-band or group of Indians under any law requiring the approval of 
-the Secretary of the Interior or the Commissioner of Indian Affairs 
-of contracts or agreements relating to the employment of legal 
-counsel (including the choice of counsel and the fixing of fees) by 
-any such Indians, tribe, council, band, or group is neither granted 
-nor denied within ninety days following the making of such appli-
-cation, such approval shall be deemed to have been granted.
-[25 U.S.C. 1331]
-
-      TITLE VII—MATERIALS RELATING TO CONSTITUTIONAL RIGHTS OF INDIANS
-
-             SECRETARY OF INTERIOR TO PREPARE
-SEC. 701. (a) In order that the constitutional rights of Indians 
-might be fully protected, the Secretary of the Interior is authorized
-and directed to—
-             (1) have the document entitled “Indian Affairs, Laws and 
-      Treaties” (Senate Document Numbered 319, volumes 1 and 2, 
-      Fifty-eighth Congress), revised and extended to include all trea-
-      ties, laws, Executive orders, and regulations relating to Indian 
-      affairs in force on September 1, 1967, and to have such revised 
-      document printed at the Government Printing Office;
-             (2) have revised and republished the treaties entitled “Fed-
-      eral Indian Law”; and 
-             (3) have prepared, to the extent determined by the Sec-
-      retary of the Interior to be feasible, and accurate compilation 
-      of the official opinions, published and unpublished, of the Solic-
-      itor of the Department of the Interior relating to Indian affairs
-      rendered by the Solicitor prior to September 1, 1967, and to 
-      have such compilation printed as a Government publication at 
-      the Government Printing Office.
-      (b) With respect to the document entitled “Indian Affairs, Laws 
-and Treaties” as revised and extended in accordance with para-
-graph (1) of subsection (a), and the compilation prepared in accord-
-ance with paragraph (3) of such subsection, the Secretary of the In-
-terior shall take such action as may be necessary to keep such doc-
-ument and compilation current on an annual basis.
-      (c) There is authorized to be appropriated for carrying out the 
-provisions of this title such sum as may be necessary.
-[25 U.S.C. 1341]
 
                           TITLE VIII—FAIR HOUSING
 
@@ -875,3 +830,9 @@ shall be fined under title 18, United States Code, or imprisoned not more than o
 
 April 4, 2022
 As Amended Through P.L. 117-103, Enacted March 15, 2022
+
+43                             CIVIL RIGHTS ACT OF 1968                                Sec. 1002
+
+the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire shall be fined under title 18, United States Code, or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under title 18, United States Code, or imprisoned for any term of years or for life, or both.
+
+                                                                                              [42 U.S.C. 3631]

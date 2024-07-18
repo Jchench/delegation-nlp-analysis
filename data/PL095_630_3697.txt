@@ -491,28 +491,3 @@ authority.
 12 USC 3422.          Sec. 1122. The Securities and Exchange Commission shall not be 
 subject to the provisions of this title for a period of two years from 
 the date of enactment of this title. 
-                     TITLE XII—CHARTERS FOR THRIFT INSTITUTIONS 
-"Association."           Sec. 1201. Section 2(d) of the Home Owners' Loan Act of 1933 
-                     (12 U.S.C. 1462(d)) is amended to.read as follows: 
-                           "(d) The term 'association' means a Federal savings and loan asso- 
-                     ciation or a Federal mutual savings bank chartered by the Board 
-                     under section 5, and any reference in any other law to a Federal sav- 
-                     ings and loan association shall be deemed to be also a reference to a 
-                     Federal mutual savings bank, unless the context indicates otherwise.” 
-Rules and              Sec. 1202. Section 5(a) of the Home Owners' Loan Act of 1933 (12 
-regulations.         U.S.C. 1464(a)) is amended to read as follows:
-                         "Sec. 5. (a) In order to provide local mutual thrift institutions in 
-                      which people may invest their funds and in order to provide for the 
-                      financing of homes, the Board is authorized, under such rules and reg- 
-                      ulations as it may prescribe, to provide for the organization, incorpora- 
-                      tion, examination, operation, and regulation of associations to be 
-                      known as 'Federal Savings and Loan Associations', or 'Federal mutual 
-                      savings banks' (but only in the case of institutions which, prior to con- 
-                      version, were State mutual savings banks located in States which 
-                      authorize the chartering of State mutual savings banks, provided such 
-                      conversion is not in contravention of State law), and to issue charters 
-                      therefor, giving primary consideration to the best practices of local 
-                      mutual thrift and home-financing institutions in the United States,
-                      An association which was formerly organized as a savings bank under 
-                      State law may not convert from the mutual to the stock form of owner- 
-                      ship. An association which was formerly organized as a savings bank

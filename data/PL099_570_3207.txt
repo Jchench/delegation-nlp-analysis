@@ -1,11 +1,5 @@
 PUBLIC LAW 99-570-OCT. 27, 1986 				100 STAT. 3207-18
 
-United States Code, or $2,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual, or both. Any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 6 years in addition to such term of imprisonment. Notwithstanding the prior sentence, and notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under the provisions of this paragraph which provide for a mandatory term of imprisonment if death or serious bodily injury results, nor shall a person so sentenced be eligible for parole during the term of such a sentence.”
-(b) Section 1010(b)(4) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)(4)), as redesignated, is amended—
-(1) by striking out “, except as provided in paragraph (4)”;
-(2) by striking out “fined not more than $50,000” and inserting in lieu thereof “fined not to exceed the greater of that authorized in accordance with the provisions of title 18, United States Code, or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual”; and 
-(3) by inserting “except in the case of 100 or more marihuana
-
 Subtitle H—Money Laundering Control Act of 1986
 
 SEC. 1351. SHORT TITLE.
@@ -608,37 +602,3 @@ Substances Act to an appropriate foreign country to reflect generally the contri
 	held invalid, the provisions of every other part, and their applica-
 	tion, shall not be affected thereby.
 
-	                            Subtitle I—Armed Career Criminals
-	
-	Career
-	Criminals	
-	Amendment Act
-	of 1986.
-	18 USC 921 note
-	                         SEC. 1401. SHORT TITLE.
-
-	         This subtitle may be cited as the "Career Criminals Amendment 
-	Act of 1986".
-
-	SEC. 1402. EXPANSION OF PREDICATE OFFENSES FOR ARMED CAREER 
-                          CRIMINAL PENALTIES.
-
-	       (a) IN GENERAL.—Section 924(e)(1) of title 18, United States Code,
-	is amended by striking out "for robbery or burglary, or both," and 
-	inserting in lieu thereof "for a violent felony or a serious drug 
-	offense, or both,".
-	         (b) DEFINITIONS.—Section 924(e)(2) of title 18, United States Code, 
-	is amended by striking out subparagraph (A) and all that follows 
-	through subparagraph (B) and inserting in lieu thereof the 
-	following:
-	                                            "(A) the term 'serious drug offense' means— 
-	                                                      "(i) an offense under the Controlled Substances Act 
-	                	(21 U.S.C. 801 et seq.), the Controlled Substances 
-	                	Import and Export Act (21 U.S.C. 951 et seq.), or the
-                    	first section or section 3 of Pubic Law 96-350 (21 U.S.C. 
-	                	955a et seq.), for which a maximum term of imprison- 
-	                	ment of ten years or more is prescribed by law; or
-	                                                    "(ii) an offense under State law, involving manufac- 
-	                	turing, distributing, or possessing with intent to manu- 
-	                	facture or distribute, a controlled substance (as defined 
-	                	in section 102 of the Controlled Substances Act (21

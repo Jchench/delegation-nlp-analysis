@@ -1,16 +1,5 @@
 105 STAT. 2334        PUBLIC LAW 102-242—DEC. 19, 1991
 
-the 2-year period beginning on the date of such discharge or discrimination.
-“(3) REMEDIES.—If the district court determines that a viola-tion has occurred, the court may order the Corporation or the person which committed the violation to—
-“(A) reinstate the employee to the employee’s former position;
-“(B) pay compensatory damages; or
-“(C) take other appropriate actions to remedy any past discrimination.
-“(4) LIMITATION.—The protections of this section shall not apply to any employee who—
-“(A) deliberately causes or participates in the alleged violation of law or regulation; or
-“(B) knowingly or recklessly provides substantially false information to the Corporation, the Attorney General, or any appropriate Federal banking agency.”.
-
-(2) EFFECTIVE DATE.—Subsection (q) of section 21A of the Federal Home Loan Bank Act (as added under the amendment made by paragraph (1)) shall be treated as having taken effect on August 9, 1989, and for purposes of any cause of action arising under such subsection (as so effective) before the date of the enactment of this Act, the 2-year period referred to in section 21A(q)(2) of such Act shall be deemed to begin on such date of enactment.
-
 Subtitle F—Truth in Savings
 
 SEC. 261. SHORT TITLE.
@@ -309,16 +298,3 @@ PUBLIC LAW 102-242—DEC. 19, 1991 105 STAT. 2343
 (6) DEPOSITORY INSTITUTION.—The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 19(b)(1)(A) of the Federal Reserve Act.
 (7) INTEREST.—The term “interest” includes dividends paid with respect to share draft accounts which are accounts within the meaning of paragraph (3).
 (8) MULTIPLE RATE ACCOUNT.—The term “multiple rate account” means any account that has 2 or more annual rates of simple interest which take effect at the same time or in succeeding periods and which are known at the time of disclosure.
-
-TITLE I I I — R E G U L A T O R Y IMPROVEMENT
-Subtitle A—Activities
-
-SEC. 301. LIMITATIONS ON BROKERED DEPOSITS AND DEPOSIT SOLICITATIONS.
-(a) IN GENERAL.—Section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f) is amended—
-(1) in subsection (a), by striking “troubled institution” and inserting “insured depository institution that is not well capitalized”;
-(2) in subsection (c), by inserting “which is adequately capitalized” after “insured depository institution”;
-(3) in subsection (d), by striking all after “unsound practice;” and inserting the following:
-“(2) is necessary to enable the institution to meet the demands of its depositors or pay its obligations in the ordinary course of business; and
-“(3) is consistent with the conservator's fiduciary duty to minimize the institution's losses.
-Effective 90 days after the date on which the institution was placed in conservatorship, the institution may not accept such deposits.”;
-Effective date.

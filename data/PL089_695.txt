@@ -1,10 +1,3 @@
-and installations appropriate for the educational functions of such facilities;
-(5) include such other conditions as the Secretary, after consul­tation with the National Advisory Committee on Education of the Deaf, deems necessary to carry out the purposes of this Act; and
-(6) provide that any laborer or mechanic employed by any con­tractor or subcontractor in the performance of work on any con­struction aided by Federal funds appropriated for the benefit of the model secondary school will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Davis-Bacon Act, as amended (40 U.S.C. 276a-276a-5) ; and the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 5 U.S.C. 133z-15) and section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c).
-(c) The Secretary shall submit the annual report of the college (required by clause (3) of subsection (b) ) to the Congress with such comments and recommendations as he may deem appropriate.
-
-Approved October 15, 1966.
-
 Public Law 89-695
 October 16, 1966 
 [S. 3158]
@@ -534,19 +527,3 @@ TITLE IV-EXPIRATION
 Sec. 401. The provisions of titles I and II of this Act and any provisions of law enacted by said titles shall be effective only during the period ending at the close of June 30, 1972. Effective upon the expiration of such period, each provision of law amended by either of such titles is further amended to read as it did immediately prior to the enactment of this Act and each provision of law repealed by either of such titles is reenacted.
 Approved October 16, 1966.
 
-October 19, 1966  (S. 3834)
-Public Law 89-696
-	AN   ACT
-To amend chapter 141 of title 10, United States Code, to provide for price 
-adjustments in contracts for the procurement of milk by the Department of Defense.
-	Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,  That chapter 141 of title 10, United States Code, is amended-
-Defense Depart- (1) by inserting at the end thereof the following new section:
-ment contracts.
-Milk procure-
-ment.
-70A Stat. 135. "§ 2389.  Contracts  for  the  procurement  of  milk; price adjustment
-10 USC 2381-
-2388. "Under regulations prescribed by the Secretary of Defense, any contract for the procurement of fluid milk for beverage purposes which was being performed on or after March 1, 1966, may be amended to provide a price adjustment for losses incurred by a contractor because of increased prices paid to the producers for such milk as a result of action by the Secretary of Agriculture on or after March 1, 1966, increasing the price of milk.  A price adjustment shall not be made unless it has been determined by the Department that-
-"(1) such amount is not included in the contract price;
-"(2) the contract does not otherwise contain a provision providing for an adjustment in price; and
-"(3) the contractor will suffer a loss, not merely a diminution of anticipated profit, under the contract because of such increases
