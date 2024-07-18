@@ -1,9 +1,8 @@
 library(tidyverse)
 
-short <- read_csv("script_1_output/public_laws_1.csv")
-long <- read_csv("script_1_output/public_laws_2.csv")
-missing <- read_csv("script_1_output/public_laws_3.csv")
+short <- read_csv("script_2_output/all_provisions_1.csv")
+long <- read_csv("script_2_output/all_provisions_2.csv")
 
-final <- bind_rows(short, long, missing)
+final <- bind_rows(short, long)
 
-write_csv(final, file = "script_1_count.csv")
+write_csv(final, file = "script_2_count.csv")
