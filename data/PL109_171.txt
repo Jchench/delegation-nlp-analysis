@@ -1,0 +1,323 @@
+PUBLIC LAW 109–171—FEB. 8, 2006           120 STAT. 9
+
+Subtitle B—Deposit Insurance
+
+SEC. 2101. SHORT TITLE.
+This subtitle may be cited as the ‘‘Federal Deposit Insurance Reform Act of 2005’’.
+SEC. 2102. MERGING THE BIF AND SAIF.
+(a) IN GENERAL—
+(1) MERGER.—The Bank Insurance Fund and the Savings Association Insurance Fund shall be merged into the Deposit Insurance Fund.
+(2) DISPOSITION OF ASSETS AND LIABILITIES.—All assets and liabilities of the Bank Insurance Fund and the Savings Association Insurance Fund shall be transferred to the Deposit Insurance Fund.
+(3) NO SEPARATE EXISTENCE.—The separate existence of the Bank Insurance Fund and the Savings Association Insurance Fund shall cease on the effective date of the merger thereof under this section.
+(b) REPEAL OF OUTDATED MERGER PROVISION.—Section 2704 of the Deposit Insurance Funds Act of 1996 (12 U.S.C. 1821 note) is repealed.
+(c) EFFECTIVE DATE.—This section shall take effect no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning on the date of the enactment of this Act.
+SEC. 2103. INCREASE IN DEPOSIT INSURANCE COVERAGE.
+(a) IN GENERAL.—Section 11(a)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1821(a)(1)) is amended—
+120 STAT. 10          PUBLIC LAW 109-171—FEB. 8, 2006
+
+                              (1) by striking subparagraph (B) and inserting the following new subparagraph:
+Deadlines.
+“(B) NET AMOUNT OF INSURED DEPOSIT.—The net amount due to any depositor at an insured depository institution shall not exceed the standard maximum deposit insurance amount as determined in accordance with subparagraphs (C), (D), (E) and (F) and paragraph (3); and
+(2) by adding at the end the following new subparagraphs:
+“(E) STANDARD MAXIMUM DEPOSIT INSURANCE AMOUNT
+DEFINED.—For purposes of this Act, the term ‘standard maximum deposit insurance amount’ means $100,000, adjusted as provided under subparagraph (F) after March 31, 2010.
+“(F) INFLATION ADJUSTMENT.—
+“(i) IN GENERAL.—By April 1 of 2010, and the 1st day of each subsequent 5-year period, the Board of Directors and the National Credit Union Administra-tion Board shall jointly consider the factors set forth under clause (v), and, upon determining that an infla-tion adjustment is appropriate, shall jointly prescribe the amount by which the standard maximum deposit insurance amount and the standard maximum share insurance amount (as defined in section 207(k) of the Federal Credit Union Act) applicable to any depositor at an insured depository institution shall be increased by calculating the product of—
+“(I) $100,000; and
+“(II) the ratio of the published annual value of the Personal Consumption Expenditures Chain-Type Price Index (or any successor index thereto), published by the Department of Commerce, for the calendar year preceding the year in which the adjustment is calculated under this clause, to the published annual value of such index for the calendar year preceding the date this subpara-graph takes effect under the Federal Deposit Insurance Reform Act of 2005.
+The values used in the calculation under subclause (II) shall be, as of the date of the calculation, the values most recently published by the Department of Commerce.
+“(ii) ROUNDING.—If the amount determined under clause (ii) for any period is not a multiple of $10,000, the amount so determined shall be rounded down to the nearest $10,000.
+“(iii) PUBLICATION AND REPORT TO THE CON-GRESS.—Not later than April 5 of any calendar year in which an adjustment is required to be calculated under clause (i) to the standard maximum deposit insurance amount and the standard maximum share insurance amount under such clause, the Board of Directors and the National Credit Union Administra-tion Board shall—
+Federal Register,
+publication.
+“(I) publish in the Federal Register the standard maximum deposit insurance amount, the standard maximum share insurance amount, and the amount of coverage under paragraph (3)(A)
+PUBLIC LAW 109–171—FEB. 8, 2006
+120 STAT. 11
+
+and section 207(k)(3) of the Federal Credit Union 
+    Act, as calculated; and
+ ‘‘(II) jointly submit a report to the Congress 
+    containing the amounts described in subclause (I).
+ ‘‘(iv) 6-MONTH IMPLEMENTATION PERIOD.—Unless 
+an Act of Congress enacted before July 1 of the cal-
+endar year in which an adjustment is required to be 
+calculated under clause (i) provides otherwise, the 
+increase in the standard maximum deposit insurance 
+amount and the standard maximum share insurance 
+amount shall take effect on January 1 of the year 
+immediately succeeding such calendar year.
+ ‘‘(v) INFLATION ADJUSTMENT CONSIDERATION.—In
+making any determination under clause (i) to increase 
+the standard maximum deposit insurance amount and 
+the standard maximum share insurance amount, the 
+Board of Directors and the National Credit Union 
+Administration Board shall jointly consider—
+ ‘‘(I) the overall state of the Deposit Insurance 
+    Fund and the economic conditions affecting 
+    insured depository institutions;
+ ‘‘(II) potential problems affecting insured 
+    depository institutions; or
+ ‘‘(III) whether the increase will cause the 
+    reserve ratio of the fund to fall below 1.15 percent 
+    of estimated insured deposits.’’.
+(b) COVERAGE FOR CERTAIN EMPLOYEE BENEFIT PLAN 
+DEPOSITS.—Section 11(a)(1)(D) of the Federal Deposit Insurance 
+Act (12 U.S.C. 1821(a)(1)(D)) is amended to read as follows:
+ ‘‘(D) COVERAGE FOR CERTAIN EMPLOYEE BENEFIT 
+    DEPOSITS.—
+ ‘‘(i) PASS-THROUGH INSURANCE.—The Corporation 
+shall provide pass-through deposit insurance for the 
+deposits of any employee benefit plan.
+ ‘‘(ii) PROHIBITION ON ACCEPTANCE OF BENEFIT PLAN 
+DEPOSITS.—An insured depository institution that is 
+not well capitalized or adequately capitalized may not 
+accept employee benefit plan deposits.
+ ‘‘(iii) DEFINITIONS.—For purposes of this subpara-
+graph, the following definitions shall apply:
+ ‘‘(I) CAPITAL STANDARDS.—The terms ‘well 
+    capitalized’ and ‘adequately capitalized’ have the 
+    same meanings as in section 38.
+ ‘‘(II) EMPLOYEE BENEFIT PLAN.—The term 
+    ‘employee benefit plan’ has the same meaning as 
+    in paragraph (5)(B)(ii), and includes any eligible 
+    deferred compensation plan described in section 
+    457 of the Internal Revenue Code of 1986.
+ ‘‘(III) PASS-THROUGH DEPOSIT INSURANCE.—
+    The term ‘pass-through deposit insurance’ means,
+    with respect to an employee benefit plan, deposit 
+    insurance coverage based on the interest of each 
+    participant, in accordance with regulations issued 
+    by the Corporation.’’.
+(c) INCREASED AMOUNT OF DEPOSIT INSURANCE FOR CERTAIN 
+RETIREMENT ACCOUNTS.—Section 11(a)(3)(A) of the Federal Deposit 
+Insurance Act (12 U.S.C. 1821(a)(3)(A)) is amended by striking
+120 STAT. 12				                PUBLIC LAW 109–171—FEB. 8, 2006
+			
+“$100,000” and inserting “$250,000 (which amount shall be subject to inflation adjustments as provided in paragraph (1)(F), except that $250,000 shall be substituted for $100,000 wherever such term appears in such paragraph)”.
+
+(d) EFFECTIVE DATE.—This section and the amendments made by this section shall take effect on the date the final regulations required under section 9(a)(2) take effect.
+
+                        SEC. 2104. SETTING ASSESSMENTS AND REPEAL OF SPECIAL RULES
+                                              RELATING TO MINIMUM ASSESSMENTS AND FREE
+			                                       DEPOSIT INSURANCE.
+
+(a) SETTING ASSESSMENTS.—Section 7(b)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(2)) is amended—
+(1) by striking subparagraphs (A) and (B) and inserting the following new subparagraphs:
+“(A) IN GENERAL.—The Board of Directors shall set assessments for insured depository institutions in such amounts as the Board of Directors may determine to be necessary or appropriate, subject to subparagraph (D).
+“(B) FACTORS TO BE CONSIDERED.—In setting assessments under subparagraph (A), the Board of Directors shall consider the following factors:
+ “(i) The estimated operating expenses of the Deposit Insurance Fund.
+ “(ii) The estimated case resolution expenses and income of the Deposit Insurance Fund.
+ “(iii) The projected effects of the payment of assessments on the capital and earnings of insured depository institutions.
+ “(iv) The risk factors and other factors taken into account pursuant to paragraph (1) under the risk-based assessment system, including the requirement under such paragraph to maintain a risk-based system.
+ “(v) Any other factors the Board of Directors may determine to be appropriate.”; and
+ (2) by inserting after subparagraph (C) the following new subparagraph:
+“(D) NO DISCRIMINATION BASED ON SIZE.—No insured depository institution shall be barred from the lowest-risk category solely because of size.”.
+(b) ASSESSMENT RECORDKEEPING PERIOD SHORTENED.—Paragraph (5) of section 7(b) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)) is amended to read as follows:
+“(5) DEPOSITORY INSTITUTION REQUIRED TO MAINTAIN ASSESSMENT-RELATED RECORDS.—Each insured depository institution shall maintain all records that the Corporation may require for verifying the correctness of any assessment on the insured depository institution under this subsection until the later of—
+ “(A) the end of the 3-year period beginning on the due date of the assessment; or
+ “(B) in the case of a dispute between the insured depository institution and the Corporation with respect to such assessment, the date of a final determination of any such dispute.”.
+PUBLIC LAW 109–171—FEB. 8, 2006                 120 STAT. 13
+
+(c) INCREASE IN FEES FOR LATE ASSESSMENT PAYMENTS.—Subsection (h) of section 18 of the Federal Deposit Insurance Act (12 U.S.C. 1828(h)) is amended to read as follows:
+    ‘‘(h) PENALTY FOR FAILURE TO TIMELY PAY ASSESSMENTS.—
+        ‘‘(1) IN GENERAL.—Subject to paragraph (3), any insured depository institution which fails or refuses to pay any assessment shall be subject to a penalty in an amount of not more than 1 percent of the amount of the assessment due for each day that such violation continues.
+        ‘‘(2) EXCEPTION IN CASE OF DISPUTE.—Paragraph (1) shall not apply if—
+            ‘‘(A) the failure to pay an assessment is due to a dispute between the insured depository institution and the Corporation over the amount of such assessment; and
+            ‘‘(B) the insured depository institution deposits security satisfactory to the Corporation for payment upon final determination of the issue.
+        ‘‘(3) SPECIAL RULE FOR SMALL ASSESSMENT AMOUNTS.—If the amount of the assessment which an insured depository institution fails or refuses to pay is less than $10,000 at the time of such failure or refusal, the amount of any penalty to which such institution is subject under paragraph (1) shall not exceed $100 for each day that such violation continues.
+        ‘‘(4) AUTHORITY TO MODIFY OR REMIT PENALTY.—The Corporation, in the sole discretion of the Corporation, may compromise, modify or remit any penalty which the Corporation may assess or has already assessed under paragraph (1) upon a finding that good cause prevented the timely payment of an assessment.’’.
+
+(d) STATUTE OF LIMITATIONS FOR ASSESSMENT ACTIONS.—Subsection (g) of section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817(g)) is amended to read as follows:
+    ‘‘(g) ASSESSMENT ACTIONS.—
+        ‘‘(1) IN GENERAL.—The Corporation, in any court of competent jurisdiction, shall be entitled to recover from any insured depository institution the amount of any unpaid assessment lawfully payable by such insured depository institution.
+        ‘‘(2) STATUTE OF LIMITATIONS.—The following provisions shall apply to actions relating to assessments, notwithstanding any other provision in Federal law, or the law of any State:
+            ‘‘(A) Any action by an insured depository institution to recover from the Corporation the overpaid amount of any assessment shall be brought within 3 years after the date the assessment payment was due, subject to the exception in subparagraph (E).
+            ‘‘(B) Any action by the Corporation to recover from an insured depository institution the underpaid amount of any assessment shall be brought within 3 years after the date the assessment payment was due, subject to the exceptions in subparagraphs (C) and (E).
+            ‘‘(C) If an insured depository institution has made a false or fraudulent statement with intent to evade any or all of its assessment, the Corporation shall have until 3 years after the date of discovery of the false or fraudulent statement in which to bring an action to recover the underpaid amount.
+120 STAT. 14                  PUBLIC LAW 109–171—FEB. 8, 2006
+
+“(D) Except as provided in subparagraph (C), assessment deposit information contained in records no longer required to be maintained pursuant to subsection (b)(4) shall be considered conclusive and not subject to change.
+
+“(E) Any action for the underpaid or overpaid amount of any assessment that became due before the amendment to this subsection under the Federal Deposit Insurance Reform Act of 2005 took effect shall be subject to the statute of limitations for assessments in effect at the time the assessment became due.”.
+
+12 USC 1817
+note.
+
+(e) EFFECTIVE DATE.—This section and the amendments made by this section shall take effect on the date that the final regulations required under section 9(a)(5) take effect.
+
+SEC. 2105. REPLACEMENT OF FIXED DESIGNATED RESERVE RATIO 
+WITH RESERVE RANGE.
+
+(a) IN GENERAL.—Section 7(b)(3) of the Federal Deposit Insurance Act (12 U.S.C. 1817(b)(3)) is amended to read as follows:
+“(3) DESIGNATED RESERVE RATIO.—
+“(A) ESTABLISHMENT.—
+“(i) IN GENERAL.—Before the beginning of each calendar year, the Board of Directors shall designate the reserve ratio applicable with respect to the Deposit Insurance Fund and publish the reserve ratio so designated.
+“(ii) RULEMAKING REQUIREMENT.—Any change to the designated reserve ratio shall be made by the Board of Directors by regulation after notice and opportunity for comment.
+
+“(B) RANGE.—The reserve ratio designated by the Board of Directors for any year—
+“(i) may not exceed 1.5 percent of estimated insured deposits; and
+“(ii) may not be less than 1.15 percent of estimated insured deposits.
+
+“(C) FACTORS.—In designating a reserve ratio for any year, the Board of Directors shall—
+“(i) take into account the risk of losses to the Deposit Insurance Fund in such year and future years, including historic experience and potential and estimated losses from insured depository institutions;
+“(ii) take into account economic conditions generally affecting insured depository institutions so as to allow the designated reserve ratio to increase during more favorable economic conditions and to decrease during less favorable economic conditions, notwithstanding the increased risks of loss that may exist during such less favorable conditions, as determined to be appropriate by the Board of Directors;
+“(iii) seek to prevent sharp swings in the assessment rates for insured depository institutions; and
+“(iv) take into account such other factors as the Board of Directors may determine to be appropriate, consistent with the requirements of this subparagraph.
+
+“(D) PUBLICATION OF PROPOSED CHANGE IN RATIO.—In soliciting comment on any proposed change in the designated reserve ratio in accordance with subparagraph (A),
+PUBLIC LAW 109–171—FEB. 8, 2006
+
+the Board of Directors shall include in the published proposal a thorough analysis of the data and projections onwhich the proposal is based.”.
+(b) EFFECTIVE DATE.—This section and the amendments madeby this section shall take effect on the date that the final regulations required under section 9(a)(1) take effect.
+
+SEC. 2106. REQUIREMENTS APPLICABLE TO THE RISK-BASED ASSESS-MENT SYSTEM.
+Section 7(b)(1) of the Federal Deposit Insurance Act (12 U.S.C.1817(b)(1)) is amended by adding at the end the following newsubparagraphs:
+“(E) INFORMATION CONCERNING RISK OF LOSS AND ECO-NOMIC CONDITIONS.—
+“(i) SOURCES OF INFORMATION.—For purposes of determining risk of losses at insured depository institutions and economic conditions generally affecting depository institutions, the Corporation shall collect information, as appropriate, from all sources the Board of Directors considers appropriate, such as reports of condition, inspection reports, and other information from all Federal banking agencies, any information available from State bank supervisors, State insurance and securities regulators, the Securities and Exchange Commission (including information described in section35), the Secretary of the Treasury, the Commodity Futures Trading Commission, the Farm Credit Administration, the Federal Trade Commission, any Federal reserve bank or Federal home loan bank, and other regulators of financial institutions, and any information available from credit rating entities, and other private economic or business analysts.
+“(ii) CONSULTATION WITH FEDERAL BANKING AGENCIES.—
+“(I) IN GENERAL.—Except as provided in sub-clause (II), in assessing the risk of loss to the Deposit Insurance Fund with respect to any insured depository institution, the Corporation shall consult with the appropriate Federal banking agency of such institution.
+“(II) TREATMENT ON AGGREGATE BASIS.—In the case of insured depository institutions that are well capitalized (as defined in section 38) and, in the most recent examination, were found to be well managed, the consultation under subclause (I) concerning the assessment of the risk of loss posed by such institutions may be made on an aggregate basis.
+“(iii) RULE OF CONSTRUCTION.—No provision of this paragraph shall be construed as providing any new authority for the Corporation to require submission of information by insured depository institutions to the Corporation.
+“(F) MODIFICATIONS TO THE RISK-BASED ASSESSMENT SYSTEM ALLOWED ONLY AFTER NOTICE AND COMMENT.—In revising or modifying the risk-based assessment system at any time after the date of the enactment of the Federal
+120 STAT. 16             PUBLIC LAW 109-171—FEB. 8, 2006
+
+Deposit Insurance Reform Act of 2005, the Board of Directors may implement such revisions or modification in final form only after notice and opportunity for comment.”.
+
+SEC. 2107. REFUNDS, DIVIDENDS, AND CREDITS FROM DEPOSIT INSURANCE FUND.
+
+(a) IN GENERAL.—Subsection (e) of section 7 of the Federal Deposit Insurance Act (12 U.S.C. 1817(1)) is amended to read as follows:
+    “(e) REFUNDS, DIVIDENDS, AND CREDITS.—
+        “(1) REFUNDS OF OVERPAYMENTS.—In the case of any payment of an assessment by an insured depository institution in excess of the amount due to the Corporation, the Corporation may—
+            “(A) refund the amount of the excess payment to the insured depository institution; or
+            “(B) credit such excess amount toward the payment of subsequent assessments until such credit is exhausted.
+        “(2) DIVIDENDS FROM EXCESS AMOUNTS IN DEPOSIT INSURANCE FUND.—
+            “(A) RESERVE RATIO IN EXCESS OF 1.5 PERCENT OF ESTIMATED INSURED DEPOSITS.—If, at the end of a calendar year, the reserve ratio of Deposit Insurance Fund exceeds 1.5 percent of estimated insured deposits, the Corporation shall declare the amount in the Fund in excess of the amount required to maintain the reserve ratio at 1.5 percent of estimated insured deposits as dividends to be paid to insured depository institutions.
+            “(B) RESERVE RATIO EQUAL TO OR IN EXCESS OF 1.35 PERCENT OF ESTIMATED INSURED DEPOSITS AND NOT MORE THAN 1.5 PERCENT.—If, at the end of a calendar year, the reserve ratio of the Deposit Insurance Fund equals or exceeds 1.35 percent of estimated insured deposits and is not more than 1.5 percent of such deposits, the Corporation shall declare the amount in the Fund that is equal to 50 percent of the amount in excess of the amount required to maintain the reserve ratio at 1.35 percent of estimated insured deposits as dividends to be paid to insured depository institutions.
+            “(C) BASIS FOR DISTRIBUTION OF DIVIDENDS.—
+                “(i) IN GENERAL.—Solely for the purposes of dividend distribution under this paragraph, the Corporation shall determine each insured depository institution’s relative contribution to the Deposit Insurance Fund (or any predecessor deposit insurance fund) for calculating such institution’s share of any dividend declared under the paragraph, taking into account the factors described in clause (ii).
+                (ii) FACTORS FOR DISTRIBUTION.—In implementing this paragraph in accordance with regulations, the Corporation shall take into account the following factors:
+                    (I) The ratio of the assessment base of an insured depository institution (including any predecessor) on December 31, 1996, to the assessment base of all eligible insured depository institutions on that date.
+PUBLIC LAW 109–171—FEB. 8, 2006
+
+120 STAT. 17
+
+“(II) The total amount of assessments paid on or after January 1, 1997, by an insured depository institution (including any predecessor) to the Deposit Insurance Fund (and any predecessor deposit insurance fund).
+“(III) That portion of assessments paid by an insured depository institution (including any predecessor) that reflects higher levels of risk assumed by such institution.
+“(IV) Such other factors as the Corporation may determine to be appropriate.
+“(D) NOTICE AND OPPORTUNITY FOR COMMENT.—The Corporation shall prescribe by regulation, after notice and opportunity for comment, the method for the calculation, declaration, and payment of dividends under this paragraph.
+“(E) LIMITATION.—The Board of Directors may suspend or limit dividends paid under subparagraph (B), if the Board determines in writing that—
+“(i) a significant risk of losses to the Deposit Insurance Fund exists over the next 1-year period; and
+“(ii) it is likely that such losses will be sufficiently high as to justify a finding by the Board that a higher reserve ratio should temporarily be allowed—
+“(I) to grow without requiring dividends under subparagraph (B); or
+“(II) to exceed the maximum amount established under subsection (b)(3)(B)(i).
+“(F) CONSIDERATIONS.—In making a determination under subparagraph (E), the Board shall consider—
+“(i) national and regional conditions and their impact on insured depository institutions;
+“(ii) potential problems affecting insured depository institutions or a specific group or type of depository institutions;
+“(iii) the degree to which the contingent liability of the Corporation for anticipated failures of insured institutions adequately addresses concerns over funding levels in the Deposit Insurance Fund; and
+“(iv) any other factors that the Board determines are appropriate.
+“(G) REVIEW OF DETERMINATION.—
+“(i) ANNUAL REVIEW.—A determination to suspend or limit dividends under subparagraph (E) shall be reviewed by the Board of Directors annually.
+“(ii) ACTION BY BOARD.—Based on each annual review under clause (i), the Board of Directors shall either renew or remove a determination to suspend or limit dividends under subparagraph (E), or shall make a new determination in accordance with this paragraph. Unless justified under the terms of the renewal or new determination, the Corporation shall be required to provide cash dividends under subparagraph (A) or (B), as appropriate.
+“(3) ONE-TIME CREDIT BASED ON TOTAL ASSESSMENT BASE AT YEAR-END 1996.—
+120 STAT. 18        PUBLIC LAW 109–171—FEB. 8, 2006
+
+“(A) IN GENERAL.—Before the end of the 270-day period beginning on the date of the enactment of the Federal Deposit Insurance Reform Act of 2005, the Board of Directors shall, by regulation after notice and opportunity for comment, provide for a credit to each eligible insured depository institution (or a successor insured depository institution), based on the assessment base of the institution on December 31, 1996, as compared to the combined aggregate assessment base of all eligible insured depository institutions, taking into account such factors as the Board of Directors may determine to be appropriate.
+“(B) CREDIT LIMIT.—The aggregate amount of credits available under subparagraph (A) to all eligible insured depository institutions shall equal the amount that the Corporation could collect if the Corporation imposed an assessment of 10.5 basis points on the combined assessment base of the Bank Insurance Fund and the Savings Associa- tion Insurance Funds as of December 31, 2001.
+“(C) ELIGIBLE INSURED DEPOSITORY INSTITUTION DEFINED.—For purposes of this paragraph, the term ‘eligible insured depository institution’ means any insured depository institution that—
+“(i) was in existence on December 31, 1996, and paid a deposit insurance assessment prior to that date; or
+“(ii) is a successor to any insured depository institution described in clause (i).
+“(D) APPLICATION OF CREDITS.—
+“(i) IN GENERAL.—Subject to clause (ii), the amount of a credit to any eligible insured depository institution under this paragraph shall be applied by the Corporation, subject to subsection (b)(3)(E), to the assessments imposed on such institution under subsection (b) that become due for assessment periods beginning after the effective date of regulations prescribed under subpara- graph (A).
+“(ii) TEMPORARY RESTRICTION ON USE OF CREDITS.— The amount of a credit to any eligible insured deposi- tory institution under this paragraph may not be applied to more than 90 percent of the assessments imposed on such institution under subsection (b) that become due for assessment periods beginning in fiscal years 2008, 2009, and 2010.
+“(iii) REGULATIONS.—The regulations prescribed under subparagraph (A) shall establish the qualifica- tions and procedures governing the application of assessment credits pursuant to clause (i).
+“(E) LIMITATION ON AMOUNT OF CREDIT FOR CERTAIN DEPOSITORY INSTITUTIONS.—In the case of an insured depository institution that exhibits financial, operational, or compliance weaknesses ranging from moderately severe to unsatisfactory, or is not adequately capitalized (as defined in section 38) at the beginning of an assessment period, the amount of any credit allowed under this para- graph against the assessment on that depository institution for such period may not exceed the amount calculated by applying to that depository institution the average
+PUBLIC LAW 109–171—FEB. 8, 2006
+
+120 STAT. 19
+
+assessment rate on all insured depository institutions for
+such assessment period.
+    ‘‘(F) SUCCESSOR DEFINED.—The Corporation shall
+define the term ‘successor’ for purposes of this paragraph,
+by regulation, and may consider any factors as the Board
+may deem appropriate.
+    ‘‘(4) ADMINISTRATIVE REVIEW.—
+        ‘‘(A) IN GENERAL.—The regulations prescribed under
+        paragraphs (2)(D) and (3) shall include provisions allowing
+        an insured depository institution a reasonable opportunity
+        to challenge administratively the amount of the credit or
+        dividend determined under paragraph (2) or (3) for such
+        institution.
+        ‘‘(B) ADMINISTRATIVE REVIEW.—Any review under
+        subparagraph (A) of any determination of the Corporation
+        under paragraph (2) or (3) shall be final and not subject
+        to judicial review.’’.
+    (b) DEFINITION OF RESERVE RATIO.—Section 3(y) of the Federal
+Deposit Insurance Act (12 U.S.C. 1813(y)) (as amended by section
+2105(b) of this subtitle) is amended by adding at the end the
+following new paragraph:
+           ‘‘(3) RESERVE RATIO.—The term ‘reserve ratio’, when used
+           with regard to the Deposit Insurance Fund other than in
+           connection with a reference to the designated reserve ratio,
+           means the ratio of the net worth of the Deposit Insurance
+           Fund to the value of the aggregate estimated insured deposits.’’.
+
+SEC. 2108. DEPOSIT INSURANCE FUND RESTORATION PLANS. 
+
+Section 7(b)(3) of the Federal Deposit Insurance Act (12 U.S.C.
+1817(b)(3)) (as amended by section 2105(a) of this subtitle) is
+amended by adding at the end the following new subparagraph:
+    ‘‘(E) DIF RESTORATION PLANS.—
+        ‘‘(i) IN GENERAL.—Whenever—
+            ‘‘(I) the Corporation projects that the reserve
+            ratio of the Deposit Insurance Fund will, within
+            6 months of such determination, fall below the
+            minimum amount specified in subparagraph (B)(ii)
+            for the designated reserve ratio; or
+            ‘‘(II) the reserve ratio of the Deposit Insurance
+            Fund actually falls below the minimum amount
+            specified in subparagraph (B)(ii) for the designated
+            reserve ratio without any determination under
+            subclause (I) having been made,
+        the Corporation shall establish and implement a
+        Deposit Insurance Fund restoration plan within 90
+        days that meets the requirements of clause (ii) and
+        such other conditions as the Corporation determines
+        to be appropriate.
+        ‘‘(ii) REQUIREMENTS OF RESTORATION PLAN.—A
+        Deposit Insurance Fund restoration plan meets the
+        requirements of this clause if the plan provides that
+        the reserve ratio of the Fund will meet or exceed
+        the minimum amount specified in subparagraph (B)(ii)
+        for the designated reserve ratio before the end of the
+        5-year period beginning upon the implementation of
+        the plan (or such longer period as the Corporation
+        Deadline.
+       
+120 STAT. 20
+
+PUBLIC LAW 109–171—FEB. 8, 2006
+
+may determine to be necessary due to extraordinary circumstances).
+‘‘(iii) RESTRICTION ON ASSESSMENT CREDITS.—As part of any restoration plan under this subparagraph, the Corporation may elect to restrict the application of assessment credits provided under subsection (e)(3) for any period that the plan is in effect.
+‘‘(iv) LIMITATION ON RESTRICTION.—Notwithstanding clause (iii), while any restoration plan under this subparagraph is in effect, the Corporation shall apply credits provided to an insured depository institution under subsection (e)(3) against any assessment imposed on the institution for any assessment period in an amount equal to the lesser of—
+‘‘(I) the amount of the assessment; or
+‘‘(II) the amount equal to 3 basis points of the institution’s assessment base.
+‘‘(v) TRANSPARENCY.—Not more than 30 days after the Corporation establishes and implements a restoration plan under clause (i), the Corporation shall publish in the Federal Register a detailed analysis of the factors considered and the basis for the actions taken with regard to the plan.’’.
+
+SEC. 2109. REGULATIONS REQUIRED.
+(a) IN GENERAL.—Not later than 270 days after the date of the enactment of this Act, the Board of Directors of the Federal Deposit Insurance Corporation shall prescribe final regulations, after notice and opportunity for comment—
+(1) designating the reserve ratio for the Deposit Insurance Fund in accordance with section 7(b)(3) of the Federal Deposit Insurance Act (as amended by section 2105 of this subtitle);
+(2) implementing increases in deposit insurance coverage in accordance with the amendments made by section 2103 of this subtitle;
+(3) implementing the dividend requirement under section 7(e)(2) of the Federal Deposit Insurance Act (as amended by section 2107 of this subtitle);
+(4) implementing the 1-time assessment credit to certain insured depository institutions in accordance with section 7(e)(3) of the Federal Deposit Insurance Act, as amended by section 2107 of this subtitle, including the qualifications and procedures under which the Corporation would apply assessment credits; and
+(5) providing for assessments under section 7(b) of the Federal Deposit Insurance Act, as amended by this subtitle.
+(b) TRANSITION PROVISIONS.—
+(1) CONTINUATION OF EXISTING ASSESSMENT REGULATIONS.— No provision of this subtitle or any amendment made by this subtitle shall be construed as affecting the authority of the Corporation to set or collect deposit insurance assessments pursuant to any regulations in effect before the effective date of the final regulations prescribed under subsection (a).
+(2) TREATMENT OF DIF MEMBERS UNDER EXISTING REGULATIONS.—As of the date of the merger of the Bank Insurance Fund and the Savings Association Insurance Fund pursuant
+PUBLIC LAW 109–171—FEB. 8, 2006
+
+120 STAT. 21
+
+to section 2102, the assessment regulations in effect imme- diately before the date of the enactment of this Act shall con- tinue to apply to all members of the Deposit Insurance Fund, until such regulations are modified by the Corporation, notwith- standing that such regulations may refer to ‘‘Bank Insurance Fund members’’ or ‘‘Savings Association Insurance Fund mem- bers’’.
+

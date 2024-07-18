@@ -12,7 +12,7 @@ parser.add_argument('-ending', '-e', type=str, help='End of filepath for CSV')
 args = parser.parse_args()
 
 # Default path and ending
-path = args.filepath if args.filepath else 'data/'
+path = args.filepath if args.filepath else 'data/missing/'
 
 print("Path:", path)
 
@@ -174,7 +174,7 @@ for rl in rules:
 df1 = pd.DataFrame(provisions_lst, columns=cols)
 
 folder_path = "script_1_output/"
-nms = folder_path + "public_laws_1" + ".csv"
+nms = folder_path + "public_laws_3" + ".csv"
 
 df1.to_csv(nms, index=False)
 
