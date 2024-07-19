@@ -12,7 +12,7 @@ parser.add_argument('-ending', '-e', type=str, help='End of filepath for CSV')
 args = parser.parse_args()
 
 # Default path and ending
-path = args.filepath if args.filepath else 'data/missing/'
+path = args.filepath if args.filepath else 'data/test/'
 
 print("Path:", path)
 
@@ -83,7 +83,7 @@ def entitlement(dep_dict, lemma_dict, tokentg_dict, strict_modals, entitlement_v
     return 1 if way1 or way2 or way3 else 0
 
 # Columns for DataFrame
-cols = ['law_name', 'length', 'obligation', 'constraint', 'permission', 'entitlement', 'agency_obligation', 'agency_constraint', 'agency_permission', 'agency_entitlement', 'entity_obligation', 'entity_constraint', 'entity_permission', 'entity_entitlement']
+cols = ['law_name', 'length', 'date', 'obligation', 'constraint', 'permission', 'entitlement', 'agency_obligation', 'agency_constraint', 'agency_permission', 'agency_entitlement', 'entity_obligation', 'entity_constraint', 'entity_permission', 'entity_entitlement']
 provisions_lst = []
 
 # Get list of files
@@ -164,7 +164,7 @@ for rl in rules:
     law_name = os.path.splitext(os.path.basename(rl))[0]
 
     provisions_lst.append([
-        law_name, doc_length, 
+        law_name, doc_length, date,
         sum(obligation_lst), sum(constraint_lst), sum(permission_lst), sum(entitlement_lst), 
         sum(agency_obligation_lst), sum(agency_constraint_lst), sum(agency_permission_lst), sum(agency_entitlement_lst), 
         sum(entity_obligation_lst), sum(entity_constraint_lst), sum(entity_permission_lst), sum(entity_entitlement_lst)
@@ -174,7 +174,7 @@ for rl in rules:
 df1 = pd.DataFrame(provisions_lst, columns=cols)
 
 folder_path = "script_1_output/"
-nms = folder_path + "public_laws_3" + ".csv"
+nms = folder_path + "public_laws_date_test" + ".csv"
 
 df1.to_csv(nms, index=False)
 
