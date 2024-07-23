@@ -20,7 +20,7 @@ for i, section in enumerate(sections):
 df = pd.DataFrame(data)
 
 # Load NLP
-nlp = spacy.load('en_core_web_lg')
+nlp = spacy.load("myenv/lib/python3.12/site-packages/en_core_web_sm/en_core_web_sm-3.7.1")
 
 # List the modals and verbs
 strict_modals = ['shall', 'must', 'will']

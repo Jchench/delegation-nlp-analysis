@@ -3,10 +3,10 @@ import pandas as pd
 import os
 
 # Define the directory containing the text files
-directory = "data/too_long/"
+directory = "data/CARES/"
 
 # Load NLP
-nlp = spacy.load('en_core_web_lg')
+nlp = spacy.load("myenv/lib/python3.12/site-packages/en_core_web_sm/en_core_web_sm-3.7.1")
 
 # List the modals and verbs
 strict_modals = ['shall', 'must', 'will']
@@ -196,4 +196,4 @@ for filename in os.listdir(directory):
 
 df1 = pd.DataFrame(all_provisions_lst, columns=cols)
 
-df1.to_csv("script_2_output/all_provisions_2.csv", index=False)
+df1.to_csv("script_2_output/all_provisions_3.csv", index=False)
